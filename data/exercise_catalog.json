@@ -35,7 +35,7 @@
     },
     {
       "id": "media_004d0341c40b57d75378",
-      "namePtBr": "Crucifixo De Cabo Mentirosa",
+      "namePtBr": "Crucifixo reto na polia deitado",
       "originalFilename": "Crucifixo de cabo mentirosa.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Crucifixo de cabo mentirosa.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Crucifixo%20de%20cabo%20mentirosa.gif",
@@ -45,15 +45,56 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        }
+        "cabo/polia",
+        "banco reto",
+        "peito",
+        "crucifixo",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Lying Cable Fly",
+      "aliases": [
+        "Crucifixo deitado no crossover",
+        "Crucifixo no cabo em banco reto"
+      ],
+      "description": "Adução horizontal dos ombros com cabos baixos, deitado em banco reto entre duas polias.",
+      "instructions": [
+        "Posicione o banco reto entre as polias baixas e segure uma manopla em cada mão.",
+        "Comece com braços abertos e cotovelos levemente flexionados.",
+        "Traga as mãos em arco acima da linha do peito.",
+        "Retorne devagar até alongamento confortável, sem perder o controle escapular."
+      ],
+      "primaryMuscles": [
+        "peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "cabo/polia",
+        "banco reto"
+      ],
+      "bodyRegion": [
+        "peito"
+      ],
+      "movementPattern": "adução horizontal do ombro",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado supino",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "transformar o arco em supino",
+        "estender ou travar demais os cotovelos",
+        "deixar os ombros avançarem"
+      ],
+      "safetyNotes": "Mantenha amplitude indolor e carga controlável, especialmente no ponto de alongamento.",
+      "confidence": "HIGH"
     },
     {
       "id": "media_006aaaa8382e13e34653",
@@ -1621,7 +1662,7 @@
     },
     {
       "id": "media_0633dc40622a1c89e716",
-      "namePtBr": "Superior Direito",
+      "namePtBr": "Uppercut de direita",
       "originalFilename": "Superior direito.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Superior direito.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Superior%20direito.gif",
@@ -1630,10 +1671,64 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "boxe",
+        "peso corporal",
+        "cardio",
+        "soco",
+        "core",
+        "casa"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Right Uppercut",
+      "aliases": [
+        "Upper direito",
+        "Gancho ascendente de direita"
+      ],
+      "description": "Golpe ascendente de boxe feito com a mão direita, integrando pernas, quadril, tronco e braço.",
+      "instructions": [
+        "Assuma guarda com a mão esquerda protegendo a face.",
+        "Flexione levemente os joelhos e mantenha o peso organizado na base.",
+        "Gire quadril e tronco enquanto a mão direita sobe em trajetória curta para a linha central.",
+        "Retorne à guarda antes do próximo golpe."
+      ],
+      "primaryMuscles": [
+        "deltoide anterior",
+        "peitoral maior",
+        "tríceps braquial"
+      ],
+      "secondaryMuscles": [
+        "oblíquos",
+        "quadríceps",
+        "panturrilhas"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegion": [
+        "ombros",
+        "braços",
+        "core",
+        "cardio"
+      ],
+      "movementPattern": "soco ascendente com rotação",
+      "exerciseType": "condicionamento",
+      "difficulty": "iniciante",
+      "laterality": "direita",
+      "position": "em pé",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "fazer arco amplo com o braço",
+        "baixar a mão contrária",
+        "inclinar-se excessivamente à frente"
+      ],
+      "safetyNotes": "Mantenha punho alinhado; para alvo ou saco, use técnica e proteção adequadas.",
+      "confidence": "HIGH"
     },
     {
       "id": "media_0663a599f8e0375d67b7",
@@ -2480,7 +2575,7 @@
     },
     {
       "id": "media_08a6bfe55d453c624fc7",
-      "namePtBr": "MáQuina Smith DeclíNio Supino",
+      "namePtBr": "Supino declinado no Smith",
       "originalFilename": "Máquina smith declínio supino.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Máquina smith declínio supino.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/M%C3%A1quina%20smith%20decl%C3%ADnio%20supino.gif",
@@ -2490,20 +2585,57 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "empurrar",
-          "label": "empurrar"
-        }
+        "máquina Smith",
+        "banco declinado",
+        "peito",
+        "supino",
+        "academia"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0753"
+      "sourceExerciseId": "0753",
+      "canonicalNameEn": "Smith Machine Decline Bench Press",
+      "aliases": [
+        "Supino declinado na máquina Smith"
+      ],
+      "description": "Supino em banco declinado sob a barra guiada da máquina Smith.",
+      "instructions": [
+        "Ajuste o banco declinado sob a barra e prenda os pés.",
+        "Segure a barra pouco além da largura dos ombros e destrave-a.",
+        "Desça de forma controlada até o peito inferior.",
+        "Empurre a barra na trajetória guiada, sem travar bruscamente os cotovelos."
+      ],
+      "primaryMuscles": [
+        "peitoral maior (porção esternocostal)"
+      ],
+      "secondaryMuscles": [
+        "tríceps braquial",
+        "deltoide anterior"
+      ],
+      "equipment": [
+        "máquina Smith",
+        "banco declinado",
+        "barra guiada"
+      ],
+      "bodyRegion": [
+        "peito",
+        "tríceps"
+      ],
+      "movementPattern": "empurrar horizontal declinado",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado declinado",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "posicionar a barra muito alta no peito",
+        "abrir excessivamente os cotovelos",
+        "não configurar travas de segurança"
+      ],
+      "safetyNotes": "Ajuste os limitadores da Smith antes de iniciar e mantenha pés presos ao banco.",
+      "confidence": "HIGH"
     },
     {
       "id": "media_08bc51618baa755d1eb0",
@@ -2565,7 +2697,7 @@
     },
     {
       "id": "media_094d9361de1ff3d5ebbc",
-      "namePtBr": "Bicicleta De MãOs",
+      "namePtBr": "Bicicleta ergométrica de braços",
       "originalFilename": "Bicicleta de mãos.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Bicicleta de mãos.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Bicicleta%20de%20m%C3%A3os.gif",
@@ -2574,10 +2706,61 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "matched_existing_exercise",
+      "tags": [
+        "cardio",
+        "cicloergômetro",
+        "braços",
+        "baixo impacto",
+        "academia"
+      ],
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "2139"
+      "sourceExerciseId": "2139",
+      "canonicalNameEn": "Arm Ergometer / Upper-Body Ergometer",
+      "aliases": [
+        "Bicicleta de braços",
+        "Cicloergômetro de membros superiores"
+      ],
+      "description": "Exercício cardiorrespiratório em cicloergômetro acionado pelas manivelas com os braços.",
+      "instructions": [
+        "Ajuste assento e manivelas para alcançar com ombros relaxados.",
+        "Segure as manoplas sem apertar excessivamente.",
+        "Gire de forma contínua mantendo tronco estável.",
+        "Ajuste a resistência e o ritmo conforme a prescrição."
+      ],
+      "primaryMuscles": [
+        "deltoides",
+        "peitoral maior",
+        "latíssimo do dorso"
+      ],
+      "secondaryMuscles": [
+        "bíceps braquial",
+        "tríceps braquial",
+        "antebraços"
+      ],
+      "equipment": [
+        "cicloergômetro de braços"
+      ],
+      "bodyRegion": [
+        "membros superiores",
+        "cardio"
+      ],
+      "movementPattern": "ciclagem de membros superiores",
+      "exerciseType": "cardiorrespiratório",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environment": [
+        "academia",
+        "clínica"
+      ],
+      "commonMistakes": [
+        "elevar os ombros",
+        "usar resistência incompatível com o condicionamento",
+        "inclinar demais o tronco"
+      ],
+      "safetyNotes": "Ajuste a carga gradualmente e siga prescrição profissional em contexto de reabilitação ou limitação cardiovascular.",
+      "confidence": "HIGH"
     },
     {
       "id": "media_09626abf43ce963b14d7",
@@ -4283,7 +4466,7 @@
     },
     {
       "id": "media_12ac4d5b2a0e64e06f1e",
-      "namePtBr": "AbduçãO De Quadril Por Cabo",
+      "namePtBr": "Abdução de quadril na polia",
       "originalFilename": "Abdução de quadril por cabo.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Abdução de quadril por cabo.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Abdu%C3%A7%C3%A3o%20de%20quadril%20por%20cabo.gif",
@@ -4293,19 +4476,63 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        }
+        "cabo/polia",
+        "tornozeleira",
+        "glúteos",
+        "abdução de quadril",
+        "unilateral",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Standing Cable Hip Abduction",
+      "aliases": [
+        "Abdução lateral na polia",
+        "Abdutora na polia"
+      ],
+      "description": "Afastamento lateral unilateral da perna contra o cabo baixo com tornozeleira.",
+      "instructions": [
+        "Prenda a tornozeleira ao cabo baixo e fique de lado para a máquina.",
+        "Segure a estrutura e estabilize tronco e pelve.",
+        "Leve a perna presa lateralmente, afastando-a do corpo.",
+        "Retorne devagar sem apoiar o pé entre repetições."
+      ],
+      "primaryMuscles": [
+        "glúteo médio",
+        "glúteo mínimo"
+      ],
+      "secondaryMuscles": [
+        "tensor da fáscia lata",
+        "glúteo máximo"
+      ],
+      "equipment": [
+        "cabo/polia",
+        "tornozeleira"
+      ],
+      "bodyRegion": [
+        "glúteos",
+        "quadril"
+      ],
+      "movementPattern": "abdução de quadril",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "inclinar o tronco",
+        "girar a pelve",
+        "usar impulso"
+      ],
+      "safetyNotes": "Mantenha amplitude que não gere compensação lombar e use apoio firme.",
+      "confidence": "HIGH"
     },
     {
       "id": "media_12c2a2cdbac36debf89c",
-      "namePtBr": "Supino De Grande AderêNcia",
+      "namePtBr": "Supino reto com barra pegada aberta",
       "originalFilename": "Supino de grande aderência.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Supino de grande aderência.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Supino%20de%20grande%20ader%C3%AAncia.gif",
@@ -4315,19 +4542,63 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "padrao_movimento",
-          "id": "empurrar",
-          "label": "empurrar"
-        }
+        "barra reta",
+        "banco reto",
+        "peito",
+        "supino",
+        "pegada aberta",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Wide-Grip Barbell Bench Press",
+      "aliases": [
+        "Supino reto pegada aberta"
+      ],
+      "description": "Supino reto com mãos mais afastadas que a largura dos ombros, usando barra livre.",
+      "instructions": [
+        "Deite-se no banco com pés firmes no solo e escápulas estabilizadas.",
+        "Segure a barra com pegada aberta, mas dentro de amplitude confortável.",
+        "Desça a barra controladamente à região média do peito.",
+        "Empurre de volta mantendo punhos alinhados e trajetória estável."
+      ],
+      "primaryMuscles": [
+        "peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "tríceps braquial",
+        "deltoide anterior",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "barra reta",
+        "banco reto",
+        "suporte de barra"
+      ],
+      "bodyRegion": [
+        "peito",
+        "tríceps"
+      ],
+      "movementPattern": "empurrar horizontal",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado supino",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "pegada excessivamente larga",
+        "quicar a barra no peito",
+        "perder retração escapular"
+      ],
+      "safetyNotes": "Pegada muito aberta aumenta estresse do ombro; use amplitude confortável e apoio/spotter quando necessário.",
+      "confidence": "HIGH"
     },
     {
       "id": "media_12dc8f2fd4d64b75b8b1",
-      "namePtBr": "ExtensãO De Perna úNica",
+      "namePtBr": "Cadeira extensora unilateral",
       "originalFilename": "Extensão de perna única.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Extensão de perna única.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Extens%C3%A3o%20de%20perna%20%C3%BAnica.gif",
@@ -4336,14 +4607,57 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "máquina",
+        "cadeira extensora",
+        "quadríceps",
+        "unilateral",
+        "extensão de joelho",
+        "academia"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Single-Leg Leg Extension",
+      "aliases": [
+        "Extensão unilateral de joelho na cadeira extensora"
+      ],
+      "description": "Extensão de um joelho por vez na máquina cadeira extensora.",
+      "instructions": [
+        "Ajuste o encosto e o rolo sobre a parte inferior da perna.",
+        "Mantenha quadril e costas apoiados no banco.",
+        "Estenda o joelho da perna de trabalho até a amplitude confortável.",
+        "Desça controladamente e repita antes de trocar o lado."
+      ],
+      "primaryMuscles": [
+        "quadríceps"
+      ],
+      "secondaryMuscles": [],
+      "equipment": [
+        "cadeira extensora"
+      ],
+      "bodyRegion": [
+        "quadríceps"
+      ],
+      "movementPattern": "extensão de joelho",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "unilateral",
+      "position": "sentado",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "usar impulso",
+        "elevar o quadril do banco",
+        "travar o joelho bruscamente"
+      ],
+      "safetyNotes": "Ajuste corretamente o eixo da máquina ao joelho e use carga sem dor anterior no joelho.",
+      "confidence": "HIGH"
     },
     {
       "id": "media_1381daa2371eba4994f9",
-      "namePtBr": "Unilateral Single Leg Bench Dips VariaçãO 3",
+      "namePtBr": "Tríceps francês unilateral sentado com halter",
       "originalFilename": "Unilateral single leg bench dips - Variação 3.gif",
       "relativePath": "gifs/tríceps/Unilateral single leg bench dips - Variação 3.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/tr%C3%ADceps/Unilateral%20single%20leg%20bench%20dips%20-%20Varia%C3%A7%C3%A3o%203.gif",
@@ -4353,15 +4667,58 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "bracos",
-          "label": "Bracos"
-        }
+        "halter",
+        "banco",
+        "tríceps",
+        "extensão acima da cabeça",
+        "unilateral",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Seated One-Arm Dumbbell Triceps Extension",
+      "aliases": [
+        "Extensão unilateral de tríceps sentado",
+        "Tríceps unilateral acima da cabeça"
+      ],
+      "description": "Extensão unilateral do cotovelo com halter, sentado, levando o peso atrás da cabeça e retornando acima dela.",
+      "instructions": [
+        "Sente-se com coluna neutra e segure o halter acima da cabeça.",
+        "Mantenha o braço próximo à cabeça e o cotovelo apontando para cima.",
+        "Flexione o cotovelo levando o halter atrás da cabeça.",
+        "Estenda o cotovelo de forma controlada para retornar."
+      ],
+      "primaryMuscles": [
+        "tríceps braquial (cabeça longa)"
+      ],
+      "secondaryMuscles": [
+        "ancôneo",
+        "deltoide"
+      ],
+      "equipment": [
+        "halter",
+        "banco com encosto"
+      ],
+      "bodyRegion": [
+        "tríceps"
+      ],
+      "movementPattern": "extensão de cotovelo",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "unilateral",
+      "position": "sentado",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "abrir excessivamente o cotovelo",
+        "arquear a lombar",
+        "usar carga que limita a amplitude"
+      ],
+      "safetyNotes": "O nome original do arquivo conflita com o GIF; a identificação segue o movimento visual. Mantenha amplitude indolor do ombro e cotovelo.",
+      "confidence": "HIGH"
     },
     {
       "id": "media_138976a003191ea57cdd",
