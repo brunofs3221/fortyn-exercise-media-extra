@@ -117,7 +117,7 @@
         "subir os ombros"
       ],
       "safetyNotes": "Use carga que permita tronco estável; interrompa se houver dor no ombro.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_007d483ef75d4f8d1686",
@@ -184,7 +184,7 @@
         "puxar com os braços"
       ],
       "safetyNotes": "Mantenha a coluna neutra e use carga progressiva; procure orientação se houver dor lombar.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_008b1c628a8553400460",
@@ -252,7 +252,7 @@
         "flexionar excessivamente o joelho de apoio"
       ],
       "safetyNotes": "Use apoio externo se o equilíbrio ainda não for seguro.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_00c0282487002d56ae88",
@@ -322,7 +322,7 @@
         "projetar a cabeça à frente"
       ],
       "safetyNotes": "Reduza a amplitude ou apoie os joelhos se não conseguir manter alinhamento sem dor nos punhos ou ombros.",
-      "confidence": "medium"
+      "confidence": "MEDIUM"
     },
     {
       "id": "media_00dc19505218d6bdd7af",
@@ -385,7 +385,7 @@
         "elevar os ombros"
       ],
       "safetyNotes": "Ajuste a carga para não compensar com a lombar; respeite amplitude confortável do ombro.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_010fa55019b633111f3f",
@@ -452,7 +452,7 @@
         "usar carga incompatível com a mobilidade"
       ],
       "safetyNotes": "Movimento avançado; comece sem carga ou com apoio se não houver controle em uma perna.",
-      "confidence": "medium"
+      "confidence": "MEDIUM"
     },
     {
       "id": "media_0171af930b5923a97fad",
@@ -519,7 +519,7 @@
         "perder o controle da barra"
       ],
       "safetyNotes": "Use suportes e carga compatível com equilíbrio; não force profundidade que provoque dor no joelho ou quadril.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_01bec319901abd9600f1",
@@ -582,7 +582,7 @@
         "deixar o ombro anteriorizar"
       ],
       "safetyNotes": "Controle o alongamento no ponto baixo e interrompa se ocorrer dor anterior no ombro.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_01d5b490f9b6cfaf4b1e",
@@ -648,7 +648,7 @@
         "ignorar dor persistente em pé ou joelho"
       ],
       "safetyNotes": "Use calçado e superfície adequados; adapte o ritmo às condições individuais.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_01d7455df44bf9211b8a",
@@ -710,7 +710,7 @@
         "perder a posição do ombro"
       ],
       "safetyNotes": "Use base estável e carga que permita não compensar com o tronco.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0227c6e50f6b9aeb5d1b",
@@ -776,7 +776,7 @@
         "deixar o cotovelo abrir sem controle"
       ],
       "safetyNotes": "Mantenha a carga leve o suficiente para preservar coluna neutra e ombro confortável.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_023991c951b11f9e43b3",
@@ -840,7 +840,7 @@
         "usar impulso"
       ],
       "safetyNotes": "Reduza a amplitude se houver compensação lombar; mantenha apoio seguro nas mãos.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_026655e8cc00bf1edc17",
@@ -906,7 +906,7 @@
         "encurtar repetidamente a amplitude sem intenção"
       ],
       "safetyNotes": "Use assistência se necessário e evite movimentos bruscos no ombro.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_027f142af60ea1b3571a",
@@ -966,7 +966,7 @@
         "descer rápido demais"
       ],
       "safetyNotes": "Mantenha os pés firmes na plataforma e não exceda amplitude que cause desconforto no tornozelo.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0287190e69b694f14213",
@@ -1031,7 +1031,7 @@
         "prender a respiração"
       ],
       "safetyNotes": "Reduza para prancha estática ou apoie joelhos se perder alinhamento.",
-      "confidence": "medium"
+      "confidence": "MEDIUM"
     },
     {
       "id": "media_02ef71c43439a1e4a024",
@@ -1097,7 +1097,7 @@
         "tratar a variação parcial como substituta obrigatória da amplitude completa"
       ],
       "safetyNotes": "Utilize esta variação somente com objetivo definido e sem dor no ombro; progrida para amplitude apropriada quando possível.",
-      "confidence": "medium"
+      "confidence": "MEDIUM"
     },
     {
       "id": "media_035853df63fba3d7de99",
@@ -1156,7 +1156,7 @@
         "quicar no ponto baixo"
       ],
       "safetyNotes": "Escolha carga que permita controle completo do tornozelo.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_03b364bea968093e78f0",
@@ -1223,7 +1223,7 @@
         "iniciar nova repetição sem estabilizar"
       ],
       "safetyNotes": "Exige área livre e tolerância a impacto; evite em caso de dor articular ou sem orientação profissional apropriada.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_03b705a72b0f9a3ebe6d",
@@ -1291,7 +1291,7 @@
         "perder equilíbrio"
       ],
       "safetyNotes": "A descrição original do arquivo conflita com o movimento visual; a identificação acima segue a sequência visual e requer segunda revisão.",
-      "confidence": "medium"
+      "confidence": "MEDIUM"
     },
     {
       "id": "media_03b9755779d3c5440a8b",
@@ -1355,7 +1355,7 @@
         "forçar acima da amplitude confortável"
       ],
       "safetyNotes": "Use pouca carga e mantenha a escápula controlada; não force dor no ombro.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_03e61dea448efa9198c6",
@@ -1417,7 +1417,7 @@
         "usar carga mal posicionada"
       ],
       "safetyNotes": "A carga deve estar estável; interrompa se houver desconforto no tendão de Aquiles ou tornozelo.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_047347a875a19dc57ee2",
@@ -1485,7 +1485,7 @@
         "perder controle na rotação externa"
       ],
       "safetyNotes": "Use carga leve e amplitude indolor; não é indicado para ombro irritado sem avaliação profissional.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_05e15f44903ff06ceaff",
@@ -1548,7 +1548,7 @@
         "usar amplitude dolorosa"
       ],
       "safetyNotes": "Controle a fase de alongamento e evite carga que traga o ombro excessivamente à frente.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_061e5ba3c3930736958f",
@@ -1617,7 +1617,7 @@
         "forçar profundidade sem controle do ombro"
       ],
       "safetyNotes": "Variação avançada; progrida a partir de flexões convencionais e use base mais ampla quando necessário.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0633dc40622a1c89e716",
@@ -1699,7 +1699,7 @@
         "executar rápido demais"
       ],
       "safetyNotes": "Aprenda sem carga ou com carga leve; interrompa se não conseguir manter o ombro estável.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0673631de2491887fe9c",
@@ -1761,7 +1761,7 @@
         "usar caixa alta demais"
       ],
       "safetyNotes": "Exige domínio de aterrissagem unilateral; não usar caixa instável.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_069205b8deab71863d87",
@@ -1823,7 +1823,7 @@
         "prender a respiração"
       ],
       "safetyNotes": "Use amplitude confortável; pessoas com dor lombar devem buscar orientação profissional.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_069490aef71bfee26e23",
@@ -1883,7 +1883,7 @@
         "elevar os ombros"
       ],
       "safetyNotes": "Mantenha a sensação de alongamento, não dor articular.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_06a74a3500e337d46268",
@@ -1944,7 +1944,7 @@
         "mover apenas a lombar"
       ],
       "safetyNotes": "Faça lentamente e em amplitude confortável.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_06eb797aba61b49a91ef",
@@ -2004,7 +2004,7 @@
         "girar demais o tronco"
       ],
       "safetyNotes": "Evite dor anterior no ombro e ajuste a altura do braço.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_075aed4bce982e87db50",
@@ -2065,7 +2065,7 @@
         "usar balanço do tronco"
       ],
       "safetyNotes": "Use amplitude sem pinçamento no ombro; reduza a altura dos cotovelos se houver desconforto.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0784b2cfbcbc27927699",
@@ -2124,7 +2124,7 @@
         "perder a depressão escapular"
       ],
       "safetyNotes": "Ajuste a assistência e mantenha amplitude confortável para os ombros.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_07da5f6fdfc7b5da19b2",
@@ -2184,7 +2184,7 @@
         "rodar o tronco"
       ],
       "safetyNotes": "A mídia é estática; confirmar a variante antes de publicar como exercício dinâmico.",
-      "confidence": "medium"
+      "confidence": "MEDIUM"
     },
     {
       "id": "media_07e6c47d16c3f6e3f7e0",
@@ -2244,7 +2244,7 @@
         "usar impulso"
       ],
       "safetyNotes": "Mantenha o pescoço neutro e reduza a amplitude se houver desconforto lombar.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0814ad01ce14be4d20be",
@@ -2302,7 +2302,7 @@
         "travar os cotovelos"
       ],
       "safetyNotes": "Ajuste o banco e use amplitude que mantenha o ombro confortável.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_08279b0479d5199ce0b0",
@@ -2364,7 +2364,7 @@
         "deixar a barra afastada do centro do corpo"
       ],
       "safetyNotes": "Mantenha o tronco firme e utilize carga compatível com controle.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0839112e00d4f6719204",
@@ -2422,7 +2422,7 @@
         "balançar as pernas"
       ],
       "safetyNotes": "Reduza a amplitude se não conseguir manter a lombar estável.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_086cebe84a251fe4c88f",
@@ -2476,7 +2476,7 @@
         "ajuste inadequado do rolo"
       ],
       "safetyNotes": "Ajuste a máquina ao seu corpo e use amplitude confortável para os joelhos.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_08a6bfe55d453c624fc7",
@@ -2561,7 +2561,7 @@
         "balançar o tronco"
       ],
       "safetyNotes": "Mantenha o ombro estável e escolha carga que permita controle completo.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_094d9361de1ff3d5ebbc",
@@ -2633,7 +2633,7 @@
         "flexionar demais os joelhos"
       ],
       "safetyNotes": "Use amplitude controlada e não solte os apoios durante a série.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0966f9e83c97f57726ea",
@@ -2691,7 +2691,7 @@
         "tirar a ponta dos pés da plataforma"
       ],
       "safetyNotes": "O joelho flexionado aumenta a ênfase no sóleo; mantenha controle em toda a amplitude.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_096aae1b6a146e36ec0d",
@@ -2754,7 +2754,7 @@
         "inclinar o tronco sem controle"
       ],
       "safetyNotes": "Comece com carga leve e mantenha o joelho acompanhando a direção do pé.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0aa1cbef88826c8faf1e",
@@ -2815,7 +2815,7 @@
         "arredondar sem controle"
       ],
       "safetyNotes": "Regredir para elevação de joelhos se a lombar não permanecer confortável.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0ac5c9d784c783160f44",
@@ -2874,7 +2874,7 @@
         "perder a linha dos punhos"
       ],
       "safetyNotes": "Mantenha carga moderada e tronco estável; não avance se houver dor no ombro.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0ad7f642d10f71b2f0dd",
@@ -2935,7 +2935,7 @@
         "perder o apoio das escápulas"
       ],
       "safetyNotes": "Use banco firme e carga que permita descida controlada.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0b8f566d689b143e2c02",
@@ -2996,7 +2996,7 @@
         "bater halteres no topo"
       ],
       "safetyNotes": "Mantenha o encosto ajustado e evite amplitude dolorosa.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0c2f5a06890bde3543b5",
@@ -3057,7 +3057,7 @@
         "deixar quadris muito afastados do banco"
       ],
       "safetyNotes": "Evite profundidade que cause desconforto anterior no ombro; bancos devem estar firmes.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0c91b5bf4cdfb16a0d36",
@@ -3117,7 +3117,7 @@
         "avançar o cotovelo"
       ],
       "safetyNotes": "Mantenha a carga controlada e o ombro neutro.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0d2817d24094af2721eb",
@@ -3174,7 +3174,7 @@
         "chutar a perna com impulso"
       ],
       "safetyNotes": "Mantenha a lombar neutra e a amplitude confortável.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0d389bd7d0b1d6a1e7f5",
@@ -3230,7 +3230,7 @@
         "movimento brusco"
       ],
       "safetyNotes": "Exercício de maior risco cervical: requer orientação profissional e não deve ser feito com dor, formigamento ou histórico cervical sem liberação clínica.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0d5e4d939eca8975cffc",
@@ -3288,7 +3288,7 @@
         "arredondar excessivamente a lombar"
       ],
       "safetyNotes": "Exige mobilidade e equilíbrio; use progressão assistida se não controlar a descida.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0e0efd578078ac0be267",
@@ -3308,7 +3308,7 @@
         "rotação"
       ],
       "identificationStatus": "curated",
-      "needsManualReview": false,
+      "needsManualReview": true,
       "sourceExerciseId": null,
       "aliases": [
         "crab twist touch"
@@ -3346,7 +3346,7 @@
         "torcer além do controle"
       ],
       "safetyNotes": "Interrompa em caso de dor no punho ou ombro.",
-      "confidence": "low"
+      "confidence": "LOW"
     },
     {
       "id": "media_0e2667140863733a4e38",
@@ -3407,7 +3407,7 @@
         "usar resistência incompatível"
       ],
       "safetyNotes": "Ajuste intensidade individualmente; interrompa diante de dor torácica, tontura ou sintomas incomuns.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0e43d7316b4955b28cd3",
@@ -3464,7 +3464,7 @@
         "perder a posição no banco"
       ],
       "safetyNotes": "Use carga leve a moderada e banco seguro; o movimento acima/atrás da cabeça pode irritar ombros ou cotovelos.",
-      "confidence": "medium"
+      "confidence": "MEDIUM"
     },
     {
       "id": "media_0e463aeb4158497e2760",
@@ -3521,7 +3521,7 @@
         "perder a bola"
       ],
       "safetyNotes": "Mantenha a amplitude confortável para a lombar e escolha bola de tamanho estável.",
-      "confidence": "medium"
+      "confidence": "MEDIUM"
     },
     {
       "id": "media_0e75df0d48644ddb1bba",
@@ -3578,7 +3578,7 @@
         "perder equilíbrio"
       ],
       "safetyNotes": "Use suporte/rack quando necessário e evite carga que comprometa o equilíbrio.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0ed092ea7050d420c5a4",
@@ -3638,7 +3638,7 @@
         "projetar a barra à frente"
       ],
       "safetyNotes": "Não force a barra atrás da nuca; use carga compatível com o controle do tronco.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0f1bbd4ee5650b3776bb",
@@ -3697,7 +3697,7 @@
         "passada excessivamente longa"
       ],
       "safetyNotes": "Comece em ritmo adequado e use o botão de parada de emergência quando disponível.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0f94dcbd29df44bcba5c",
@@ -3753,7 +3753,7 @@
         "dobrar punhos"
       ],
       "safetyNotes": "Mantenha carga leve o bastante para não compensar com o tronco.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0fa6a4086f89b6f9293a",
@@ -3811,7 +3811,7 @@
         "elevar os ombros"
       ],
       "safetyNotes": "Inspecione a faixa antes do uso e mantenha-a firmemente ancorada.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_0fafa9f029bf477acc49",
@@ -3868,7 +3868,7 @@
         "prender a respiração"
       ],
       "safetyNotes": "Não force se houver dor anterior no ombro ou formigamento.",
-      "confidence": "medium"
+      "confidence": "MEDIUM"
     },
     {
       "id": "media_1070a81e5b6958fb1ad9",
@@ -3927,7 +3927,7 @@
         "perder controle da bola"
       ],
       "safetyNotes": "Use uma bola apropriada e superfície que não deslize; reduza amplitude se houver cãibra ou dor lombar.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_107c9a3e32712c782ed3",
@@ -3985,7 +3985,7 @@
         "puxar só com o braço"
       ],
       "safetyNotes": "Mantenha o joelho apoiado e a carga compatível com a estabilidade do tronco.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_1126903b26ae141622ea",
@@ -4042,7 +4042,7 @@
         "tirar as costas do encosto"
       ],
       "safetyNotes": "Ajuste o assento e limite amplitude caso o ombro incomode.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_114ed0df771f7ff05af6",
@@ -4100,7 +4100,7 @@
         "hiperestender a lombar"
       ],
       "safetyNotes": "Mantenha a pelve nivelada; use faixa leve se perder o alinhamento.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_118ff8b2ba6ba026f180",
@@ -4160,7 +4160,7 @@
         "usar banco instável"
       ],
       "safetyNotes": "Use banco firme e altura que permita controle; a barra aumenta a demanda de equilíbrio.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_11ec0c5a19f04fad3adb",
@@ -4220,7 +4220,7 @@
         "balançar o tronco"
       ],
       "safetyNotes": "Mantenha os joelhos flexionados se necessário para preservar a posição lombar.",
-      "confidence": "medium"
+      "confidence": "MEDIUM"
     },
     {
       "id": "media_123d87b625e01bafaffe",
@@ -4279,7 +4279,7 @@
         "aumentar ritmo sem controle"
       ],
       "safetyNotes": "Comece devagar e use superfície firme; reduza impacto se houver desconforto em joelhos ou tornozelos.",
-      "confidence": "high"
+      "confidence": "HIGH"
     },
     {
       "id": "media_12ac4d5b2a0e64e06f1e",

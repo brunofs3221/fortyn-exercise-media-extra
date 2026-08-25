@@ -2,10 +2,10 @@
   "totalMedia": 1142,
   "processed": 69,
   "remaining": 1073,
-  "highConfidence": 1,
-  "mediumConfidence": 0,
-  "lowConfidence": 68,
-  "manualReview": 68,
+  "highConfidence": 58,
+  "mediumConfidence": 10,
+  "lowConfidence": 1,
+  "manualReview": 1,
   "animatedProcessed": 69,
   "staticProcessed": 0,
   "currentBatch": 4,
@@ -83,5 +83,5 @@
     "media_123d87b625e01bafaffe"
   ],
   "status": "in_progress",
-  "updatedAt": "2026-08-25T23:23:02.837Z"
+  "updatedAt": "2026-08-25T23:23:26.768Z"
 }
