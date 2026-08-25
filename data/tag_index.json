@@ -1,5 +1,10 @@
 [
   {
+    "dimension": "musculo",
+    "id": "deltoide_posterior",
+    "label": "Deltoide posterior"
+  },
+  {
     "dimension": "equipamento",
     "id": "cabo_polia",
     "label": "cabo polia"

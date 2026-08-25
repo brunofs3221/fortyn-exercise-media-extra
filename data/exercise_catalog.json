@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-08-25T12:21:06.893Z",
+  "generatedAt": "2026-08-25T17:17:22.548Z",
   "count": 1142,
   "animated": 1114,
   "static": 28,
@@ -8,7 +8,7 @@
   "exercises": [
     {
       "id": "media_00291dd66ebf0d854707",
-      "namePtBr": "Cabo Traseiro Delt Crucifixo",
+      "namePtBr": "Crucifixo inverso na polia",
       "originalFilename": "Cabo traseiro delt fly.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Cabo traseiro delt fly.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Cabo%20traseiro%20delt%20fly.gif",
@@ -18,6 +18,11 @@
       "height": 360,
       "animated": true,
       "tags": [
+        {
+          "dimension": "musculo",
+          "id": "deltoide_posterior",
+          "label": "Deltoide posterior"
+        },
         {
           "dimension": "equipamento",
           "id": "cabo_polia",
@@ -1021,7 +1026,7 @@
     },
     {
       "id": "media_08279b0479d5199ce0b0",
-      "namePtBr": "Cabo Traseiro Delt Crucifixo",
+      "namePtBr": "Crucifixo inverso na polia",
       "originalFilename": "Cabo traseiro delt fly.gif",
       "relativePath": "gifs/ombros/Cabo traseiro delt fly.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/ombros/Cabo%20traseiro%20delt%20fly.gif",
@@ -1035,6 +1040,11 @@
           "dimension": "regiao_corporal",
           "id": "ombros",
           "label": "Ombros"
+        },
+        {
+          "dimension": "musculo",
+          "id": "deltoide_posterior",
+          "label": "Deltoide posterior"
         },
         {
           "dimension": "equipamento",
@@ -1978,6 +1988,11 @@
       "height": 360,
       "animated": true,
       "tags": [
+        {
+          "dimension": "musculo",
+          "id": "deltoide_posterior",
+          "label": "Deltoide posterior"
+        },
         {
           "dimension": "equipamento",
           "id": "cabo_polia",
@@ -19834,6 +19849,11 @@
       "animated": true,
       "tags": [
         {
+          "dimension": "musculo",
+          "id": "deltoide_posterior",
+          "label": "Deltoide posterior"
+        },
+        {
           "dimension": "equipamento",
           "id": "cabo_polia",
           "label": "cabo polia"
@@ -27734,6 +27754,11 @@
       "height": 360,
       "animated": true,
       "tags": [
+        {
+          "dimension": "musculo",
+          "id": "deltoide_posterior",
+          "label": "Deltoide posterior"
+        },
         {
           "dimension": "equipamento",
           "id": "halteres",
