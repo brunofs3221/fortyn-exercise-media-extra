@@ -20,7 +20,7 @@ const received = [];
 for (const worker of manifest.workers) {
   const raw = read(worker.output);
   const results = raw.results ?? [];
-  if (raw.status !== 'completed') throw new Error(`${worker.workerId} is not completed`);
+  if (!['completed', 'complete'].includes(raw.status)) throw new Error(`${worker.workerId} is not completed`);
   if (new Set(raw.processedMediaIds ?? []).size !== worker.mediaIds.length || worker.mediaIds.some((id) => !(raw.processedMediaIds ?? []).includes(id))) throw new Error(`${worker.workerId} did not return all assigned IDs`);
   if (results.length !== worker.mediaIds.length) throw new Error(`${worker.workerId} result count mismatch`);
   for (const item of results) {
