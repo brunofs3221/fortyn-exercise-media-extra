@@ -57,7 +57,7 @@
     },
     {
       "id": "media_006aaaa8382e13e34653",
-      "namePtBr": "ElevaçãO Frontal Com Halteres Sentado",
+      "namePtBr": "Elevação frontal sentada com halteres",
       "originalFilename": "Elevação frontal com halteres sentado.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Elevação frontal com halteres sentado.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Eleva%C3%A7%C3%A3o%20frontal%20com%20halteres%20sentado.gif",
@@ -67,24 +67,61 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "halteres",
+        "banco",
+        "ombros",
+        "empurrar",
+        "sentado",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Seated Dumbbell Front Raise",
+      "aliases": [
+        "Elevação frontal com halteres sentado"
+      ],
+      "description": "Elevação bilateral dos halteres à frente do corpo, sentado em banco.",
+      "instructions": [
+        "Sente-se ereto com halteres ao lado das coxas.",
+        "Mantenha cotovelos levemente flexionados.",
+        "Eleve os halteres à frente até a altura dos ombros.",
+        "Desça com controle sem balançar o tronco."
+      ],
+      "primaryMuscles": [
+        "deltoide anterior"
+      ],
+      "secondaryMuscles": [
+        "peitoral maior (porção clavicular)",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "halteres",
+        "banco"
+      ],
+      "bodyRegion": [
+        "ombros"
+      ],
+      "movementPattern": "flexão de ombro",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "elevar acima do confortável compensando com a lombar",
+        "usar impulso",
+        "subir os ombros"
+      ],
+      "safetyNotes": "Use carga que permita tronco estável; interrompa se houver dor no ombro.",
+      "confidence": "high"
     },
     {
       "id": "media_007d483ef75d4f8d1686",
-      "namePtBr": "Levantamento Terra Com Kettlebell",
+      "namePtBr": "Levantamento terra com kettlebell",
       "originalFilename": "Levantamento terra com kettlebell.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Levantamento terra com kettlebell.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Levantamento%20terra%20com%20kettlebell.gif",
@@ -94,29 +131,64 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "kettlebell",
-          "label": "kettlebell"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "hinge",
-          "label": "hinge"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "kettlebell",
+        "levantamento terra",
+        "dobradiça de quadril",
+        "glúteos",
+        "posterior de coxa",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Kettlebell Deadlift",
+      "aliases": [
+        "Terra com kettlebell"
+      ],
+      "description": "Padrão de dobradiça do quadril para erguer o kettlebell do chão até a extensão do corpo.",
+      "instructions": [
+        "Posicione o kettlebell entre os pés.",
+        "Leve o quadril para trás e segure a alça com as duas mãos.",
+        "Empurre o solo e estenda joelhos e quadris.",
+        "Retorne levando o quadril para trás e mantendo a carga próxima."
+      ],
+      "primaryMuscles": [
+        "glúteo máximo",
+        "isquiotibiais"
+      ],
+      "secondaryMuscles": [
+        "quadríceps",
+        "eretores da espinha",
+        "antebraços"
+      ],
+      "equipment": [
+        "kettlebell"
+      ],
+      "bodyRegion": [
+        "glúteos",
+        "posterior de coxa",
+        "costas"
+      ],
+      "movementPattern": "dobradiça de quadril",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "arredondar a lombar",
+        "transformar o movimento em agachamento profundo",
+        "puxar com os braços"
+      ],
+      "safetyNotes": "Mantenha a coluna neutra e use carga progressiva; procure orientação se houver dor lombar.",
+      "confidence": "high"
     },
     {
       "id": "media_008b1c628a8553400460",
-      "namePtBr": "Levantamento Terra De Perna úNica Com Peso Corporal",
+      "namePtBr": "Levantamento terra unilateral com peso corporal",
       "originalFilename": "Levantamento terra de perna única com peso corporal.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Levantamento terra de perna única com peso corporal.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Levantamento%20terra%20de%20perna%20%C3%BAnica%20com%20peso%20corporal.gif",
@@ -126,19 +198,65 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "padrao_movimento",
-          "id": "hinge",
-          "label": "hinge"
-        }
+        "peso corporal",
+        "unilateral",
+        "equilíbrio",
+        "dobradiça de quadril",
+        "glúteos",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Bodyweight Single-Leg Deadlift",
+      "aliases": [
+        "Stiff unilateral sem carga",
+        "Dobradiça unilateral sem carga"
+      ],
+      "description": "Dobradiça de quadril em apoio unipodal, com a perna livre estendida para trás.",
+      "instructions": [
+        "Fique em apoio em uma perna e contraia o abdômen.",
+        "Incline o tronco à frente enquanto a perna livre vai para trás.",
+        "Mantenha quadris alinhados e apoio estável.",
+        "Estenda o quadril para voltar à posição inicial."
+      ],
+      "primaryMuscles": [
+        "glúteo máximo",
+        "isquiotibiais"
+      ],
+      "secondaryMuscles": [
+        "glúteo médio",
+        "eretores da espinha",
+        "panturrilhas"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegion": [
+        "glúteos",
+        "posterior de coxa",
+        "core"
+      ],
+      "movementPattern": "dobradiça de quadril",
+      "exerciseType": "força e equilíbrio",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "abrir o quadril da perna livre",
+        "perder a coluna neutra",
+        "flexionar excessivamente o joelho de apoio"
+      ],
+      "safetyNotes": "Use apoio externo se o equilíbrio ainda não for seguro.",
+      "confidence": "high"
     },
     {
       "id": "media_00c0282487002d56ae88",
-      "namePtBr": "Chaturanga Dandasana Postura De Prancha Baixa",
+      "namePtBr": "Chaturanga Dandasana (prancha baixa)",
       "originalFilename": "Chaturanga dandasana postura de prancha baixa.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Chaturanga dandasana postura de prancha baixa.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Chaturanga%20dandasana%20postura%20de%20prancha%20baixa.gif",
@@ -148,39 +266,67 @@
       "height": 360,
       "animated": false,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "mobilidade_alongamento",
-          "label": "mobilidade alongamento"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        },
-        {
-          "dimension": "status",
-          "id": "imagem_estatica",
-          "label": "Imagem estática — sem animação"
-        }
+        "ioga",
+        "peso corporal",
+        "prancha",
+        "empurrar",
+        "core",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Chaturanga Dandasana / Low Plank",
+      "aliases": [
+        "Prancha baixa",
+        "Postura do bastão de quatro apoios"
+      ],
+      "description": "Postura de ioga em que o corpo fica alinhado próximo ao solo, sustentado por mãos e pontas dos pés.",
+      "instructions": [
+        "Parta da prancha alta com mãos sob os ombros.",
+        "Mantenha o corpo em linha e o abdômen ativo.",
+        "Flexione os cotovelos junto ao tronco até cerca de 90 graus.",
+        "Sustente ou transite sem deixar a lombar ceder."
+      ],
+      "primaryMuscles": [
+        "tríceps braquial",
+        "peitoral maior",
+        "deltoide anterior"
+      ],
+      "secondaryMuscles": [
+        "reto abdominal",
+        "serrátil anterior",
+        "quadríceps"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegion": [
+        "peito",
+        "tríceps",
+        "core",
+        "ombros"
+      ],
+      "movementPattern": "empurrar horizontal",
+      "exerciseType": "mobilidade e força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "prono",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "cotovelos abrindo para fora",
+        "quadril caindo",
+        "projetar a cabeça à frente"
+      ],
+      "safetyNotes": "Reduza a amplitude ou apoie os joelhos se não conseguir manter alinhamento sem dor nos punhos ou ombros.",
+      "confidence": "medium"
     },
     {
       "id": "media_00dc19505218d6bdd7af",
-      "namePtBr": "ElevaçãO Frontal Com Cabo De Dois BraçOs",
+      "namePtBr": "Elevação frontal na polia com barra",
       "originalFilename": "Elevação frontal com cabo de dois braços.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Elevação frontal com cabo de dois braços.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Eleva%C3%A7%C3%A3o%20frontal%20com%20cabo%20de%20dois%20bra%C3%A7os.gif",
@@ -190,19 +336,60 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        }
+        "cabo/polia",
+        "barra curta",
+        "ombros",
+        "elevação frontal",
+        "academia"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0162"
+      "sourceExerciseId": "0162",
+      "canonicalNameEn": "Cable Bar Front Raise",
+      "aliases": [
+        "Elevação frontal bilateral na polia",
+        "Elevação frontal com cabo"
+      ],
+      "description": "Elevação bilateral de uma barra curta presa à polia baixa, à frente do corpo.",
+      "instructions": [
+        "Fique de frente para a polia baixa e segure a barra com as duas mãos.",
+        "Mantenha o tronco alto e cotovelos suavemente flexionados.",
+        "Eleve a barra à frente até a altura dos ombros.",
+        "Retorne de forma controlada sem inclinar o corpo."
+      ],
+      "primaryMuscles": [
+        "deltoide anterior"
+      ],
+      "secondaryMuscles": [
+        "peitoral maior (porção clavicular)",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "cabo/polia",
+        "barra curta"
+      ],
+      "bodyRegion": [
+        "ombros"
+      ],
+      "movementPattern": "flexão de ombro",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "inclinar o tronco para trás",
+        "usar balanço",
+        "elevar os ombros"
+      ],
+      "safetyNotes": "Ajuste a carga para não compensar com a lombar; respeite amplitude confortável do ombro.",
+      "confidence": "high"
     },
     {
       "id": "media_010fa55019b633111f3f",
-      "namePtBr": "Com Halteres Pistol Agachamento",
+      "namePtBr": "Agachamento pistol com halteres",
       "originalFilename": "Com halteres pistol agachamento.gif",
       "relativePath": "gifs/perna/Com halteres pistol agachamento.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/perna/Com%20halteres%20pistol%20agachamento.gif",
@@ -212,34 +399,64 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "pernas",
-          "label": "Pernas"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "agachamento",
-          "label": "agachamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "halteres",
+        "agachamento",
+        "unilateral",
+        "equilíbrio",
+        "quadríceps",
+        "glúteos",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Dumbbell Pistol Squat",
+      "aliases": [
+        "Agachamento unilateral com halteres"
+      ],
+      "description": "Agachamento em uma perna com halteres, enquanto a perna livre se mantém sem apoiar no solo.",
+      "instructions": [
+        "Fique em uma perna com halteres ao lado do corpo.",
+        "Desça controlando o joelho de apoio na direção dos dedos do pé.",
+        "Mantenha o peito elevado e a perna livre sem apoio.",
+        "Empurre o chão para retornar ao topo."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "glúteo médio",
+        "isquiotibiais",
+        "panturrilhas"
+      ],
+      "equipment": [
+        "halteres"
+      ],
+      "bodyRegion": [
+        "quadríceps",
+        "glúteos"
+      ],
+      "movementPattern": "agachamento unilateral",
+      "exerciseType": "força e equilíbrio",
+      "difficulty": "avançado",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "joelho de apoio colapsar para dentro",
+        "perder equilíbrio e acelerar a descida",
+        "usar carga incompatível com a mobilidade"
+      ],
+      "safetyNotes": "Movimento avançado; comece sem carga ou com apoio se não houver controle em uma perna.",
+      "confidence": "medium"
     },
     {
       "id": "media_0171af930b5923a97fad",
-      "namePtBr": "Agachamento BúLgaro Com Barra",
+      "namePtBr": "Agachamento búlgaro com barra",
       "originalFilename": "Agachamento búlgaro com barra.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Agachamento búlgaro com barra.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Agachamento%20b%C3%BAlgaro%20com%20barra.gif",
@@ -249,24 +466,64 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "barra_reta",
-          "label": "barra reta"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "agachamento",
-          "label": "agachamento"
-        }
+        "barra reta",
+        "banco",
+        "agachamento búlgaro",
+        "unilateral",
+        "quadríceps",
+        "glúteos",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Barbell Bulgarian Split Squat",
+      "aliases": [
+        "Afundo búlgaro com barra"
+      ],
+      "description": "Agachamento unilateral com o pé traseiro elevado em banco e barra apoiada nas costas.",
+      "instructions": [
+        "Apoie o dorso do pé traseiro no banco e a barra na parte superior das costas.",
+        "Mantenha o pé da frente estável e tronco controlado.",
+        "Desça o joelho traseiro em direção ao chão.",
+        "Empurre o solo com a perna da frente para subir."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "adutores",
+        "isquiotibiais",
+        "glúteo médio"
+      ],
+      "equipment": [
+        "barra reta",
+        "banco"
+      ],
+      "bodyRegion": [
+        "quadríceps",
+        "glúteos"
+      ],
+      "movementPattern": "agachamento unilateral",
+      "exerciseType": "força",
+      "difficulty": "avançado",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "passo curto demais",
+        "joelho da frente cair para dentro",
+        "perder o controle da barra"
+      ],
+      "safetyNotes": "Use suportes e carga compatível com equilíbrio; não force profundidade que provoque dor no joelho ou quadril.",
+      "confidence": "high"
     },
     {
       "id": "media_01bec319901abd9600f1",
-      "namePtBr": "Crucifixo De Cabo Com DeclíNio De Um BraçO",
+      "namePtBr": "Crucifixo unilateral na polia declinada",
       "originalFilename": "Crucifixo de cabo com declínio de um braço.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Crucifixo de cabo com declínio de um braço.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Crucifixo%20de%20cabo%20com%20decl%C3%ADnio%20de%20um%20bra%C3%A7o.gif",
@@ -276,19 +533,60 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        }
+        "cabo/polia",
+        "banco declinado",
+        "peito",
+        "crucifixo",
+        "unilateral",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Decline Single-Arm Cable Fly",
+      "aliases": [
+        "Crucifixo unilateral de baixo para cima na polia em banco declinado"
+      ],
+      "description": "Adução horizontal unilateral do ombro em banco declinado, usando cabo vindo da polia baixa.",
+      "instructions": [
+        "Deite-se no banco declinado e segure uma manopla de polia baixa.",
+        "Mantenha leve flexão no cotovelo.",
+        "Leve a mão em arco até a linha média do peito.",
+        "Retorne lentamente até sentir alongamento confortável."
+      ],
+      "primaryMuscles": [
+        "peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "cabo/polia",
+        "banco declinado"
+      ],
+      "bodyRegion": [
+        "peito"
+      ],
+      "movementPattern": "adução horizontal do ombro",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "deitado declinado",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "transformar o movimento em supino",
+        "estender demais o cotovelo",
+        "deixar o ombro anteriorizar"
+      ],
+      "safetyNotes": "Controle o alongamento no ponto baixo e interrompa se ocorrer dor anterior no ombro.",
+      "confidence": "high"
     },
     {
       "id": "media_01d5b490f9b6cfaf4b1e",
-      "namePtBr": "Caminhando Rapidamente",
+      "namePtBr": "Caminhada rápida",
       "originalFilename": "Caminhando rapidamente.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Caminhando rapidamente.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Caminhando%20rapidamente.gif",
@@ -297,14 +595,64 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "caminhada",
+        "cardio",
+        "peso corporal",
+        "baixo impacto",
+        "casa"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Brisk Walking",
+      "aliases": [
+        "Caminhar em ritmo acelerado"
+      ],
+      "description": "Caminhada contínua em ritmo mais rápido que o habitual, com alternância natural de braços e pernas.",
+      "instructions": [
+        "Mantenha postura ereta e olhar à frente.",
+        "Faça passadas confortáveis, sem exagerar o comprimento.",
+        "Balance os braços de forma natural.",
+        "Mantenha um ritmo que aumente a respiração sem perder o controle."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo",
+        "panturrilhas"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "flexores do quadril"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegion": [
+        "pernas",
+        "cardio"
+      ],
+      "movementPattern": "locomoção",
+      "exerciseType": "cardiorrespiratório",
+      "difficulty": "iniciante",
+      "laterality": "alternado",
+      "position": "em pé",
+      "environment": [
+        "casa",
+        "ao ar livre",
+        "academia"
+      ],
+      "commonMistakes": [
+        "passos excessivamente longos",
+        "ombros tensos",
+        "ignorar dor persistente em pé ou joelho"
+      ],
+      "safetyNotes": "Use calçado e superfície adequados; adapte o ritmo às condições individuais.",
+      "confidence": "high"
     },
     {
       "id": "media_01d7455df44bf9211b8a",
-      "namePtBr": "Cruzamento De Cabo De BraçO úNico",
+      "namePtBr": "Crucifixo unilateral na polia em pé",
       "originalFilename": "Cruzamento de cabo de braço único.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Cruzamento de cabo de braço único.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Cruzamento%20de%20cabo%20de%20bra%C3%A7o%20%C3%BAnico.gif",
@@ -314,19 +662,59 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        }
+        "cabo/polia",
+        "peito",
+        "crucifixo",
+        "unilateral",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Standing Single-Arm Cable Fly",
+      "aliases": [
+        "Crossover unilateral na polia",
+        "Crucifixo de um braço no cabo"
+      ],
+      "description": "Adução horizontal unilateral do ombro em pé, puxando a manopla de cabo em arco para a frente do peito.",
+      "instructions": [
+        "Fique em posição estável ao lado da polia.",
+        "Segure a manopla com o braço levemente flexionado.",
+        "Traga o braço em arco até a frente do peito.",
+        "Retorne com o tronco firme e sem rodar."
+      ],
+      "primaryMuscles": [
+        "peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "cabo/polia"
+      ],
+      "bodyRegion": [
+        "peito"
+      ],
+      "movementPattern": "adução horizontal do ombro",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "rodar o tronco",
+        "dobrar ou travar demais o cotovelo",
+        "perder a posição do ombro"
+      ],
+      "safetyNotes": "Use base estável e carga que permita não compensar com o tronco.",
+      "confidence": "high"
     },
     {
       "id": "media_0227c6e50f6b9aeb5d1b",
-      "namePtBr": "Alto Ajoelhado Com Kettlebell Supino Com Um BraçO",
+      "namePtBr": "Desenvolvimento unilateral com kettlebell em meio-ajoelhado",
       "originalFilename": "Alto ajoelhado com kettlebell press com um braço.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Alto ajoelhado com kettlebell press com um braço.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Alto%20ajoelhado%20com%20kettlebell%20press%20com%20um%20bra%C3%A7o.gif",
@@ -336,29 +724,63 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "kettlebell",
-          "label": "kettlebell"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "empurrar",
-          "label": "empurrar"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "kettlebell",
+        "ombros",
+        "press",
+        "unilateral",
+        "core",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Half-Kneeling Single-Arm Kettlebell Press",
+      "aliases": [
+        "Press unilateral de kettlebell meio-ajoelhado"
+      ],
+      "description": "Press acima da cabeça com um kettlebell, em posição de meio-ajoelhado para exigir estabilidade de tronco e quadril.",
+      "instructions": [
+        "Ajoelhe-se com um joelho no solo e kettlebell na mão oposta.",
+        "Mantenha costelas encaixadas e glúteos contraídos.",
+        "Pressione o kettlebell acima da cabeça sem inclinar o tronco.",
+        "Desça controladamente até a posição junto ao ombro."
+      ],
+      "primaryMuscles": [
+        "deltoide anterior",
+        "deltoide lateral"
+      ],
+      "secondaryMuscles": [
+        "tríceps braquial",
+        "serrátil anterior",
+        "oblíquos"
+      ],
+      "equipment": [
+        "kettlebell"
+      ],
+      "bodyRegion": [
+        "ombros",
+        "core"
+      ],
+      "movementPattern": "empurrar vertical",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "meio-ajoelhado",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "arquear a lombar",
+        "inclinar para o lado da carga",
+        "deixar o cotovelo abrir sem controle"
+      ],
+      "safetyNotes": "Mantenha a carga leve o suficiente para preservar coluna neutra e ombro confortável.",
+      "confidence": "high"
     },
     {
       "id": "media_023991c951b11f9e43b3",
-      "namePtBr": "ExtensãO De Quadril Por Cabo",
+      "namePtBr": "Extensão de quadril na polia",
       "originalFilename": "Extensão de quadril por cabo.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Extensão de quadril por cabo.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Extens%C3%A3o%20de%20quadril%20por%20cabo.gif",
@@ -368,19 +790,61 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        }
+        "cabo/polia",
+        "tornozeleira",
+        "glúteos",
+        "coice",
+        "unilateral",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Cable Hip Extension",
+      "aliases": [
+        "Coice na polia",
+        "Glúteo na polia"
+      ],
+      "description": "Extensão unilateral do quadril levando a perna para trás contra resistência de cabo.",
+      "instructions": [
+        "Prenda a tornozeleira ao cabo baixo e estabilize o tronco.",
+        "Mantenha o joelho de trabalho levemente flexionado.",
+        "Leve a perna para trás por extensão do quadril.",
+        "Retorne sem girar a pelve e repita o lado."
+      ],
+      "primaryMuscles": [
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "glúteo médio"
+      ],
+      "equipment": [
+        "cabo/polia",
+        "tornozeleira"
+      ],
+      "bodyRegion": [
+        "glúteos"
+      ],
+      "movementPattern": "extensão de quadril",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "arquear a lombar",
+        "girar o quadril",
+        "usar impulso"
+      ],
+      "safetyNotes": "Reduza a amplitude se houver compensação lombar; mantenha apoio seguro nas mãos.",
+      "confidence": "high"
     },
     {
       "id": "media_026655e8cc00bf1edc17",
-      "namePtBr": "Puxe Para Cima",
+      "namePtBr": "Barra fixa pronada",
       "originalFilename": "Puxe para cima.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Puxe para cima.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Puxe%20para%20cima.gif",
@@ -389,14 +853,64 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "barra fixa",
+        "costas",
+        "puxar vertical",
+        "peso corporal",
+        "casa"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Pull-Up",
+      "aliases": [
+        "Puxada na barra fixa",
+        "Pull-up"
+      ],
+      "description": "Puxada vertical com o corpo suspenso, elevando o tronco em direção à barra.",
+      "instructions": [
+        "Pendure-se na barra com pegada pronada.",
+        "Estabilize escápulas e mantenha o corpo firme.",
+        "Puxe os cotovelos para baixo até aproximar o queixo da barra.",
+        "Desça controladamente até os braços estendidos conforme sua mobilidade."
+      ],
+      "primaryMuscles": [
+        "latíssimo do dorso"
+      ],
+      "secondaryMuscles": [
+        "bíceps braquial",
+        "romboides",
+        "trapézio inferior",
+        "deltoide posterior"
+      ],
+      "equipment": [
+        "barra fixa"
+      ],
+      "bodyRegion": [
+        "costas",
+        "bíceps"
+      ],
+      "movementPattern": "puxar vertical",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "suspenso",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "balançar o corpo",
+        "projetar o pescoço",
+        "encurtar repetidamente a amplitude sem intenção"
+      ],
+      "safetyNotes": "Use assistência se necessário e evite movimentos bruscos no ombro.",
+      "confidence": "high"
     },
     {
       "id": "media_027f142af60ea1b3571a",
-      "namePtBr": "ElevaçãO De Panturrilhas No Leg Supino Horizontal",
+      "namePtBr": "Elevação de panturrilhas no leg press horizontal",
       "originalFilename": "Elevação de panturrilhas no leg press horizontal.gif",
       "relativePath": "gifs/panturrilha/Elevação de panturrilhas no leg press horizontal.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/panturrilha/Eleva%C3%A7%C3%A3o%20de%20panturrilhas%20no%20leg%20press%20horizontal.gif",
@@ -406,24 +920,57 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "panturrilhas",
-          "label": "Panturrilhas"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "empurrar",
-          "label": "empurrar"
-        }
+        "leg press",
+        "máquina",
+        "panturrilhas",
+        "flexão plantar",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Horizontal Leg Press Calf Raise",
+      "aliases": [
+        "Panturrilha no leg press"
+      ],
+      "description": "Flexão plantar dos tornozelos na plataforma do leg press, com joelhos quase estendidos.",
+      "instructions": [
+        "Sente-se no leg press e apoie apenas a parte da frente dos pés na plataforma.",
+        "Mantenha os joelhos estáveis, sem travá-los à força.",
+        "Empurre a plataforma pela ponta dos pés.",
+        "Desça os calcanhares com controle dentro da amplitude confortável."
+      ],
+      "primaryMuscles": [
+        "gastrocnêmio"
+      ],
+      "secondaryMuscles": [
+        "sóleo"
+      ],
+      "equipment": [
+        "máquina leg press"
+      ],
+      "bodyRegion": [
+        "panturrilhas"
+      ],
+      "movementPattern": "flexão plantar",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "usar amplitude curta",
+        "movimentar os joelhos",
+        "descer rápido demais"
+      ],
+      "safetyNotes": "Mantenha os pés firmes na plataforma e não exceda amplitude que cause desconforto no tornozelo.",
+      "confidence": "high"
     },
     {
       "id": "media_0287190e69b694f14213",
-      "namePtBr": "Prancha Frontal Com ElevaçãO De BraçO",
+      "namePtBr": "Prancha frontal com elevação de braço",
       "originalFilename": "Prancha frontal com elevação de braço.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Prancha frontal com elevação de braço.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Prancha%20frontal%20com%20eleva%C3%A7%C3%A3o%20de%20bra%C3%A7o.gif",
@@ -433,29 +980,62 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "peso corporal",
+        "prancha",
+        "core",
+        "anti-rotação",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Front Plank with Arm Raise",
+      "aliases": [
+        "Prancha com alcance à frente"
+      ],
+      "description": "Prancha em apoio de antebraços com elevação alternada de um braço à frente.",
+      "instructions": [
+        "Assuma prancha sobre antebraços e pontas dos pés.",
+        "Contraia abdômen e glúteos.",
+        "Eleve um braço à frente sem rodar o tronco.",
+        "Retorne e alterne os lados mantendo a pelve estável."
+      ],
+      "primaryMuscles": [
+        "reto abdominal",
+        "transverso do abdômen"
+      ],
+      "secondaryMuscles": [
+        "oblíquos",
+        "deltoide anterior",
+        "glúteo máximo"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegion": [
+        "core",
+        "ombros"
+      ],
+      "movementPattern": "anti-rotação",
+      "exerciseType": "estabilidade",
+      "difficulty": "intermediário",
+      "laterality": "alternado",
+      "position": "prono",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "girar a pelve",
+        "elevar demais o quadril",
+        "prender a respiração"
+      ],
+      "safetyNotes": "Reduza para prancha estática ou apoie joelhos se perder alinhamento.",
+      "confidence": "medium"
     },
     {
       "id": "media_02ef71c43439a1e4a024",
-      "namePtBr": "Top Half Barra Fixa",
+      "namePtBr": "Barra fixa parcial na metade superior",
       "originalFilename": "Top half barra fixa.gif",
       "relativePath": "gifs/costas/Top half barra fixa.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/costas/Top%20half%20barra%20fixa.gif",
@@ -465,29 +1045,63 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "costas",
-          "label": "Costas"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "barra_reta",
-          "label": "barra reta"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "puxada_vertical",
-          "label": "puxada vertical"
-        }
+        "barra fixa",
+        "costas",
+        "puxar vertical",
+        "amplitude parcial",
+        "peso corporal",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Top-Half Pull-Up",
+      "aliases": [
+        "Pull-up parcial superior",
+        "Barra fixa meia repetição superior"
+      ],
+      "description": "Variação parcial da barra fixa que trabalha apenas a metade superior da amplitude.",
+      "instructions": [
+        "Comece já próximo da parte alta da barra fixa.",
+        "Mantenha escápulas ativas e corpo sem balanço.",
+        "Desça apenas até a metade da amplitude escolhida.",
+        "Puxe novamente até aproximar o queixo da barra."
+      ],
+      "primaryMuscles": [
+        "latíssimo do dorso"
+      ],
+      "secondaryMuscles": [
+        "bíceps braquial",
+        "romboides",
+        "trapézio inferior"
+      ],
+      "equipment": [
+        "barra fixa"
+      ],
+      "bodyRegion": [
+        "costas",
+        "bíceps"
+      ],
+      "movementPattern": "puxar vertical",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "suspenso",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "usar balanço",
+        "perder controle escapular",
+        "tratar a variação parcial como substituta obrigatória da amplitude completa"
+      ],
+      "safetyNotes": "Utilize esta variação somente com objetivo definido e sem dor no ombro; progrida para amplitude apropriada quando possível.",
+      "confidence": "medium"
     },
     {
       "id": "media_035853df63fba3d7de99",
-      "namePtBr": "Panturrilha Sentada Na MáQuina De Leg Supino",
+      "namePtBr": "Elevação de panturrilha sentada no leg press",
       "originalFilename": "Panturrilha sentada na máquina de leg press.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Panturrilha sentada na máquina de leg press.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Panturrilha%20sentada%20na%20m%C3%A1quina%20de%20leg%20press.gif",
@@ -497,24 +1111,56 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "empurrar",
-          "label": "empurrar"
-        }
+        "leg press",
+        "máquina",
+        "panturrilhas",
+        "flexão plantar",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Seated Leg Press Calf Raise",
+      "aliases": [
+        "Panturrilha sentada no leg press"
+      ],
+      "description": "Flexão plantar dos tornozelos em leg press, realizada sentado com a plataforma como resistência.",
+      "instructions": [
+        "Ajuste o leg press e apoie a ponta dos pés na plataforma.",
+        "Mantenha joelhos estáveis.",
+        "Empurre pela ponta dos pés elevando os calcanhares.",
+        "Retorne controlando a dorsiflexão."
+      ],
+      "primaryMuscles": [
+        "sóleo",
+        "gastrocnêmio"
+      ],
+      "secondaryMuscles": [],
+      "equipment": [
+        "máquina leg press"
+      ],
+      "bodyRegion": [
+        "panturrilhas"
+      ],
+      "movementPattern": "flexão plantar",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "flexionar e estender os joelhos",
+        "tirar o pé da plataforma",
+        "quicar no ponto baixo"
+      ],
+      "safetyNotes": "Escolha carga que permita controle completo do tornozelo.",
+      "confidence": "high"
     },
     {
       "id": "media_03b364bea968093e78f0",
-      "namePtBr": "Salto Para TráS",
+      "namePtBr": "Agachamento com salto",
       "originalFilename": "Salto para trás.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Salto para trás.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Salto%20para%20tr%C3%A1s.gif",
@@ -523,14 +1169,65 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "matched_existing_exercise",
+      "tags": [
+        "peso corporal",
+        "pliometria",
+        "agachamento",
+        "salto vertical",
+        "pernas",
+        "casa"
+      ],
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "1473"
+      "sourceExerciseId": "1473",
+      "canonicalNameEn": "Jump Squat",
+      "aliases": [
+        "Salto agachado",
+        "Agachamento pliométrico"
+      ],
+      "description": "Agachamento bilateral seguido de salto vertical e aterrissagem controlada.",
+      "instructions": [
+        "Inicie em agachamento com joelhos alinhados aos pés.",
+        "Estenda quadris, joelhos e tornozelos para saltar verticalmente.",
+        "Aterrisse suavemente na parte média do pé e absorva o impacto.",
+        "Retorne ao agachamento sob controle antes da próxima repetição."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo",
+        "panturrilhas"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "core"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegion": [
+        "pernas",
+        "cardio"
+      ],
+      "movementPattern": "agachamento e salto vertical",
+      "exerciseType": "pliometria",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "aterrissar com joelhos em valgo",
+        "perder alinhamento do tronco",
+        "iniciar nova repetição sem estabilizar"
+      ],
+      "safetyNotes": "Exige área livre e tolerância a impacto; evite em caso de dor articular ou sem orientação profissional apropriada.",
+      "confidence": "high"
     },
     {
       "id": "media_03b705a72b0f9a3ebe6d",
-      "namePtBr": "Em Pé Cadeira Extensora Com EláStico VariaçãO 2",
+      "namePtBr": "Agachamento búlgaro com halteres",
       "originalFilename": "Em pé cadeira extensora with resistance band - Variação 2.gif",
       "relativePath": "gifs/perna/Em pé cadeira extensora with resistance band - Variação 2.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/perna/Em%20p%C3%A9%20cadeira%20extensora%20with%20resistance%20band%20-%20Varia%C3%A7%C3%A3o%202.gif",
@@ -540,29 +1237,65 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "pernas",
-          "label": "Pernas"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "elastico_faixa",
-          "label": "elastico faixa"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "halteres",
+        "banco",
+        "agachamento búlgaro",
+        "unilateral",
+        "quadríceps",
+        "glúteos",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Dumbbell Bulgarian Split Squat",
+      "aliases": [
+        "Afundo búlgaro com halteres"
+      ],
+      "description": "Agachamento unilateral com pé traseiro elevado e halteres nas mãos.",
+      "instructions": [
+        "Posicione o dorso do pé traseiro sobre o banco.",
+        "Segure halteres ao lado do corpo e mantenha o tronco estável.",
+        "Desça o joelho traseiro em direção ao solo.",
+        "Empurre o chão com a perna dianteira para subir."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "adutores",
+        "isquiotibiais",
+        "glúteo médio"
+      ],
+      "equipment": [
+        "halteres",
+        "banco"
+      ],
+      "bodyRegion": [
+        "quadríceps",
+        "glúteos"
+      ],
+      "movementPattern": "agachamento unilateral",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "passo curto demais",
+        "joelho da frente cair para dentro",
+        "perder equilíbrio"
+      ],
+      "safetyNotes": "A descrição original do arquivo conflita com o movimento visual; a identificação acima segue a sequência visual e requer segunda revisão.",
+      "confidence": "medium"
     },
     {
       "id": "media_03b9755779d3c5440a8b",
-      "namePtBr": "InclinaçãO Lateral Com Halteres ElevaçãO Lateral",
+      "namePtBr": "Elevação lateral com halter deitado em banco inclinado",
       "originalFilename": "Inclinação lateral com halteres elevação lateral.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Inclinação lateral com halteres elevação lateral.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Inclina%C3%A7%C3%A3o%20lateral%20com%20halteres%20eleva%C3%A7%C3%A3o%20lateral.gif",
@@ -572,24 +1305,61 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "halter",
+        "banco inclinado",
+        "ombros",
+        "elevação lateral",
+        "unilateral",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Incline Side-Lying Dumbbell Lateral Raise",
+      "aliases": [
+        "Elevação lateral inclinada com halter"
+      ],
+      "description": "Elevação lateral unilateral do halter com o corpo apoiado lateralmente em banco inclinado.",
+      "instructions": [
+        "Apoie o tronco de lado em banco inclinado.",
+        "Segure o halter com a mão do braço livre.",
+        "Eleve o braço lateralmente até a altura confortável do ombro.",
+        "Desça com controle, sem girar o tronco."
+      ],
+      "primaryMuscles": [
+        "deltoide lateral"
+      ],
+      "secondaryMuscles": [
+        "supraespinal",
+        "deltoide anterior"
+      ],
+      "equipment": [
+        "halter",
+        "banco inclinado"
+      ],
+      "bodyRegion": [
+        "ombros"
+      ],
+      "movementPattern": "abdução de ombro",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "deitado lateralmente inclinado",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "subir o ombro em direção à orelha",
+        "usar impulso",
+        "forçar acima da amplitude confortável"
+      ],
+      "safetyNotes": "Use pouca carga e mantenha a escápula controlada; não force dor no ombro.",
+      "confidence": "high"
     },
     {
       "id": "media_03e61dea448efa9198c6",
-      "namePtBr": "CriaçãO Com Peso De Bezerro De Burro",
+      "namePtBr": "Elevação de panturrilha donkey com carga",
       "originalFilename": "Criação com peso de bezerro de burro.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Criação com peso de bezerro de burro.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Cria%C3%A7%C3%A3o%20com%20peso%20de%20bezerro%20de%20burro.gif",
@@ -598,14 +1368,60 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "panturrilhas",
+        "peso adicional",
+        "banco",
+        "flexão plantar",
+        "casa"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Weighted Donkey Calf Raise",
+      "aliases": [
+        "Panturrilha donkey com peso"
+      ],
+      "description": "Elevação de panturrilhas com tronco inclinado à frente e carga adicional.",
+      "instructions": [
+        "Incline o tronco e apoie as mãos em banco ou suporte estável.",
+        "Mantenha a ponta dos pés apoiada e a carga segura.",
+        "Eleve os calcanhares contraindo as panturrilhas.",
+        "Desça controladamente até o alongamento tolerado."
+      ],
+      "primaryMuscles": [
+        "gastrocnêmio"
+      ],
+      "secondaryMuscles": [
+        "sóleo"
+      ],
+      "equipment": [
+        "peso adicional",
+        "banco"
+      ],
+      "bodyRegion": [
+        "panturrilhas"
+      ],
+      "movementPattern": "flexão plantar",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "tronco inclinado",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "quicar no ponto baixo",
+        "perder estabilidade do apoio",
+        "usar carga mal posicionada"
+      ],
+      "safetyNotes": "A carga deve estar estável; interrompa se houver desconforto no tendão de Aquiles ou tornozelo.",
+      "confidence": "high"
     },
     {
       "id": "media_047347a875a19dc57ee2",
-      "namePtBr": "RotaçãO Externa Cubana Com Halteres",
+      "namePtBr": "Desenvolvimento cubano com halteres",
       "originalFilename": "Rotação externa cubana com halteres.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Rotação externa cubana com halteres.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Rota%C3%A7%C3%A3o%20externa%20cubana%20com%20halteres.gif",
@@ -615,24 +1431,65 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "halteres",
+        "ombros",
+        "rotação externa",
+        "press",
+        "manguito rotador",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Dumbbell Cuban Press",
+      "aliases": [
+        "Cuban press com halteres",
+        "Rotação externa cubana com halteres"
+      ],
+      "description": "Combina puxada alta, rotação externa dos ombros e desenvolvimento com halteres.",
+      "instructions": [
+        "Eleve os cotovelos à altura dos ombros com halteres próximos ao corpo.",
+        "Rode externamente os ombros até os antebraços ficarem verticais.",
+        "Pressione os halteres acima da cabeça com controle.",
+        "Retorne pela mesma sequência sem perder alinhamento."
+      ],
+      "primaryMuscles": [
+        "deltoide lateral",
+        "deltoide posterior",
+        "infraespinal"
+      ],
+      "secondaryMuscles": [
+        "trapézio superior",
+        "tríceps braquial",
+        "supraespinal"
+      ],
+      "equipment": [
+        "halteres"
+      ],
+      "bodyRegion": [
+        "ombros",
+        "costas"
+      ],
+      "movementPattern": "rotação externa e empurrar vertical",
+      "exerciseType": "força e estabilidade",
+      "difficulty": "avançado",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "usar carga alta demais",
+        "elevar os ombros",
+        "perder controle na rotação externa"
+      ],
+      "safetyNotes": "Use carga leve e amplitude indolor; não é indicado para ombro irritado sem avaliação profissional.",
+      "confidence": "high"
     },
     {
       "id": "media_05e15f44903ff06ceaff",
-      "namePtBr": "Crucifixo Unilateral Na Polia Em Banco Inclinado",
+      "namePtBr": "Crucifixo unilateral na polia em banco inclinado",
       "originalFilename": "Crucifixo unilateral na polia em banco inclinado.gif",
       "relativePath": "gifs/peitoral/Crucifixo unilateral na polia em banco inclinado.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/peitoral/Crucifixo%20unilateral%20na%20polia%20em%20banco%20inclinado.gif",
@@ -642,24 +1499,60 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "peito",
-          "label": "Peito"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        }
+        "cabo/polia",
+        "banco inclinado",
+        "peito",
+        "crucifixo",
+        "unilateral",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Incline Single-Arm Cable Fly",
+      "aliases": [
+        "Crucifixo unilateral no cabo inclinado"
+      ],
+      "description": "Adução horizontal unilateral do ombro em banco inclinado com resistência de cabo.",
+      "instructions": [
+        "Deite-se em banco inclinado e segure a manopla do cabo.",
+        "Mantenha leve flexão no cotovelo.",
+        "Leve a mão em arco em direção à linha média do peito.",
+        "Retorne de modo controlado sem deixar o ombro avançar."
+      ],
+      "primaryMuscles": [
+        "peitoral maior (porção clavicular)"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "cabo/polia",
+        "banco inclinado"
+      ],
+      "bodyRegion": [
+        "peito"
+      ],
+      "movementPattern": "adução horizontal do ombro",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "deitado inclinado",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "estender demais o cotovelo",
+        "perder estabilidade escapular",
+        "usar amplitude dolorosa"
+      ],
+      "safetyNotes": "Controle a fase de alongamento e evite carga que traga o ombro excessivamente à frente.",
+      "confidence": "high"
     },
     {
       "id": "media_061e5ba3c3930736958f",
-      "namePtBr": "FlexãO De BraçO úNico",
+      "namePtBr": "Flexão de braço unilateral",
       "originalFilename": "Flexão de braço único.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Flexão de braço único.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Flex%C3%A3o%20de%20bra%C3%A7o%20%C3%BAnico.gif",
@@ -669,30 +1562,62 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "empurrar",
-          "label": "empurrar"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "peso corporal",
+        "flexão",
+        "unilateral",
+        "peito",
+        "tríceps",
+        "core",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "One-Arm Push-Up",
+      "aliases": [
+        "Flexão com um braço"
+      ],
+      "description": "Flexão no solo sustentada predominantemente por um braço, com o outro fora do apoio.",
+      "instructions": [
+        "Assuma posição de prancha com pés afastados para estabilidade.",
+        "Posicione uma mão sob ou levemente à frente do ombro.",
+        "Desça o corpo mantendo tronco firme.",
+        "Empurre o solo para voltar sem rodar excessivamente o tronco."
+      ],
+      "primaryMuscles": [
+        "peitoral maior",
+        "tríceps braquial",
+        "deltoide anterior"
+      ],
+      "secondaryMuscles": [
+        "oblíquos",
+        "reto abdominal",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegion": [
+        "peito",
+        "tríceps",
+        "core"
+      ],
+      "movementPattern": "empurrar horizontal",
+      "exerciseType": "força",
+      "difficulty": "avançado",
+      "laterality": "unilateral",
+      "position": "prono",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "girar excessivamente o tronco",
+        "deixar o quadril cair",
+        "forçar profundidade sem controle do ombro"
+      ],
+      "safetyNotes": "Variação avançada; progrida a partir de flexões convencionais e use base mais ampla quando necessário.",
+      "confidence": "high"
     },
     {
       "id": "media_0633dc40622a1c89e716",
@@ -712,7 +1637,7 @@
     },
     {
       "id": "media_0663a599f8e0375d67b7",
-      "namePtBr": "Turco Levante Se",
+      "namePtBr": "Levantamento turco com kettlebell",
       "originalFilename": "Turco levante-se.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Turco levante-se.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Turco%20levante-se.gif",
@@ -721,14 +1646,64 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "kettlebell",
+        "corpo-inteiro",
+        "core",
+        "estabilidade-do-ombro",
+        "unilateral"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Kettlebell Turkish Get-Up",
+      "aliases": [
+        "Turkish get-up",
+        "levantada turca"
+      ],
+      "description": "Transição controlada do solo à posição em pé mantendo um kettlebell estabilizado acima da cabeça.",
+      "instructions": [
+        "Deitado, mantenha o kettlebell com o braço estendido.",
+        "Role para o cotovelo e a mão, eleve o quadril e passe a perna para a posição de meio-ajoelhado.",
+        "Fique de pé e retorne na sequência inversa, mantendo o olhar e o punho sob a carga."
+      ],
+      "primaryMuscles": [
+        "core",
+        "deltoides",
+        "glúteos"
+      ],
+      "secondaryMuscles": [
+        "quadríceps",
+        "isquiotibiais",
+        "tríceps"
+      ],
+      "equipment": [
+        "kettlebell"
+      ],
+      "bodyRegion": [
+        "corpo inteiro",
+        "core"
+      ],
+      "movementPattern": "transição do solo para em pé",
+      "exerciseType": "força funcional",
+      "difficulty": "avançado",
+      "laterality": "unilateral",
+      "position": "solo para em pé",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "flexionar o braço que sustenta a carga",
+        "perder o alinhamento do punho",
+        "executar rápido demais"
+      ],
+      "safetyNotes": "Aprenda sem carga ou com carga leve; interrompa se não conseguir manter o ombro estável.",
+      "confidence": "high"
     },
     {
       "id": "media_0673631de2491887fe9c",
-      "namePtBr": "Salto De Caixa Com Uma Perna",
+      "namePtBr": "Salto unilateral na caixa",
       "originalFilename": "Salto de caixa com uma perna.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Salto de caixa com uma perna.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Salto%20de%20caixa%20com%20uma%20perna.gif",
@@ -737,14 +1712,60 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "pliometria",
+        "caixa",
+        "unilateral",
+        "potência"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Single-Leg Box Jump",
+      "aliases": [
+        "salto com uma perna na caixa"
+      ],
+      "description": "Salto pliométrico partindo e aterrissando com uma perna sobre uma caixa.",
+      "instructions": [
+        "Fique em apoio unilateral diante da caixa.",
+        "Flexione quadril e joelho e projete-se para cima.",
+        "Aterrisse suavemente na caixa com o joelho alinhado ao pé."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteos",
+        "panturrilhas"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "core"
+      ],
+      "equipment": [
+        "caixa pliométrica"
+      ],
+      "bodyRegion": [
+        "membros inferiores"
+      ],
+      "movementPattern": "salto vertical unilateral",
+      "exerciseType": "pliometria",
+      "difficulty": "avançado",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "joelho cair para dentro",
+        "aterrissar rígido",
+        "usar caixa alta demais"
+      ],
+      "safetyNotes": "Exige domínio de aterrissagem unilateral; não usar caixa instável.",
+      "confidence": "high"
     },
     {
       "id": "media_069205b8deab71863d87",
-      "namePtBr": "014 Superman",
+      "namePtBr": "Superman",
       "originalFilename": "014_superman.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/exercicios_renomeados_pt_br/014_superman.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/exercicios_renomeados_pt_br/014_superman.gif",
@@ -753,14 +1774,60 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "peso-corporal",
+        "lombar",
+        "glúteos",
+        "extensão-de-tronco"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Superman",
+      "aliases": [
+        "extensão lombar no solo"
+      ],
+      "description": "Em decúbito ventral, eleva braços e pernas do solo por extensão do tronco e quadris.",
+      "instructions": [
+        "Deite de barriga para baixo com braços estendidos.",
+        "Eleve simultaneamente braços, peito e pernas sem forçar o pescoço.",
+        "Desça com controle."
+      ],
+      "primaryMuscles": [
+        "eretores da espinha",
+        "glúteos"
+      ],
+      "secondaryMuscles": [
+        "deltoides posteriores",
+        "isquiotibiais"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegion": [
+        "costas",
+        "core"
+      ],
+      "movementPattern": "extensão de tronco",
+      "exerciseType": "fortalecimento",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "deitado de barriga para baixo",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "hiperestender o pescoço",
+        "subir com impulso",
+        "prender a respiração"
+      ],
+      "safetyNotes": "Use amplitude confortável; pessoas com dor lombar devem buscar orientação profissional.",
+      "confidence": "high"
     },
     {
       "id": "media_069490aef71bfee26e23",
-      "namePtBr": "Alongamento Do Peitoral Traseiro",
+      "namePtBr": "Alongamento de dorsais com apoio no banco",
       "originalFilename": "Alongamento do peitoral traseiro.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Alongamento do peitoral traseiro.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Alongamento%20do%20peitoral%20traseiro.gif",
@@ -770,34 +1837,57 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "mobilidade_alongamento",
-          "label": "mobilidade alongamento"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "alongamento",
+        "dorsais",
+        "banco",
+        "mobilidade"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Bench Lat Stretch",
+      "aliases": [
+        "alongamento de latíssimo no banco"
+      ],
+      "description": "Alongamento dos dorsais com as mãos apoiadas no banco e o tronco inclinado.",
+      "instructions": [
+        "Apoie as mãos no banco.",
+        "Afaste os quadris para trás mantendo os braços longos.",
+        "Desça o peito entre os braços sem forçar a lombar."
+      ],
+      "primaryMuscles": [
+        "latíssimo do dorso"
+      ],
+      "secondaryMuscles": [
+        "redondo maior",
+        "tríceps"
+      ],
+      "equipment": [
+        "banco"
+      ],
+      "bodyRegion": [
+        "costas",
+        "ombros"
+      ],
+      "movementPattern": "alongamento de ombro",
+      "exerciseType": "mobilidade",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "em pé inclinado",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "arredondar excessivamente a lombar",
+        "elevar os ombros"
+      ],
+      "safetyNotes": "Mantenha a sensação de alongamento, não dor articular.",
+      "confidence": "high"
     },
     {
       "id": "media_06a74a3500e337d46268",
-      "namePtBr": "Postura Da Vaca De Gato",
+      "namePtBr": "Gato-vaca",
       "originalFilename": "Postura da vaca de gato.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Postura da vaca de gato.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Postura%20da%20vaca%20de%20gato.gif",
@@ -807,34 +1897,58 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "mobilidade_alongamento",
-          "label": "mobilidade alongamento"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "mobilidade",
+        "coluna",
+        "alongamento",
+        "reabilitação-adaptação"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Cat-Cow Stretch",
+      "aliases": [
+        "postura do gato e da vaca"
+      ],
+      "description": "Mobilidade da coluna em quatro apoios, alternando extensão e flexão.",
+      "instructions": [
+        "Fique em quatro apoios com mãos sob os ombros.",
+        "Estenda suavemente a coluna ao inspirar.",
+        "Arredonde a coluna ao expirar, sem deslocar mãos ou joelhos."
+      ],
+      "primaryMuscles": [
+        "eretores da espinha",
+        "abdominais"
+      ],
+      "secondaryMuscles": [
+        "glúteos",
+        "cintura escapular"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegion": [
+        "coluna",
+        "core"
+      ],
+      "movementPattern": "mobilidade de coluna",
+      "exerciseType": "mobilidade",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "quatro apoios",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "forçar a amplitude cervical",
+        "mover apenas a lombar"
+      ],
+      "safetyNotes": "Faça lentamente e em amplitude confortável.",
+      "confidence": "high"
     },
     {
       "id": "media_06eb797aba61b49a91ef",
-      "namePtBr": "Em Pé, Alongamento Do Peito Com Um BraçO",
+      "namePtBr": "Alongamento de peitoral na parede com um braço",
       "originalFilename": "Em pé, alongamento do peito com um braço.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Em pé, alongamento do peito com um braço.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Em%20p%C3%A9%2C%20alongamento%20do%20peito%20com%20um%20bra%C3%A7o.gif",
@@ -844,34 +1958,57 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "mobilidade_alongamento",
-          "label": "mobilidade alongamento"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "alongamento",
+        "peitoral",
+        "parede",
+        "unilateral"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Single-Arm Wall Chest Stretch",
+      "aliases": [
+        "alongamento unilateral de peitoral na parede"
+      ],
+      "description": "Alongamento do peitoral com um braço apoiado na parede e rotação do tronco para o lado oposto.",
+      "instructions": [
+        "Apoie a palma ou antebraço na parede.",
+        "Mantenha o ombro baixo e gire o tronco para longe do braço.",
+        "Sustente sem forçar a articulação do ombro."
+      ],
+      "primaryMuscles": [
+        "peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "peitoral menor",
+        "deltoide anterior"
+      ],
+      "equipment": [
+        "parede"
+      ],
+      "bodyRegion": [
+        "peito",
+        "ombros"
+      ],
+      "movementPattern": "alongamento de peitoral",
+      "exerciseType": "mobilidade",
+      "difficulty": "iniciante",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "elevar o ombro",
+        "girar demais o tronco"
+      ],
+      "safetyNotes": "Evite dor anterior no ombro e ajuste a altura do braço.",
+      "confidence": "high"
     },
     {
       "id": "media_075aed4bce982e87db50",
-      "namePtBr": "Remada Alta Com Barra VariaçãO 2",
+      "namePtBr": "Remada alta com halteres",
       "originalFilename": "Remada alta com barra - Variação 2.gif",
       "relativePath": "gifs/ombros/Remada alta com barra - Variação 2.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/ombros/Remada%20alta%20com%20barra%20-%20Varia%C3%A7%C3%A3o%202.gif",
@@ -881,29 +2018,58 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "ombros",
-          "label": "Ombros"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "barra_reta",
-          "label": "barra reta"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "remada",
-          "label": "remada"
-        }
+        "halteres",
+        "ombros",
+        "trapézio",
+        "puxada-vertical"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Dumbbell Upright Row",
+      "aliases": [
+        "puxada alta com halteres"
+      ],
+      "description": "Elevação vertical de halteres junto ao corpo, com cotovelos guiando o movimento.",
+      "instructions": [
+        "Segure os halteres à frente das coxas.",
+        "Puxe-os verticalmente próximos ao tronco, elevando os cotovelos.",
+        "Desça sob controle sem elevar os ombros excessivamente."
+      ],
+      "primaryMuscles": [
+        "deltoide lateral",
+        "trapézio superior"
+      ],
+      "secondaryMuscles": [
+        "bíceps",
+        "antebraços"
+      ],
+      "equipment": [
+        "halteres"
+      ],
+      "bodyRegion": [
+        "ombros",
+        "costas"
+      ],
+      "movementPattern": "puxada vertical",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "levar os cotovelos alto demais com desconforto",
+        "usar balanço do tronco"
+      ],
+      "safetyNotes": "Use amplitude sem pinçamento no ombro; reduza a altura dos cotovelos se houver desconforto.",
+      "confidence": "high"
     },
     {
       "id": "media_0784b2cfbcbc27927699",
-      "namePtBr": "Paralelas Para Peitoral Assistida",
+      "namePtBr": "Mergulho assistido com foco no peitoral",
       "originalFilename": "Paralelas para peitoral assistida.gif",
       "relativePath": "gifs/peitoral/Paralelas para peitoral assistida.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/peitoral/Paralelas%20para%20peitoral%20assistida.gif",
@@ -913,19 +2079,56 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "peito",
-          "label": "Peito"
-        }
+        "máquina-assistida",
+        "peitoral",
+        "tríceps",
+        "empurrão-vertical"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Assisted Chest Dip",
+      "aliases": [
+        "paralelas assistidas para peitoral"
+      ],
+      "description": "Mergulho em máquina assistida com leve inclinação do tronco para enfatizar o peitoral.",
+      "instructions": [
+        "Apoie joelhos ou pés na plataforma assistida e segure as barras.",
+        "Desça controlando a flexão dos cotovelos com o peito levemente à frente.",
+        "Empurre as barras até retornar sem travar bruscamente."
+      ],
+      "primaryMuscles": [
+        "peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "tríceps",
+        "deltoide anterior"
+      ],
+      "equipment": [
+        "máquina de mergulho assistido"
+      ],
+      "bodyRegion": [
+        "peito",
+        "tríceps"
+      ],
+      "movementPattern": "empurrão vertical",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "suspenso assistido",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "descer além do controle do ombro",
+        "perder a depressão escapular"
+      ],
+      "safetyNotes": "Ajuste a assistência e mantenha amplitude confortável para os ombros.",
+      "confidence": "high"
     },
     {
       "id": "media_07da5f6fdfc7b5da19b2",
-      "namePtBr": "Prancha Alta",
+      "namePtBr": "Prancha lateral com halter",
       "originalFilename": "High prancha.gif",
       "relativePath": "gifs/abdominais/High prancha.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/abdominais/High%20prancha.gif",
@@ -935,34 +2138,57 @@
       "height": 1080,
       "animated": false,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        },
-        {
-          "dimension": "status",
-          "id": "imagem_estatica",
-          "label": "Imagem estática — sem animação"
-        }
+        "prancha-lateral",
+        "halter",
+        "core",
+        "estabilidade"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Dumbbell Side Plank",
+      "aliases": [
+        "prancha lateral com carga"
+      ],
+      "description": "Isometria em prancha lateral com halter na mão livre.",
+      "instructions": [
+        "Apoie um antebraço ou mão no solo e alinhe o corpo lateralmente.",
+        "Mantenha quadris elevados e segure o halter com o braço livre.",
+        "Sustente sem rodar o tronco."
+      ],
+      "primaryMuscles": [
+        "oblíquos"
+      ],
+      "secondaryMuscles": [
+        "deltoides",
+        "glúteo médio"
+      ],
+      "equipment": [
+        "halter"
+      ],
+      "bodyRegion": [
+        "core",
+        "ombros"
+      ],
+      "movementPattern": "anti-flexão lateral",
+      "exerciseType": "estabilidade",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "prancha lateral",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "deixar o quadril cair",
+        "rodar o tronco"
+      ],
+      "safetyNotes": "A mídia é estática; confirmar a variante antes de publicar como exercício dinâmico.",
+      "confidence": "medium"
     },
     {
       "id": "media_07e6c47d16c3f6e3f7e0",
-      "namePtBr": "Twist Com EláStico",
+      "namePtBr": "Abdominal oblíquo no banco declinado",
       "originalFilename": "Twist with resistance band.gif",
       "relativePath": "gifs/abdominais/Twist with resistance band.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/abdominais/Twist%20with%20resistance%20band.gif",
@@ -972,24 +2198,57 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "elastico_faixa",
-          "label": "elastico faixa"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "abdômen",
+        "oblíquos",
+        "banco-declinado",
+        "rotação"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Decline Twisting Sit-Up",
+      "aliases": [
+        "abdominal com rotação no banco declinado"
+      ],
+      "description": "Flexão de tronco com rotação alternada em banco declinado.",
+      "instructions": [
+        "Fixe os pés no apoio do banco declinado.",
+        "Eleve o tronco e rode-o em direção a um lado.",
+        "Retorne controlando e alterne os lados."
+      ],
+      "primaryMuscles": [
+        "oblíquos"
+      ],
+      "secondaryMuscles": [
+        "reto abdominal",
+        "flexores do quadril"
+      ],
+      "equipment": [
+        "banco declinado"
+      ],
+      "bodyRegion": [
+        "abdômen"
+      ],
+      "movementPattern": "flexão e rotação de tronco",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "alternado",
+      "position": "deitado em banco declinado",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "puxar o pescoço",
+        "rodar sem controle",
+        "usar impulso"
+      ],
+      "safetyNotes": "Mantenha o pescoço neutro e reduza a amplitude se houver desconforto lombar.",
+      "confidence": "high"
     },
     {
       "id": "media_0814ad01ce14be4d20be",
-      "namePtBr": "Remada Delt Traseira Com Halteres",
+      "namePtBr": "Supino em máquina",
       "originalFilename": "Remada delt traseira com halteres.gif",
       "relativePath": "gifs/costas/Remada delt traseira com halteres.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/costas/Remada%20delt%20traseira%20com%20halteres.gif",
@@ -999,34 +2258,55 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "costas",
-          "label": "Costas"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "remada",
-          "label": "remada"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "máquina",
+        "peitoral",
+        "empurrão-horizontal"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Machine Chest Press",
+      "aliases": [
+        "chest press na máquina"
+      ],
+      "description": "Empurrão horizontal sentado em máquina, com ênfase no peitoral.",
+      "instructions": [
+        "Ajuste o assento para que as alças fiquem na altura do peito.",
+        "Empurre as alças à frente mantendo as escápulas estáveis.",
+        "Retorne de forma controlada."
+      ],
+      "primaryMuscles": [
+        "peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "tríceps",
+        "deltoide anterior"
+      ],
+      "equipment": [
+        "máquina articulada"
+      ],
+      "bodyRegion": [
+        "peito",
+        "tríceps"
+      ],
+      "movementPattern": "empurrão horizontal",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "projetar ombros à frente",
+        "travar os cotovelos"
+      ],
+      "safetyNotes": "Ajuste o banco e use amplitude que mantenha o ombro confortável.",
+      "confidence": "high"
     },
     {
       "id": "media_08279b0479d5199ce0b0",
-      "namePtBr": "Crucifixo inverso na polia",
+      "namePtBr": "Desenvolvimento militar com barra em pé",
       "originalFilename": "Cabo traseiro delt fly.gif",
       "relativePath": "gifs/ombros/Cabo traseiro delt fly.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/ombros/Cabo%20traseiro%20delt%20fly.gif",
@@ -1036,29 +2316,59 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "ombros",
-          "label": "Ombros"
-        },
-        {
-          "dimension": "musculo",
-          "id": "deltoide_posterior",
-          "label": "Deltoide posterior"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        }
+        "barra-reta",
+        "ombros",
+        "empurrão-vertical",
+        "em-pé"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Standing Barbell Overhead Press",
+      "aliases": [
+        "press militar com barra",
+        "desenvolvimento com barra"
+      ],
+      "description": "Pressão vertical de barra acima da cabeça em posição ereta.",
+      "instructions": [
+        "Segure a barra na altura dos ombros.",
+        "Contraia o tronco e pressione a barra acima da cabeça.",
+        "Desça até a posição inicial com controle."
+      ],
+      "primaryMuscles": [
+        "deltoides"
+      ],
+      "secondaryMuscles": [
+        "tríceps",
+        "trapézio superior",
+        "core"
+      ],
+      "equipment": [
+        "barra reta"
+      ],
+      "bodyRegion": [
+        "ombros",
+        "tríceps"
+      ],
+      "movementPattern": "empurrão vertical",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "arquear a lombar",
+        "deixar a barra afastada do centro do corpo"
+      ],
+      "safetyNotes": "Mantenha o tronco firme e utilize carga compatível com controle.",
+      "confidence": "high"
     },
     {
       "id": "media_0839112e00d4f6719204",
-      "namePtBr": "Abdominal VariaçãO 9",
+      "namePtBr": "Elevação de pernas deitado",
       "originalFilename": "Abdominal - Variação 9.gif",
       "relativePath": "gifs/abdominais/Abdominal - Variação 9.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/abdominais/Abdominal%20-%20Varia%C3%A7%C3%A3o%209.gif",
@@ -1067,14 +2377,56 @@
       "width": 1080,
       "height": 1080,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "abdômen",
+        "peso-corporal",
+        "elevação-de-pernas"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Lying Leg Raise",
+      "aliases": [
+        "elevação de pernas no solo"
+      ],
+      "description": "Elevação e descida controlada das pernas estendidas em decúbito dorsal.",
+      "instructions": [
+        "Deite de costas e mantenha o tronco estável.",
+        "Eleve as pernas estendidas até a amplitude mostrada.",
+        "Desça sem perder o controle da lombar."
+      ],
+      "primaryMuscles": [
+        "reto abdominal"
+      ],
+      "secondaryMuscles": [
+        "flexores do quadril",
+        "oblíquos"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegion": [
+        "abdômen"
+      ],
+      "movementPattern": "flexão de quadril",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado de costas",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "arquear a lombar",
+        "balançar as pernas"
+      ],
+      "safetyNotes": "Reduza a amplitude se não conseguir manter a lombar estável.",
+      "confidence": "high"
     },
     {
       "id": "media_086cebe84a251fe4c88f",
-      "namePtBr": "FlexãO De Perna Sentada",
+      "namePtBr": "Cadeira extensora",
       "originalFilename": "Flexão de perna sentada.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Flexão de perna sentada.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Flex%C3%A3o%20de%20perna%20sentada.gif",
@@ -1084,30 +2436,47 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "empurrar",
-          "label": "empurrar"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "quadríceps",
+        "máquina",
+        "extensão-de-joelho"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Machine Leg Extension",
+      "aliases": [
+        "extensão de joelhos na máquina"
+      ],
+      "description": "Extensão de joelhos sentado contra a resistência da máquina.",
+      "instructions": [
+        "Ajuste o encosto e o rolo acima dos tornozelos.",
+        "Estenda os joelhos até a amplitude confortável.",
+        "Desça lentamente sem deixar a carga bater."
+      ],
+      "primaryMuscles": [
+        "quadríceps"
+      ],
+      "secondaryMuscles": [],
+      "equipment": [
+        "máquina extensora"
+      ],
+      "bodyRegion": [
+        "membros inferiores"
+      ],
+      "movementPattern": "extensão de joelho",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "usar impulso",
+        "ajuste inadequado do rolo"
+      ],
+      "safetyNotes": "Ajuste a máquina ao seu corpo e use amplitude confortável para os joelhos.",
+      "confidence": "high"
     },
     {
       "id": "media_08a6bfe55d453c624fc7",
@@ -1138,7 +2507,7 @@
     },
     {
       "id": "media_08bc51618baa755d1eb0",
-      "namePtBr": "Pushdown De TríCeps Com Um BraçO",
+      "namePtBr": "Tríceps na polia unilateral",
       "originalFilename": "Pushdown de tríceps com um braço.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Pushdown de tríceps com um braço.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Pushdown%20de%20tr%C3%ADceps%20com%20um%20bra%C3%A7o.gif",
@@ -1147,10 +2516,52 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "cabo-polia",
+        "tríceps",
+        "unilateral",
+        "extensão-de-cotovelo"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Single-Arm Cable Triceps Pushdown",
+      "aliases": [
+        "pushdown unilateral",
+        "tríceps corda unilateral"
+      ],
+      "description": "Extensão unilateral do cotovelo na polia alta.",
+      "instructions": [
+        "Segure a alça da polia alta com o cotovelo junto ao corpo.",
+        "Estenda o cotovelo para baixo sem mover o ombro.",
+        "Retorne controlando a carga."
+      ],
+      "primaryMuscles": [
+        "tríceps braquial"
+      ],
+      "secondaryMuscles": [
+        "ancôneo"
+      ],
+      "equipment": [
+        "cabo/polia"
+      ],
+      "bodyRegion": [
+        "tríceps"
+      ],
+      "movementPattern": "extensão de cotovelo",
+      "exerciseType": "isolamento",
+      "difficulty": "iniciante",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "abrir o cotovelo",
+        "balançar o tronco"
+      ],
+      "safetyNotes": "Mantenha o ombro estável e escolha carga que permita controle completo.",
+      "confidence": "high"
     },
     {
       "id": "media_094d9361de1ff3d5ebbc",
@@ -1170,7 +2581,7 @@
     },
     {
       "id": "media_09626abf43ce963b14d7",
-      "namePtBr": "Leg Supino Panturrilha VariaçãO 3",
+      "namePtBr": "Elevação de panturrilha em máquina em pé",
       "originalFilename": "Leg press panturrilha - Variação 3.gif",
       "relativePath": "gifs/perna/Leg press panturrilha - Variação 3.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/perna/Leg%20press%20panturrilha%20-%20Varia%C3%A7%C3%A3o%203.gif",
@@ -1180,24 +2591,53 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "pernas",
-          "label": "Pernas"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "empurrar",
-          "label": "empurrar"
-        }
+        "panturrilhas",
+        "máquina",
+        "flexão-plantar"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Standing Machine Calf Raise",
+      "aliases": [
+        "panturrilha em pé na máquina"
+      ],
+      "description": "Flexão plantar em máquina com joelhos estendidos.",
+      "instructions": [
+        "Posicione os ombros sob os apoios e as pontas dos pés na plataforma.",
+        "Eleve os calcanhares contra a resistência.",
+        "Desça de forma controlada."
+      ],
+      "primaryMuscles": [
+        "gastrocnêmio"
+      ],
+      "secondaryMuscles": [
+        "sóleo"
+      ],
+      "equipment": [
+        "máquina de panturrilha em pé"
+      ],
+      "bodyRegion": [
+        "panturrilhas"
+      ],
+      "movementPattern": "flexão plantar",
+      "exerciseType": "isolamento",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "quicar no fim da amplitude",
+        "flexionar demais os joelhos"
+      ],
+      "safetyNotes": "Use amplitude controlada e não solte os apoios durante a série.",
+      "confidence": "high"
     },
     {
       "id": "media_0966f9e83c97f57726ea",
-      "namePtBr": "ElevaçãO De Panturrilha Sentada Por MáQuina",
+      "namePtBr": "Elevação de panturrilha sentada com anilhas",
       "originalFilename": "Elevação de panturrilha sentada por máquina.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Elevação de panturrilha sentada por máquina.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Eleva%C3%A7%C3%A3o%20de%20panturrilha%20sentada%20por%20m%C3%A1quina.gif",
@@ -1207,19 +2647,55 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        }
+        "panturrilhas",
+        "máquina",
+        "anilhas",
+        "flexão-plantar"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Plate-Loaded Seated Calf Raise",
+      "aliases": [
+        "panturrilha sentada com anilhas"
+      ],
+      "description": "Flexão plantar sentado, com carga sobre os joelhos e pés na plataforma.",
+      "instructions": [
+        "Sente-se e posicione as pontas dos pés na plataforma.",
+        "Eleve os calcanhares contra a carga.",
+        "Desça controlando até o alongamento confortável."
+      ],
+      "primaryMuscles": [
+        "sóleo"
+      ],
+      "secondaryMuscles": [
+        "gastrocnêmio"
+      ],
+      "equipment": [
+        "máquina de panturrilha sentada",
+        "anilhas"
+      ],
+      "bodyRegion": [
+        "panturrilhas"
+      ],
+      "movementPattern": "flexão plantar",
+      "exerciseType": "isolamento",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "movimento curto e rápido",
+        "tirar a ponta dos pés da plataforma"
+      ],
+      "safetyNotes": "O joelho flexionado aumenta a ênfase no sóleo; mantenha controle em toda a amplitude.",
+      "confidence": "high"
     },
     {
       "id": "media_096aae1b6a146e36ec0d",
-      "namePtBr": "Agachamento Unilateral Com Barra",
+      "namePtBr": "Afundo estacionário com barra",
       "originalFilename": "Agachamento unilateral com barra.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Agachamento unilateral com barra.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Agachamento%20unilateral%20com%20barra.gif",
@@ -1229,24 +2705,60 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "barra_reta",
-          "label": "barra reta"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "agachamento",
-          "label": "agachamento"
-        }
+        "barra-reta",
+        "afundo",
+        "unilateral",
+        "quadríceps",
+        "glúteos"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Barbell Split Squat",
+      "aliases": [
+        "agachamento unilateral com barra",
+        "afundo com barra"
+      ],
+      "description": "Agachamento em base dividida com barra apoiada nas costas.",
+      "instructions": [
+        "Assuma base dividida com a barra apoiada no trapézio.",
+        "Desça verticalmente flexionando ambos os joelhos.",
+        "Empurre o solo com a perna da frente para subir."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteos"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "panturrilhas",
+        "core"
+      ],
+      "equipment": [
+        "barra reta"
+      ],
+      "bodyRegion": [
+        "membros inferiores"
+      ],
+      "movementPattern": "agachamento unilateral",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "joelho da frente cair para dentro",
+        "passo curto demais",
+        "inclinar o tronco sem controle"
+      ],
+      "safetyNotes": "Comece com carga leve e mantenha o joelho acompanhando a direção do pé.",
+      "confidence": "high"
     },
     {
       "id": "media_0aa1cbef88826c8faf1e",
-      "namePtBr": "Deitado, Joelho Levantado VariaçãO 2",
+      "namePtBr": "Abdominal canivete",
       "originalFilename": "Deitado, joelho levantado - Variação 2.gif",
       "relativePath": "gifs/abdominais/Deitado, joelho levantado - Variação 2.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/abdominais/Deitado%2C%20joelho%20levantado%20-%20Varia%C3%A7%C3%A3o%202.gif",
@@ -1255,14 +2767,59 @@
       "width": 1080,
       "height": 1080,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "abdômen",
+        "peso-corporal",
+        "canivete",
+        "flexão-de-tronco"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "V-Up",
+      "aliases": [
+        "abdominal em V",
+        "V-up"
+      ],
+      "description": "Flexão simultânea de tronco e quadris levando mãos em direção aos pés.",
+      "instructions": [
+        "Deite de costas com braços e pernas estendidos.",
+        "Eleve tronco e pernas simultaneamente formando um V.",
+        "Retorne lentamente sem perder o controle lombar."
+      ],
+      "primaryMuscles": [
+        "reto abdominal"
+      ],
+      "secondaryMuscles": [
+        "oblíquos",
+        "flexores do quadril"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegion": [
+        "abdômen"
+      ],
+      "movementPattern": "flexão de tronco e quadril",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado de costas",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "usar impulso",
+        "forçar a cervical",
+        "arredondar sem controle"
+      ],
+      "safetyNotes": "Regredir para elevação de joelhos se a lombar não permanecer confortável.",
+      "confidence": "high"
     },
     {
       "id": "media_0ac5c9d784c783160f44",
-      "namePtBr": "Prensa De Ombro De Cabo",
+      "namePtBr": "Desenvolvimento de ombros na polia baixa",
       "originalFilename": "Prensa de ombro de cabo.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Prensa de ombro de cabo.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Prensa%20de%20ombro%20de%20cabo.gif",
@@ -1272,19 +2829,56 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        }
+        "cabo-polia",
+        "ombros",
+        "empurrão-vertical"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Standing Low Cable Shoulder Press",
+      "aliases": [
+        "press de ombros na polia"
+      ],
+      "description": "Pressão vertical bilateral usando cabos posicionados baixos atrás do corpo.",
+      "instructions": [
+        "Segure as alças das polias baixas na altura dos ombros.",
+        "Pressione acima da cabeça mantendo o tronco firme.",
+        "Retorne com controle até os cotovelos flexionados."
+      ],
+      "primaryMuscles": [
+        "deltoides"
+      ],
+      "secondaryMuscles": [
+        "tríceps",
+        "trapézio superior",
+        "core"
+      ],
+      "equipment": [
+        "cabo/polia"
+      ],
+      "bodyRegion": [
+        "ombros",
+        "tríceps"
+      ],
+      "movementPattern": "empurrão vertical",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "arquear a lombar",
+        "perder a linha dos punhos"
+      ],
+      "safetyNotes": "Mantenha carga moderada e tronco estável; não avance se houver dor no ombro.",
+      "confidence": "high"
     },
     {
       "id": "media_0ad7f642d10f71b2f0dd",
-      "namePtBr": "Supino Inclinado Com Halteres VariaçãO 2",
+      "namePtBr": "Supino inclinado com halteres",
       "originalFilename": "Supino inclinado com halteres - Variação 2.gif",
       "relativePath": "gifs/peitoral/Supino inclinado com halteres - Variação 2.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/peitoral/Supino%20inclinado%20com%20halteres%20-%20Varia%C3%A7%C3%A3o%202.gif",
@@ -1294,34 +2888,58 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "peito",
-          "label": "Peito"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "empurrar",
-          "label": "empurrar"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "halteres",
+        "banco-inclinado",
+        "peitoral",
+        "empurrão-horizontal"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Incline Dumbbell Bench Press",
+      "aliases": [
+        "supino inclinado com dumbbells"
+      ],
+      "description": "Pressão horizontal-inclinada com halteres em banco inclinado.",
+      "instructions": [
+        "Deite no banco inclinado com halteres na linha do peito.",
+        "Empurre os halteres para cima sem perder o apoio das escápulas.",
+        "Desça com os cotovelos controlados."
+      ],
+      "primaryMuscles": [
+        "peitoral maior porção clavicular"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "tríceps"
+      ],
+      "equipment": [
+        "halteres",
+        "banco inclinado"
+      ],
+      "bodyRegion": [
+        "peito",
+        "tríceps"
+      ],
+      "movementPattern": "empurrão inclinado",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado em banco inclinado",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "abrir demais os cotovelos",
+        "perder o apoio das escápulas"
+      ],
+      "safetyNotes": "Use banco firme e carga que permita descida controlada.",
+      "confidence": "high"
     },
     {
       "id": "media_0b8f566d689b143e2c02",
-      "namePtBr": "MáQuina De ElevaçãO Lateral VariaçãO 2",
+      "namePtBr": "Desenvolvimento sentado com halteres",
       "originalFilename": "Máquina de elevação lateral - Variação 2.gif",
       "relativePath": "gifs/ombros/Máquina de elevação lateral - Variação 2.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/ombros/M%C3%A1quina%20de%20eleva%C3%A7%C3%A3o%20lateral%20-%20Varia%C3%A7%C3%A3o%202.gif",
@@ -1331,24 +2949,58 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "ombros",
-          "label": "Ombros"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        }
+        "halteres",
+        "ombros",
+        "banco",
+        "empurrão-vertical"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Seated Dumbbell Shoulder Press",
+      "aliases": [
+        "press de ombros sentado com halteres"
+      ],
+      "description": "Pressão vertical sentado com dois halteres.",
+      "instructions": [
+        "Sente-se com apoio e segure os halteres na altura dos ombros.",
+        "Pressione-os acima da cabeça mantendo os punhos alinhados.",
+        "Desça controlando até a posição inicial."
+      ],
+      "primaryMuscles": [
+        "deltoides"
+      ],
+      "secondaryMuscles": [
+        "tríceps",
+        "trapézio superior"
+      ],
+      "equipment": [
+        "halteres",
+        "banco"
+      ],
+      "bodyRegion": [
+        "ombros",
+        "tríceps"
+      ],
+      "movementPattern": "empurrão vertical",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "arquear a lombar",
+        "bater halteres no topo"
+      ],
+      "safetyNotes": "Mantenha o encosto ajustado e evite amplitude dolorosa.",
+      "confidence": "high"
     },
     {
       "id": "media_0c2f5a06890bde3543b5",
-      "namePtBr": "Mergulha Entre Cadeiras",
+      "namePtBr": "Mergulho entre bancos",
       "originalFilename": "Mergulha entre cadeiras.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Mergulha entre cadeiras.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Mergulha%20entre%20cadeiras.gif",
@@ -1357,14 +3009,59 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "tríceps",
+        "bancos",
+        "peso-corporal",
+        "empurrão"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Bench Dip",
+      "aliases": [
+        "tríceps no banco",
+        "mergulho entre cadeiras"
+      ],
+      "description": "Extensão de cotovelos usando dois bancos, com pés apoiados no banco oposto.",
+      "instructions": [
+        "Apoie as mãos atrás do corpo em um banco e os pés no outro.",
+        "Desça flexionando os cotovelos sem afastar os ombros.",
+        "Empurre o banco para retornar."
+      ],
+      "primaryMuscles": [
+        "tríceps braquial"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "peitoral maior"
+      ],
+      "equipment": [
+        "dois bancos"
+      ],
+      "bodyRegion": [
+        "tríceps",
+        "ombros"
+      ],
+      "movementPattern": "extensão de cotovelo",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "apoio posterior",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "descer além da tolerância do ombro",
+        "deixar quadris muito afastados do banco"
+      ],
+      "safetyNotes": "Evite profundidade que cause desconforto anterior no ombro; bancos devem estar firmes.",
+      "confidence": "high"
     },
     {
       "id": "media_0c91b5bf4cdfb16a0d36",
-      "namePtBr": "Enrolamento De Cabo De Um BraçO",
+      "namePtBr": "Rosca unilateral na polia baixa",
       "originalFilename": "Enrolamento de cabo de um braço.gif",
       "relativePath": "gifs/biceps/Enrolamento de cabo de um braço.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/biceps/Enrolamento%20de%20cabo%20de%20um%20bra%C3%A7o.gif",
@@ -1374,24 +3071,57 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "bracos",
-          "label": "Bracos"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        }
+        "cabo-polia",
+        "bíceps",
+        "unilateral",
+        "rosca"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "canonicalNameEn": "Single-Arm Low Cable Curl",
+      "aliases": [
+        "rosca na polia unilateral",
+        "rosca de cabo com um braço"
+      ],
+      "description": "Flexão unilateral do cotovelo usando uma polia baixa.",
+      "instructions": [
+        "Segure a alça da polia baixa com o braço ao lado do corpo.",
+        "Flexione o cotovelo sem mover o ombro.",
+        "Desça a alça lentamente até quase estender o braço."
+      ],
+      "primaryMuscles": [
+        "bíceps braquial"
+      ],
+      "secondaryMuscles": [
+        "braquial",
+        "braquiorradial"
+      ],
+      "equipment": [
+        "cabo/polia"
+      ],
+      "bodyRegion": [
+        "bíceps",
+        "antebraços"
+      ],
+      "movementPattern": "flexão de cotovelo",
+      "exerciseType": "isolamento",
+      "difficulty": "iniciante",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "balançar o tronco",
+        "avançar o cotovelo"
+      ],
+      "safetyNotes": "Mantenha a carga controlada e o ombro neutro.",
+      "confidence": "high"
     },
     {
       "id": "media_0d2817d24094af2721eb",
-      "namePtBr": "ExtensãO De Quadril No Banco",
+      "namePtBr": "Extensão de quadril em quatro apoios no banco",
       "originalFilename": "Extensão de quadril no banco.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Extensão de quadril no banco.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Extens%C3%A3o%20de%20quadril%20no%20banco.gif",
@@ -1400,14 +3130,55 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "glúteos",
+        "banco",
+        "unilateral",
+        "extensão de quadril"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "coice de glúteo no banco"
+      ],
+      "description": "Extensão unilateral de quadril com joelho flexionado e mãos apoiadas no banco.",
+      "instructions": [
+        "Apoie mãos e um joelho no banco, mantendo o tronco estável.",
+        "Eleve a outra coxa para trás por extensão de quadril.",
+        "Retorne sem rodar a pelve."
+      ],
+      "primaryMuscles": [
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "eretores da coluna"
+      ],
+      "equipment": [
+        "banco"
+      ],
+      "bodyRegion": "glúteos",
+      "movementPattern": "extensão de quadril",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "unilateral",
+      "position": "quatro apoios",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "hiperestender a lombar",
+        "rodar a pelve",
+        "chutar a perna com impulso"
+      ],
+      "safetyNotes": "Mantenha a lombar neutra e a amplitude confortável.",
+      "confidence": "high"
     },
     {
       "id": "media_0d389bd7d0b1d6a1e7f5",
-      "namePtBr": "ExtensãO De PescoçO Com Peso Deitada",
+      "namePtBr": "Extensão cervical em decúbito ventral com anilha",
       "originalFilename": "Extensão de pescoço com peso deitada.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Extensão de pescoço com peso deitada.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Extens%C3%A3o%20de%20pesco%C3%A7o%20com%20peso%20deitada.gif",
@@ -1416,14 +3187,54 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "pescoço",
+        "anilha",
+        "banco",
+        "extensão cervical"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "extensão de pescoço deitado com peso"
+      ],
+      "description": "Extensão controlada do pescoço deitado de barriga para baixo, segurando uma anilha na região posterior da cabeça.",
+      "instructions": [
+        "Deite-se em banco estável com a cabeça livre na extremidade.",
+        "Segure a anilha de modo seguro contra a parte posterior da cabeça.",
+        "Eleve a cabeça lentamente até posição neutra e retorne controlando."
+      ],
+      "primaryMuscles": [
+        "extensores cervicais"
+      ],
+      "secondaryMuscles": [
+        "trapézio superior"
+      ],
+      "equipment": [
+        "banco",
+        "anilha"
+      ],
+      "bodyRegion": "pescoço",
+      "movementPattern": "extensão cervical",
+      "exerciseType": "força",
+      "difficulty": "avançado",
+      "laterality": "bilateral",
+      "position": "decúbito ventral",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "usar carga excessiva",
+        "hiperestender o pescoço",
+        "movimento brusco"
+      ],
+      "safetyNotes": "Exercício de maior risco cervical: requer orientação profissional e não deve ser feito com dor, formigamento ou histórico cervical sem liberação clínica.",
+      "confidence": "high"
     },
     {
       "id": "media_0d5e4d939eca8975cffc",
-      "namePtBr": "Agachamento Com Pistola Kettlebell",
+      "namePtBr": "Agachamento pistola com kettlebell",
       "originalFilename": "Agachamento com pistola kettlebell.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Agachamento com pistola kettlebell.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Agachamento%20com%20pistola%20kettlebell.gif",
@@ -1433,29 +3244,55 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "kettlebell",
-          "label": "kettlebell"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "agachamento",
-          "label": "agachamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "quadríceps",
+        "kettlebell",
+        "unilateral",
+        "agachamento"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0544"
+      "sourceExerciseId": "0544",
+      "aliases": [
+        "pistol squat com kettlebell"
+      ],
+      "description": "Agachamento unilateral com a perna livre à frente e kettlebell sustentado junto ao tórax.",
+      "instructions": [
+        "Segure o kettlebell junto ao peito e mantenha um pé firme no chão.",
+        "Agache em uma perna enquanto estende a outra à frente.",
+        "Suba pressionando o pé de apoio sem perder o alinhamento do joelho."
+      ],
+      "primaryMuscles": [
+        "quadríceps"
+      ],
+      "secondaryMuscles": [
+        "glúteo máximo",
+        "panturrilhas",
+        "core"
+      ],
+      "equipment": [
+        "kettlebell"
+      ],
+      "bodyRegion": "pernas",
+      "movementPattern": "agachar unilateral",
+      "exerciseType": "força",
+      "difficulty": "avançado",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "joelho cair para dentro",
+        "perder o calcanhar",
+        "arredondar excessivamente a lombar"
+      ],
+      "safetyNotes": "Exige mobilidade e equilíbrio; use progressão assistida se não controlar a descida.",
+      "confidence": "high"
     },
     {
       "id": "media_0e0efd578078ac0be267",
-      "namePtBr": "Postura De Caranguejo Toque De TorçãO De Caranguejo VariaçãO 2",
+      "namePtBr": "Postura do caranguejo com torção",
       "originalFilename": "Postura de caranguejo - Toque de torção de caranguejo - Variação 2.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Postura de caranguejo - Toque de torção de caranguejo - Variação 2.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Postura%20de%20caranguejo%20-%20Toque%20de%20tor%C3%A7%C3%A3o%20de%20caranguejo%20-%20Varia%C3%A7%C3%A3o%202.gif",
@@ -1465,39 +3302,55 @@
       "height": 360,
       "animated": false,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "mobilidade_alongamento",
-          "label": "mobilidade alongamento"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        },
-        {
-          "dimension": "status",
-          "id": "imagem_estatica",
-          "label": "Imagem estática — sem animação"
-        }
+        "core",
+        "peso corporal",
+        "mobilidade",
+        "rotação"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "crab twist touch"
+      ],
+      "description": "Variação de apoio em quatro pontos invertido com rotação do tronco; o GIF é estático e não permite confirmar a trajetória completa.",
+      "instructions": [
+        "Sente-se com mãos atrás do corpo e pés apoiados.",
+        "Eleve o quadril apenas se mantiver os ombros estáveis.",
+        "Faça a rotação dentro da amplitude confortável."
+      ],
+      "primaryMuscles": [
+        "reto abdominal",
+        "oblíquos"
+      ],
+      "secondaryMuscles": [
+        "glúteo máximo",
+        "deltoides"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegion": "core",
+      "movementPattern": "rotação de tronco",
+      "exerciseType": "mobilidade",
+      "difficulty": "intermediário",
+      "laterality": "alternado",
+      "position": "apoio invertido",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "forçar o ombro em extensão",
+        "deixar o quadril cair",
+        "torcer além do controle"
+      ],
+      "safetyNotes": "Interrompa em caso de dor no punho ou ombro.",
+      "confidence": "low"
     },
     {
       "id": "media_0e2667140863733a4e38",
-      "namePtBr": "ErgôMetro De BraçOs Bicicleta De BraçOs",
+      "namePtBr": "Ergômetro de braços",
       "originalFilename": "Ergômetro de braços - Bicicleta de braços.gif",
       "relativePath": "gifs/cardio/Ergômetro de braços - Bicicleta de braços.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/cardio/Erg%C3%B4metro%20de%20bra%C3%A7os%20-%20Bicicleta%20de%20bra%C3%A7os.gif",
@@ -1506,14 +3359,59 @@
       "width": 1080,
       "height": 1080,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "cardio",
+        "ergômetro de braços",
+        "membros superiores",
+        "baixo impacto"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "bicicleta de braços",
+        "arm bike"
+      ],
+      "description": "Exercício cardiovascular sentado que pedala manivelas com os braços em um ergômetro.",
+      "instructions": [
+        "Ajuste o assento e alcance as manivelas sem projetar os ombros.",
+        "Pedale em ritmo contínuo, com tronco estável.",
+        "Controle a resistência e o ritmo conforme o objetivo."
+      ],
+      "primaryMuscles": [
+        "deltoides",
+        "peitoral maior",
+        "dorsal largo"
+      ],
+      "secondaryMuscles": [
+        "bíceps braquial",
+        "tríceps braquial",
+        "core"
+      ],
+      "equipment": [
+        "ergômetro de braços"
+      ],
+      "bodyRegion": "cardio",
+      "movementPattern": "movimento cíclico de membros superiores",
+      "exerciseType": "cardiorrespiratório",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environment": [
+        "academia",
+        "clínica"
+      ],
+      "commonMistakes": [
+        "elevar os ombros",
+        "arredondar muito a coluna",
+        "usar resistência incompatível"
+      ],
+      "safetyNotes": "Ajuste intensidade individualmente; interrompa diante de dor torácica, tontura ou sintomas incomuns.",
+      "confidence": "high"
     },
     {
       "id": "media_0e43d7316b4955b28cd3",
-      "namePtBr": "Declinado Close Pegada Bench To Skull Crusher",
+      "namePtBr": "Supino declinado com pegada fechada para tríceps testa com halteres",
       "originalFilename": "Declinado close grip bench to skull crusher.gif",
       "relativePath": "gifs/tríceps/Declinado close grip bench to skull crusher.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/tr%C3%ADceps/Declinado%20close%20grip%20bench%20to%20skull%20crusher.gif",
@@ -1523,19 +3421,54 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "bracos",
-          "label": "Bracos"
-        }
+        "tríceps",
+        "halteres",
+        "banco declinado",
+        "combo"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "combo supino fechado e tríceps testa declinado"
+      ],
+      "description": "Combinação em banco declinado que une pressão com pegada fechada e extensão de cotovelos para trás da cabeça.",
+      "instructions": [
+        "Deite-se no banco declinado com halteres alinhados sobre o peito.",
+        "Controle a fase de extensão de cotovelos levando os halteres atrás da cabeça.",
+        "Retorne sem abrir excessivamente os cotovelos."
+      ],
+      "primaryMuscles": [
+        "tríceps braquial"
+      ],
+      "secondaryMuscles": [
+        "peitoral maior",
+        "deltoide anterior"
+      ],
+      "equipment": [
+        "halteres",
+        "banco declinado"
+      ],
+      "bodyRegion": "tríceps",
+      "movementPattern": "extensão de cotovelo",
+      "exerciseType": "força",
+      "difficulty": "avançado",
+      "laterality": "bilateral",
+      "position": "decúbito dorsal em banco declinado",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "descer os halteres sem controle",
+        "abrir demais os cotovelos",
+        "perder a posição no banco"
+      ],
+      "safetyNotes": "Use carga leve a moderada e banco seguro; o movimento acima/atrás da cabeça pode irritar ombros ou cotovelos.",
+      "confidence": "medium"
     },
     {
       "id": "media_0e463aeb4158497e2760",
-      "namePtBr": "ExercíCio Bola Sapo Abdominal",
+      "namePtBr": "Abdominal sapo com bola suíça",
       "originalFilename": "Exercício bola sapo crunch.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Exercício bola sapo crunch.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Exerc%C3%ADcio%20bola%20sapo%20crunch.gif",
@@ -1544,14 +3477,55 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "abdômen",
+        "bola suíça",
+        "core",
+        "flexão de quadril"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "frog crunch com bola"
+      ],
+      "description": "Abdominal em decúbito dorsal com bola suíça sustentada entre os pés durante a flexão de quadril e joelhos.",
+      "instructions": [
+        "Deite-se e prenda a bola entre os pés.",
+        "Flexione quadris e joelhos aproximando-os do tronco.",
+        "Retorne devagar sem tirar a lombar do controle."
+      ],
+      "primaryMuscles": [
+        "reto abdominal"
+      ],
+      "secondaryMuscles": [
+        "oblíquos",
+        "flexores do quadril"
+      ],
+      "equipment": [
+        "bola suíça"
+      ],
+      "bodyRegion": "abdômen",
+      "movementPattern": "flexão de tronco/quadril",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "decúbito dorsal",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "puxar o pescoço",
+        "usar balanço",
+        "perder a bola"
+      ],
+      "safetyNotes": "Mantenha a amplitude confortável para a lombar e escolha bola de tamanho estável.",
+      "confidence": "medium"
     },
     {
       "id": "media_0e75df0d48644ddb1bba",
-      "namePtBr": "Panturrilha Em Pé Com Barra",
+      "namePtBr": "Elevação de panturrilhas em pé com barra",
       "originalFilename": "Panturrilha em pé com barra.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Panturrilha em pé com barra.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Panturrilha%20em%20p%C3%A9%20com%20barra.gif",
@@ -1561,19 +3535,54 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "barra_reta",
-          "label": "barra reta"
-        }
+        "panturrilhas",
+        "barra reta",
+        "plataforma",
+        "flexão plantar"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0108"
+      "sourceExerciseId": "0108",
+      "aliases": [
+        "panturrilha em pé com barra"
+      ],
+      "description": "Elevação e descida dos calcanhares em plataforma, com barra apoiada sobre os ombros.",
+      "instructions": [
+        "Posicione a ponta dos pés em plataforma estável e a barra sobre o trapézio.",
+        "Eleve os calcanhares até contrair as panturrilhas.",
+        "Desça de modo controlado dentro da mobilidade do tornozelo."
+      ],
+      "primaryMuscles": [
+        "gastrocnêmio"
+      ],
+      "secondaryMuscles": [
+        "sóleo",
+        "tibial posterior"
+      ],
+      "equipment": [
+        "barra reta",
+        "plataforma"
+      ],
+      "bodyRegion": "panturrilhas",
+      "movementPattern": "flexão plantar",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "quicar no fim da amplitude",
+        "dobrar muito os joelhos",
+        "perder equilíbrio"
+      ],
+      "safetyNotes": "Use suporte/rack quando necessário e evite carga que comprometa o equilíbrio.",
+      "confidence": "high"
     },
     {
       "id": "media_0ed092ea7050d420c5a4",
-      "namePtBr": "031 Desenvolvimento Militar Com Barra",
+      "namePtBr": "Desenvolvimento militar em pé com barra",
       "originalFilename": "031_desenvolvimento_militar_com_barra.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/exercicios_renomeados_pt_br/031_desenvolvimento_militar_com_barra.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/exercicios_renomeados_pt_br/031_desenvolvimento_militar_com_barra.gif",
@@ -1582,14 +3591,58 @@
       "width": 720,
       "height": 720,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "ombros",
+        "barra reta",
+        "empurrar vertical",
+        "em pé"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "press militar com barra",
+        "desenvolvimento com barra"
+      ],
+      "description": "Pressão vertical da barra, do nível dos ombros até acima da cabeça, em pé.",
+      "instructions": [
+        "Segure a barra na altura superior do peito, mãos pouco além dos ombros.",
+        "Contraia abdômen e glúteos antes de pressionar a barra acima da cabeça.",
+        "Retorne de forma controlada ao nível dos ombros."
+      ],
+      "primaryMuscles": [
+        "deltoides"
+      ],
+      "secondaryMuscles": [
+        "tríceps braquial",
+        "trapézio",
+        "serrátil anterior",
+        "core"
+      ],
+      "equipment": [
+        "barra reta"
+      ],
+      "bodyRegion": "ombros",
+      "movementPattern": "empurrar vertical",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "hiperestender a lombar",
+        "usar impulso das pernas",
+        "projetar a barra à frente"
+      ],
+      "safetyNotes": "Não force a barra atrás da nuca; use carga compatível com o controle do tronco.",
+      "confidence": "high"
     },
     {
       "id": "media_0f1bbd4ee5650b3776bb",
-      "namePtBr": "Esteira VariaçãO 2",
+      "namePtBr": "Corrida na esteira",
       "originalFilename": "Esteira - Variação 2.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Esteira - Variação 2.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Esteira%20-%20Varia%C3%A7%C3%A3o%202.gif",
@@ -1598,14 +3651,57 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "cardio",
+        "esteira",
+        "corrida",
+        "membros inferiores"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "corrida em esteira"
+      ],
+      "description": "Corrida contínua sobre a esteira com padrão cíclico de passada.",
+      "instructions": [
+        "Inicie em velocidade segura e mantenha postura ereta.",
+        "Pouse os pés de modo controlado, sem segurar nos apoios.",
+        "Ajuste velocidade e inclinação gradualmente."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo",
+        "panturrilhas"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "core"
+      ],
+      "equipment": [
+        "esteira"
+      ],
+      "bodyRegion": "cardio",
+      "movementPattern": "locomoção cíclica",
+      "exerciseType": "cardiorrespiratório",
+      "difficulty": "variável",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "segurar nos apoios",
+        "aumentar velocidade bruscamente",
+        "passada excessivamente longa"
+      ],
+      "safetyNotes": "Comece em ritmo adequado e use o botão de parada de emergência quando disponível.",
+      "confidence": "high"
     },
     {
       "id": "media_0f94dcbd29df44bcba5c",
-      "namePtBr": "ElevaçãO Frontal Da Placa De Peso VariaçãO 7",
+      "namePtBr": "Elevação frontal com halteres",
       "originalFilename": "Elevação frontal da placa de peso - Variação 7.gif",
       "relativePath": "gifs/ombros/Elevação frontal da placa de peso - Variação 7.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/ombros/Eleva%C3%A7%C3%A3o%20frontal%20da%20placa%20de%20peso%20-%20Varia%C3%A7%C3%A3o%207.gif",
@@ -1615,19 +3711,53 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "ombros",
-          "label": "Ombros"
-        }
+        "ombros",
+        "halteres",
+        "elevação frontal"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "elevação frontal com dumbbells"
+      ],
+      "description": "Elevação bilateral dos halteres à frente do corpo até aproximadamente a altura dos ombros.",
+      "instructions": [
+        "Fique em pé com halteres à frente das coxas e tronco estável.",
+        "Eleve os braços à frente até a altura dos ombros.",
+        "Desça lentamente sem balançar o corpo."
+      ],
+      "primaryMuscles": [
+        "deltoide anterior"
+      ],
+      "secondaryMuscles": [
+        "peitoral maior (porção clavicular)",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "halteres"
+      ],
+      "bodyRegion": "ombros",
+      "movementPattern": "flexão de ombro",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "usar balanço da lombar",
+        "elevar acima do controle",
+        "dobrar punhos"
+      ],
+      "safetyNotes": "Mantenha carga leve o bastante para não compensar com o tronco.",
+      "confidence": "high"
     },
     {
       "id": "media_0fa6a4086f89b6f9293a",
-      "namePtBr": "EláStico De ResistêNcia Para Ombros Sentados",
+      "namePtBr": "Desenvolvimento sentado com faixa elástica",
       "originalFilename": "Elástico de resistência para ombros sentados.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Elástico de resistência para ombros sentados.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/El%C3%A1stico%20de%20resist%C3%AAncia%20para%20ombros%20sentados.gif",
@@ -1637,24 +3767,55 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "elastico_faixa",
-          "label": "elastico faixa"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "ombros",
+        "faixa elástica",
+        "sentado",
+        "empurrar vertical"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "press de ombros sentado com elástico"
+      ],
+      "description": "Pressão vertical bilateral sentado, com a faixa elástica ancorada sob o corpo.",
+      "instructions": [
+        "Sente-se sobre a faixa, segurando as extremidades na altura dos ombros.",
+        "Pressione as mãos acima da cabeça com tronco estável.",
+        "Retorne devagar mantendo tensão na faixa."
+      ],
+      "primaryMuscles": [
+        "deltoides"
+      ],
+      "secondaryMuscles": [
+        "tríceps braquial",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "faixa elástica",
+        "banco ou cadeira"
+      ],
+      "bodyRegion": "ombros",
+      "movementPattern": "empurrar vertical",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "faixa mal ancorada",
+        "arquear a lombar",
+        "elevar os ombros"
+      ],
+      "safetyNotes": "Inspecione a faixa antes do uso e mantenha-a firmemente ancorada.",
+      "confidence": "high"
     },
     {
       "id": "media_0fafa9f029bf477acc49",
-      "namePtBr": "Alongamento Do Peito Sentado",
+      "namePtBr": "Alongamento de peitoral sentado com mãos atrás do corpo",
       "originalFilename": "Alongamento do peito sentado.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Alongamento do peito sentado.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Alongamento%20do%20peito%20sentado.gif",
@@ -1664,34 +3825,54 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "mobilidade_alongamento",
-          "label": "mobilidade alongamento"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "peito",
+        "alongamento",
+        "mobilidade",
+        "peso corporal"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "alongamento de peito sentado"
+      ],
+      "description": "Alongamento estático do peitoral com mãos apoiadas atrás do corpo e peito elevado.",
+      "instructions": [
+        "Sente-se ereto e apoie as mãos atrás do corpo.",
+        "Abra o peito suavemente e mantenha os ombros longe das orelhas.",
+        "Sustente somente até uma sensação confortável de alongamento."
+      ],
+      "primaryMuscles": [
+        "peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "bíceps braquial"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegion": "peito",
+      "movementPattern": "extensão horizontal de ombro",
+      "exerciseType": "mobilidade",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "forçar a extensão do ombro",
+        "elevar os ombros",
+        "prender a respiração"
+      ],
+      "safetyNotes": "Não force se houver dor anterior no ombro ou formigamento.",
+      "confidence": "medium"
     },
     {
       "id": "media_1070a81e5b6958fb1ad9",
-      "namePtBr": "Hackear Agachamento De Panturrilha",
+      "namePtBr": "Flexão de joelhos na bola suíça com ponte",
       "originalFilename": "Hackear agachamento de panturrilha.gif",
       "relativePath": "gifs/perna/Hackear agachamento de panturrilha.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/perna/Hackear%20agachamento%20de%20panturrilha.gif",
@@ -1701,24 +3882,56 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "pernas",
-          "label": "Pernas"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "agachamento",
-          "label": "agachamento"
-        }
+        "posterior de coxa",
+        "bola suíça",
+        "ponte",
+        "flexão de joelho"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "mesa flexora na bola suíça",
+        "leg curl na bola suíça"
+      ],
+      "description": "Flexão de joelhos com pés sobre a bola suíça, mantendo elevação de quadril.",
+      "instructions": [
+        "Deite-se de costas com calcanhares sobre a bola.",
+        "Eleve o quadril e puxe a bola flexionando os joelhos.",
+        "Estenda os joelhos de volta sem deixar o quadril cair."
+      ],
+      "primaryMuscles": [
+        "isquiotibiais"
+      ],
+      "secondaryMuscles": [
+        "glúteo máximo",
+        "panturrilhas",
+        "core"
+      ],
+      "equipment": [
+        "bola suíça"
+      ],
+      "bodyRegion": "posterior de coxa",
+      "movementPattern": "flexão de joelho",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "decúbito dorsal",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "deixar quadris cair",
+        "estender a lombar",
+        "perder controle da bola"
+      ],
+      "safetyNotes": "Use uma bola apropriada e superfície que não deslize; reduza amplitude se houver cãibra ou dor lombar.",
+      "confidence": "high"
     },
     {
       "id": "media_107c9a3e32712c782ed3",
-      "namePtBr": "Remada Ajoelhada Com Polia Alta Com BraçO úNico",
+      "namePtBr": "Puxada alta unilateral ajoelhada na polia",
       "originalFilename": "Remada ajoelhada com polia alta com braço único.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Remada ajoelhada com polia alta com braço único.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Remada%20ajoelhada%20com%20polia%20alta%20com%20bra%C3%A7o%20%C3%BAnico.gif",
@@ -1728,24 +3941,55 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "remada",
-          "label": "remada"
-        }
+        "costas",
+        "polia",
+        "unilateral",
+        "puxar vertical"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0193"
+      "sourceExerciseId": "0193",
+      "aliases": [
+        "puxada unilateral ajoelhada na polia"
+      ],
+      "description": "Puxada unilateral a partir de polia alta, ajoelhado, trazendo a alça em direção ao tórax.",
+      "instructions": [
+        "Ajoelhe-se de frente para a polia alta e segure a alça.",
+        "Puxe o cotovelo para baixo e para trás em direção ao tronco.",
+        "Retorne com controle até o braço ficar elevado."
+      ],
+      "primaryMuscles": [
+        "dorsal largo"
+      ],
+      "secondaryMuscles": [
+        "redondo maior",
+        "bíceps braquial",
+        "romboides"
+      ],
+      "equipment": [
+        "cabo/polia alta",
+        "alça unilateral"
+      ],
+      "bodyRegion": "costas",
+      "movementPattern": "puxar vertical",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "ajoelhado",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "inclinar demais o tronco",
+        "elevar o ombro",
+        "puxar só com o braço"
+      ],
+      "safetyNotes": "Mantenha o joelho apoiado e a carga compatível com a estabilidade do tronco.",
+      "confidence": "high"
     },
     {
       "id": "media_1126903b26ae141622ea",
-      "namePtBr": "MáQuina De Prensa ToráCica Interna",
+      "namePtBr": "Voador na máquina",
       "originalFilename": "Máquina de prensa torácica interna.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Máquina de prensa torácica interna.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/M%C3%A1quina%20de%20prensa%20tor%C3%A1cica%20interna.gif",
@@ -1755,19 +3999,54 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        }
+        "peito",
+        "máquina",
+        "voador",
+        "adução horizontal"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "1301"
+      "sourceExerciseId": "1301",
+      "aliases": [
+        "peck deck",
+        "crucifixo na máquina"
+      ],
+      "description": "Adução horizontal dos braços sentado em máquina, aproximando as alças à frente do peito.",
+      "instructions": [
+        "Ajuste o assento para alinhar as alças ao meio do peito.",
+        "Mantenha peito apoiado e cotovelos levemente flexionados.",
+        "Aproxime as alças e retorne controlando."
+      ],
+      "primaryMuscles": [
+        "peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "máquina voador"
+      ],
+      "bodyRegion": "peito",
+      "movementPattern": "adução horizontal de ombro",
+      "exerciseType": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "projetar ombros à frente",
+        "abrir demais no alongamento",
+        "tirar as costas do encosto"
+      ],
+      "safetyNotes": "Ajuste o assento e limite amplitude caso o ombro incomode.",
+      "confidence": "high"
     },
     {
       "id": "media_114ed0df771f7ff05af6",
-      "namePtBr": "Ponte De GlúTeo De Perna úNica Com EláStico",
+      "namePtBr": "Ponte unilateral com faixa elástica",
       "originalFilename": "Ponte de glúteo de perna única com elástico.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Ponte de glúteo de perna única com elástico.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Ponte%20de%20gl%C3%BAteo%20de%20perna%20%C3%BAnica%20com%20el%C3%A1stico.gif",
@@ -1777,24 +4056,55 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "elastico_faixa",
-          "label": "elastico faixa"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "glúteos",
+        "faixa elástica",
+        "unilateral",
+        "ponte"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "ponte de glúteo unilateral com elástico"
+      ],
+      "description": "Ponte de quadril unilateral com faixa elástica ao redor das coxas.",
+      "instructions": [
+        "Deite-se de costas com a faixa acima dos joelhos e um pé apoiado.",
+        "Mantenha a outra perna elevada e pressione o pé de apoio.",
+        "Eleve o quadril sem deixar o joelho cair para dentro."
+      ],
+      "primaryMuscles": [
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "glúteo médio",
+        "core"
+      ],
+      "equipment": [
+        "faixa elástica"
+      ],
+      "bodyRegion": "glúteos",
+      "movementPattern": "extensão de quadril",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "decúbito dorsal",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "rodar a pelve",
+        "deixar joelho colapsar",
+        "hiperestender a lombar"
+      ],
+      "safetyNotes": "Mantenha a pelve nivelada; use faixa leve se perder o alinhamento.",
+      "confidence": "high"
     },
     {
       "id": "media_118ff8b2ba6ba026f180",
-      "namePtBr": "Subida No Banco Com Barra",
+      "namePtBr": "Subida no banco com barra",
       "originalFilename": "Subida no banco com barra.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Subida no banco com barra.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Subida%20no%20banco%20com%20barra.gif",
@@ -1804,19 +4114,57 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "barra_reta",
-          "label": "barra reta"
-        }
+        "pernas",
+        "barra reta",
+        "banco",
+        "unilateral",
+        "step-up"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "step-up com barra"
+      ],
+      "description": "Subida unilateral em banco com barra apoiada sobre os ombros.",
+      "instructions": [
+        "Apoie um pé inteiro sobre banco estável e mantenha a barra equilibrada.",
+        "Suba pressionando o pé que está no banco.",
+        "Desça controladamente e alterne os lados conforme a série."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "panturrilhas",
+        "core"
+      ],
+      "equipment": [
+        "barra reta",
+        "banco"
+      ],
+      "bodyRegion": "pernas",
+      "movementPattern": "subida unilateral",
+      "exerciseType": "força",
+      "difficulty": "avançado",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "impulsionar com a perna de baixo",
+        "joelho cair para dentro",
+        "usar banco instável"
+      ],
+      "safetyNotes": "Use banco firme e altura que permita controle; a barra aumenta a demanda de equilíbrio.",
+      "confidence": "high"
     },
     {
       "id": "media_11ec0c5a19f04fad3adb",
-      "namePtBr": "Nauka Sanchalanasan Remando Na Postura Do Barco",
+      "namePtBr": "Postura do barco com remada",
       "originalFilename": "Nauka sanchalanasan remando na postura do barco.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Nauka sanchalanasan remando na postura do barco.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Nauka%20sanchalanasan%20remando%20na%20postura%20do%20barco.gif",
@@ -1826,34 +4174,57 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "mobilidade_alongamento",
-          "label": "mobilidade alongamento"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "core",
+        "yoga",
+        "peso corporal",
+        "equilíbrio"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "Nauka sanchalanasana",
+        "remada na postura do barco"
+      ],
+      "description": "Variação de postura do barco sentada, com pernas elevadas e movimento de remada dos braços.",
+      "instructions": [
+        "Sente-se sobre os ísquios e eleve os pés conforme a mobilidade permite.",
+        "Mantenha o tronco longo enquanto leva os braços à frente e puxa de volta.",
+        "Evite arredondar excessivamente a lombar."
+      ],
+      "primaryMuscles": [
+        "reto abdominal",
+        "flexores do quadril"
+      ],
+      "secondaryMuscles": [
+        "oblíquos",
+        "eretores da coluna",
+        "deltoides"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegion": "core",
+      "movementPattern": "estabilização de tronco e remada sem carga",
+      "exerciseType": "mobilidade",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "arredondar a lombar",
+        "tensionar o pescoço",
+        "balançar o tronco"
+      ],
+      "safetyNotes": "Mantenha os joelhos flexionados se necessário para preservar a posição lombar.",
+      "confidence": "medium"
     },
     {
       "id": "media_123d87b625e01bafaffe",
-      "namePtBr": "Chutes Na Bunda",
+      "namePtBr": "Corrida estacionária com calcanhares nos glúteos",
       "originalFilename": "Chutes na bunda.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Chutes na bunda.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Chutes%20na%20bunda.gif",
@@ -1862,10 +4233,53 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "cardio",
+        "peso corporal",
+        "aquecimento",
+        "alternado"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "aliases": [
+        "chutes no bumbum",
+        "butt kicks"
+      ],
+      "description": "Exercício cardiovascular no lugar, alternando a flexão dos joelhos para aproximar calcanhares dos glúteos.",
+      "instructions": [
+        "Fique em pé com postura alta.",
+        "Alterne rapidamente os calcanhares em direção aos glúteos.",
+        "Mantenha a aterrissagem leve e ritmo controlado."
+      ],
+      "primaryMuscles": [
+        "isquiotibiais"
+      ],
+      "secondaryMuscles": [
+        "quadríceps",
+        "panturrilhas",
+        "glúteos"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegion": "cardio",
+      "movementPattern": "flexão alternada de joelhos",
+      "exerciseType": "cardiorrespiratório",
+      "difficulty": "iniciante",
+      "laterality": "alternado",
+      "position": "em pé",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "inclinar o tronco para frente",
+        "aterrissar pesado",
+        "aumentar ritmo sem controle"
+      ],
+      "safetyNotes": "Comece devagar e use superfície firme; reduza impacto se houver desconforto em joelhos ou tornozelos.",
+      "confidence": "high"
     },
     {
       "id": "media_12ac4d5b2a0e64e06f1e",

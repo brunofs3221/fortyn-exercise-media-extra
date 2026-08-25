@@ -1,18 +1,16 @@
 {
-  "totalMedia": 1142,
-  "processed": 69,
-  "remaining": 1073,
-  "highConfidence": 1,
-  "mediumConfidence": 0,
-  "lowConfidence": 68,
-  "manualReview": 68,
-  "animatedProcessed": 69,
-  "staticProcessed": 0,
-  "currentBatch": 4,
-  "lastProcessedMediaId": "media_123d87b625e01bafaffe",
-  "nextMediaId": "pending_after_worker_batch004",
-  "completedMediaIds": [
-    "media_00291dd66ebf0d854707",
+  "rawWorkerResults": 72,
+  "uniqueMediaIds": 68,
+  "overlapMediaIds": [
+    "media_0ad7f642d10f71b2f0dd",
+    "media_0b8f566d689b143e2c02",
+    "media_0c2f5a06890bde3543b5",
+    "media_0c91b5bf4cdfb16a0d36"
+  ],
+  "equivalentOverlaps": 4,
+  "conflictingOverlaps": 0,
+  "invalidOutputs": 0,
+  "consolidatedMediaIds": [
     "media_006aaaa8382e13e34653",
     "media_007d483ef75d4f8d1686",
     "media_008b1c628a8553400460",
@@ -81,7 +79,5 @@
     "media_118ff8b2ba6ba026f180",
     "media_11ec0c5a19f04fad3adb",
     "media_123d87b625e01bafaffe"
-  ],
-  "status": "in_progress",
-  "updatedAt": "2026-08-25T23:23:02.837Z"
+  ]
 }
