@@ -3401,7 +3401,8 @@
         "chutar a perna com impulso"
       ],
       "safetyNotes": "Mantenha a lombar neutra e a amplitude confortável.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Bench-supported hip extension"
     },
     {
       "id": "media_0d389bd7d0b1d6a1e7f5",
@@ -3457,7 +3458,8 @@
         "movimento brusco"
       ],
       "safetyNotes": "Exercício de maior risco cervical: requer orientação profissional e não deve ser feito com dor, formigamento ou histórico cervical sem liberação clínica.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Prone weighted neck extension"
     },
     {
       "id": "media_0d5e4d939eca8975cffc",
@@ -3515,7 +3517,8 @@
         "arredondar excessivamente a lombar"
       ],
       "safetyNotes": "Exige mobilidade e equilíbrio; use progressão assistida se não controlar a descida.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Kettlebell pistol squat"
     },
     {
       "id": "media_0e0efd578078ac0be267",
@@ -3573,7 +3576,8 @@
         "torcer além do controle"
       ],
       "safetyNotes": "Interrompa em caso de dor no punho ou ombro.",
-      "confidence": "LOW"
+      "confidence": "LOW",
+      "canonicalNameEn": "Crab position twist touch"
     },
     {
       "id": "media_0e2667140863733a4e38",
@@ -3634,7 +3638,8 @@
         "usar resistência incompatível"
       ],
       "safetyNotes": "Ajuste intensidade individualmente; interrompa diante de dor torácica, tontura ou sintomas incomuns.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Arm ergometer"
     },
     {
       "id": "media_0e43d7316b4955b28cd3",
@@ -3691,7 +3696,8 @@
         "perder a posição no banco"
       ],
       "safetyNotes": "Use carga leve a moderada e banco seguro; o movimento acima/atrás da cabeça pode irritar ombros ou cotovelos.",
-      "confidence": "MEDIUM"
+      "confidence": "MEDIUM",
+      "canonicalNameEn": "Decline close-grip dumbbell press to skull crusher"
     },
     {
       "id": "media_0e463aeb4158497e2760",
@@ -3748,7 +3754,8 @@
         "perder a bola"
       ],
       "safetyNotes": "Mantenha a amplitude confortável para a lombar e escolha bola de tamanho estável.",
-      "confidence": "MEDIUM"
+      "confidence": "MEDIUM",
+      "canonicalNameEn": "Swiss ball frog crunch"
     },
     {
       "id": "media_0e75df0d48644ddb1bba",
@@ -3805,7 +3812,8 @@
         "perder equilíbrio"
       ],
       "safetyNotes": "Use suporte/rack quando necessário e evite carga que comprometa o equilíbrio.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Standing barbell calf raise"
     },
     {
       "id": "media_0ed092ea7050d420c5a4",
@@ -3865,7 +3873,8 @@
         "projetar a barra à frente"
       ],
       "safetyNotes": "Não force a barra atrás da nuca; use carga compatível com o controle do tronco.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Standing barbell overhead press"
     },
     {
       "id": "media_0f1bbd4ee5650b3776bb",
@@ -3924,7 +3933,8 @@
         "passada excessivamente longa"
       ],
       "safetyNotes": "Comece em ritmo adequado e use o botão de parada de emergência quando disponível.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Treadmill running"
     },
     {
       "id": "media_0f94dcbd29df44bcba5c",
@@ -3980,7 +3990,8 @@
         "dobrar punhos"
       ],
       "safetyNotes": "Mantenha carga leve o bastante para não compensar com o tronco.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Dumbbell front raise"
     },
     {
       "id": "media_0fa6a4086f89b6f9293a",
@@ -4038,7 +4049,8 @@
         "elevar os ombros"
       ],
       "safetyNotes": "Inspecione a faixa antes do uso e mantenha-a firmemente ancorada.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Seated resistance band shoulder press"
     },
     {
       "id": "media_0fafa9f029bf477acc49",
@@ -4095,7 +4107,8 @@
         "prender a respiração"
       ],
       "safetyNotes": "Não force se houver dor anterior no ombro ou formigamento.",
-      "confidence": "MEDIUM"
+      "confidence": "MEDIUM",
+      "canonicalNameEn": "Seated chest stretch"
     },
     {
       "id": "media_1070a81e5b6958fb1ad9",
@@ -4154,7 +4167,8 @@
         "perder controle da bola"
       ],
       "safetyNotes": "Use uma bola apropriada e superfície que não deslize; reduza amplitude se houver cãibra ou dor lombar.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Swiss ball hamstring curl"
     },
     {
       "id": "media_107c9a3e32712c782ed3",
@@ -4212,7 +4226,8 @@
         "puxar só com o braço"
       ],
       "safetyNotes": "Mantenha o joelho apoiado e a carga compatível com a estabilidade do tronco.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Kneeling single-arm high cable pulldown"
     },
     {
       "id": "media_1126903b26ae141622ea",
@@ -4269,7 +4284,8 @@
         "tirar as costas do encosto"
       ],
       "safetyNotes": "Ajuste o assento e limite amplitude caso o ombro incomode.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Machine chest fly"
     },
     {
       "id": "media_114ed0df771f7ff05af6",
@@ -4327,7 +4343,8 @@
         "hiperestender a lombar"
       ],
       "safetyNotes": "Mantenha a pelve nivelada; use faixa leve se perder o alinhamento.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Single-leg banded glute bridge"
     },
     {
       "id": "media_118ff8b2ba6ba026f180",
@@ -4387,7 +4404,8 @@
         "usar banco instável"
       ],
       "safetyNotes": "Use banco firme e altura que permita controle; a barra aumenta a demanda de equilíbrio.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Barbell step-up"
     },
     {
       "id": "media_11ec0c5a19f04fad3adb",
@@ -4447,7 +4465,8 @@
         "balançar o tronco"
       ],
       "safetyNotes": "Mantenha os joelhos flexionados se necessário para preservar a posição lombar.",
-      "confidence": "MEDIUM"
+      "confidence": "MEDIUM",
+      "canonicalNameEn": "Boat pose rowing"
     },
     {
       "id": "media_123d87b625e01bafaffe",
@@ -4506,7 +4525,8 @@
         "aumentar ritmo sem controle"
       ],
       "safetyNotes": "Comece devagar e use superfície firme; reduza impacto se houver desconforto em joelhos ou tornozelos.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Butt kicks"
     },
     {
       "id": "media_12ac4d5b2a0e64e06f1e",
@@ -5332,7 +5352,8 @@
         "perder o apoio do peito"
       ],
       "safetyNotes": "Use carga leve e mantenha o pescoço neutro.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Chest-supported dumbbell rear lateral raise"
     },
     {
       "id": "media_15a3e6747708fe4ff506",
@@ -5394,7 +5415,8 @@
         "deixar a bola retornar ao rosto"
       ],
       "safetyNotes": "Use slam ball ou bola não elástica e área livre; não arremesse em piso inadequado.",
-      "confidence": "MEDIUM"
+      "confidence": "MEDIUM",
+      "canonicalNameEn": "Medicine ball overhead slam"
     },
     {
       "id": "media_15f31334dd0f0fc9c13f",
@@ -5454,7 +5476,8 @@
         "executar sem força suficiente para retornar"
       ],
       "safetyNotes": "A variação coreana tem exigência alta de ombro; progrida a partir de mergulhos convencionais e interrompa se houver dor anterior no ombro.",
-      "confidence": "MEDIUM"
+      "confidence": "MEDIUM",
+      "canonicalNameEn": "Korean dips"
     },
     {
       "id": "media_15f6cb1d8755332f659f",
@@ -5513,7 +5536,8 @@
         "perder o alinhamento pélvico"
       ],
       "safetyNotes": "Use amplitude indolor; evite rotações rápidas se houver irritação lombar.",
-      "confidence": "LOW"
+      "confidence": "LOW",
+      "canonicalNameEn": "Standing diagonal trunk rotation with stick"
     },
     {
       "id": "media_16183aa3b50710307bfe",
@@ -5573,7 +5597,8 @@
         "aterissar sem controle"
       ],
       "safetyNotes": "Mantenha a parede firme e comece lentamente caso tenha pouca estabilidade.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Wall high knees drill"
     },
     {
       "id": "media_161874debce2311fe3e1",
@@ -5629,7 +5654,8 @@
         "desalinhar o joelho do eixo"
       ],
       "safetyNotes": "Ajuste a máquina ao corpo antes de carregar; pare se houver dor no joelho.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Lever lying single-leg curl"
     },
     {
       "id": "media_1656b852dc13177aea31",
@@ -5687,7 +5713,8 @@
         "elevar os ombros"
       ],
       "safetyNotes": "Use carga compatível com a estabilidade do tronco e do ombro.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Two-arm dumbbell front raise"
     },
     {
       "id": "media_166a78f87d50aeef5eb5",
@@ -5747,7 +5774,8 @@
         "forçar a lombar"
       ],
       "safetyNotes": "Mantenha amplitude pequena e indolor; não é recomendável insistir se provocar dor lombar.",
-      "confidence": "HIGH"
+      "confidence": "HIGH",
+      "canonicalNameEn": "Alternating superman"
     },
     {
       "id": "media_16ab1dbc47f2fa998db3",
