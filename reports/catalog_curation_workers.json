@@ -1,0 +1,9 @@
+{
+  "batchId": "006",
+  "status": "in_progress",
+  "workers": [
+    {"workerId":"batch006a","task":"IDENTIFY_AND_ENRICH","output":"staging/worker_batch006a.json","mediaIds":["media_16ab1dbc47f2fa998db3","media_16defae79c9e3609564b","media_17863675884105ecf008","media_18470f2c32d3b7a61a9d","media_184795bc4d3432403a0c","media_18542a5796c799e71ead","media_188b7cb9122e1779798e","media_18de60353d12ebccf2aa"]},
+    {"workerId":"batch006b","task":"IDENTIFY_AND_ENRICH","output":"staging/worker_batch006b.json","mediaIds":["media_18eef06f9ff2235dac03","media_190645ce8cfa25c43174","media_19197214f72a68d5b4f1","media_1921317218fb8c998ff5","media_193a84220f7d9afed0b4","media_198dc751bdde6f796202","media_1a0d6f86c3515ea14bbe","media_1a47845297720efa8ffe"]},
+    {"workerId":"batch006c","task":"IDENTIFY_AND_ENRICH","output":"staging/worker_batch006c.json","mediaIds":["media_1ad5949473a4fbdf2164","media_1b1d9193ce53698b4710","media_1b375112a6411791ed79","media_1b5bc484b4df28642408","media_1b838128b9afdaab51f8","media_1b95a3001e3ee0074fc5","media_1bcfe6d58d2a42e3031e","media_1c6ee613b14e0d609951"]}
+  ]
+}
