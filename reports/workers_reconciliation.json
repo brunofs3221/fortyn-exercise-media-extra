@@ -1,6 +1,6 @@
 {
-  "rawWorkerResults": 72,
-  "uniqueMediaIds": 68,
+  "rawWorkerResults": 88,
+  "uniqueMediaIds": 84,
   "overlapMediaIds": [
     "media_0ad7f642d10f71b2f0dd",
     "media_0b8f566d689b143e2c02",
@@ -78,6 +78,22 @@
     "media_114ed0df771f7ff05af6",
     "media_118ff8b2ba6ba026f180",
     "media_11ec0c5a19f04fad3adb",
-    "media_123d87b625e01bafaffe"
+    "media_123d87b625e01bafaffe",
+    "media_138976a003191ea57cdd",
+    "media_1445d3b8069de7fdea0d",
+    "media_147a87d35b05bd4cf7e7",
+    "media_14b0e6f40bfcc4a36337",
+    "media_14c175528087a57ddc71",
+    "media_14d4dde1d41b863640bf",
+    "media_14ee0cd648b8169f0532",
+    "media_153169d5090bfdd3451b",
+    "media_154903db657da1f6344a",
+    "media_15a3e6747708fe4ff506",
+    "media_15f31334dd0f0fc9c13f",
+    "media_15f6cb1d8755332f659f",
+    "media_16183aa3b50710307bfe",
+    "media_161874debce2311fe3e1",
+    "media_1656b852dc13177aea31",
+    "media_166a78f87d50aeef5eb5"
   ]
 }
