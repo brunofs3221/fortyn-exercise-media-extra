@@ -1,0 +1,17 @@
+{
+  "totalMedia": 1142,
+  "processed": 1,
+  "remaining": 1141,
+  "highConfidence": 1,
+  "mediumConfidence": 0,
+  "lowConfidence": 0,
+  "manualReview": 0,
+  "animatedProcessed": 1,
+  "staticProcessed": 0,
+  "currentBatch": 1,
+  "lastProcessedMediaId": "media_00291dd66ebf0d854707",
+  "nextMediaId": "pending_batch_001_item_002",
+  "completedMediaIds": ["media_00291dd66ebf0d854707"],
+  "status": "in_progress",
+  "updatedAt": "2026-08-25T00:00:00.000Z"
+}
