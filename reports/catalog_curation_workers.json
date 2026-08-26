@@ -46,10 +46,11 @@
         "media_faa90e79037e01eb2306",
         "media_fac37bf08d5307c24903",
         "media_fb41071fb519a8f2677e"
-      ]
+      ],
+      "status": "consolidated"
     }
   ],
-  "consolidatedAt": "2026-08-26T12:21:15.719Z",
+  "consolidatedAt": "2026-08-26T12:22:23.231Z",
   "consolidatedMediaIds": [
     "media_f67ee999bfd92c19abed",
     "media_f696304cfae0f00ab6d3",
@@ -58,6 +59,14 @@
     "media_f73ab2ae583e3173f577",
     "media_f76439f6795fab16f382",
     "media_f7a6f52882b9578e1634",
-    "media_f7ff455f188239889f95"
+    "media_f7ff455f188239889f95",
+    "media_fa079314f5ece96b558f",
+    "media_fa4eb52e3a6d2dd16bdf",
+    "media_fa68e8b147ab3b2a7d5c",
+    "media_fa8a2dc09209f76d6f5c",
+    "media_faa2270f0850236ff1be",
+    "media_faa90e79037e01eb2306",
+    "media_fac37bf08d5307c24903",
+    "media_fb41071fb519a8f2677e"
   ]
 }
