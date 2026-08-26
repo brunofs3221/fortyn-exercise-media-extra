@@ -111303,7 +111303,7 @@
     },
     {
       "id": "media_ffdf98f90480af67b8d0",
-      "namePtBr": "ElevaçãO Lateral Traseira Com Halteres Sentado",
+      "namePtBr": "Elevação lateral sentada com halteres",
       "originalFilename": "Elevação lateral traseira com halteres sentado.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Elevação lateral traseira com halteres sentado.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Eleva%C3%A7%C3%A3o%20lateral%20traseira%20com%20halteres%20sentado.gif",
@@ -111313,20 +111313,101 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "ombros",
+        "deltoide lateral",
+        "elevação lateral",
+        "halteres",
+        "sentado",
+        "abdução de ombro"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "2317"
+      "sourceExerciseId": "2317",
+      "mediaId": "media_ffdf98f90480af67b8d0",
+      "canonicalNameEn": "Seated Dumbbell Lateral Raise",
+      "aliasesPtBr": [
+        "elevação lateral com halteres sentado",
+        "elevação lateral sentada",
+        "abdução de ombros sentada com halteres"
+      ],
+      "description": "Exercício de isolamento para os ombros realizado sentado em banco reto, elevando dois halteres lateralmente por abdução dos braços. A posição sentada reduz o impulso do tronco e torna mais evidente o trabalho do deltoide lateral durante a subida controlada até a linha dos ombros.",
+      "executionSteps": [
+        "Sente-se ereto na ponta de um banco reto, com pés firmes no chão e um halter em cada mão ao lado das coxas.",
+        "Mantenha o abdômen ativo, peito aberto e cotovelos levemente flexionados, com as palmas voltadas para dentro.",
+        "Eleve os halteres para os lados em arco controlado, conduzindo o movimento pelos cotovelos e sem balançar o tronco.",
+        "Pare aproximadamente na altura dos ombros, mantendo os punhos neutros e os ombros afastados das orelhas.",
+        "Desça os halteres lentamente até as laterais das coxas e repita sem usar impulso na transição.",
+        "Respire de forma contínua: expire na elevação e inspire no retorno controlado."
+      ],
+      "primaryMuscles": [
+        "deltoide lateral"
+      ],
+      "secondaryMuscles": [
+        "supraespinal",
+        "trapézio superior",
+        "serrátil anterior",
+        "deltoide anterior"
+      ],
+      "equipment": [
+        "halteres",
+        "banco reto"
+      ],
+      "bodyRegions": [
+        "ombros"
+      ],
+      "movementPattern": "abdução de ombro",
+      "exerciseType": "isolamento e hipertrofia",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado em banco reto",
+      "environments": [
+        "academia",
+        "casa"
+      ],
+      "commonErrors": [
+        "usar carga que exige balanço do tronco",
+        "subir os halteres acima da linha dos ombros",
+        "encolher os ombros em direção às orelhas",
+        "travar ou dobrar repetidamente os cotovelos",
+        "rodar excessivamente os punhos para baixo"
+      ],
+      "executionTips": [
+        "Use carga leve o bastante para pausar brevemente no topo sem perder a postura.",
+        "Mantenha os cotovelos como ponto mais alto do braço e escolha o plano de elevação mais confortável para seus ombros.",
+        "A posição sentada deve impedir o impulso; se precisar se projetar para frente ou para trás, reduza a carga."
+      ],
+      "safetyNotes": "Trabalhe em amplitude confortável e evite elevar acima dos ombros se isso causar dor ou pinçamento. Não force rotação interna dos ombros e reduza a carga diante de desconforto articular persistente.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra praticante sentado em banco reto, segurando dois halteres ao lado do corpo e elevando ambos lateralmente até aproximadamente a altura dos ombros; não há inclinação anterior que caracterizaria uma elevação traseira.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "elevação lateral com halteres sentado",
+        "elevação lateral sentada",
+        "abdução de ombros sentada com halteres"
+      ],
+      "instructions": [
+        "Sente-se ereto na ponta de um banco reto, com pés firmes no chão e um halter em cada mão ao lado das coxas.",
+        "Mantenha o abdômen ativo, peito aberto e cotovelos levemente flexionados, com as palmas voltadas para dentro.",
+        "Eleve os halteres para os lados em arco controlado, conduzindo o movimento pelos cotovelos e sem balançar o tronco.",
+        "Pare aproximadamente na altura dos ombros, mantendo os punhos neutros e os ombros afastados das orelhas.",
+        "Desça os halteres lentamente até as laterais das coxas e repita sem usar impulso na transição.",
+        "Respire de forma contínua: expire na elevação e inspire no retorno controlado."
+      ],
+      "bodyRegion": [
+        "ombros"
+      ],
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "usar carga que exige balanço do tronco",
+        "subir os halteres acima da linha dos ombros",
+        "encolher os ombros em direção às orelhas",
+        "travar ou dobrar repetidamente os cotovelos",
+        "rodar excessivamente os punhos para baixo"
+      ]
     }
   ]
 }

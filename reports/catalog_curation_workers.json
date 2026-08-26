@@ -1,6 +1,6 @@
 {
   "batchId": "050",
-  "status": "in_progress",
+  "status": "consolidated",
   "workers": [
     {
       "workerId": "batch050a",
@@ -8,7 +8,12 @@
       "output": "staging/worker_batch050a.json",
       "mediaIds": [
         "media_ffdf98f90480af67b8d0"
-      ]
+      ],
+      "status": "consolidated"
     }
+  ],
+  "consolidatedAt": "2026-08-26T13:50:54.307Z",
+  "consolidatedMediaIds": [
+    "media_ffdf98f90480af67b8d0"
   ]
 }
