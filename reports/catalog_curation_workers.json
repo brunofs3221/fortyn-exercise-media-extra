@@ -1,81 +1,51 @@
 {
-  "batchId": "013",
-  "status": "consolidated",
+  "batchId": "014",
+  "status": "in_progress",
   "workers": [
     {
-      "workerId": "batch013a",
+      "workerId": "batch014a",
       "task": "IDENTIFY_AND_ENRICH",
-      "output": "staging/worker_batch013a.json",
+      "output": "staging/worker_batch014a.json",
       "mediaIds": [
-        "media_361fb4216327a4904b83",
-        "media_362ad10d865d69256e17",
-        "media_3662cab0479c91c94a18",
-        "media_36924520d5d0f6fb57a4",
-        "media_36b306c17c825c4dcc54",
-        "media_36bc0e3a1c8140da7c94",
-        "media_36d0689945413594996c",
-        "media_36ff9e5f91c6613fd817"
-      ],
-      "status": "consolidated"
+        "media_39ce95abf4cc7564ca1f",
+        "media_39e3a845ad7945f84cbf",
+        "media_3a09d04944073caef961",
+        "media_3a3efd979b67bd3557f2",
+        "media_3a5e94dc465ccc26b77e",
+        "media_3a7620cd811cf80b9b27",
+        "media_3a837cfce62495425870",
+        "media_3a8f978b55666bbe6872"
+      ]
     },
     {
-      "workerId": "batch013b",
+      "workerId": "batch014b",
       "task": "IDENTIFY_AND_ENRICH",
-      "output": "staging/worker_batch013b.json",
+      "output": "staging/worker_batch014b.json",
       "mediaIds": [
-        "media_373219ba00a988491140",
-        "media_3739be1cfaab10f0dd89",
-        "media_3767fd56a9b4327ddab3",
-        "media_376beff229535ef426d8",
-        "media_377beaa114d62af4723e",
-        "media_384500982ce5dcf083ed",
-        "media_3854feeffe6d9766afb6",
-        "media_3879ff2698849b14e606"
-      ],
-      "status": "consolidated"
+        "media_3bb6b50ea066319d2dcc",
+        "media_3bf852fb5d393017c6f7",
+        "media_3c20bf7d10405945bec4",
+        "media_3c4b654f94e7660ab52b",
+        "media_3cab195f3a79ae6d170c",
+        "media_3d0a7039d00a5ef74406",
+        "media_3d1a52a202a870041808",
+        "media_3d545b06480bf53339e9"
+      ]
     },
     {
-      "workerId": "batch013c",
+      "workerId": "batch014c",
       "task": "IDENTIFY_AND_ENRICH",
-      "output": "staging/worker_batch013c.json",
+      "output": "staging/worker_batch014c.json",
       "mediaIds": [
-        "media_38b06089b9e94789241e",
-        "media_38c3576685365a39b090",
-        "media_38e23216ab9a41445120",
-        "media_392221853c7a10e0beb0",
-        "media_3928553c4d86d92e9341",
-        "media_3928f40d2fcdc598b8ce",
-        "media_39478360a2479680ca44",
-        "media_3958b3e8dc0922841893"
-      ],
-      "status": "consolidated"
+        "media_3d58f1e842babfa309b4",
+        "media_3d65500f975cea8c0c21",
+        "media_3d8c9f09c82d663dd52a",
+        "media_3d963b58748b84a8a442",
+        "media_3f819029554bb4436461",
+        "media_3ff2e34a5c3aed66a8d6",
+        "media_4054aba26c9c9342e8d4",
+        "media_40687f2cc4fff4fdda4f"
+      ]
     }
-  ],
-  "consolidatedAt": "2026-08-26T00:44:47.557Z",
-  "consolidatedMediaIds": [
-    "media_373219ba00a988491140",
-    "media_3739be1cfaab10f0dd89",
-    "media_3767fd56a9b4327ddab3",
-    "media_376beff229535ef426d8",
-    "media_377beaa114d62af4723e",
-    "media_384500982ce5dcf083ed",
-    "media_3854feeffe6d9766afb6",
-    "media_3879ff2698849b14e606",
-    "media_361fb4216327a4904b83",
-    "media_362ad10d865d69256e17",
-    "media_3662cab0479c91c94a18",
-    "media_36924520d5d0f6fb57a4",
-    "media_36b306c17c825c4dcc54",
-    "media_36bc0e3a1c8140da7c94",
-    "media_36d0689945413594996c",
-    "media_36ff9e5f91c6613fd817",
-    "media_38b06089b9e94789241e",
-    "media_38c3576685365a39b090",
-    "media_38e23216ab9a41445120",
-    "media_392221853c7a10e0beb0",
-    "media_3928553c4d86d92e9341",
-    "media_3928f40d2fcdc598b8ce",
-    "media_39478360a2479680ca44",
-    "media_3958b3e8dc0922841893"
   ]
 }
