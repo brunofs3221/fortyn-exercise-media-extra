@@ -1,6 +1,6 @@
 {
   "batchId": "030",
-  "status": "in_progress",
+  "status": "consolidated",
   "workers": [
     {
       "workerId": "batch030a",
@@ -31,7 +31,8 @@
         "media_9829f03ea367c3f49088",
         "media_98334d6b79ebeded9f01",
         "media_9834555f768c1fa8c02f"
-      ]
+      ],
+      "status": "consolidated"
     },
     {
       "workerId": "batch030c",
@@ -46,10 +47,11 @@
         "media_9a56a721cdabc087124a",
         "media_9a977024f956899e726f",
         "media_9c6b0ae30ab6f670f146"
-      ]
+      ],
+      "status": "consolidated"
     }
   ],
-  "consolidatedAt": "2026-08-26T10:51:23.573Z",
+  "consolidatedAt": "2026-08-26T10:52:03.515Z",
   "consolidatedMediaIds": [
     "media_947fd75865198dafd60a",
     "media_956260b1daa34149bc25",
@@ -58,6 +60,22 @@
     "media_9605731aec37f2b0f208",
     "media_962e032c8b1f8d4994db",
     "media_962fb047af792dc9727a",
-    "media_963e38d2278403293da5"
+    "media_963e38d2278403293da5",
+    "media_96efd9124237c7d59e09",
+    "media_971a4a49941fc425b55d",
+    "media_97452559c6b8d2c0322f",
+    "media_9752000c22d7659a7f83",
+    "media_97ea713b7d2c43ae5210",
+    "media_9829f03ea367c3f49088",
+    "media_98334d6b79ebeded9f01",
+    "media_9834555f768c1fa8c02f",
+    "media_983f37f149bf5c87a736",
+    "media_9866e9a1860f638ad34e",
+    "media_9908e3495013d3bad276",
+    "media_995320fc372cdd0d7c3d",
+    "media_9963eef29e67381de892",
+    "media_9a56a721cdabc087124a",
+    "media_9a977024f956899e726f",
+    "media_9c6b0ae30ab6f670f146"
   ]
 }
