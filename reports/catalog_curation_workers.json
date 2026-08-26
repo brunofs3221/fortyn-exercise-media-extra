@@ -45,7 +45,19 @@
         "media_306ca30240259d9c8c12",
         "media_307894349283603fb536",
         "media_3081929e8ef6e2570cb3"
-      ]
+      ],
+      "status": "consolidated"
     }
+  ],
+  "consolidatedAt": "2026-08-26T00:28:52.815Z",
+  "consolidatedMediaIds": [
+    "media_2fca6b428c0da97e3f27",
+    "media_3051376b2de09cafe7a1",
+    "media_3058bd7f1e6cf09921cf",
+    "media_3062b485270585a01162",
+    "media_30668254aec6895ee7f3",
+    "media_306ca30240259d9c8c12",
+    "media_307894349283603fb536",
+    "media_3081929e8ef6e2570cb3"
   ]
 }
