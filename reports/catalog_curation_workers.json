@@ -1,81 +1,14 @@
 {
-  "batchId": "049",
-  "status": "consolidated",
+  "batchId": "050",
+  "status": "in_progress",
   "workers": [
     {
-      "workerId": "batch049a",
+      "workerId": "batch050a",
       "task": "IDENTIFY_AND_ENRICH",
-      "output": "staging/worker_batch049a.json",
+      "output": "staging/worker_batch050a.json",
       "mediaIds": [
-        "media_fb8bfb4e9f615d494479",
-        "media_fc07fc4a9637d7cdb0a5",
-        "media_fc1d0cf9959a6a94b3a9",
-        "media_fc2d4a88893c9883e217",
-        "media_fc84af06ba9c4de2bd7d",
-        "media_fc904d9b551b3669ffeb",
-        "media_fce8c196df26005e9fc4",
-        "media_fd35e161570d92844a93"
-      ],
-      "status": "consolidated"
-    },
-    {
-      "workerId": "batch049b",
-      "task": "IDENTIFY_AND_ENRICH",
-      "output": "staging/worker_batch049b.json",
-      "mediaIds": [
-        "media_fd4eb387a2867c0717a6",
-        "media_fd7ed87266d6be137151",
-        "media_fdcbe7cefa9718431b4c",
-        "media_fdd2e7b062d30afc55b3",
-        "media_fdd43b649392ecc5a0df",
-        "media_fde05dfd31b685841b01",
-        "media_fe568c6890f78f25fa51",
-        "media_fe627a1d47d228af562b"
-      ],
-      "status": "consolidated"
-    },
-    {
-      "workerId": "batch049c",
-      "task": "IDENTIFY_AND_ENRICH",
-      "output": "staging/worker_batch049c.json",
-      "mediaIds": [
-        "media_fe8938b05a18f5efa6ce",
-        "media_ff1549446f145f43ed94",
-        "media_ff2e459624fd36724877",
-        "media_ff37ee4a8039151c8960",
-        "media_ff4945cc546a6db15e04",
-        "media_ff51d80b5bcc5088f8e9",
-        "media_ff554606361db65574bb",
-        "media_ff9175ec64940dc28d4c"
-      ],
-      "status": "consolidated"
+        "media_ffdf98f90480af67b8d0"
+      ]
     }
-  ],
-  "consolidatedAt": "2026-08-26T13:47:49.002Z",
-  "consolidatedMediaIds": [
-    "media_fb8bfb4e9f615d494479",
-    "media_fc07fc4a9637d7cdb0a5",
-    "media_fc1d0cf9959a6a94b3a9",
-    "media_fc2d4a88893c9883e217",
-    "media_fc84af06ba9c4de2bd7d",
-    "media_fc904d9b551b3669ffeb",
-    "media_fce8c196df26005e9fc4",
-    "media_fd35e161570d92844a93",
-    "media_fd4eb387a2867c0717a6",
-    "media_fd7ed87266d6be137151",
-    "media_fdcbe7cefa9718431b4c",
-    "media_fdd2e7b062d30afc55b3",
-    "media_fdd43b649392ecc5a0df",
-    "media_fde05dfd31b685841b01",
-    "media_fe568c6890f78f25fa51",
-    "media_fe627a1d47d228af562b",
-    "media_fe8938b05a18f5efa6ce",
-    "media_ff1549446f145f43ed94",
-    "media_ff2e459624fd36724877",
-    "media_ff37ee4a8039151c8960",
-    "media_ff4945cc546a6db15e04",
-    "media_ff51d80b5bcc5088f8e9",
-    "media_ff554606361db65574bb",
-    "media_ff9175ec64940dc28d4c"
   ]
 }
