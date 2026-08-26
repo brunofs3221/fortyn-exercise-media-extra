@@ -24,9 +24,10 @@ for (const worker of manifest.workers) {
   if (!fs.existsSync(outputPath)) continue;
   const raw = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
   const results = raw.results ?? [];
-  if (!['completed', 'complete'].includes(raw.status)) continue;
+  if (!['completed', 'complete'].includes(raw.status) && !results.every((item) => item.profileComplete === true)) continue;
   readyAssigned.push(...worker.mediaIds);
-  if (new Set(raw.processedMediaIds ?? []).size !== worker.mediaIds.length || worker.mediaIds.some((id) => !(raw.processedMediaIds ?? []).includes(id))) throw new Error(`${worker.workerId} did not return all assigned IDs`);
+  const returnedIds = raw.processedMediaIds ?? results.map((item) => item.mediaId);
+  if (new Set(returnedIds).size !== worker.mediaIds.length || worker.mediaIds.some((id) => !returnedIds.includes(id))) throw new Error(`${worker.workerId} did not return all assigned IDs`);
   if (results.length !== worker.mediaIds.length) throw new Error(`${worker.workerId} result count mismatch`);
   for (const item of results) {
     const normalized = { ...item,

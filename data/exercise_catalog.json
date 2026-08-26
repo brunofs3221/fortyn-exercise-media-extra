@@ -14152,7 +14152,7 @@
     },
     {
       "id": "media_2ab7c051830a5ab0096d",
-      "namePtBr": "ElevaçãO Frontal Alternado Com Halteres",
+      "namePtBr": "Elevação frontal alternada com halteres",
       "originalFilename": "Elevação frontal alternado com halteres.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Elevação frontal alternado com halteres.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Eleva%C3%A7%C3%A3o%20frontal%20alternado%20com%20halteres.gif",
@@ -14162,24 +14162,104 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "halteres",
+        "ombros",
+        "deltoide anterior",
+        "elevação frontal",
+        "unilateral",
+        "casa",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_2ab7c051830a5ab0096d",
+      "canonicalNameEn": "Alternating Dumbbell Front Raise",
+      "aliasesPtBr": [
+        "Elevação frontal unilateral alternada",
+        "Levantamento frontal alternado com halteres"
+      ],
+      "description": "Exercício de isolamento em pé no qual os halteres sobem alternadamente à frente do corpo por flexão do ombro. A alternância mantém um braço estabilizando enquanto o outro trabalha, com ênfase no deltoide anterior e exigência contínua de controle do tronco.",
+      "executionSteps": [
+        "Fique em pé, com os pés na largura do quadril, um halter em cada mão e palmas voltadas para as coxas.",
+        "Contraia o abdômen e mantenha o peito aberto, sem projetar as costelas à frente.",
+        "Eleve um halter em arco à frente até aproximadamente a altura do ombro, preservando leve flexão no cotovelo e punho neutro.",
+        "Desça o halter de maneira lenta até a coxa, sem balançar o corpo.",
+        "Repita com o outro braço, alternando os lados com o tronco imóvel."
+      ],
+      "primaryMuscles": [
+        "deltoide anterior"
+      ],
+      "secondaryMuscles": [
+        "deltoide lateral",
+        "peitoral maior (porção clavicular)",
+        "serrátil anterior",
+        "trapézio superior"
+      ],
+      "equipment": [
+        "halteres"
+      ],
+      "bodyRegions": [
+        "ombros"
+      ],
+      "movementPattern": "flexão de ombro",
+      "type": "força",
+      "difficulty": "iniciante",
+      "laterality": "unilateral alternado",
+      "position": "em pé",
+      "environments": [
+        "casa",
+        "academia"
+      ],
+      "commonErrors": [
+        "inclinar o tronco para trás para ganhar impulso",
+        "subir o peso acima da linha dos ombros",
+        "encolher os ombros em direção às orelhas",
+        "alternar antes de controlar a descida"
+      ],
+      "executionTips": [
+        "Use carga que permita estabilizar a lombar.",
+        "Pense em levar o halter para a frente, não em puxar com o pescoço."
+      ],
+      "safetyNotes": "Use amplitude confortável e interrompa se houver dor no ombro. Carga excessiva costuma induzir compensação lombar e perda de controle escapular.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames mostram o praticante em pé elevando um halter por vez à frente do tronco até a altura dos ombros.",
+      "sources": [
+        "https://blog.athletic.com.br/elevacao-frontal-com-halteres/",
+        "https://fitwill.app/pt-br/exercise/4341/dumbbell-alternate-front-raise/"
+      ],
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Elevação frontal unilateral alternada",
+        "Levantamento frontal alternado com halteres"
+      ],
+      "instructions": [
+        "Fique em pé, com os pés na largura do quadril, um halter em cada mão e palmas voltadas para as coxas.",
+        "Contraia o abdômen e mantenha o peito aberto, sem projetar as costelas à frente.",
+        "Eleve um halter em arco à frente até aproximadamente a altura do ombro, preservando leve flexão no cotovelo e punho neutro.",
+        "Desça o halter de maneira lenta até a coxa, sem balançar o corpo.",
+        "Repita com o outro braço, alternando os lados com o tronco imóvel."
+      ],
+      "bodyRegion": [
+        "ombros"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "inclinar o tronco para trás para ganhar impulso",
+        "subir o peso acima da linha dos ombros",
+        "encolher os ombros em direção às orelhas",
+        "alternar antes de controlar a descida"
+      ],
+      "visualIdentification": "Os frames mostram o praticante em pé elevando um halter por vez à frente do tronco até a altura dos ombros."
     },
     {
       "id": "media_2ad8a1829ff77facf23a",
-      "namePtBr": "Postura De Guerreiro 1",
+      "namePtBr": "Postura do Guerreiro II",
       "originalFilename": "Postura de guerreiro 1.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Postura de guerreiro 1.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Postura%20de%20guerreiro%201.gif",
@@ -14189,34 +14269,116 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "mobilidade_alongamento",
-          "label": "mobilidade alongamento"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "ioga",
+        "peso corporal",
+        "mobilidade",
+        "equilíbrio",
+        "quadril",
+        "pernas",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
+      "identificationStatus": "curated",
       "needsManualReview": true,
-      "sourceExerciseId": null
+      "sourceExerciseId": null,
+      "mediaId": "media_2ad8a1829ff77facf23a",
+      "canonicalNameEn": "Warrior II Pose (Virabhadrasana II)",
+      "aliasesPtBr": [
+        "Virabhadrasana II",
+        "Guerreiro 2"
+      ],
+      "description": "Postura de ioga em base ampla, com uma perna flexionada, a outra estendida e os braços abertos na linha dos ombros. O Guerreiro II combina sustentação isométrica dos membros inferiores, abertura de quadril e estabilidade do tronco, sem confundir-se com o Guerreiro I, que mantém os braços elevados e a pelve mais voltada para a frente.",
+      "executionSteps": [
+        "Comece em pé e afaste os pés em uma base ampla.",
+        "Gire o pé da frente para fora e ajuste o pé de trás levemente para dentro.",
+        "Flexione o joelho da frente na direção dos dedos do pé, mantendo o joelho alinhado sobre o tornozelo.",
+        "Abra os braços em direções opostas na altura dos ombros, com as palmas voltadas para baixo.",
+        "Mantenha o tronco ereto, a pelve estável e o olhar sobre a mão da frente; retorne controladamente e repita para o outro lado."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo",
+        "glúteo médio"
+      ],
+      "secondaryMuscles": [
+        "adutores do quadril",
+        "panturrilhas",
+        "deltoides",
+        "oblíquos"
+      ],
+      "equipment": [
+        "peso corporal",
+        "tapete de ioga (opcional)"
+      ],
+      "bodyRegions": [
+        "membros inferiores",
+        "quadril",
+        "core",
+        "ombros"
+      ],
+      "movementPattern": "postura isométrica em afundo lateral",
+      "type": "mobilidade e estabilidade",
+      "difficulty": "iniciante",
+      "laterality": "bilateral alternado",
+      "position": "em pé",
+      "environments": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "deixar o joelho da frente cair para dentro",
+        "elevar os ombros",
+        "inclinar o tronco para um lado",
+        "reduzir demais a base e perder estabilidade"
+      ],
+      "executionTips": [
+        "Distribua o peso entre os dois pés.",
+        "Priorize alinhamento e respiração estável em vez de aprofundar a flexão a qualquer custo."
+      ],
+      "safetyNotes": "Mantenha o joelho da frente alinhado ao pé e use uma amplitude compatível com a mobilidade de quadril e tornozelo. Reduza a profundidade se houver desconforto articular.",
+      "confidence": "HIGH",
+      "visualVerification": "A animação abre a base, flexiona uma perna e sustenta os braços estendidos lateralmente; essa configuração corresponde ao Guerreiro II, não ao Guerreiro I indicado no nome de origem.",
+      "sources": [
+        "https://www.yogajournal.com/poses/warrior-ii-pose/",
+        "https://ayurvedana.com.br/posturas-de-yoga/"
+      ],
+      "reviewRequired": true,
+      "reviewReason": "O nome do arquivo informa Guerreiro I, porém os braços laterais e a orientação do tronco nos frames identificam Guerreiro II.",
+      "profileComplete": true,
+      "aliases": [
+        "Virabhadrasana II",
+        "Guerreiro 2"
+      ],
+      "instructions": [
+        "Comece em pé e afaste os pés em uma base ampla.",
+        "Gire o pé da frente para fora e ajuste o pé de trás levemente para dentro.",
+        "Flexione o joelho da frente na direção dos dedos do pé, mantendo o joelho alinhado sobre o tornozelo.",
+        "Abra os braços em direções opostas na altura dos ombros, com as palmas voltadas para baixo.",
+        "Mantenha o tronco ereto, a pelve estável e o olhar sobre a mão da frente; retorne controladamente e repita para o outro lado."
+      ],
+      "bodyRegion": [
+        "membros inferiores",
+        "quadril",
+        "core",
+        "ombros"
+      ],
+      "exerciseType": "mobilidade e estabilidade",
+      "environment": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "deixar o joelho da frente cair para dentro",
+        "elevar os ombros",
+        "inclinar o tronco para um lado",
+        "reduzir demais a base e perder estabilidade"
+      ],
+      "visualIdentification": "A animação abre a base, flexiona uma perna e sustenta os braços estendidos lateralmente; essa configuração corresponde ao Guerreiro II, não ao Guerreiro I indicado no nome de origem."
     },
     {
       "id": "media_2adda7260fd910c013c3",
-      "namePtBr": "Adho Mukha Vrksasana Ioga Postura De Parada De MãO FlexãO De MãO Para Cima",
+      "namePtBr": "Flexão na parada de mãos",
       "originalFilename": "Adho mukha vrksasana ioga postura de parada de mão - Flexão de mão para cima.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Adho mukha vrksasana ioga postura de parada de mão - Flexão de mão para cima.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Adho%20mukha%20vrksasana%20ioga%20postura%20de%20parada%20de%20m%C3%A3o%20-%20Flex%C3%A3o%20de%20m%C3%A3o%20para%20cima.gif",
@@ -14226,34 +14388,115 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "mobilidade_alongamento",
-          "label": "mobilidade alongamento"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "peso corporal",
+        "calistenia",
+        "ombros",
+        "tríceps",
+        "invertido",
+        "força",
+        "avançado"
       ],
-      "identificationStatus": "pending_review",
+      "identificationStatus": "curated",
       "needsManualReview": true,
-      "sourceExerciseId": null
+      "sourceExerciseId": null,
+      "mediaId": "media_2adda7260fd910c013c3",
+      "canonicalNameEn": "Handstand Push-Up",
+      "aliasesPtBr": [
+        "Flexão de braços na parada de mãos",
+        "HSPU",
+        "Flexão invertida"
+      ],
+      "description": "Movimento avançado de empurrar verticalmente com o corpo invertido e apoiado nas mãos. Os cotovelos flexionam para aproximar a cabeça do solo e estendem para elevar novamente o corpo, exigindo força dos ombros e tríceps, além de controle do core e equilíbrio.",
+      "executionSteps": [
+        "Posicione as mãos no chão aproximadamente na largura dos ombros, com os dedos bem espalhados.",
+        "Entre em parada de mãos estável e mantenha o corpo ativo, com abdômen e glúteos contraídos.",
+        "Flexione os cotovelos de forma controlada, levando a cabeça em direção ao solo entre as mãos.",
+        "Pressione o chão para estender os cotovelos e retorne à posição invertida alinhada.",
+        "Mantenha a repetição lenta e interrompa antes de perder o controle do equilíbrio."
+      ],
+      "primaryMuscles": [
+        "deltoide anterior",
+        "tríceps braquial"
+      ],
+      "secondaryMuscles": [
+        "deltoide lateral",
+        "trapézio superior",
+        "serrátil anterior",
+        "reto abdominal"
+      ],
+      "equipment": [
+        "peso corporal",
+        "parede (opcional)"
+      ],
+      "bodyRegions": [
+        "ombros",
+        "tríceps",
+        "core"
+      ],
+      "movementPattern": "empurrar vertical invertido",
+      "type": "força e habilidade",
+      "difficulty": "avançado",
+      "laterality": "bilateral",
+      "position": "invertido em apoio de mãos",
+      "environments": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "perder a linha do tronco e arquear excessivamente",
+        "deixar a cabeça avançar muito à frente das mãos",
+        "dobrar os cotovelos de modo assimétrico",
+        "tentar a repetição sem domínio da parada de mãos"
+      ],
+      "executionTips": [
+        "Use uma parede e progressões adequadas quando a parada livre ainda não for consistente.",
+        "Empurre o chão ativamente e mantenha o pescoço neutro."
+      ],
+      "safetyNotes": "É um exercício avançado com risco de queda e alta carga sobre punhos, ombros e pescoço. Pratique progressões e utilize área livre, parede ou supervisão qualificada conforme necessário.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames mostram corpo invertido sobre as mãos, flexão dos cotovelos e retorno à extensão; não se trata de uma simples sustentação de parada de mãos.",
+      "sources": [
+        "https://www.strengthlog.com/handstand-push-up/",
+        "https://library.crossfit.com/free/pdf/46_06_hndstnd_pushup.pdf"
+      ],
+      "reviewRequired": true,
+      "reviewReason": "A nomenclatura do arquivo é imprecisa, mas a trajetória visual permite identificação inequívoca como flexão na parada de mãos.",
+      "profileComplete": true,
+      "aliases": [
+        "Flexão de braços na parada de mãos",
+        "HSPU",
+        "Flexão invertida"
+      ],
+      "instructions": [
+        "Posicione as mãos no chão aproximadamente na largura dos ombros, com os dedos bem espalhados.",
+        "Entre em parada de mãos estável e mantenha o corpo ativo, com abdômen e glúteos contraídos.",
+        "Flexione os cotovelos de forma controlada, levando a cabeça em direção ao solo entre as mãos.",
+        "Pressione o chão para estender os cotovelos e retorne à posição invertida alinhada.",
+        "Mantenha a repetição lenta e interrompa antes de perder o controle do equilíbrio."
+      ],
+      "bodyRegion": [
+        "ombros",
+        "tríceps",
+        "core"
+      ],
+      "exerciseType": "força e habilidade",
+      "environment": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "perder a linha do tronco e arquear excessivamente",
+        "deixar a cabeça avançar muito à frente das mãos",
+        "dobrar os cotovelos de modo assimétrico",
+        "tentar a repetição sem domínio da parada de mãos"
+      ],
+      "visualIdentification": "Os frames mostram corpo invertido sobre as mãos, flexão dos cotovelos e retorno à extensão; não se trata de uma simples sustentação de parada de mãos."
     },
     {
       "id": "media_2ae985efb10a10094052",
-      "namePtBr": "EláStico De Desenvolvimento De Ombros Com Um BraçO",
+      "namePtBr": "Desenvolvimento unilateral com elástico",
       "originalFilename": "Elástico de desenvolvimento de ombros com um braço.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Elástico de desenvolvimento de ombros com um braço.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/El%C3%A1stico%20de%20desenvolvimento%20de%20ombros%20com%20um%20bra%C3%A7o.gif",
@@ -14263,24 +14506,107 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "elastico_faixa",
-          "label": "elastico faixa"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "elástico",
+        "ombros",
+        "desenvolvimento",
+        "unilateral",
+        "core",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_2ae985efb10a10094052",
+      "canonicalNameEn": "Single-Arm Resistance Band Shoulder Press",
+      "aliasesPtBr": [
+        "Desenvolvimento de ombro unilateral com faixa elástica",
+        "Press de ombro unilateral com elástico"
+      ],
+      "description": "Variação unilateral do desenvolvimento de ombros em pé, na qual uma faixa elástica ancorada sob o pé cria resistência progressiva enquanto o braço pressiona acima da cabeça. A assimetria exige controle anti-inclinação do tronco além da extensão do braço.",
+      "executionSteps": [
+        "Pise no centro do elástico e segure a outra extremidade com uma mão na altura do ombro.",
+        "Fique em pé com o abdômen contraído e as costelas organizadas sobre a pelve.",
+        "Pressione a mão para cima até estender o cotovelo acima do ombro, sem inclinar o tronco.",
+        "Desça a mão de volta à altura do ombro de forma controlada.",
+        "Complete as repetições de um lado e então troque a mão de trabalho."
+      ],
+      "primaryMuscles": [
+        "deltoide anterior",
+        "deltoide lateral"
+      ],
+      "secondaryMuscles": [
+        "tríceps braquial",
+        "serrátil anterior",
+        "trapézio superior",
+        "oblíquos"
+      ],
+      "equipment": [
+        "faixa elástica"
+      ],
+      "bodyRegions": [
+        "ombros",
+        "tríceps",
+        "core"
+      ],
+      "movementPattern": "empurrar vertical unilateral",
+      "type": "força",
+      "difficulty": "iniciante",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environments": [
+        "casa",
+        "academia"
+      ],
+      "commonErrors": [
+        "arquear a lombar ao elevar o braço",
+        "deixar o cotovelo abrir excessivamente",
+        "perder a tensão inicial do elástico",
+        "inclinar o tronco para o lado oposto"
+      ],
+      "executionTips": [
+        "Ajuste a posição do pé para começar com tensão leve e constante.",
+        "Mantenha o punho alinhado ao antebraço durante toda a subida."
+      ],
+      "safetyNotes": "Verifique se a faixa está íntegra e firmemente presa sob o pé. Use resistência que permita manter o tronco neutro e pare se houver dor no ombro.",
+      "confidence": "HIGH",
+      "visualVerification": "A sequência mostra uma faixa presa sob o pé e um único braço saindo da altura do ombro até a extensão acima da cabeça.",
+      "sources": [
+        "https://www.tomsguide.com/wellness/workouts/this-20-minute-resistance-band-workout-builds-full-body-strength-in-just-5-moves"
+      ],
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Desenvolvimento de ombro unilateral com faixa elástica",
+        "Press de ombro unilateral com elástico"
+      ],
+      "instructions": [
+        "Pise no centro do elástico e segure a outra extremidade com uma mão na altura do ombro.",
+        "Fique em pé com o abdômen contraído e as costelas organizadas sobre a pelve.",
+        "Pressione a mão para cima até estender o cotovelo acima do ombro, sem inclinar o tronco.",
+        "Desça a mão de volta à altura do ombro de forma controlada.",
+        "Complete as repetições de um lado e então troque a mão de trabalho."
+      ],
+      "bodyRegion": [
+        "ombros",
+        "tríceps",
+        "core"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "arquear a lombar ao elevar o braço",
+        "deixar o cotovelo abrir excessivamente",
+        "perder a tensão inicial do elástico",
+        "inclinar o tronco para o lado oposto"
+      ],
+      "visualIdentification": "A sequência mostra uma faixa presa sob o pé e um único braço saindo da altura do ombro até a extensão acima da cabeça."
     },
     {
       "id": "media_2af9a7c691410cae519b",
-      "namePtBr": "Recusar Voo De Cabo",
+      "namePtBr": "Crucifixo declinado no cabo",
       "originalFilename": "Recusar voo de cabo.gif",
       "relativePath": "gifs/peitoral/Recusar voo de cabo.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/peitoral/Recusar%20voo%20de%20cabo.gif",
@@ -14290,24 +14616,102 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "peito",
-          "label": "Peito"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        }
+        "cabo/polia",
+        "banco declinado",
+        "peito",
+        "crucifixo",
+        "crossover",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_2af9a7c691410cae519b",
+      "canonicalNameEn": "Decline Cable Fly",
+      "aliasesPtBr": [
+        "Crucifixo declinado na polia",
+        "Crucifixo no cabo em banco declinado"
+      ],
+      "description": "Crucifixo executado deitado em banco declinado entre os cabos. Os braços percorrem um arco de adução horizontal até se aproximarem sobre a região inferior do peito, mantendo cotovelos suavemente flexionados para enfatizar o peitoral sem transformar o exercício em supino.",
+      "executionSteps": [
+        "Posicione o banco declinado centralizado entre as polias e ajuste as manoplas conforme o equipamento.",
+        "Prenda os pés no apoio, estabilize as escápulas e segure uma manopla em cada mão.",
+        "Comece com os braços abertos, cotovelos levemente flexionados e punhos neutros.",
+        "Aproxime as manoplas em arco sobre o tórax, contraindo o peitoral sem estender os cotovelos.",
+        "Retorne lentamente até alongamento confortável, preservando o controle das escápulas."
+      ],
+      "primaryMuscles": [
+        "peitoral maior (porção esternocostal)"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "serrátil anterior",
+        "bíceps braquial (estabilização)"
+      ],
+      "equipment": [
+        "cabo/polia",
+        "banco declinado",
+        "manoplas"
+      ],
+      "bodyRegions": [
+        "peito"
+      ],
+      "movementPattern": "adução horizontal do ombro em declínio",
+      "type": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado declinado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "dobrar e estender os cotovelos como em um supino",
+        "perder a posição dos ombros no alongamento",
+        "usar amplitude que causa desconforto anterior no ombro",
+        "deixar as manoplas se chocarem no fim"
+      ],
+      "executionTips": [
+        "Mantenha a mesma leve flexão de cotovelo no arco inteiro.",
+        "Priorize a convergência dos braços e a estabilidade escapular, não a carga máxima."
+      ],
+      "safetyNotes": "Garanta que o banco esteja firme e os pés presos antes de deitar. Limite a amplitude ao alcance sem desconforto de ombro e controle a resistência dos cabos ao terminar a série.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames exibem banco declinado, duas manoplas de cabo e arco bilateral que converge sobre o tórax.",
+      "sources": [
+        "https://fitwill.app/pt/exercise/0158/cable-decline-fly/",
+        "https://www.hipertrofia.org/blog/2018/09/17/exercicio-crucifixo-fly/"
+      ],
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Crucifixo declinado na polia",
+        "Crucifixo no cabo em banco declinado"
+      ],
+      "instructions": [
+        "Posicione o banco declinado centralizado entre as polias e ajuste as manoplas conforme o equipamento.",
+        "Prenda os pés no apoio, estabilize as escápulas e segure uma manopla em cada mão.",
+        "Comece com os braços abertos, cotovelos levemente flexionados e punhos neutros.",
+        "Aproxime as manoplas em arco sobre o tórax, contraindo o peitoral sem estender os cotovelos.",
+        "Retorne lentamente até alongamento confortável, preservando o controle das escápulas."
+      ],
+      "bodyRegion": [
+        "peito"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "dobrar e estender os cotovelos como em um supino",
+        "perder a posição dos ombros no alongamento",
+        "usar amplitude que causa desconforto anterior no ombro",
+        "deixar as manoplas se chocarem no fim"
+      ],
+      "visualIdentification": "Os frames exibem banco declinado, duas manoplas de cabo e arco bilateral que converge sobre o tórax."
     },
     {
       "id": "media_2b2562486ff20796d06d",
-      "namePtBr": "Behind The Back Com Barra Encolhimento",
+      "namePtBr": "Crucifixo inverso inclinado com halteres",
       "originalFilename": "Behind the back com barra encolhimento.gif",
       "relativePath": "gifs/trapézio/Behind the back com barra encolhimento.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/trap%C3%A9zio/Behind%20the%20back%20com%20barra%20encolhimento.gif",
@@ -14317,19 +14721,105 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "barra_reta",
-          "label": "barra reta"
-        }
+        "halteres",
+        "deltoide posterior",
+        "crucifixo inverso",
+        "ombros",
+        "costas superiores",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
+      "identificationStatus": "curated",
       "needsManualReview": true,
-      "sourceExerciseId": null
+      "sourceExerciseId": null,
+      "mediaId": "media_2b2562486ff20796d06d",
+      "canonicalNameEn": "Bent-Over Dumbbell Reverse Fly",
+      "aliasesPtBr": [
+        "Crucifixo invertido com halteres",
+        "Voador inverso curvado com halteres"
+      ],
+      "description": "Exercício de abdução horizontal do ombro com o tronco inclinado, no qual os halteres partem abaixo do peito e se afastam lateralmente. A posição inclinada reduz o impulso e direciona o trabalho para o deltoide posterior e estabilizadores da escápula.",
+      "executionSteps": [
+        "Segure os halteres e incline o tronco pelo quadril, com joelhos levemente flexionados e coluna neutra.",
+        "Deixe os braços apontarem para baixo, com cotovelos suavemente flexionados e pescoço alinhado.",
+        "Abra os braços para os lados até a altura compatível com o controle escapular, sem elevar os ombros.",
+        "Aproxime as escápulas ao final da abertura sem rodar o tronco.",
+        "Desça os halteres lentamente pelo mesmo arco."
+      ],
+      "primaryMuscles": [
+        "deltoide posterior"
+      ],
+      "secondaryMuscles": [
+        "trapézio médio",
+        "romboides",
+        "infraespinal"
+      ],
+      "equipment": [
+        "halteres"
+      ],
+      "bodyRegions": [
+        "ombros",
+        "costas superiores"
+      ],
+      "movementPattern": "abdução horizontal do ombro",
+      "type": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "tronco inclinado em pé",
+      "environments": [
+        "casa",
+        "academia"
+      ],
+      "commonErrors": [
+        "arredondar a lombar",
+        "usar impulso do tronco",
+        "encolher os ombros",
+        "transformar o movimento em remada dobrando os cotovelos"
+      ],
+      "executionTips": [
+        "Mantenha o olhar para o chão, poucos centímetros à frente dos pés.",
+        "Escolha carga leve o bastante para não perder a inclinação do tronco."
+      ],
+      "safetyNotes": "Mantenha a coluna neutra e limite a amplitude se o ombro apresentar desconforto. Não use carga que exija balanço do tronco.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames mostram tronco inclinado, dois halteres e abertura bilateral dos braços; não há barra atrás do corpo como sugere o nome de origem.",
+      "sources": [
+        "https://www.totalpass.com/br/blog/atividade-fisica/crucifixo-inverso-como-fazer/",
+        "https://www.youtube.com/watch?v=neiVTL2U5Qo"
+      ],
+      "reviewRequired": true,
+      "reviewReason": "O nome de origem sugere encolhimento com barra, mas os frames identificam crucifixo inverso com halteres.",
+      "profileComplete": true,
+      "aliases": [
+        "Crucifixo invertido com halteres",
+        "Voador inverso curvado com halteres"
+      ],
+      "instructions": [
+        "Segure os halteres e incline o tronco pelo quadril, com joelhos levemente flexionados e coluna neutra.",
+        "Deixe os braços apontarem para baixo, com cotovelos suavemente flexionados e pescoço alinhado.",
+        "Abra os braços para os lados até a altura compatível com o controle escapular, sem elevar os ombros.",
+        "Aproxime as escápulas ao final da abertura sem rodar o tronco.",
+        "Desça os halteres lentamente pelo mesmo arco."
+      ],
+      "bodyRegion": [
+        "ombros",
+        "costas superiores"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "arredondar a lombar",
+        "usar impulso do tronco",
+        "encolher os ombros",
+        "transformar o movimento em remada dobrando os cotovelos"
+      ],
+      "visualIdentification": "Os frames mostram tronco inclinado, dois halteres e abertura bilateral dos braços; não há barra atrás do corpo como sugere o nome de origem."
     },
     {
       "id": "media_2b3a3c2459b4f69112d3",
-      "namePtBr": "Rosca De Punho Inversa Com Halteres Sentado",
+      "namePtBr": "Rosca de punho inversa com halteres sentado",
       "originalFilename": "Rosca de punho inversa com halteres sentado.gif",
       "relativePath": "gifs/antebraço/Rosca de punho inversa com halteres sentado.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/antebra%C3%A7o/Rosca%20de%20punho%20inversa%20com%20halteres%20sentado.gif",
@@ -14339,34 +14829,102 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "bracos",
-          "label": "Bracos"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "flexao_cotovelo",
-          "label": "flexao cotovelo"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "halteres",
+        "antebraços",
+        "punhos",
+        "extensão de punho",
+        "sentado",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_2b3a3c2459b4f69112d3",
+      "canonicalNameEn": "Seated Dumbbell Reverse Wrist Curl",
+      "aliasesPtBr": [
+        "Extensão de punho com halteres sentado",
+        "Rosca inversa de punho sentado"
+      ],
+      "description": "Exercício de isolamento para a face posterior do antebraço. Sentado, o praticante apoia os antebraços nas coxas com as palmas voltadas para baixo e move os halteres apenas pela extensão e flexão controlada dos punhos.",
+      "executionSteps": [
+        "Sente-se no banco e apoie os antebraços nas coxas, deixando os punhos e halteres ultrapassarem os joelhos.",
+        "Segure os halteres com as palmas voltadas para baixo e mantenha os cotovelos imóveis.",
+        "Deixe os punhos flexionarem levemente para baixo de forma controlada.",
+        "Estenda os punhos para elevar os dorsos das mãos em direção aos antebraços.",
+        "Desça devagar e repita sem levantar os antebraços das coxas."
+      ],
+      "primaryMuscles": [
+        "extensores do punho"
+      ],
+      "secondaryMuscles": [
+        "braquiorradial",
+        "extensores dos dedos",
+        "músculos da pegada"
+      ],
+      "equipment": [
+        "halteres",
+        "banco reto"
+      ],
+      "bodyRegions": [
+        "antebraços"
+      ],
+      "movementPattern": "extensão de punho",
+      "type": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environments": [
+        "casa",
+        "academia"
+      ],
+      "commonErrors": [
+        "mover os cotovelos ou ombros para ajudar",
+        "usar carga que reduz a amplitude do punho",
+        "descer de forma brusca",
+        "torcer os punhos"
+      ],
+      "executionTips": [
+        "Use halteres leves e movimento curto, porém controlado.",
+        "Mantenha as palmas voltadas para baixo durante a repetição."
+      ],
+      "safetyNotes": "Progrida a carga gradualmente, pois os extensores do punho toleram menos carga que grupos maiores. Pare se houver dor aguda no punho ou cotovelo.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames mostram o praticante sentado, antebraços apoiados nas coxas e os halteres movendo-se apenas pela extensão dos punhos com pegada pronada.",
+      "sources": [
+        "https://fitwill.app/pt-br/exercise/0385/dumbbell-reverse-wrist-curl/"
+      ],
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Extensão de punho com halteres sentado",
+        "Rosca inversa de punho sentado"
+      ],
+      "instructions": [
+        "Sente-se no banco e apoie os antebraços nas coxas, deixando os punhos e halteres ultrapassarem os joelhos.",
+        "Segure os halteres com as palmas voltadas para baixo e mantenha os cotovelos imóveis.",
+        "Deixe os punhos flexionarem levemente para baixo de forma controlada.",
+        "Estenda os punhos para elevar os dorsos das mãos em direção aos antebraços.",
+        "Desça devagar e repita sem levantar os antebraços das coxas."
+      ],
+      "bodyRegion": [
+        "antebraços"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "mover os cotovelos ou ombros para ajudar",
+        "usar carga que reduz a amplitude do punho",
+        "descer de forma brusca",
+        "torcer os punhos"
+      ],
+      "visualIdentification": "Os frames mostram o praticante sentado, antebraços apoiados nas coxas e os halteres movendo-se apenas pela extensão dos punhos com pegada pronada."
     },
     {
       "id": "media_2b4874dc4eba22b912f0",
-      "namePtBr": "MáQuina De Impulso De Quadril",
+      "namePtBr": "Elevação pélvica na máquina",
       "originalFilename": "Máquina de impulso de quadril.gif",
       "relativePath": "gifs/glúteos/Máquina de impulso de quadril.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/gl%C3%BAteos/M%C3%A1quina%20de%20impulso%20de%20quadril.gif",
@@ -14376,20 +14934,105 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "pernas",
-          "label": "Pernas"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        }
+        "máquina",
+        "elevação pélvica",
+        "hip thrust",
+        "glúteos",
+        "extensão de quadril",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_2b4874dc4eba22b912f0",
+      "canonicalNameEn": "Hip Thrust Machine",
+      "aliasesPtBr": [
+        "Hip thrust na máquina",
+        "Elevação de quadril na máquina",
+        "Elevação pélvica articulada"
+      ],
+      "description": "Extensão bilateral de quadril realizada em máquina específica de elevação pélvica. Com as costas apoiadas e os pés na plataforma, o praticante empurra pelos calcanhares para elevar o quadril contra a resistência da alavanca, com ênfase no glúteo máximo e maior estabilidade fornecida pelo equipamento.",
+      "executionSteps": [
+        "Ajuste banco, apoio e carga para que quadris, joelhos e tornozelos fiquem confortáveis na posição inicial.",
+        "Sente-se com as costas apoiadas, pés firmes na plataforma e o acolchoado posicionado sobre a região do quadril conforme a máquina.",
+        "Trave o abdômen e pressione pelos calcanhares para estender os quadris.",
+        "Pare no topo quando tronco e coxas estiverem alinhados, contraindo os glúteos sem hiperestender a lombar.",
+        "Desça a alavanca de forma controlada e repita mantendo os joelhos alinhados aos pés."
+      ],
+      "primaryMuscles": [
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "adutor magno",
+        "isquiotibiais",
+        "quadríceps",
+        "reto abdominal"
+      ],
+      "equipment": [
+        "máquina de elevação pélvica",
+        "plataforma de pés",
+        "acolchoado pélvico"
+      ],
+      "bodyRegions": [
+        "glúteos",
+        "quadril",
+        "posteriores de coxa"
+      ],
+      "movementPattern": "extensão de quadril",
+      "type": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado reclinado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "empurrar pela ponta dos pés",
+        "hiperestender a lombar no topo",
+        "deixar os joelhos caírem para dentro",
+        "usar carga que impede amplitude e controle"
+      ],
+      "executionTips": [
+        "Regule a máquina antes de carregar o equipamento.",
+        "Pense em aproximar as costelas da pelve e finalizar com contração dos glúteos, não com extensão lombar."
+      ],
+      "safetyNotes": "Ajuste travas e acolchoado antes de destravar a máquina. Use carga progressiva, mantenha os pés firmes e interrompa caso haja desconforto lombar ou no quadril.",
+      "confidence": "HIGH",
+      "visualVerification": "A sequência mostra praticante reclinada em máquina articulada, com pés em plataforma e alavanca acolchoada sobre o quadril realizando extensão de quadril.",
+      "sources": [
+        "https://www.strengthlog.com/hip-thrust-machine/",
+        "https://www.tuasaude.com/elevacao-pelvica/"
+      ],
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Hip thrust na máquina",
+        "Elevação de quadril na máquina",
+        "Elevação pélvica articulada"
+      ],
+      "instructions": [
+        "Ajuste banco, apoio e carga para que quadris, joelhos e tornozelos fiquem confortáveis na posição inicial.",
+        "Sente-se com as costas apoiadas, pés firmes na plataforma e o acolchoado posicionado sobre a região do quadril conforme a máquina.",
+        "Trave o abdômen e pressione pelos calcanhares para estender os quadris.",
+        "Pare no topo quando tronco e coxas estiverem alinhados, contraindo os glúteos sem hiperestender a lombar.",
+        "Desça a alavanca de forma controlada e repita mantendo os joelhos alinhados aos pés."
+      ],
+      "bodyRegion": [
+        "glúteos",
+        "quadril",
+        "posteriores de coxa"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "empurrar pela ponta dos pés",
+        "hiperestender a lombar no topo",
+        "deixar os joelhos caírem para dentro",
+        "usar carga que impede amplitude e controle"
+      ],
+      "visualIdentification": "A sequência mostra praticante reclinada em máquina articulada, com pés em plataforma e alavanca acolchoada sobre o quadril realizando extensão de quadril."
     },
     {
       "id": "media_2b54121a04e8f357f3fb",
