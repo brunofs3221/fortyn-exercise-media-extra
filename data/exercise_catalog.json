@@ -16108,7 +16108,7 @@
     },
     {
       "id": "media_2ea854e4dcef74125365",
-      "namePtBr": "Crucifixo Sentado Na MáQuina",
+      "namePtBr": "Crucifixo no peck deck",
       "originalFilename": "Crucifixo sentado na máquina.gif",
       "relativePath": "gifs/peitoral/Crucifixo sentado na máquina.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/peitoral/Crucifixo%20sentado%20na%20m%C3%A1quina.gif",
@@ -16118,24 +16118,100 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "peito",
-          "label": "Peito"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        }
+        "peito",
+        "peitoral",
+        "crucifixo",
+        "voador",
+        "peck deck",
+        "máquina"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_2ea854e4dcef74125365",
+      "canonicalNameEn": "Seated Machine Fly",
+      "aliasesPtBr": [
+        "Voador",
+        "Crucifixo na máquina",
+        "Peck deck"
+      ],
+      "description": "Exercício isolador de peitoral feito sentado no aparelho peck deck. Com os antebraços apoiados nas almofadas, os braços fazem adução horizontal até se aproximarem à frente do tórax; a trajetória guiada permite concentrar o esforço no peitoral maior sem exigir equilíbrio de pesos livres.",
+      "executionSteps": [
+        "Ajuste o assento para que cotovelos e ombros fiquem aproximadamente na mesma altura ao encostar nos apoios.",
+        "Sente-se com costas apoiadas, pés firmes e peito alto; posicione os antebraços nas almofadas ou as mãos nas manoplas.",
+        "Comece com os braços abertos dentro da amplitude confortável e escápulas estáveis no encosto.",
+        "Feche os braços em arco à frente do corpo, aproximando os apoios sem bater a carga.",
+        "Pausa brevemente na contração e abra de modo lento até sentir alongamento confortável no peito."
+      ],
+      "primaryMuscles": [
+        "peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "máquina peck deck"
+      ],
+      "bodyRegions": [
+        "peito"
+      ],
+      "movementPattern": "adução horizontal do ombro",
+      "type": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "regular o assento deixando os cotovelos muito acima dos ombros",
+        "projetar a cabeça para frente",
+        "perder o contato das costas com o encosto",
+        "fechar os braços com impulso e deixar a carga voltar bruscamente"
+      ],
+      "executionTips": [
+        "Mantenha as escápulas apoiadas durante todo o arco",
+        "Use amplitude que não force a parte anterior do ombro"
+      ],
+      "safetyNotes": "Ajuste os braços e o encosto antes de adicionar carga. Não insista em abertura excessiva se houver desconforto no ombro; a volta deve ser freada, sem deixar a pilha de pesos cair.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames exibem praticante sentado de frente para um peck deck, com antebraços em apoios e fechamento bilateral à frente do tórax; o peitoral está destacado.",
+      "sources": [
+        "https://fitzi.com.br/exercicios/peitoral-voador-no-pec-deck",
+        "https://fitwill.app/pt-br/exercise/0596/lever-seated-fly/"
+      ],
+      "reviewRequired": false,
+      "aliases": [
+        "Voador",
+        "Crucifixo na máquina",
+        "Peck deck"
+      ],
+      "instructions": [
+        "Ajuste o assento para que cotovelos e ombros fiquem aproximadamente na mesma altura ao encostar nos apoios.",
+        "Sente-se com costas apoiadas, pés firmes e peito alto; posicione os antebraços nas almofadas ou as mãos nas manoplas.",
+        "Comece com os braços abertos dentro da amplitude confortável e escápulas estáveis no encosto.",
+        "Feche os braços em arco à frente do corpo, aproximando os apoios sem bater a carga.",
+        "Pausa brevemente na contração e abra de modo lento até sentir alongamento confortável no peito."
+      ],
+      "bodyRegion": [
+        "peito"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "regular o assento deixando os cotovelos muito acima dos ombros",
+        "projetar a cabeça para frente",
+        "perder o contato das costas com o encosto",
+        "fechar os braços com impulso e deixar a carga voltar bruscamente"
+      ],
+      "visualIdentification": "Os frames exibem praticante sentado de frente para um peck deck, com antebraços em apoios e fechamento bilateral à frente do tórax; o peitoral está destacado."
     },
     {
       "id": "media_2ed9b37f91fcf7352ff4",
-      "namePtBr": "Sentado Ab Abdominal Na MáQuina",
+      "namePtBr": "Abdominal crunch na máquina",
       "originalFilename": "Sentado ab abdominal na máquina.gif",
       "relativePath": "gifs/abdominais/Sentado ab abdominal na máquina.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/abdominais/Sentado%20ab%20abdominal%20na%20m%C3%A1quina.gif",
@@ -16145,19 +16221,97 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        }
+        "abdômen",
+        "crunch",
+        "máquina",
+        "reto abdominal",
+        "core"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_2ed9b37f91fcf7352ff4",
+      "canonicalNameEn": "Seated Abdominal Crunch Machine",
+      "aliasesPtBr": [
+        "Abdominal na máquina",
+        "Crunch sentado na máquina"
+      ],
+      "description": "Flexão de tronco realizada em máquina de abdominal sentado. Os apoios estabilizam a pelve e o peito enquanto o praticante aproxima costelas e quadril contra a resistência, enfatizando o reto abdominal em uma trajetória guiada.",
+      "executionSteps": [
+        "Ajuste assento, apoio dos pés e almofada superior para que o quadril fique firme e o tronco possa flexionar sem comprimir o pescoço.",
+        "Sente-se com a lombar bem posicionada no encosto e segure as alças ou apoios indicados pela máquina.",
+        "Expire enquanto arredonda suavemente o tronco, aproximando costelas e pelve contra a resistência.",
+        "Finalize quando a contração abdominal estiver forte, sem transformar o gesto em puxada de braços.",
+        "Retorne devagar até a posição inicial, mantendo tensão e sem estender a coluna de forma agressiva."
+      ],
+      "primaryMuscles": [
+        "reto abdominal"
+      ],
+      "secondaryMuscles": [
+        "oblíquos externos",
+        "oblíquos internos"
+      ],
+      "equipment": [
+        "máquina de abdominal"
+      ],
+      "bodyRegions": [
+        "abdômen"
+      ],
+      "movementPattern": "flexão de tronco",
+      "type": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "puxar as alças com os braços",
+        "usar carga que impede a flexão controlada",
+        "descolar o quadril do assento",
+        "hiperestender a lombar na volta"
+      ],
+      "executionTips": [
+        "Pense em fechar o espaço entre costelas e pelve",
+        "Solte o ar na fase de contração"
+      ],
+      "safetyNotes": "Regule o aparelho para sua estatura e use carga que permita movimento sem tranco. Pare se o aparelho causar pressão no pescoço ou dor lombar, e não force a amplitude final.",
+      "confidence": "HIGH",
+      "visualVerification": "A animação mostra pessoa sentada em máquina específica, com apoio no peito e tornozelos, executando flexão curta do tronco; reto abdominal e oblíquos são realçados.",
+      "sources": [
+        "https://www.teses.usp.br/teses/disponiveis/5/5160/tde-25062024-124301/publico/DouglasCerqueiraFerdinandoVersaoCorrigida.pdf",
+        "https://r1fitness.com.br/produto/abdominal-cruch/"
+      ],
+      "reviewRequired": false,
+      "aliases": [
+        "Abdominal na máquina",
+        "Crunch sentado na máquina"
+      ],
+      "instructions": [
+        "Ajuste assento, apoio dos pés e almofada superior para que o quadril fique firme e o tronco possa flexionar sem comprimir o pescoço.",
+        "Sente-se com a lombar bem posicionada no encosto e segure as alças ou apoios indicados pela máquina.",
+        "Expire enquanto arredonda suavemente o tronco, aproximando costelas e pelve contra a resistência.",
+        "Finalize quando a contração abdominal estiver forte, sem transformar o gesto em puxada de braços.",
+        "Retorne devagar até a posição inicial, mantendo tensão e sem estender a coluna de forma agressiva."
+      ],
+      "bodyRegion": [
+        "abdômen"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "puxar as alças com os braços",
+        "usar carga que impede a flexão controlada",
+        "descolar o quadril do assento",
+        "hiperestender a lombar na volta"
+      ],
+      "visualIdentification": "A animação mostra pessoa sentada em máquina específica, com apoio no peito e tornozelos, executando flexão curta do tronco; reto abdominal e oblíquos são realçados."
     },
     {
       "id": "media_2ef552cd5c5cbf18f018",
-      "namePtBr": "MáQuina De AduçãO De Quadril",
+      "namePtBr": "Cadeira adutora",
       "originalFilename": "Máquina de adução de quadril.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Máquina de adução de quadril.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/M%C3%A1quina%20de%20adu%C3%A7%C3%A3o%20de%20quadril.gif",
@@ -16167,19 +16321,99 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        }
+        "adutores",
+        "parte interna da coxa",
+        "quadril",
+        "máquina",
+        "cadeira adutora"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_2ef552cd5c5cbf18f018",
+      "canonicalNameEn": "Hip Adduction Machine",
+      "aliasesPtBr": [
+        "Adução de quadril na máquina",
+        "Máquina adutora"
+      ],
+      "description": "Exercício sentado para os músculos da face interna da coxa. Partindo das pernas abertas nos apoios laterais, o praticante aproxima as coxas contra a resistência da máquina, realizando adução de quadril com tronco estabilizado.",
+      "executionSteps": [
+        "Ajuste o encosto, os apoios das coxas e a amplitude inicial para uma abertura confortável.",
+        "Sente-se com costas e quadril apoiados, segurando as alças laterais para estabilizar o tronco.",
+        "Inicie com as pernas afastadas e os pés apoiados conforme o desenho do equipamento.",
+        "Aproxime as almofadas usando a parte interna das coxas, sem impulsionar o corpo no assento.",
+        "Retorne lentamente até a abertura selecionada, mantendo o controle da resistência."
+      ],
+      "primaryMuscles": [
+        "adutores do quadril"
+      ],
+      "secondaryMuscles": [
+        "grácil",
+        "pectíneo"
+      ],
+      "equipment": [
+        "cadeira adutora"
+      ],
+      "bodyRegions": [
+        "quadril",
+        "pernas"
+      ],
+      "movementPattern": "adução de quadril",
+      "type": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "começar com abertura além da mobilidade disponível",
+        "tirar o quadril do encosto",
+        "bater os apoios no fim da repetição",
+        "fechar as pernas com impulso"
+      ],
+      "executionTips": [
+        "Escolha amplitude inicial confortável",
+        "Controle igualmente a aproximação e a abertura"
+      ],
+      "safetyNotes": "Ajuste os limitadores antes da série e não use amplitude que cause pinçamento ou dor na virilha. Aumente a carga gradualmente e mantenha o quadril apoiado.",
+      "confidence": "HIGH",
+      "visualVerification": "Os quadros mostram a cadeira adutora: praticante sentado com coxas nos apoios laterais aproximando as pernas; região medial da coxa aparece em vermelho.",
+      "sources": [
+        "https://www.smartfit.com.br/news/fitness/abdutor-e-adutor/",
+        "https://saude.abril.com.br/fitness/cadeira-adutora-o-aparelho-que-ativa-a-parte-interna-da-coxa/"
+      ],
+      "reviewRequired": false,
+      "aliases": [
+        "Adução de quadril na máquina",
+        "Máquina adutora"
+      ],
+      "instructions": [
+        "Ajuste o encosto, os apoios das coxas e a amplitude inicial para uma abertura confortável.",
+        "Sente-se com costas e quadril apoiados, segurando as alças laterais para estabilizar o tronco.",
+        "Inicie com as pernas afastadas e os pés apoiados conforme o desenho do equipamento.",
+        "Aproxime as almofadas usando a parte interna das coxas, sem impulsionar o corpo no assento.",
+        "Retorne lentamente até a abertura selecionada, mantendo o controle da resistência."
+      ],
+      "bodyRegion": [
+        "quadril",
+        "pernas"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "começar com abertura além da mobilidade disponível",
+        "tirar o quadril do encosto",
+        "bater os apoios no fim da repetição",
+        "fechar as pernas com impulso"
+      ],
+      "visualIdentification": "Os quadros mostram a cadeira adutora: praticante sentado com coxas nos apoios laterais aproximando as pernas; região medial da coxa aparece em vermelho."
     },
     {
       "id": "media_2f144a2ee74fb0466828",
-      "namePtBr": "MáQuina Ajoelhada FlexãO De Perna",
+      "namePtBr": "Flexora ajoelhada unilateral",
       "originalFilename": "Máquina ajoelhada flexão de perna.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Máquina ajoelhada flexão de perna.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/M%C3%A1quina%20ajoelhada%20flex%C3%A3o%20de%20perna.gif",
@@ -16189,24 +16423,103 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "empurrar",
-          "label": "empurrar"
-        }
+        "posterior de coxa",
+        "isquiotibiais",
+        "leg curl",
+        "flexora",
+        "unilateral",
+        "máquina"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0582"
+      "sourceExerciseId": "0582",
+      "mediaId": "media_2f144a2ee74fb0466828",
+      "canonicalNameEn": "Lever Kneeling Leg Curl",
+      "aliasesPtBr": [
+        "Flexão de perna ajoelhada na máquina",
+        "Leg curl ajoelhado",
+        "Flexora em pé unilateral"
+      ],
+      "description": "Flexão unilateral de joelho em máquina articulada, executada com o tronco apoiado e uma perna de cada vez. O rolo é levado em direção ao glúteo pela flexão do joelho, isolando principalmente os isquiotibiais e reduzindo o balanço do quadril.",
+      "executionSteps": [
+        "Ajuste a altura do apoio de peito, do joelho e do rolo para que ele encoste logo acima do calcanhar da perna de trabalho.",
+        "Apoie o tronco no suporte, estabilize a perna que não trabalha e mantenha a pelve nivelada.",
+        "Comece com o joelho da perna ativa estendido ou quase estendido, sem travá-lo com força.",
+        "Flexione o joelho levando o rolo em direção ao glúteo, sem levantar o quadril do apoio.",
+        "Desça controladamente até alongar os posteriores de coxa e complete o lado antes de trocar a perna."
+      ],
+      "primaryMuscles": [
+        "isquiotibiais"
+      ],
+      "secondaryMuscles": [
+        "gastrocnêmio",
+        "sartório",
+        "grácil"
+      ],
+      "equipment": [
+        "máquina flexora ajoelhada"
+      ],
+      "bodyRegions": [
+        "posterior de coxa",
+        "pernas"
+      ],
+      "movementPattern": "flexão de joelho",
+      "type": "força",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "ajoelhado com tronco apoiado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "elevar o quadril para puxar a carga",
+        "girar a pelve",
+        "usar impulso no início",
+        "deixar o rolo bater ao estender o joelho"
+      ],
+      "executionTips": [
+        "Mantenha o quadril pressionado no apoio",
+        "Priorize a descida lenta"
+      ],
+      "safetyNotes": "Confira se rolo e apoios estão alinhados à sua perna antes de carregar. Não force a extensão terminal do joelho nem compense com a lombar; reduza a carga se a pelve se mover.",
+      "confidence": "HIGH",
+      "visualVerification": "A sequência mostra um praticante ajoelhado, com peito apoiado em máquina e rolo atrás da perna, flexionando um joelho em direção ao glúteo; posteriores de coxa estão destacados.",
+      "sources": [
+        "https://fitwill.app/pt-br/exercise/0582/lever-kneeling-leg-curl/",
+        "https://acervodigital.ufpr.br/xmlui/bitstream/handle/1884/57329/JOSE%20OSMAR%20KLEIN%20JUNIOR.pdf?isAllowed=y&sequence=1"
+      ],
+      "reviewRequired": false,
+      "aliases": [
+        "Flexão de perna ajoelhada na máquina",
+        "Leg curl ajoelhado",
+        "Flexora em pé unilateral"
+      ],
+      "instructions": [
+        "Ajuste a altura do apoio de peito, do joelho e do rolo para que ele encoste logo acima do calcanhar da perna de trabalho.",
+        "Apoie o tronco no suporte, estabilize a perna que não trabalha e mantenha a pelve nivelada.",
+        "Comece com o joelho da perna ativa estendido ou quase estendido, sem travá-lo com força.",
+        "Flexione o joelho levando o rolo em direção ao glúteo, sem levantar o quadril do apoio.",
+        "Desça controladamente até alongar os posteriores de coxa e complete o lado antes de trocar a perna."
+      ],
+      "bodyRegion": [
+        "posterior de coxa",
+        "pernas"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "elevar o quadril para puxar a carga",
+        "girar a pelve",
+        "usar impulso no início",
+        "deixar o rolo bater ao estender o joelho"
+      ],
+      "visualIdentification": "A sequência mostra um praticante ajoelhado, com peito apoiado em máquina e rolo atrás da perna, flexionando um joelho em direção ao glúteo; posteriores de coxa estão destacados."
     },
     {
       "id": "media_2f20cf12e525daf6416e",
-      "namePtBr": "Corrida Corrida De Roda VariaçãO 2",
+      "namePtBr": "Corrida estacionária",
       "originalFilename": "Corrida - Corrida de roda - Variação 2.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Corrida - Corrida de roda - Variação 2.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Corrida%20-%20Corrida%20de%20roda%20-%20Varia%C3%A7%C3%A3o%202.gif",
@@ -16215,14 +16528,108 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "matched_existing_exercise",
-      "needsManualReview": false,
-      "sourceExerciseId": "3637"
+      "tags": [
+        "cardio",
+        "corrida",
+        "corrida no lugar",
+        "peso corporal",
+        "aquecimento",
+        "coordenação"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": true,
+      "sourceExerciseId": "3637",
+      "mediaId": "media_2f20cf12e525daf6416e",
+      "canonicalNameEn": "Running in Place",
+      "aliasesPtBr": [
+        "Corrida no lugar",
+        "Corrida parada"
+      ],
+      "description": "Variação de corrida feita sem deslocamento horizontal, alternando apoios, elevação dos joelhos e balanço contrário dos braços. Serve como atividade cardiorrespiratória e de coordenação, com exigência repetida de quadríceps, panturrilhas e musculatura do quadril.",
+      "executionSteps": [
+        "Fique em pé em espaço livre, com peito alto, abdômen levemente ativo e olhar à frente.",
+        "Inicie alternando os pés como em uma corrida, aterrissando de maneira macia no antepé ou meio do pé.",
+        "Eleve um joelho enquanto o braço oposto avança, mantendo o outro braço para trás em contramovimento natural.",
+        "Alterne os lados em ritmo contínuo, sem projetar o tronco para frente ou para trás.",
+        "Diminua gradualmente a cadência antes de encerrar o exercício."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "panturrilhas"
+      ],
+      "secondaryMuscles": [
+        "glúteo máximo",
+        "isquiotibiais",
+        "flexores do quadril",
+        "abdômen"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegions": [
+        "pernas",
+        "condicionamento"
+      ],
+      "movementPattern": "corrida estacionária",
+      "type": "cardiorrespiratório",
+      "difficulty": "iniciante",
+      "laterality": "alternado",
+      "position": "em pé",
+      "environments": [
+        "casa",
+        "academia",
+        "ao ar livre"
+      ],
+      "commonErrors": [
+        "aterrissar com impacto excessivo",
+        "inclinar demais o tronco",
+        "perder o ritmo dos braços",
+        "prender a respiração"
+      ],
+      "executionTips": [
+        "Mantenha a passada compatível com o espaço",
+        "Comece com cadência leve antes de acelerar"
+      ],
+      "safetyNotes": "Faça sobre piso regular e com calçado apropriado para o impacto. Interrompa em caso de tontura, dor ou falta de ar fora do habitual e reduza a cadência se a aterrissagem ficar ruidosa.",
+      "confidence": "MEDIUM",
+      "visualVerification": "Os frames mostram ciclo alternado de corrida sem equipamento e sem deslocamento de cenário, com joelhos e braços em oposição; a nomenclatura original 'Wheel Run' é incomum, portanto o nome brasileiro foi baseado no gesto visual.",
+      "sources": [
+        "https://www.acefitness.org/resources/everyone/exercise-library/",
+        "https://www.health.harvard.edu/exercise-and-fitness/the-importance-of-good-running-form"
+      ],
+      "reviewRequired": true,
+      "aliases": [
+        "Corrida no lugar",
+        "Corrida parada"
+      ],
+      "instructions": [
+        "Fique em pé em espaço livre, com peito alto, abdômen levemente ativo e olhar à frente.",
+        "Inicie alternando os pés como em uma corrida, aterrissando de maneira macia no antepé ou meio do pé.",
+        "Eleve um joelho enquanto o braço oposto avança, mantendo o outro braço para trás em contramovimento natural.",
+        "Alterne os lados em ritmo contínuo, sem projetar o tronco para frente ou para trás.",
+        "Diminua gradualmente a cadência antes de encerrar o exercício."
+      ],
+      "bodyRegion": [
+        "pernas",
+        "condicionamento"
+      ],
+      "exerciseType": "cardiorrespiratório",
+      "environment": [
+        "casa",
+        "academia",
+        "ao ar livre"
+      ],
+      "commonMistakes": [
+        "aterrissar com impacto excessivo",
+        "inclinar demais o tronco",
+        "perder o ritmo dos braços",
+        "prender a respiração"
+      ],
+      "visualIdentification": "Os frames mostram ciclo alternado de corrida sem equipamento e sem deslocamento de cenário, com joelhos e braços em oposição; a nomenclatura original 'Wheel Run' é incomum, portanto o nome brasileiro foi baseado no gesto visual."
     },
     {
       "id": "media_2f46ee24c34e16b27b51",
-      "namePtBr": "Supino Inclinado Na MáQuina VariaçãO 2",
+      "namePtBr": "Supino inclinado na máquina",
       "originalFilename": "Supino inclinado na máquina - Variação 2.gif",
       "relativePath": "gifs/peitoral/Supino inclinado na máquina - Variação 2.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/peitoral/Supino%20inclinado%20na%20m%C3%A1quina%20-%20Varia%C3%A7%C3%A3o%202.gif",
@@ -16232,29 +16639,103 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "peito",
-          "label": "Peito"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "empurrar",
-          "label": "empurrar"
-        }
+        "peito",
+        "supino inclinado",
+        "máquina",
+        "peitoral superior",
+        "tríceps",
+        "empurrar"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_2f46ee24c34e16b27b51",
+      "canonicalNameEn": "Incline Chest Press Machine",
+      "aliasesPtBr": [
+        "Supino inclinado articulado",
+        "Chest press inclinado"
+      ],
+      "description": "Exercício composto de empurrar realizado em máquina com banco inclinado. A trajetória guiada combina adução horizontal do ombro e extensão de cotovelo, favorecendo o peitoral maior com ênfase nas fibras claviculares, enquanto deltoide anterior e tríceps auxiliam no movimento.",
+      "executionSteps": [
+        "Ajuste assento e encosto para que as alças iniciem na altura da parte superior do peito e os pés alcancem o chão.",
+        "Sente-se com escápulas encaixadas no banco e segure as alças com punhos alinhados aos antebraços.",
+        "Empurre as alças para frente e para cima conforme o arco do equipamento, estendendo os cotovelos sem perder o apoio do dorso.",
+        "Pare antes de travar os cotovelos de forma brusca e mantenha o peito aberto.",
+        "Retorne em controle até a posição inicial, permitindo alongamento confortável do peitoral."
+      ],
+      "primaryMuscles": [
+        "peitoral maior porção clavicular"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "tríceps braquial"
+      ],
+      "equipment": [
+        "máquina de supino inclinado"
+      ],
+      "bodyRegions": [
+        "peito",
+        "ombros",
+        "tríceps"
+      ],
+      "movementPattern": "empurrão inclinado",
+      "type": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado em banco inclinado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "perder o contato das escápulas com o banco",
+        "deixar os cotovelos excessivamente abertos",
+        "usar carga que reduz demais a amplitude",
+        "soltar o retorno da alavanca"
+      ],
+      "executionTips": [
+        "Mantenha pés firmes para criar base estável",
+        "Controle a descida para manter o peitoral sob tensão"
+      ],
+      "safetyNotes": "Regule a máquina para que ombros e punhos fiquem confortáveis no início. Não force profundidade que gere dor anterior no ombro e use as travas disponíveis ao ajustar ou encerrar a série.",
+      "confidence": "HIGH",
+      "visualVerification": "A animação exibe praticante deitado em encosto inclinado de máquina articulada, empurrando duas alavancas carregadas; peitoral superior, deltoide anterior e tríceps são destacados.",
+      "sources": [
+        "https://www.inshapeapp.com.br/exercicios/supino-inclinado-maquina",
+        "https://fitwill.app/pt-br/exercise/2659/lever-incline-chest-press/",
+        "https://www.hipertrofia.org/blog/2019/05/24/supino-inclinado-na-maquina/"
+      ],
+      "reviewRequired": false,
+      "aliases": [
+        "Supino inclinado articulado",
+        "Chest press inclinado"
+      ],
+      "instructions": [
+        "Ajuste assento e encosto para que as alças iniciem na altura da parte superior do peito e os pés alcancem o chão.",
+        "Sente-se com escápulas encaixadas no banco e segure as alças com punhos alinhados aos antebraços.",
+        "Empurre as alças para frente e para cima conforme o arco do equipamento, estendendo os cotovelos sem perder o apoio do dorso.",
+        "Pare antes de travar os cotovelos de forma brusca e mantenha o peito aberto.",
+        "Retorne em controle até a posição inicial, permitindo alongamento confortável do peitoral."
+      ],
+      "bodyRegion": [
+        "peito",
+        "ombros",
+        "tríceps"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "perder o contato das escápulas com o banco",
+        "deixar os cotovelos excessivamente abertos",
+        "usar carga que reduz demais a amplitude",
+        "soltar o retorno da alavanca"
+      ],
+      "visualIdentification": "A animação exibe praticante deitado em encosto inclinado de máquina articulada, empurrando duas alavancas carregadas; peitoral superior, deltoide anterior e tríceps são destacados."
     },
     {
       "id": "media_2fb4ba68035b43e0297a",
-      "namePtBr": "TorçõEs De Cotovelo A Joelho",
+      "namePtBr": "Abdominal cruzado cotovelo ao joelho",
       "originalFilename": "Torções de cotovelo a joelho.gif",
       "relativePath": "gifs/abdominais/Torções de cotovelo a joelho.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/abdominais/Tor%C3%A7%C3%B5es%20de%20cotovelo%20a%20joelho.gif",
@@ -16263,14 +16744,104 @@
       "width": 1080,
       "height": 1080,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "abdômen",
+        "oblíquos",
+        "abdominal bicicleta",
+        "cotovelo joelho",
+        "peso corporal"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_2fb4ba68035b43e0297a",
+      "canonicalNameEn": "Elbow-to-Knee Crunch",
+      "aliasesPtBr": [
+        "Abdominal bicicleta",
+        "Crunch cruzado",
+        "Abdominal oblíquo cotovelo no joelho"
+      ],
+      "description": "Variação dinâmica de abdominal no solo em que o tronco roda enquanto um joelho se aproxima do cotovelo oposto. A alternância de lados associa flexão de tronco e rotação, aumentando a participação dos oblíquos além do reto abdominal e dos flexores de quadril.",
+      "executionSteps": [
+        "Deite-se de costas, eleve as pernas e posicione as mãos de leve ao lado da cabeça, sem entrelaçar e puxar a nuca.",
+        "Eleve as escápulas do solo e mantenha a lombar tão estável quanto conseguir.",
+        "Gire o tronco levando um cotovelo em direção ao joelho oposto enquanto a outra perna se estende.",
+        "Troque de lado com controle, aproximando o outro cotovelo e joelho sem balançar o corpo.",
+        "Mantenha a repetição fluida, com rotação partindo do tronco e não de tração no pescoço."
+      ],
+      "primaryMuscles": [
+        "oblíquos externos",
+        "reto abdominal"
+      ],
+      "secondaryMuscles": [
+        "oblíquos internos",
+        "flexores do quadril"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegions": [
+        "abdômen",
+        "core"
+      ],
+      "movementPattern": "flexão e rotação de tronco",
+      "type": "força",
+      "difficulty": "intermediário",
+      "laterality": "alternado",
+      "position": "deitado em decúbito dorsal",
+      "environments": [
+        "casa",
+        "academia"
+      ],
+      "commonErrors": [
+        "puxar a cabeça com as mãos",
+        "perder a lombar por excesso de velocidade",
+        "fazer apenas o movimento das pernas sem girar o tronco",
+        "estender a perna além do controle"
+      ],
+      "executionTips": [
+        "Mantenha o olhar acima da linha dos joelhos",
+        "Prefira ritmo lento que permita sentir a rotação"
+      ],
+      "safetyNotes": "Não force a cervical para aproximar cotovelo e joelho. Reduza a amplitude da perna estendida se a lombar se afastar demais do chão ou se houver desconforto lombar/cervical.",
+      "confidence": "HIGH",
+      "visualVerification": "A animação mostra praticante em decúbito dorsal alternando cotovelo e joelho opostos, com uma perna estendida a cada lado; oblíquos e abdômen aparecem destacados.",
+      "sources": [
+        "https://fitwill.app/pt-br/exercise/0443/elbow-to-knee-crunches/"
+      ],
+      "reviewRequired": false,
+      "aliases": [
+        "Abdominal bicicleta",
+        "Crunch cruzado",
+        "Abdominal oblíquo cotovelo no joelho"
+      ],
+      "instructions": [
+        "Deite-se de costas, eleve as pernas e posicione as mãos de leve ao lado da cabeça, sem entrelaçar e puxar a nuca.",
+        "Eleve as escápulas do solo e mantenha a lombar tão estável quanto conseguir.",
+        "Gire o tronco levando um cotovelo em direção ao joelho oposto enquanto a outra perna se estende.",
+        "Troque de lado com controle, aproximando o outro cotovelo e joelho sem balançar o corpo.",
+        "Mantenha a repetição fluida, com rotação partindo do tronco e não de tração no pescoço."
+      ],
+      "bodyRegion": [
+        "abdômen",
+        "core"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "puxar a cabeça com as mãos",
+        "perder a lombar por excesso de velocidade",
+        "fazer apenas o movimento das pernas sem girar o tronco",
+        "estender a perna além do controle"
+      ],
+      "visualIdentification": "A animação mostra praticante em decúbito dorsal alternando cotovelo e joelho opostos, com uma perna estendida a cada lado; oblíquos e abdômen aparecem destacados."
     },
     {
       "id": "media_2fc0502c80257e98f426",
-      "namePtBr": "Alongamento Do Piriforme",
+      "namePtBr": "Alongamento do piriforme sentado",
       "originalFilename": "Alongamento do piriforme.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Alongamento do piriforme.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Alongamento%20do%20piriforme.gif",
@@ -16280,30 +16851,99 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "mobilidade_alongamento",
-          "label": "mobilidade alongamento"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "mobilidade",
+        "alongamento",
+        "piriforme",
+        "glúteos",
+        "quadril",
+        "peso corporal"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_2fc0502c80257e98f426",
+      "canonicalNameEn": "Seated Piriformis Stretch",
+      "aliasesPtBr": [
+        "Alongamento figura 4 sentado",
+        "Alongamento de glúteo sentado"
+      ],
+      "description": "Alongamento estático realizado sentado no chão com uma perna cruzada sobre a outra. Ao abraçar ou aproximar o joelho cruzado em direção ao peito e girar levemente o tronco, cria-se tensão suave na região posterior e lateral do quadril, incluindo o piriforme e glúteos profundos.",
+      "executionSteps": [
+        "Sente-se no chão com as pernas estendidas e coluna alta; flexione uma perna e cruze o pé por fora da coxa oposta.",
+        "Mantenha o pé da perna cruzada apoiado e aproxime o joelho do peito com o braço oposto.",
+        "Use a outra mão no chão atrás do corpo para ajudar a manter a postura ereta.",
+        "Gire o tronco apenas o suficiente para sentir alongamento na nádega e lateral do quadril da perna cruzada.",
+        "Respire sem forçar por alguns segundos, desfaça devagar e repita no outro lado."
+      ],
+      "primaryMuscles": [
+        "piriforme",
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "glúteo médio",
+        "rotadores externos do quadril"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegions": [
+        "quadril",
+        "glúteos"
+      ],
+      "movementPattern": "alongamento de rotação externa do quadril",
+      "type": "mobilidade e alongamento",
+      "difficulty": "iniciante",
+      "laterality": "unilateral por lado",
+      "position": "sentado no solo",
+      "environments": [
+        "casa",
+        "academia"
+      ],
+      "commonErrors": [
+        "curvar a lombar em vez de sentar alto",
+        "forçar a rotação do joelho",
+        "tirar o pé cruzado do chão",
+        "prender a respiração"
+      ],
+      "executionTips": [
+        "Busque sensação de alongamento, não dor",
+        "Mantenha os dois lados com tempo semelhante"
+      ],
+      "safetyNotes": "Execute de forma suave e interrompa se provocar dor aguda, formigamento ou irradiação. Pessoas com dor persistente no quadril, ciático ou após cirurgia devem buscar orientação profissional antes de insistir no alongamento.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames mostram o praticante sentado no solo, cruzando uma perna sobre a outra e puxando o joelho enquanto roda o tronco; região profunda dos glúteos/quadril está destacada.",
+      "sources": [
+        "https://fitzi.com.br/exercicios/alongamento-do-piriforme-sentado",
+        "https://www.teses.usp.br/teses/disponiveis/5/5160/tde-25062024-124301/publico/DouglasCerqueiraFerdinandoVersaoCorrigida.pdf"
+      ],
+      "reviewRequired": false,
+      "aliases": [
+        "Alongamento figura 4 sentado",
+        "Alongamento de glúteo sentado"
+      ],
+      "instructions": [
+        "Sente-se no chão com as pernas estendidas e coluna alta; flexione uma perna e cruze o pé por fora da coxa oposta.",
+        "Mantenha o pé da perna cruzada apoiado e aproxime o joelho do peito com o braço oposto.",
+        "Use a outra mão no chão atrás do corpo para ajudar a manter a postura ereta.",
+        "Gire o tronco apenas o suficiente para sentir alongamento na nádega e lateral do quadril da perna cruzada.",
+        "Respire sem forçar por alguns segundos, desfaça devagar e repita no outro lado."
+      ],
+      "bodyRegion": [
+        "quadril",
+        "glúteos"
+      ],
+      "exerciseType": "mobilidade e alongamento",
+      "environment": [
+        "casa",
+        "academia"
+      ],
+      "commonMistakes": [
+        "curvar a lombar em vez de sentar alto",
+        "forçar a rotação do joelho",
+        "tirar o pé cruzado do chão",
+        "prender a respiração"
+      ],
+      "visualIdentification": "Os frames mostram o praticante sentado no solo, cruzando uma perna sobre a outra e puxando o joelho enquanto roda o tronco; região profunda dos glúteos/quadril está destacada."
     },
     {
       "id": "media_2fca6b428c0da97e3f27",
