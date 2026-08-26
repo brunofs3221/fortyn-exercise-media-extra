@@ -26953,7 +26953,7 @@
     },
     {
       "id": "media_42807f7442d9d2bdfb1f",
-      "namePtBr": "Moinho De Vento Com Kettlebell",
+      "namePtBr": "Moinho de vento com kettlebell",
       "originalFilename": "Moinho de vento com kettlebell.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Moinho de vento com kettlebell.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Moinho%20de%20vento%20com%20kettlebell.gif",
@@ -26963,24 +26963,107 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "kettlebell",
-          "label": "kettlebell"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "kettlebell",
+        "moinho de vento",
+        "core",
+        "mobilidade de quadril",
+        "estabilidade do ombro",
+        "unilateral"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_42807f7442d9d2bdfb1f",
+      "canonicalNameEn": "Kettlebell Windmill",
+      "aliasesPtBr": [
+        "Windmill com kettlebell",
+        "Moinho com kettlebell"
+      ],
+      "description": "Movimento unilateral de mobilidade e força em que um kettlebell permanece estabilizado acima da cabeça enquanto o tronco inclina e roda pelo quadril. A trajetória leva a mão livre em direção ao pé oposto, exigindo controle do ombro, estabilidade do core e mobilidade de quadril.",
+      "executionSteps": [
+        "Fique em pé com os pés afastados e leve o kettlebell a um braço estendido acima da cabeça.",
+        "Mantenha os olhos no implemento e o ombro ativo, sem deixar o cotovelo dobrar.",
+        "Empurre o quadril para o lado do braço elevado e incline o tronco, deixando a mão livre descer pela perna.",
+        "Desça somente até a amplitude em que o braço de cima permaneça vertical e estável.",
+        "Pressione os pés no chão, estenda o quadril e retorne de forma controlada antes de trocar o lado."
+      ],
+      "primaryMuscles": [
+        "oblíquos",
+        "deltoide"
+      ],
+      "secondaryMuscles": [
+        "eretores da coluna",
+        "glúteo máximo",
+        "isquiotibiais",
+        "manguito rotador",
+        "adutores do quadril"
+      ],
+      "equipment": [
+        "kettlebell"
+      ],
+      "bodyRegions": [
+        "core",
+        "ombros",
+        "quadril"
+      ],
+      "movementPattern": "inclinação lateral e dobradiça de quadril unilateral",
+      "type": "força e mobilidade",
+      "difficulty": "avançado",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environments": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "perder a verticalidade do kettlebell",
+        "dobrar o braço elevado",
+        "forçar a descida com a lombar em vez de mover o quadril",
+        "girar os pés ou joelhos sem controle"
+      ],
+      "executionTips": [
+        "Comece com carga leve para dominar a mobilidade e a estabilidade.",
+        "Mantenha o peso distribuído nos pés e mova o quadril antes de aprofundar a inclinação."
+      ],
+      "safetyNotes": "Use carga que permita manter o kettlebell estável em toda a trajetória. Interrompa se houver dor no ombro, coluna ou quadril e mantenha área livre ao redor para uma eventual queda segura do implemento.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames mostram kettlebell mantido acima da cabeça em um braço enquanto o praticante desloca o quadril e inclina o tronco lateralmente.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Windmill com kettlebell",
+        "Moinho com kettlebell"
+      ],
+      "instructions": [
+        "Fique em pé com os pés afastados e leve o kettlebell a um braço estendido acima da cabeça.",
+        "Mantenha os olhos no implemento e o ombro ativo, sem deixar o cotovelo dobrar.",
+        "Empurre o quadril para o lado do braço elevado e incline o tronco, deixando a mão livre descer pela perna.",
+        "Desça somente até a amplitude em que o braço de cima permaneça vertical e estável.",
+        "Pressione os pés no chão, estenda o quadril e retorne de forma controlada antes de trocar o lado."
+      ],
+      "bodyRegion": [
+        "core",
+        "ombros",
+        "quadril"
+      ],
+      "exerciseType": "força e mobilidade",
+      "environment": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "perder a verticalidade do kettlebell",
+        "dobrar o braço elevado",
+        "forçar a descida com a lombar em vez de mover o quadril",
+        "girar os pés ou joelhos sem controle"
+      ],
+      "visualIdentification": "Os frames mostram kettlebell mantido acima da cabeça em um braço enquanto o praticante desloca o quadril e inclina o tronco lateralmente."
     },
     {
       "id": "media_432fd9da37b2f521850b",
-      "namePtBr": "Remada Alta Com Halteres",
+      "namePtBr": "Remada alta com halteres",
       "originalFilename": "Remada alta com halteres.gif",
       "relativePath": "gifs/trapézio/Remada alta com halteres.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/trap%C3%A9zio/Remada%20alta%20com%20halteres.gif",
@@ -26990,29 +27073,104 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "remada",
-          "label": "remada"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "remada alta",
+        "halteres",
+        "ombros",
+        "trapézio",
+        "puxar vertical",
+        "em pé"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0437"
+      "sourceExerciseId": "0437",
+      "mediaId": "media_432fd9da37b2f521850b",
+      "canonicalNameEn": "Dumbbell Upright Row",
+      "aliasesPtBr": [
+        "Puxada alta com halteres",
+        "Remada em pé com halteres"
+      ],
+      "description": "Remada vertical em pé realizada com halteres, iniciando com os pesos junto às coxas e levando os cotovelos para cima e para fora. A variação permite que cada braço siga uma trajetória mais livre, com ênfase nos deltoides e no trapézio superior.",
+      "executionSteps": [
+        "Fique em pé segurando um halter em cada mão à frente das coxas, com tronco firme.",
+        "Inicie a subida elevando os cotovelos para os lados e mantendo os halteres próximos ao corpo.",
+        "Pare em altura confortável, normalmente quando os cotovelos chegam perto da linha dos ombros.",
+        "Faça uma breve pausa sem encolher o pescoço.",
+        "Desça os halteres lentamente até estender os braços e repita."
+      ],
+      "primaryMuscles": [
+        "deltoide lateral",
+        "trapézio superior"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "bíceps braquial",
+        "braquial",
+        "levantador da escápula"
+      ],
+      "equipment": [
+        "halteres"
+      ],
+      "bodyRegions": [
+        "ombros",
+        "trapézio"
+      ],
+      "movementPattern": "puxar vertical",
+      "type": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "subir os cotovelos muito acima da amplitude confortável",
+        "projetar a cabeça à frente",
+        "usar balanço da lombar",
+        "afastar os halteres do corpo"
+      ],
+      "executionTips": [
+        "Priorize cotovelos conduzindo o movimento e punhos neutros.",
+        "Reduza a amplitude se o ombro apresentar incômodo no topo."
+      ],
+      "safetyNotes": "Use carga moderada e uma amplitude que não produza dor ou pinçamento no ombro. Evite compensar com impulso do tronco.",
+      "confidence": "HIGH",
+      "visualVerification": "O GIF mostra dois halteres saindo da frente das coxas e subindo verticalmente com os cotovelos abertos; deltoides e trapézio estão destacados.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Puxada alta com halteres",
+        "Remada em pé com halteres"
+      ],
+      "instructions": [
+        "Fique em pé segurando um halter em cada mão à frente das coxas, com tronco firme.",
+        "Inicie a subida elevando os cotovelos para os lados e mantendo os halteres próximos ao corpo.",
+        "Pare em altura confortável, normalmente quando os cotovelos chegam perto da linha dos ombros.",
+        "Faça uma breve pausa sem encolher o pescoço.",
+        "Desça os halteres lentamente até estender os braços e repita."
+      ],
+      "bodyRegion": [
+        "ombros",
+        "trapézio"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "subir os cotovelos muito acima da amplitude confortável",
+        "projetar a cabeça à frente",
+        "usar balanço da lombar",
+        "afastar os halteres do corpo"
+      ],
+      "visualIdentification": "O GIF mostra dois halteres saindo da frente das coxas e subindo verticalmente com os cotovelos abertos; deltoides e trapézio estão destacados."
     },
     {
       "id": "media_433a7ce1129c672566ae",
-      "namePtBr": "Meio Limpador",
+      "namePtBr": "Limpador de para-brisa com joelhos flexionados",
       "originalFilename": "Meio limpador.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Meio limpador.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Meio%20limpador.gif",
@@ -27021,14 +27179,107 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "limpador de para-brisa",
+        "oblíquos",
+        "core",
+        "peso corporal",
+        "rotação",
+        "solo"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_433a7ce1129c672566ae",
+      "canonicalNameEn": "Bent-Knee Windshield Wiper",
+      "aliasesPtBr": [
+        "Limpador de para-brisa no solo",
+        "Rotação de joelhos deitado"
+      ],
+      "description": "Exercício de core realizado deitado de costas, com quadris e joelhos flexionados. As pernas se deslocam para os lados em arco enquanto o tronco permanece apoiado, treinando o controle da rotação pélvica e dos oblíquos.",
+      "executionSteps": [
+        "Deite-se de costas com braços abertos ao lado do corpo para estabilizar.",
+        "Eleve quadris e joelhos a aproximadamente noventa graus, mantendo os joelhos unidos.",
+        "Deixe as pernas descerem devagar para um lado sem tirar os ombros do solo.",
+        "Use o abdômen para trazer os joelhos ao centro.",
+        "Repita para o outro lado com a mesma amplitude controlada."
+      ],
+      "primaryMuscles": [
+        "oblíquos",
+        "reto abdominal"
+      ],
+      "secondaryMuscles": [
+        "transverso do abdome",
+        "flexores do quadril",
+        "eretores da coluna"
+      ],
+      "equipment": [
+        "peso corporal",
+        "colchonete"
+      ],
+      "bodyRegions": [
+        "abdômen",
+        "core",
+        "quadril"
+      ],
+      "movementPattern": "rotação controlada de tronco e quadril",
+      "type": "força e controle motor",
+      "difficulty": "intermediário",
+      "laterality": "bilateral alternado",
+      "position": "deitado de costas",
+      "environments": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "deixar os ombros saírem do chão",
+        "descer as pernas rápido demais",
+        "perder a posição de joelhos flexionados",
+        "forçar amplitude que causa desconforto lombar"
+      ],
+      "executionTips": [
+        "Diminua a amplitude lateral até conseguir manter o tronco estável.",
+        "Expire ao retornar os joelhos ao centro para reforçar o controle abdominal."
+      ],
+      "safetyNotes": "Trabalhe em amplitude sem dor lombar ou no quadril. Não use impulso das pernas; reduza a alavanca se ainda não houver controle suficiente.",
+      "confidence": "HIGH",
+      "visualVerification": "A sequência mostra praticante em decúbito dorsal, com joelhos e quadris flexionados, deslocando ambos os joelhos de um lado ao outro.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Limpador de para-brisa no solo",
+        "Rotação de joelhos deitado"
+      ],
+      "instructions": [
+        "Deite-se de costas com braços abertos ao lado do corpo para estabilizar.",
+        "Eleve quadris e joelhos a aproximadamente noventa graus, mantendo os joelhos unidos.",
+        "Deixe as pernas descerem devagar para um lado sem tirar os ombros do solo.",
+        "Use o abdômen para trazer os joelhos ao centro.",
+        "Repita para o outro lado com a mesma amplitude controlada."
+      ],
+      "bodyRegion": [
+        "abdômen",
+        "core",
+        "quadril"
+      ],
+      "exerciseType": "força e controle motor",
+      "environment": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "deixar os ombros saírem do chão",
+        "descer as pernas rápido demais",
+        "perder a posição de joelhos flexionados",
+        "forçar amplitude que causa desconforto lombar"
+      ],
+      "visualIdentification": "A sequência mostra praticante em decúbito dorsal, com joelhos e quadris flexionados, deslocando ambos os joelhos de um lado ao outro."
     },
     {
       "id": "media_43452773fb8459b5aed3",
-      "namePtBr": "ExtensãO Traseira Com Peso",
+      "namePtBr": "Extensão lombar a 45 graus com carga",
       "originalFilename": "Extensão traseira com peso.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Extensão traseira com peso.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Extens%C3%A3o%20traseira%20com%20peso.gif",
@@ -27037,14 +27288,104 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "extensão lombar",
+        "banco romano",
+        "glúteos",
+        "lombar",
+        "posterior de coxa",
+        "carga livre"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_43452773fb8459b5aed3",
+      "canonicalNameEn": "Weighted 45-Degree Back Extension",
+      "aliasesPtBr": [
+        "Hiperextensão lombar com peso",
+        "Extensão de tronco no banco romano"
+      ],
+      "description": "Extensão de quadril e tronco em banco romano inclinado a quarenta e cinco graus, segurando uma carga junto ao peito. A subida ocorre pela ação coordenada dos extensores do quadril e da coluna, sem transformar o movimento em hiperextensão exagerada da lombar.",
+      "executionSteps": [
+        "Ajuste o banco romano para apoiar a pelve e prenda os pés na plataforma.",
+        "Segure a carga junto ao peito e alinhe cabeça, tronco e quadril no topo.",
+        "Desça articulando o quadril, mantendo a coluna longa e os joelhos levemente flexionados.",
+        "Contraia glúteos e eretores para elevar o tronco até alinhá-lo novamente com as pernas.",
+        "Pausa breve no topo e repita sem projetar demais a lombar."
+      ],
+      "primaryMuscles": [
+        "eretores da coluna",
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "adutor magno",
+        "multífidos",
+        "reto abdominal"
+      ],
+      "equipment": [
+        "banco romano a 45 graus",
+        "anilha ou halter"
+      ],
+      "bodyRegions": [
+        "lombar",
+        "glúteos",
+        "posterior de coxa"
+      ],
+      "movementPattern": "extensão de quadril e tronco",
+      "type": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "inclinado no banco romano",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "hiperestender a lombar no topo",
+        "arredondar a coluna na descida",
+        "usar carga incompatível com o controle",
+        "perder o apoio pélvico no banco"
+      ],
+      "executionTips": [
+        "Pense em estender o quadril e não em jogar o peito para trás.",
+        "Mantenha a carga encostada ao tórax para evitar alavanca excessiva."
+      ],
+      "safetyNotes": "Ajuste o banco e o suporte dos pés antes de iniciar. Use carga progressiva e pare se a extensão provocar dor lombar aguda.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames mostram banco romano a 45 graus, carga segurada junto ao peito e alternância entre tronco flexionado e alinhado com as pernas.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Hiperextensão lombar com peso",
+        "Extensão de tronco no banco romano"
+      ],
+      "instructions": [
+        "Ajuste o banco romano para apoiar a pelve e prenda os pés na plataforma.",
+        "Segure a carga junto ao peito e alinhe cabeça, tronco e quadril no topo.",
+        "Desça articulando o quadril, mantendo a coluna longa e os joelhos levemente flexionados.",
+        "Contraia glúteos e eretores para elevar o tronco até alinhá-lo novamente com as pernas.",
+        "Pausa breve no topo e repita sem projetar demais a lombar."
+      ],
+      "bodyRegion": [
+        "lombar",
+        "glúteos",
+        "posterior de coxa"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "hiperestender a lombar no topo",
+        "arredondar a coluna na descida",
+        "usar carga incompatível com o controle",
+        "perder o apoio pélvico no banco"
+      ],
+      "visualIdentification": "Os frames mostram banco romano a 45 graus, carga segurada junto ao peito e alternância entre tronco flexionado e alinhado com as pernas."
     },
     {
       "id": "media_4349c945e0f909407090",
-      "namePtBr": "ElevaçãO Frontal Da Placa De Peso VariaçãO 3",
+      "namePtBr": "Elevação frontal unilateral na polia baixa",
       "originalFilename": "Elevação frontal da placa de peso - Variação 3.gif",
       "relativePath": "gifs/ombros/Elevação frontal da placa de peso - Variação 3.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/ombros/Eleva%C3%A7%C3%A3o%20frontal%20da%20placa%20de%20peso%20-%20Varia%C3%A7%C3%A3o%203.gif",
@@ -27054,19 +27395,100 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "ombros",
-          "label": "Ombros"
-        }
+        "elevação frontal",
+        "polia baixa",
+        "deltoide anterior",
+        "unilateral",
+        "ombros",
+        "cabo"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_4349c945e0f909407090",
+      "canonicalNameEn": "Single-Arm Low Cable Front Raise",
+      "aliasesPtBr": [
+        "Elevação frontal unilateral no cabo",
+        "Elevação frontal cruzada na polia baixa"
+      ],
+      "description": "Elevação frontal unilateral feita em pé com uma polia baixa posicionada no lado oposto ao braço de trabalho. O cabo cria resistência diagonal enquanto o braço se eleva à frente até a altura do ombro, enfatizando principalmente o deltoide anterior.",
+      "executionSteps": [
+        "Ajuste uma polia baixa e fique de lado ou ligeiramente à frente do cabo, segurando a manopla com uma mão.",
+        "Comece com o braço perto do quadril e mantenha o tronco firme, sem girar para acompanhar o cabo.",
+        "Eleve o braço à frente em arco até aproximadamente a altura do ombro, com cotovelo suavemente flexionado.",
+        "Pausa breve mantendo o ombro afastado da orelha.",
+        "Desça a manopla de forma controlada até o quadril e repita antes de trocar o lado."
+      ],
+      "primaryMuscles": [
+        "deltoide anterior"
+      ],
+      "secondaryMuscles": [
+        "peitoral maior porção clavicular",
+        "serrátil anterior",
+        "deltoide lateral",
+        "trapézio superior"
+      ],
+      "equipment": [
+        "polia baixa",
+        "manopla individual"
+      ],
+      "bodyRegions": [
+        "ombros",
+        "peito superior"
+      ],
+      "movementPattern": "flexão unilateral de ombro",
+      "type": "força",
+      "difficulty": "iniciante",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "arquear a lombar para elevar a carga",
+        "girar o tronco em direção ao cabo",
+        "subir além do controle do ombro",
+        "soltar o cabo na descida"
+      ],
+      "executionTips": [
+        "Mantenha as costelas organizadas e o punho alinhado ao antebraço.",
+        "Escolha carga que permita levantar sem balanço do tronco."
+      ],
+      "safetyNotes": "Confira o mosquetão e mantenha-se fora da trajetória da pilha de pesos. Use amplitude confortável para o ombro e interrompa diante de dor articular.",
+      "confidence": "HIGH",
+      "visualVerification": "O GIF mostra uma manopla conectada a cabo baixo no lado oposto e um único braço elevando-se diagonalmente à frente; apenas o deltoide anterior está destacado.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Elevação frontal unilateral no cabo",
+        "Elevação frontal cruzada na polia baixa"
+      ],
+      "instructions": [
+        "Ajuste uma polia baixa e fique de lado ou ligeiramente à frente do cabo, segurando a manopla com uma mão.",
+        "Comece com o braço perto do quadril e mantenha o tronco firme, sem girar para acompanhar o cabo.",
+        "Eleve o braço à frente em arco até aproximadamente a altura do ombro, com cotovelo suavemente flexionado.",
+        "Pausa breve mantendo o ombro afastado da orelha.",
+        "Desça a manopla de forma controlada até o quadril e repita antes de trocar o lado."
+      ],
+      "bodyRegion": [
+        "ombros",
+        "peito superior"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "arquear a lombar para elevar a carga",
+        "girar o tronco em direção ao cabo",
+        "subir além do controle do ombro",
+        "soltar o cabo na descida"
+      ],
+      "visualIdentification": "O GIF mostra uma manopla conectada a cabo baixo no lado oposto e um único braço elevando-se diagonalmente à frente; apenas o deltoide anterior está destacado."
     },
     {
       "id": "media_43eb9dc40f4929c45699",
-      "namePtBr": "Bicicleta ErgoméTrica",
+      "namePtBr": "Bicicleta ergométrica",
       "originalFilename": "Bicicleta ergométrica.gif",
       "relativePath": "gifs/cardio/Bicicleta ergométrica.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/cardio/Bicicleta%20ergom%C3%A9trica.gif",
@@ -27075,14 +27497,105 @@
       "width": 1080,
       "height": 1080,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "bicicleta ergométrica",
+        "cardio",
+        "pernas",
+        "baixo impacto",
+        "aquecimento",
+        "condicionamento"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_43eb9dc40f4929c45699",
+      "canonicalNameEn": "Stationary Cycling",
+      "aliasesPtBr": [
+        "Pedalada na bicicleta ergométrica",
+        "Bike indoor"
+      ],
+      "description": "Atividade cíclica de condicionamento realizada sentado em bicicleta estacionária. A pedalada alterna a extensão e flexão de quadris, joelhos e tornozelos, permitindo controlar a intensidade pela resistência e pela cadência.",
+      "executionSteps": [
+        "Ajuste a altura do selim para que o joelho permaneça levemente flexionado no ponto mais baixo do pedal.",
+        "Sente-se com o quadril estável, mãos leves no guidão e coluna organizada.",
+        "Comece a pedalar de forma contínua, empurrando e puxando os pedais de maneira alternada.",
+        "Ajuste resistência e cadência de acordo com o objetivo do treino.",
+        "Reduza o ritmo gradualmente ao encerrar a sessão."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "panturrilhas",
+        "flexores do quadril",
+        "tibial anterior"
+      ],
+      "equipment": [
+        "bicicleta ergométrica"
+      ],
+      "bodyRegions": [
+        "membros inferiores",
+        "condicionamento cardiovascular"
+      ],
+      "movementPattern": "pedalada cíclica",
+      "type": "cardiorrespiratório",
+      "difficulty": "iniciante",
+      "laterality": "bilateral alternado",
+      "position": "sentado",
+      "environments": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "usar selim muito baixo ou muito alto",
+        "apoiar todo o peso nos braços",
+        "deixar os joelhos fecharem para dentro",
+        "aumentar resistência sem controle da cadência"
+      ],
+      "executionTips": [
+        "Ajuste o selim antes da sessão e mantenha os joelhos acompanhando a linha dos pés.",
+        "Use resistência progressiva em vez de acelerar de modo desorganizado."
+      ],
+      "safetyNotes": "Verifique travas, selim e pedais antes de usar. Pare em caso de tontura, dor no peito ou dor articular persistente e busque orientação profissional quando necessário.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames exibem praticante sentado em bicicleta estacionária, pedalando continuamente; quadríceps, glúteos e panturrilhas são destacados.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Pedalada na bicicleta ergométrica",
+        "Bike indoor"
+      ],
+      "instructions": [
+        "Ajuste a altura do selim para que o joelho permaneça levemente flexionado no ponto mais baixo do pedal.",
+        "Sente-se com o quadril estável, mãos leves no guidão e coluna organizada.",
+        "Comece a pedalar de forma contínua, empurrando e puxando os pedais de maneira alternada.",
+        "Ajuste resistência e cadência de acordo com o objetivo do treino.",
+        "Reduza o ritmo gradualmente ao encerrar a sessão."
+      ],
+      "bodyRegion": [
+        "membros inferiores",
+        "condicionamento cardiovascular"
+      ],
+      "exerciseType": "cardiorrespiratório",
+      "environment": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "usar selim muito baixo ou muito alto",
+        "apoiar todo o peso nos braços",
+        "deixar os joelhos fecharem para dentro",
+        "aumentar resistência sem controle da cadência"
+      ],
+      "visualIdentification": "Os frames exibem praticante sentado em bicicleta estacionária, pedalando continuamente; quadríceps, glúteos e panturrilhas são destacados."
     },
     {
       "id": "media_43f45c654ebaccf9240b",
-      "namePtBr": "Remada Da Barra T",
+      "namePtBr": "Remada cavalinho",
       "originalFilename": "Remada da barra t.gif",
       "relativePath": "gifs/costas/Remada da barra t.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/costas/Remada%20da%20barra%20t.gif",
@@ -27092,29 +27605,108 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "costas",
-          "label": "Costas"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "barra_reta",
-          "label": "barra reta"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "remada",
-          "label": "remada"
-        }
+        "remada cavalinho",
+        "barra T",
+        "costas",
+        "remada",
+        "barra ancorada",
+        "dorsais"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_43f45c654ebaccf9240b",
+      "canonicalNameEn": "Landmine T-Bar Row",
+      "aliasesPtBr": [
+        "Remada T-bar",
+        "Remada com barra T",
+        "Remada na barra cavalinho"
+      ],
+      "description": "Remada horizontal inclinada realizada com uma barra ancorada em uma extremidade, carregada na outra e puxada em direção ao tronco. A base em dobradiça de quadril permite trabalhar dorsais e musculatura interescapular enquanto o core sustenta a posição.",
+      "executionSteps": [
+        "Carregue a extremidade livre da barra ancorada e posicione os pés de cada lado dela.",
+        "Faça dobradiça de quadril, flexione levemente os joelhos e segure a extremidade ou o pegador com as duas mãos.",
+        "Mantenha a coluna neutra e puxe a carga em direção ao abdômen ou à parte baixa do tórax.",
+        "Leve os cotovelos para trás e aproxime as escápulas sem arredondar a lombar.",
+        "Desça a barra sob controle até estender os braços e repita."
+      ],
+      "primaryMuscles": [
+        "latíssimo do dorso",
+        "trapézio médio",
+        "romboides"
+      ],
+      "secondaryMuscles": [
+        "deltoide posterior",
+        "bíceps braquial",
+        "eretores da coluna",
+        "glúteo máximo",
+        "isquiotibiais"
+      ],
+      "equipment": [
+        "barra olímpica ancorada",
+        "anilhas",
+        "pegador para remada (opcional)"
+      ],
+      "bodyRegions": [
+        "costas",
+        "bíceps",
+        "core"
+      ],
+      "movementPattern": "puxar horizontal inclinado",
+      "type": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "em pé inclinado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "arredondar a lombar",
+        "erguer o tronco a cada repetição",
+        "puxar a carga apenas com os braços",
+        "bater a barra no chão"
+      ],
+      "executionTips": [
+        "Mantenha o pescoço neutro e a pressão dos pés equilibrada.",
+        "Escolha uma carga que preserve a dobradiça de quadril em todas as repetições."
+      ],
+      "safetyNotes": "Confirme que a barra está realmente ancorada e que as anilhas estão presas. Evite aumentar a carga se a posição lombar não puder ser mantida sem dor.",
+      "confidence": "HIGH",
+      "visualVerification": "O GIF mostra barra presa por uma extremidade em suporte de landmine, praticante inclinado puxando a ponta carregada em direção ao abdômen.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Remada T-bar",
+        "Remada com barra T",
+        "Remada na barra cavalinho"
+      ],
+      "instructions": [
+        "Carregue a extremidade livre da barra ancorada e posicione os pés de cada lado dela.",
+        "Faça dobradiça de quadril, flexione levemente os joelhos e segure a extremidade ou o pegador com as duas mãos.",
+        "Mantenha a coluna neutra e puxe a carga em direção ao abdômen ou à parte baixa do tórax.",
+        "Leve os cotovelos para trás e aproxime as escápulas sem arredondar a lombar.",
+        "Desça a barra sob controle até estender os braços e repita."
+      ],
+      "bodyRegion": [
+        "costas",
+        "bíceps",
+        "core"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "arredondar a lombar",
+        "erguer o tronco a cada repetição",
+        "puxar a carga apenas com os braços",
+        "bater a barra no chão"
+      ],
+      "visualIdentification": "O GIF mostra barra presa por uma extremidade em suporte de landmine, praticante inclinado puxando a ponta carregada em direção ao abdômen."
     },
     {
       "id": "media_441566631008a3903842",
-      "namePtBr": "Encolhimento De Ombros VariaçãO 2",
+      "namePtBr": "Encolhimento com barra acima da cabeça",
       "originalFilename": "Encolhimento de ombros - Variação 2.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Encolhimento de ombros - Variação 2.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Encolhimento%20de%20ombros%20-%20Varia%C3%A7%C3%A3o%202.gif",
@@ -27123,10 +27715,100 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "encolhimento",
+        "barra olímpica",
+        "overhead",
+        "trapézio",
+        "estabilidade do ombro",
+        "em pé"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_441566631008a3903842",
+      "canonicalNameEn": "Overhead Barbell Shrug",
+      "aliasesPtBr": [
+        "Encolhimento overhead com barra",
+        "Encolhimento militar com barra"
+      ],
+      "description": "Variação de encolhimento em pé na qual a barra é sustentada acima da cabeça com os cotovelos estendidos. O movimento é feito pela elevação e depressão controlada das escápulas, exigindo simultaneamente estabilidade do ombro e do tronco.",
+      "executionSteps": [
+        "Posicione a barra acima da cabeça com braços estendidos e pegada um pouco mais aberta que os ombros.",
+        "Trave suavemente os cotovelos e mantenha costelas, glúteos e abdômen firmes.",
+        "Eleve as escápulas em direção às orelhas sem dobrar os braços.",
+        "Faça pequena pausa no alto mantendo a barra equilibrada.",
+        "Deprima as escápulas lentamente, mantendo a barra sobre o meio do pé, e repita."
+      ],
+      "primaryMuscles": [
+        "trapézio superior"
+      ],
+      "secondaryMuscles": [
+        "trapézio inferior",
+        "serrátil anterior",
+        "deltoide",
+        "manguito rotador",
+        "eretores da coluna"
+      ],
+      "equipment": [
+        "barra olímpica",
+        "anilhas"
+      ],
+      "bodyRegions": [
+        "trapézio",
+        "ombros",
+        "core"
+      ],
+      "movementPattern": "elevação escapular acima da cabeça",
+      "type": "força e estabilidade",
+      "difficulty": "avançado",
+      "laterality": "bilateral",
+      "position": "em pé com barra acima da cabeça",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "flexionar os cotovelos em vez de mover as escápulas",
+        "arquear excessivamente a lombar",
+        "perder a barra à frente ou atrás do corpo",
+        "usar carga maior que a estabilidade permite"
+      ],
+      "executionTips": [
+        "Comece com uma carga leve e mantenha a barra alinhada sobre o meio do pé.",
+        "O deslocamento é curto; priorize controle escapular em vez de amplitude forçada."
+      ],
+      "safetyNotes": "Execute em área livre e, de preferência, com rack e travas de segurança disponíveis. Não use se não conseguir sustentar a barra acima da cabeça sem dor ou instabilidade.",
+      "confidence": "HIGH",
+      "visualVerification": "A animação mantém uma barra carregada acima da cabeça enquanto os ombros sobem e descem com os cotovelos estendidos; trapézio superior é destacado.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Encolhimento overhead com barra",
+        "Encolhimento militar com barra"
+      ],
+      "instructions": [
+        "Posicione a barra acima da cabeça com braços estendidos e pegada um pouco mais aberta que os ombros.",
+        "Trave suavemente os cotovelos e mantenha costelas, glúteos e abdômen firmes.",
+        "Eleve as escápulas em direção às orelhas sem dobrar os braços.",
+        "Faça pequena pausa no alto mantendo a barra equilibrada.",
+        "Deprima as escápulas lentamente, mantendo a barra sobre o meio do pé, e repita."
+      ],
+      "bodyRegion": [
+        "trapézio",
+        "ombros",
+        "core"
+      ],
+      "exerciseType": "força e estabilidade",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "flexionar os cotovelos em vez de mover as escápulas",
+        "arquear excessivamente a lombar",
+        "perder a barra à frente ou atrás do corpo",
+        "usar carga maior que a estabilidade permite"
+      ],
+      "visualIdentification": "A animação mantém uma barra carregada acima da cabeça enquanto os ombros sobem e descem com os cotovelos estendidos; trapézio superior é destacado."
     },
     {
       "id": "media_4465405e7809b638e2a1",
