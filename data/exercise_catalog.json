@@ -82556,7 +82556,7 @@
     },
     {
       "id": "media_bf1d26a8617b1cd7f1bf",
-      "namePtBr": "Enrolamento De Cabo De Um BraçO VariaçãO 2",
+      "namePtBr": "Rosca direta com barra",
       "originalFilename": "Enrolamento de cabo de um braço - Variação 2.gif",
       "relativePath": "gifs/biceps/Enrolamento de cabo de um braço - Variação 2.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/biceps/Enrolamento%20de%20cabo%20de%20um%20bra%C3%A7o%20-%20Varia%C3%A7%C3%A3o%202.gif",
@@ -82566,24 +82566,99 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "bracos",
-          "label": "Bracos"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        }
+        "rosca direta",
+        "barra",
+        "bíceps",
+        "braços",
+        "antebraço"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_bf1d26a8617b1cd7f1bf",
+      "canonicalNameEn": "Barbell Biceps Curl",
+      "aliasesPtBr": [
+        "rosca com barra",
+        "rosca bíceps com barra"
+      ],
+      "description": "Rosca de bíceps executada em pé com barra reta, elevando a carga à frente do corpo por flexão dos cotovelos. O tronco permanece organizado enquanto bíceps braquial, braquial e braquiorradial conduzem a subida e controlam o retorno.",
+      "executionSteps": [
+        "Fique em pé com os pés na largura do quadril e segure a barra com as palmas voltadas para frente.",
+        "Deixe a barra junto às coxas, mantenha o peito aberto e estabilize o abdômen.",
+        "Flexione os cotovelos e eleve a barra em arco até perto da frente dos ombros, sem projetar os cotovelos à frente.",
+        "Mantenha os braços próximos ao tronco e evite balançar o quadril para ajudar a carga.",
+        "Desça a barra lentamente até os cotovelos estenderem de forma controlada."
+      ],
+      "primaryMuscles": [
+        "bíceps braquial"
+      ],
+      "secondaryMuscles": [
+        "braquial",
+        "braquiorradial",
+        "flexores do antebraço"
+      ],
+      "equipment": [
+        "barra reta"
+      ],
+      "bodyRegions": [
+        "braços",
+        "antebraços"
+      ],
+      "movementPattern": "flexão bilateral de cotovelo com barra",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "balançar o tronco para iniciar a subida",
+        "deixar os cotovelos avançarem demais",
+        "encurtar o retorno da barra",
+        "estender os punhos para compensar a carga"
+      ],
+      "executionTips": [
+        "Use uma carga que permita manter os braços junto ao corpo.",
+        "Controle a descida; ela também faz parte do estímulo do bíceps."
+      ],
+      "safetyNotes": "Evite usar impulso lombar ou carga que provoque dor em cotovelos e punhos. Mantenha os punhos neutros e reduza a amplitude se houver incômodo articular.",
+      "confidence": "HIGH",
+      "visualIdentification": "Os frames mostram uma barra reta nas mãos, saindo das coxas e subindo até a frente dos ombros por flexão simultânea dos cotovelos.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "rosca com barra",
+        "rosca bíceps com barra"
+      ],
+      "instructions": [
+        "Fique em pé com os pés na largura do quadril e segure a barra com as palmas voltadas para frente.",
+        "Deixe a barra junto às coxas, mantenha o peito aberto e estabilize o abdômen.",
+        "Flexione os cotovelos e eleve a barra em arco até perto da frente dos ombros, sem projetar os cotovelos à frente.",
+        "Mantenha os braços próximos ao tronco e evite balançar o quadril para ajudar a carga.",
+        "Desça a barra lentamente até os cotovelos estenderem de forma controlada."
+      ],
+      "bodyRegion": [
+        "braços",
+        "antebraços"
+      ],
+      "environment": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "balançar o tronco para iniciar a subida",
+        "deixar os cotovelos avançarem demais",
+        "encurtar o retorno da barra",
+        "estender os punhos para compensar a carga"
+      ]
     },
     {
       "id": "media_bf33024434d126cbcd82",
-      "namePtBr": "Andando Com Estocadas Altas Nos Joelhos",
+      "namePtBr": "Afundo reverso com elevação de joelho",
       "originalFilename": "Andando com estocadas altas nos joelhos.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Andando com estocadas altas nos joelhos.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Andando%20com%20estocadas%20altas%20nos%20joelhos.gif",
@@ -82592,14 +82667,107 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "afundo reverso",
+        "avanço",
+        "elevação de joelho",
+        "equilíbrio",
+        "quadríceps",
+        "glúteos"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_bf33024434d126cbcd82",
+      "canonicalNameEn": "Reverse Lunge to Knee Drive",
+      "aliasesPtBr": [
+        "avanço reverso com joelhada",
+        "passada reversa com elevação de joelho"
+      ],
+      "description": "Variação dinâmica de afundo em que uma perna recua para a descida e, no retorno, o joelho dessa perna é elevado à frente do corpo. Combina força unilateral de pernas e glúteos com equilíbrio, exigindo controle da base de apoio durante a transição.",
+      "executionSteps": [
+        "Comece em pé com o abdômen firme e o peso distribuído no pé de apoio.",
+        "Dê um passo para trás com uma perna e desça até o joelho de trás aproximar-se do chão.",
+        "Mantenha o joelho da frente alinhado ao pé e o tronco alto durante a descida.",
+        "Empurre o solo com o pé da frente para voltar a ficar em pé.",
+        "Sem perder o equilíbrio, eleve o joelho da perna que recuou até a altura confortável mostrada no GIF.",
+        "Retorne o pé ao solo com controle e repita antes de trocar de lado."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "panturrilhas",
+        "abdômen",
+        "flexores do quadril"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegions": [
+        "pernas",
+        "glúteos",
+        "abdômen"
+      ],
+      "movementPattern": "avanço reverso unilateral com elevação de joelho",
+      "exerciseType": "força funcional e equilíbrio",
+      "difficulty": "intermediário",
+      "laterality": "unilateral alternado",
+      "position": "em pé",
+      "environments": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "deixar o joelho da frente cair para dentro",
+        "usar o pé de trás para impulsionar o retorno",
+        "perder a estabilidade ao elevar o joelho",
+        "inclinar demais o tronco"
+      ],
+      "executionTips": [
+        "Faça a subida pelo calcanhar e meio do pé da frente.",
+        "Pausa breve na elevação de joelho ajuda a treinar equilíbrio sem acelerar o gesto."
+      ],
+      "safetyNotes": "Diminua a amplitude ou use apoio leve se houver instabilidade. Não force a descida se sentir dor no joelho, quadril ou tornozelo.",
+      "confidence": "HIGH",
+      "visualIdentification": "A animação alterna uma passada para trás com joelho traseiro baixo e o retorno em apoio único com o joelho elevado à frente.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "avanço reverso com joelhada",
+        "passada reversa com elevação de joelho"
+      ],
+      "instructions": [
+        "Comece em pé com o abdômen firme e o peso distribuído no pé de apoio.",
+        "Dê um passo para trás com uma perna e desça até o joelho de trás aproximar-se do chão.",
+        "Mantenha o joelho da frente alinhado ao pé e o tronco alto durante a descida.",
+        "Empurre o solo com o pé da frente para voltar a ficar em pé.",
+        "Sem perder o equilíbrio, eleve o joelho da perna que recuou até a altura confortável mostrada no GIF.",
+        "Retorne o pé ao solo com controle e repita antes de trocar de lado."
+      ],
+      "bodyRegion": [
+        "pernas",
+        "glúteos",
+        "abdômen"
+      ],
+      "environment": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "deixar o joelho da frente cair para dentro",
+        "usar o pé de trás para impulsionar o retorno",
+        "perder a estabilidade ao elevar o joelho",
+        "inclinar demais o tronco"
+      ]
     },
     {
       "id": "media_bf7dcd05de3fcbcbe200",
-      "namePtBr": "FlexãO De Perna",
+      "namePtBr": "Mesa flexora deitada",
       "originalFilename": "Flexão de perna.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Flexão de perna.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Flex%C3%A3o%20de%20perna.gif",
@@ -82609,34 +82777,97 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "empurrar",
-          "label": "empurrar"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "mesa flexora",
+        "flexora deitada",
+        "posteriores",
+        "isquiotibiais",
+        "pernas"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_bf7dcd05de3fcbcbe200",
+      "canonicalNameEn": "Lying Leg Curl",
+      "aliasesPtBr": [
+        "flexora deitada",
+        "flexão de joelhos na mesa flexora"
+      ],
+      "description": "Exercício realizado deitado de barriga para baixo na mesa flexora, no qual os calcanhares puxam o rolo em direção aos glúteos. A máquina isola principalmente os isquiotibiais por flexão de joelho, com quadril e pelve estáveis no banco.",
+      "executionSteps": [
+        "Ajuste o rolo para ficar logo acima dos calcanhares e deite-se de bruços com o quadril apoiado.",
+        "Segure as alças e mantenha os joelhos alinhados ao eixo de rotação da máquina.",
+        "Inicie com as pernas estendidas sem travar os joelhos.",
+        "Flexione os joelhos e leve os calcanhares em direção aos glúteos, sem tirar o quadril do banco.",
+        "Faça uma breve contração no topo sem perder o contato da pelve com o apoio.",
+        "Desça o rolo lentamente até a posição inicial."
+      ],
+      "primaryMuscles": [
+        "isquiotibiais"
+      ],
+      "secondaryMuscles": [
+        "gastrocnêmio",
+        "sartório",
+        "grácil"
+      ],
+      "equipment": [
+        "mesa flexora"
+      ],
+      "bodyRegions": [
+        "posteriores de coxa",
+        "pernas"
+      ],
+      "movementPattern": "flexão bilateral de joelho na máquina",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "deitado de bruços",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "elevar o quadril do banco",
+        "usar impulso no final da subida",
+        "deixar os joelhos fora do eixo da máquina",
+        "soltar a carga no retorno"
+      ],
+      "executionTips": [
+        "Ajuste a máquina antes de carregar peso.",
+        "Mantenha a pelve pressionada no apoio para impedir compensação lombar."
+      ],
+      "safetyNotes": "Use amplitude confortável para joelhos e tornozelos. Se a máquina não se ajustar ao seu tamanho, escolha outro equipamento em vez de forçar o eixo de movimento.",
+      "confidence": "HIGH",
+      "visualIdentification": "Os frames mostram praticante de bruços em máquina de flexora, puxando o rolo com os tornozelos pela flexão dos joelhos.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "flexora deitada",
+        "flexão de joelhos na mesa flexora"
+      ],
+      "instructions": [
+        "Ajuste o rolo para ficar logo acima dos calcanhares e deite-se de bruços com o quadril apoiado.",
+        "Segure as alças e mantenha os joelhos alinhados ao eixo de rotação da máquina.",
+        "Inicie com as pernas estendidas sem travar os joelhos.",
+        "Flexione os joelhos e leve os calcanhares em direção aos glúteos, sem tirar o quadril do banco.",
+        "Faça uma breve contração no topo sem perder o contato da pelve com o apoio.",
+        "Desça o rolo lentamente até a posição inicial."
+      ],
+      "bodyRegion": [
+        "posteriores de coxa",
+        "pernas"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "elevar o quadril do banco",
+        "usar impulso no final da subida",
+        "deixar os joelhos fora do eixo da máquina",
+        "soltar a carga no retorno"
+      ]
     },
     {
       "id": "media_bf8249c0f027460a1902",
-      "namePtBr": "Crucifixo Declinado Com Halteres",
+      "namePtBr": "Crucifixo declinado com halteres",
       "originalFilename": "Crucifixo declinado com halteres.gif",
       "relativePath": "gifs/peitoral/Crucifixo declinado com halteres.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/peitoral/Crucifixo%20declinado%20com%20halteres.gif",
@@ -82646,29 +82877,100 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "peito",
-          "label": "Peito"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "crucifixo declinado",
+        "halteres",
+        "peitoral",
+        "banco declinado",
+        "peito"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_bf8249c0f027460a1902",
+      "canonicalNameEn": "Decline Dumbbell Fly",
+      "aliasesPtBr": [
+        "crucifixo com halteres no banco declinado",
+        "fly declinado com halteres"
+      ],
+      "description": "Crucifixo feito em banco declinado com dois halteres, abrindo os braços em arco até alongar o peitoral e aproximando-os acima do tórax. A inclinação para baixo altera a linha de trabalho e pede controle para manter os ombros estáveis durante a adução horizontal.",
+      "executionSteps": [
+        "Prenda as pernas no banco declinado e posicione os halteres acima do centro do peito, com cotovelos levemente flexionados.",
+        "Ajuste as escápulas no banco e mantenha os pés firmes nos suportes.",
+        "Abra os braços em arco, deixando os halteres descerem para as laterais sem perder a leve flexão dos cotovelos.",
+        "Desça somente até o alongamento confortável do peitoral e sem abrir excessivamente os ombros.",
+        "Aproxime os halteres pelo mesmo arco até ficarem acima do peito, sem bater um no outro.",
+        "Repita mantendo o punho alinhado ao antebraço."
+      ],
+      "primaryMuscles": [
+        "peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "bíceps braquial",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "halteres",
+        "banco declinado"
+      ],
+      "bodyRegions": [
+        "peitoral",
+        "ombros"
+      ],
+      "movementPattern": "adução horizontal bilateral de ombro em banco declinado",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado em banco declinado",
+      "environments": [
+        "academia",
+        "casa"
+      ],
+      "commonErrors": [
+        "estender completamente os cotovelos",
+        "descer os halteres além da mobilidade do ombro",
+        "perder as escápulas no banco",
+        "transformar o movimento em supino"
+      ],
+      "executionTips": [
+        "Mantenha a mesma curvatura leve dos cotovelos em toda a repetição.",
+        "Use menos carga que no supino para preservar a trajetória em arco."
+      ],
+      "safetyNotes": "Faça a descida de modo lento e evite amplitudes que causem dor ou sensação de instabilidade no ombro. Confirme o travamento das pernas antes de iniciar no banco declinado.",
+      "confidence": "HIGH",
+      "visualIdentification": "A animação mostra dois halteres sendo abertos e fechados em arco com o praticante preso a um banco inclinado para baixo.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "crucifixo com halteres no banco declinado",
+        "fly declinado com halteres"
+      ],
+      "instructions": [
+        "Prenda as pernas no banco declinado e posicione os halteres acima do centro do peito, com cotovelos levemente flexionados.",
+        "Ajuste as escápulas no banco e mantenha os pés firmes nos suportes.",
+        "Abra os braços em arco, deixando os halteres descerem para as laterais sem perder a leve flexão dos cotovelos.",
+        "Desça somente até o alongamento confortável do peitoral e sem abrir excessivamente os ombros.",
+        "Aproxime os halteres pelo mesmo arco até ficarem acima do peito, sem bater um no outro.",
+        "Repita mantendo o punho alinhado ao antebraço."
+      ],
+      "bodyRegion": [
+        "peitoral",
+        "ombros"
+      ],
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "estender completamente os cotovelos",
+        "descer os halteres além da mobilidade do ombro",
+        "perder as escápulas no banco",
+        "transformar o movimento em supino"
+      ]
     },
     {
       "id": "media_bf837322af1c7c3fe556",
-      "namePtBr": "Kettlebell Pendurado Limpo",
+      "namePtBr": "Clean pendurado com kettlebell",
       "originalFilename": "Kettlebell pendurado limpo.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Kettlebell pendurado limpo.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Kettlebell%20pendurado%20limpo.gif",
@@ -82678,24 +82980,108 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "kettlebell",
-          "label": "kettlebell"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "kettlebell clean",
+        "clean pendurado",
+        "potência",
+        "dobradiça de quadril",
+        "kettlebell"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_bf837322af1c7c3fe556",
+      "canonicalNameEn": "Kettlebell Hang Clean",
+      "aliasesPtBr": [
+        "arremesso pendurado com kettlebell",
+        "clean com kettlebell a partir do hang"
+      ],
+      "description": "Movimento explosivo com kettlebell iniciado na posição pendurada, acima dos joelhos. A carga é acelerada por uma dobradiça de quadril e recebida junto ao antebraço na posição de rack, combinando potência de quadril, extensão de joelhos e controle do tronco.",
+      "executionSteps": [
+        "Fique em pé segurando o kettlebell à frente do corpo, com os pés estáveis na largura do quadril.",
+        "Desloque o quadril para trás e deixe o kettlebell descer entre as pernas, mantendo a coluna neutra.",
+        "Empurre o chão e estenda quadris e joelhos de forma rápida para acelerar a carga.",
+        "Guie o kettlebell perto do corpo e gire o antebraço ao redor da alça, sem deixá-lo bater no punho.",
+        "Receba-o na posição de rack junto ao ombro, com cotovelo próximo ao tronco.",
+        "Baixe com controle para a posição pendurada e repita."
+      ],
+      "primaryMuscles": [
+        "glúteo máximo",
+        "isquiotibiais",
+        "quadríceps"
+      ],
+      "secondaryMuscles": [
+        "eretores da coluna",
+        "deltoide",
+        "trapézio",
+        "antebraços"
+      ],
+      "equipment": [
+        "kettlebell"
+      ],
+      "bodyRegions": [
+        "pernas",
+        "glúteos",
+        "costas",
+        "ombros"
+      ],
+      "movementPattern": "dobradiça explosiva de quadril com recepção unilateral em rack",
+      "exerciseType": "potência e condicionamento",
+      "difficulty": "avançado",
+      "laterality": "unilateral alternado",
+      "position": "em pé",
+      "environments": [
+        "academia",
+        "estúdio",
+        "casa"
+      ],
+      "commonErrors": [
+        "puxar a carga somente com o braço",
+        "arredondar a lombar na fase pendurada",
+        "deixar o kettlebell bater no antebraço",
+        "receber a carga longe do corpo"
+      ],
+      "executionTips": [
+        "Pense em gerar força pelo quadril, não em fazer uma rosca com o braço.",
+        "Mantenha o kettlebell próximo ao corpo durante a subida para uma recepção mais suave."
+      ],
+      "safetyNotes": "Aprenda a dobradiça e a posição de rack com carga leve antes de aumentar o peso. Pare se não conseguir receber o kettlebell sem impacto no punho ou perda de controle lombar.",
+      "confidence": "HIGH",
+      "visualIdentification": "Os frames mostram o kettlebell saindo da posição entre as pernas, sendo acelerado pela extensão de quadril e recebido ao lado do ombro em rack.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "arremesso pendurado com kettlebell",
+        "clean com kettlebell a partir do hang"
+      ],
+      "instructions": [
+        "Fique em pé segurando o kettlebell à frente do corpo, com os pés estáveis na largura do quadril.",
+        "Desloque o quadril para trás e deixe o kettlebell descer entre as pernas, mantendo a coluna neutra.",
+        "Empurre o chão e estenda quadris e joelhos de forma rápida para acelerar a carga.",
+        "Guie o kettlebell perto do corpo e gire o antebraço ao redor da alça, sem deixá-lo bater no punho.",
+        "Receba-o na posição de rack junto ao ombro, com cotovelo próximo ao tronco.",
+        "Baixe com controle para a posição pendurada e repita."
+      ],
+      "bodyRegion": [
+        "pernas",
+        "glúteos",
+        "costas",
+        "ombros"
+      ],
+      "environment": [
+        "academia",
+        "estúdio",
+        "casa"
+      ],
+      "commonMistakes": [
+        "puxar a carga somente com o braço",
+        "arredondar a lombar na fase pendurada",
+        "deixar o kettlebell bater no antebraço",
+        "receber a carga longe do corpo"
+      ]
     },
     {
       "id": "media_bfe1cffc4cf02b0a65a7",
-      "namePtBr": "Intensificar O EquilíBrio De Uma Perna Com Rosca BíCeps",
+      "namePtBr": "Subida no banco com rosca bíceps",
       "originalFilename": "Intensificar o equilíbrio de uma perna com rosca bíceps.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Intensificar o equilíbrio de uma perna com rosca bíceps.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Intensificar%20o%20equil%C3%ADbrio%20de%20uma%20perna%20com%20rosca%20b%C3%ADceps.gif",
@@ -82705,19 +83091,110 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "padrao_movimento",
-          "id": "flexao_cotovelo",
-          "label": "flexao cotovelo"
-        }
+        "step-up",
+        "subida no banco",
+        "rosca bíceps",
+        "halteres",
+        "equilíbrio",
+        "pernas"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_bfe1cffc4cf02b0a65a7",
+      "canonicalNameEn": "Dumbbell Step-Up with Biceps Curl",
+      "aliasesPtBr": [
+        "step-up com rosca alternada",
+        "subida no banco com rosca de bíceps"
+      ],
+      "description": "Exercício combinado em que o praticante sobe em um banco com uma perna enquanto realiza rosca de bíceps com halteres e eleva o joelho livre. Integra trabalho unilateral de pernas, equilíbrio e flexão de cotovelos, exigindo coordenação sem usar impulso excessivo.",
+      "executionSteps": [
+        "Fique diante do banco segurando um halter em cada mão, com os braços estendidos ao lado do corpo.",
+        "Apoie um pé inteiro sobre o banco e mantenha o joelho apontado na direção dos dedos do pé.",
+        "Empurre o banco com a perna de apoio para subir, evitando saltar com o pé que está no chão.",
+        "Durante a subida, flexione os cotovelos e eleve o joelho livre como mostrado na animação.",
+        "No topo, estabilize-se brevemente sobre uma perna com os halteres próximos aos ombros.",
+        "Desça controlando a rosca e o passo antes de repetir ou trocar o lado."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo",
+        "bíceps braquial"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "panturrilhas",
+        "abdômen",
+        "braquial"
+      ],
+      "equipment": [
+        "halteres",
+        "banco"
+      ],
+      "bodyRegions": [
+        "pernas",
+        "glúteos",
+        "braços",
+        "abdômen"
+      ],
+      "movementPattern": "subida unilateral no banco com flexão bilateral de cotovelo",
+      "exerciseType": "força funcional e coordenação",
+      "difficulty": "avançado",
+      "laterality": "unilateral alternado",
+      "position": "em pé sobre banco",
+      "environments": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "impulsionar-se em excesso com o pé de trás",
+        "deixar o joelho de apoio cair para dentro",
+        "perder o equilíbrio no topo",
+        "balançar os halteres durante a rosca"
+      ],
+      "executionTips": [
+        "Use um banco baixo o bastante para manter a subida controlada.",
+        "Domine a subida no banco e a rosca separadamente antes de combiná-las."
+      ],
+      "safetyNotes": "Verifique a estabilidade do banco e use halteres leves até controlar a coordenação. Desça devagar; interrompa em caso de dor no joelho ou perda de equilíbrio.",
+      "confidence": "HIGH",
+      "visualIdentification": "A animação mostra um pé apoiado no banco, subida em apoio único com elevação do joelho livre e rosca simultânea com dois halteres.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "step-up com rosca alternada",
+        "subida no banco com rosca de bíceps"
+      ],
+      "instructions": [
+        "Fique diante do banco segurando um halter em cada mão, com os braços estendidos ao lado do corpo.",
+        "Apoie um pé inteiro sobre o banco e mantenha o joelho apontado na direção dos dedos do pé.",
+        "Empurre o banco com a perna de apoio para subir, evitando saltar com o pé que está no chão.",
+        "Durante a subida, flexione os cotovelos e eleve o joelho livre como mostrado na animação.",
+        "No topo, estabilize-se brevemente sobre uma perna com os halteres próximos aos ombros.",
+        "Desça controlando a rosca e o passo antes de repetir ou trocar o lado."
+      ],
+      "bodyRegion": [
+        "pernas",
+        "glúteos",
+        "braços",
+        "abdômen"
+      ],
+      "environment": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "impulsionar-se em excesso com o pé de trás",
+        "deixar o joelho de apoio cair para dentro",
+        "perder o equilíbrio no topo",
+        "balançar os halteres durante a rosca"
+      ]
     },
     {
       "id": "media_bff1fba82ab80a4a6da4",
-      "namePtBr": "Imprensa Scott",
+      "namePtBr": "Desenvolvimento com halteres em pé",
       "originalFilename": "Imprensa scott.gif",
       "relativePath": "gifs/ombros/Imprensa scott.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/ombros/Imprensa%20scott.gif",
@@ -82727,19 +83204,101 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "ombros",
-          "label": "Ombros"
-        }
+        "desenvolvimento",
+        "halteres",
+        "ombros",
+        "press vertical",
+        "tríceps"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_bff1fba82ab80a4a6da4",
+      "canonicalNameEn": "Standing Dumbbell Shoulder Press",
+      "aliasesPtBr": [
+        "desenvolvimento militar com halteres",
+        "press de ombros em pé com halteres"
+      ],
+      "description": "Desenvolvimento bilateral realizado em pé com halteres, partindo da altura dos ombros e levando a carga acima da cabeça. O exercício enfatiza deltoides e tríceps, enquanto abdômen e glúteos estabilizam a coluna contra a tendência de arquear durante o press.",
+      "executionSteps": [
+        "Fique em pé com os halteres na altura dos ombros e os punhos alinhados aos antebraços.",
+        "Organize os pés, contraia abdômen e glúteos para manter o tronco vertical.",
+        "Empurre os halteres para cima até os braços ficarem estendidos acima da cabeça sem travar violentamente os cotovelos.",
+        "Mantenha os halteres sobre o meio do corpo e evite projetar as costelas para frente.",
+        "Desça de forma controlada até a altura inicial, mantendo os cotovelos sob os punhos."
+      ],
+      "primaryMuscles": [
+        "deltoide anterior",
+        "deltoide lateral"
+      ],
+      "secondaryMuscles": [
+        "tríceps braquial",
+        "trapézio superior",
+        "serrátil anterior",
+        "abdômen"
+      ],
+      "equipment": [
+        "halteres"
+      ],
+      "bodyRegions": [
+        "ombros",
+        "braços"
+      ],
+      "movementPattern": "press vertical bilateral acima da cabeça",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "arquear a lombar para completar a subida",
+        "deixar os cotovelos muito abertos",
+        "empurrar os halteres à frente do corpo",
+        "bater os halteres no topo"
+      ],
+      "executionTips": [
+        "Mantenha costelas alinhadas sobre a pelve durante toda a repetição.",
+        "Use amplitude confortável que preserve o caminho livre dos ombros."
+      ],
+      "safetyNotes": "Reduza a carga se não conseguir evitar extensão lombar. Em caso de dor no ombro, limite a amplitude e procure orientação profissional antes de insistir no press acima da cabeça.",
+      "confidence": "HIGH",
+      "visualIdentification": "Os frames mostram dois halteres saindo da frente dos ombros e sendo pressionados acima da cabeça em pé.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "desenvolvimento militar com halteres",
+        "press de ombros em pé com halteres"
+      ],
+      "instructions": [
+        "Fique em pé com os halteres na altura dos ombros e os punhos alinhados aos antebraços.",
+        "Organize os pés, contraia abdômen e glúteos para manter o tronco vertical.",
+        "Empurre os halteres para cima até os braços ficarem estendidos acima da cabeça sem travar violentamente os cotovelos.",
+        "Mantenha os halteres sobre o meio do corpo e evite projetar as costelas para frente.",
+        "Desça de forma controlada até a altura inicial, mantendo os cotovelos sob os punhos."
+      ],
+      "bodyRegion": [
+        "ombros",
+        "braços"
+      ],
+      "environment": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "arquear a lombar para completar a subida",
+        "deixar os cotovelos muito abertos",
+        "empurrar os halteres à frente do corpo",
+        "bater os halteres no topo"
+      ]
     },
     {
       "id": "media_c08ac240b3ccab721752",
-      "namePtBr": "HiperextensãO Em Banco Plano",
+      "namePtBr": "Hiperextensão no banco reto",
       "originalFilename": "Hiperextensão em banco plano.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Hiperextensão em banco plano.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Hiperextens%C3%A3o%20em%20banco%20plano.gif",
@@ -82748,10 +83307,100 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "matched_existing_exercise",
+      "tags": [
+        "hiperextensão",
+        "extensão lombar",
+        "banco reto",
+        "lombar",
+        "glúteos"
+      ],
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0488"
+      "sourceExerciseId": "0488",
+      "mediaId": "media_c08ac240b3ccab721752",
+      "canonicalNameEn": "Flat Bench Back Extension",
+      "aliasesPtBr": [
+        "extensão lombar no banco reto",
+        "hiperextensão em banco plano"
+      ],
+      "description": "Extensão de tronco executada de bruços em banco reto, deixando a parte superior do corpo mover-se além da borda enquanto as pernas permanecem apoiadas. A elevação controlada do tronco trabalha os extensores da coluna e glúteos, sem exigir máquina específica.",
+      "executionSteps": [
+        "Deite-se de bruços sobre um banco reto, posicionando o quadril próximo à borda e prendendo os pés de forma segura no chão ou em apoio estável.",
+        "Cruze os braços à frente do peito ou mantenha as mãos junto à cabeça, sem puxar o pescoço.",
+        "Deixe o tronco descer em direção ao chão por flexão controlada do quadril, mantendo o pescoço neutro.",
+        "Contraia glúteos e extensores da coluna para elevar o tronco até alinhá-lo aproximadamente às pernas.",
+        "Evite passar da linha do corpo no topo e retorne devagar à posição inferior."
+      ],
+      "primaryMuscles": [
+        "eretores da coluna",
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "multífidos",
+        "abdômen"
+      ],
+      "equipment": [
+        "banco reto",
+        "peso corporal"
+      ],
+      "bodyRegions": [
+        "lombar",
+        "glúteos",
+        "posteriores de coxa"
+      ],
+      "movementPattern": "extensão de tronco a partir do quadril no banco",
+      "exerciseType": "fortalecimento e estabilidade",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado de bruços no banco",
+      "environments": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "hiperestender a lombar no topo",
+        "puxar a cabeça com as mãos",
+        "deixar o banco pressionar o abdômen de modo desconfortável",
+        "fazer a subida com impulso"
+      ],
+      "executionTips": [
+        "Pense em alongar a coluna e levantar o tronco como uma peça única.",
+        "A amplitude ideal termina quando o tronco volta ao alinhamento com as pernas."
+      ],
+      "safetyNotes": "O banco e o apoio dos pés devem estar firmes antes de começar. Não use amplitude que cause dor lombar ou formigamento; evite adicionar carga até dominar a execução sem impulso.",
+      "confidence": "HIGH",
+      "visualIdentification": "Os frames mostram praticante de bruços em banco reto, com quadril próximo à borda e o tronco descendo e subindo para trabalhar a extensão lombar.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "extensão lombar no banco reto",
+        "hiperextensão em banco plano"
+      ],
+      "instructions": [
+        "Deite-se de bruços sobre um banco reto, posicionando o quadril próximo à borda e prendendo os pés de forma segura no chão ou em apoio estável.",
+        "Cruze os braços à frente do peito ou mantenha as mãos junto à cabeça, sem puxar o pescoço.",
+        "Deixe o tronco descer em direção ao chão por flexão controlada do quadril, mantendo o pescoço neutro.",
+        "Contraia glúteos e extensores da coluna para elevar o tronco até alinhá-lo aproximadamente às pernas.",
+        "Evite passar da linha do corpo no topo e retorne devagar à posição inferior."
+      ],
+      "bodyRegion": [
+        "lombar",
+        "glúteos",
+        "posteriores de coxa"
+      ],
+      "environment": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "hiperestender a lombar no topo",
+        "puxar a cabeça com as mãos",
+        "deixar o banco pressionar o abdômen de modo desconfortável",
+        "fazer a subida com impulso"
+      ]
     },
     {
       "id": "media_c0dd18c5ef0348c03d7c",
