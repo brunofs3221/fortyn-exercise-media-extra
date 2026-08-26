@@ -1,16 +1,16 @@
 {
   "totalMedia": 1142,
-  "processed": 277,
-  "completeProfiles": 277,
+  "processed": 285,
+  "completeProfiles": 285,
   "remaining": 1049,
-  "highConfidence": 244,
-  "mediumConfidence": 29,
+  "highConfidence": 251,
+  "mediumConfidence": 30,
   "lowConfidence": 4,
-  "manualReview": 27,
+  "manualReview": 28,
   "animatedProcessed": 93,
   "staticProcessed": 0,
   "currentBatch": 4,
-  "lastProcessedMediaId": "media_3958b3e8dc0922841893",
+  "lastProcessedMediaId": "media_3a8f978b55666bbe6872",
   "nextMediaId": "pending_after_worker_batch004",
   "completedMediaIds": [
     "media_00291dd66ebf0d854707",
@@ -289,10 +289,18 @@
     "media_3928553c4d86d92e9341",
     "media_3928f40d2fcdc598b8ce",
     "media_39478360a2479680ca44",
-    "media_3958b3e8dc0922841893"
+    "media_3958b3e8dc0922841893",
+    "media_39ce95abf4cc7564ca1f",
+    "media_39e3a845ad7945f84cbf",
+    "media_3a09d04944073caef961",
+    "media_3a3efd979b67bd3557f2",
+    "media_3a5e94dc465ccc26b77e",
+    "media_3a7620cd811cf80b9b27",
+    "media_3a837cfce62495425870",
+    "media_3a8f978b55666bbe6872"
   ],
   "status": "in_progress",
   "updatedAt": "2026-08-25T23:41:26.338Z",
-  "remainingIdentification": 865,
+  "remainingIdentification": 857,
   "remainingEnrichment": 0
 }
