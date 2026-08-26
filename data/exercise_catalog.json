@@ -94275,7 +94275,7 @@
     },
     {
       "id": "media_dce60adc960ebc55345b",
-      "namePtBr": "FlexãO NóRdica Dos Isquiotibiais",
+      "namePtBr": "Flexão nórdica de joelhos assistida",
       "originalFilename": "Flexão nórdica dos isquiotibiais.gif",
       "relativePath": "gifs/perna/Flexão nórdica dos isquiotibiais.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/perna/Flex%C3%A3o%20n%C3%B3rdica%20dos%20isquiotibiais.gif",
@@ -94285,39 +94285,97 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "pernas",
-          "label": "Pernas"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "empurrar",
-          "label": "empurrar"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "flexão nórdica",
+        "isquiotibiais",
+        "posterior de coxa",
+        "máquina",
+        "excêntrico"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_dce60adc960ebc55345b",
+      "canonicalNameEn": "Assisted Nordic Hamstring Curl",
+      "aliasesPtBr": [
+        "nórdico para posterior de coxa",
+        "flexão nórdica dos isquiotibiais"
+      ],
+      "description": "Variação assistida da flexão nórdica executada ajoelhado em uma máquina, com os tornozelos fixos e apoio que ajuda a controlar a descida. O praticante inclina o corpo inteiro à frente a partir dos joelhos e os isquiotibiais freiam a extensão do joelho antes de conduzir o retorno.",
+      "executionSteps": [
+        "Ajuste o apoio da máquina e posicione os joelhos no acolchoado, com os tornozelos firmes sob o rolo.",
+        "Comece ereto, contraia abdômen e glúteos e mantenha o corpo alinhado dos joelhos à cabeça.",
+        "Incline-se lentamente para a frente, deixando os joelhos estenderem sem dobrar o quadril.",
+        "Use o apoio das mãos ou da máquina apenas no fim da amplitude necessária para controlar a descida.",
+        "Puxe o corpo de volta com os posteriores da coxa até recuperar a posição ajoelhada ereta.",
+        "Repita sem perder o alinhamento do tronco."
+      ],
+      "primaryMuscles": [
+        "isquiotibiais"
+      ],
+      "secondaryMuscles": [
+        "gastrocnêmio",
+        "glúteo máximo",
+        "eretores da espinha"
+      ],
+      "equipment": [
+        "máquina de flexão nórdica assistida"
+      ],
+      "bodyRegions": [
+        "posterior de coxa",
+        "pernas"
+      ],
+      "movementPattern": "flexão de joelho com controle excêntrico",
+      "exerciseType": "força e prevenção de lesões",
+      "difficulty": "avançado",
+      "laterality": "bilateral",
+      "position": "ajoelhado na máquina",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "dobrar o quadril e perder a linha do corpo",
+        "cair sem controle na descida",
+        "usar os braços para puxar cedo demais",
+        "deixar os tornozelos soltos no apoio"
+      ],
+      "executionTips": [
+        "Priorize uma descida lenta, mesmo que a amplitude seja inicialmente curta.",
+        "Regule a assistência para conseguir retornar sem compensar pela lombar."
+      ],
+      "safetyNotes": "A progressão é exigente para os isquiotibiais. Aumente a amplitude gradualmente e interrompa em caso de dor aguda atrás do joelho ou na coxa.",
+      "confidence": "HIGH",
+      "visualIdentification": "A animação mostra praticante ajoelhado com tornozelos presos em máquina, descendo o corpo reto à frente e retornando com assistência.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "nórdico para posterior de coxa",
+        "flexão nórdica dos isquiotibiais"
+      ],
+      "instructions": [
+        "Ajuste o apoio da máquina e posicione os joelhos no acolchoado, com os tornozelos firmes sob o rolo.",
+        "Comece ereto, contraia abdômen e glúteos e mantenha o corpo alinhado dos joelhos à cabeça.",
+        "Incline-se lentamente para a frente, deixando os joelhos estenderem sem dobrar o quadril.",
+        "Use o apoio das mãos ou da máquina apenas no fim da amplitude necessária para controlar a descida.",
+        "Puxe o corpo de volta com os posteriores da coxa até recuperar a posição ajoelhada ereta.",
+        "Repita sem perder o alinhamento do tronco."
+      ],
+      "bodyRegion": [
+        "posterior de coxa",
+        "pernas"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "dobrar o quadril e perder a linha do corpo",
+        "cair sem controle na descida",
+        "usar os braços para puxar cedo demais",
+        "deixar os tornozelos soltos no apoio"
+      ]
     },
     {
       "id": "media_dd27c4821b3134f73d2e",
-      "namePtBr": "Crucifixo Com Halteres",
+      "namePtBr": "Crucifixo reto com halteres",
       "originalFilename": "Crucifixo com halteres.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Crucifixo com halteres.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Crucifixo%20com%20halteres.gif",
@@ -94327,24 +94385,100 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "crucifixo",
+        "halteres",
+        "peitoral",
+        "banco reto",
+        "adução horizontal"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0308"
+      "sourceExerciseId": "0308",
+      "mediaId": "media_dd27c4821b3134f73d2e",
+      "canonicalNameEn": "Dumbbell Flat Bench Fly",
+      "aliasesPtBr": [
+        "crucifixo com halteres",
+        "fly reto com halteres"
+      ],
+      "description": "Exercício de adução horizontal dos ombros feito deitado em banco reto com halteres. Os braços percorrem um arco amplo sobre o tórax, enfatizando o peitoral maior; os cotovelos ficam levemente flexionados para preservar as articulações.",
+      "executionSteps": [
+        "Deite-se no banco reto com os pés firmes e um halter em cada mão.",
+        "Inicie com os halteres acima do centro do peito, palmas voltadas uma para a outra e cotovelos suavemente flexionados.",
+        "Abra os braços em arco para os lados, mantendo a mesma curvatura dos cotovelos.",
+        "Desça apenas até sentir alongamento controlado no peito, sem projetar os ombros à frente.",
+        "Aproxime os halteres pelo mesmo arco até ficarem acima do tórax.",
+        "Não bata um halter no outro nem transforme o gesto em supino."
+      ],
+      "primaryMuscles": [
+        "peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "bíceps braquial",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "halteres",
+        "banco reto"
+      ],
+      "bodyRegions": [
+        "peito",
+        "ombros"
+      ],
+      "movementPattern": "adução horizontal de ombro",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado em banco reto",
+      "environments": [
+        "academia",
+        "casa com banco e halteres"
+      ],
+      "commonErrors": [
+        "descer os halteres muito abaixo da linha do peito",
+        "estender demais os cotovelos",
+        "perder a retração das escápulas",
+        "usar carga que obriga a dobrar muito os braços"
+      ],
+      "executionTips": [
+        "Use carga menor do que no supino para controlar o alongamento.",
+        "Mantenha as escápulas apoiadas no banco durante todo o arco."
+      ],
+      "safetyNotes": "Evite amplitude que cause dor na frente do ombro. Entre e saia da posição usando as coxas para auxiliar os halteres.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra pessoa deitada em banco reto abrindo e fechando dois halteres em arco sobre o peito.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "crucifixo com halteres",
+        "fly reto com halteres"
+      ],
+      "instructions": [
+        "Deite-se no banco reto com os pés firmes e um halter em cada mão.",
+        "Inicie com os halteres acima do centro do peito, palmas voltadas uma para a outra e cotovelos suavemente flexionados.",
+        "Abra os braços em arco para os lados, mantendo a mesma curvatura dos cotovelos.",
+        "Desça apenas até sentir alongamento controlado no peito, sem projetar os ombros à frente.",
+        "Aproxime os halteres pelo mesmo arco até ficarem acima do tórax.",
+        "Não bata um halter no outro nem transforme o gesto em supino."
+      ],
+      "bodyRegion": [
+        "peito",
+        "ombros"
+      ],
+      "environment": [
+        "academia",
+        "casa com banco e halteres"
+      ],
+      "commonMistakes": [
+        "descer os halteres muito abaixo da linha do peito",
+        "estender demais os cotovelos",
+        "perder a retração das escápulas",
+        "usar carga que obriga a dobrar muito os braços"
+      ]
     },
     {
       "id": "media_dd3a9b1f538e608ab930",
-      "namePtBr": "Prensa De Ombro Para MáQuina Smith",
+      "namePtBr": "Desenvolvimento militar sentado no Smith",
       "originalFilename": "Prensa de ombro para máquina smith.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Prensa de ombro para máquina smith.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Prensa%20de%20ombro%20para%20m%C3%A1quina%20smith.gif",
@@ -94354,19 +94488,99 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        }
+        "desenvolvimento",
+        "Smith",
+        "ombros",
+        "sentado",
+        "press vertical"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_dd3a9b1f538e608ab930",
+      "canonicalNameEn": "Seated Smith Machine Shoulder Press",
+      "aliasesPtBr": [
+        "desenvolvimento sentado no Smith",
+        "press de ombros no Smith"
+      ],
+      "description": "Desenvolvimento de ombros feito sentado sob a barra guiada do Smith. A trajetória fixa permite pressionar a barra acima da cabeça com o tronco apoiado, priorizando deltoides e tríceps quando a barra desce à frente do rosto.",
+      "executionSteps": [
+        "Ajuste o banco com encosto sob a barra e sente-se com os pés firmes no chão.",
+        "Segure a barra um pouco além da largura dos ombros e destrave-a com os punhos alinhados.",
+        "Desça a barra de forma controlada à frente do rosto até a altura confortável dos ombros.",
+        "Mantenha costas e cabeça apoiadas, sem hiperestender a lombar.",
+        "Empurre a barra para cima até os cotovelos ficarem estendidos sem travá-los bruscamente.",
+        "Trave a barra nos ganchos antes de sair do banco."
+      ],
+      "primaryMuscles": [
+        "deltoide anterior",
+        "deltoide lateral"
+      ],
+      "secondaryMuscles": [
+        "tríceps braquial",
+        "trapézio superior",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "máquina Smith",
+        "banco com encosto"
+      ],
+      "bodyRegions": [
+        "ombros",
+        "braços"
+      ],
+      "movementPattern": "empurrar vertical",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "sentado no banco",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "descer a barra atrás da nuca",
+        "arquear excessivamente a lombar",
+        "abrir os cotovelos sem controle",
+        "não travar a barra ao finalizar"
+      ],
+      "executionTips": [
+        "Posicione o banco para a barra passar à frente da face.",
+        "Use amplitude que mantenha os ombros confortáveis e o tronco apoiado."
+      ],
+      "safetyNotes": "Confira os ganchos de segurança e a altura do banco. Reduza carga se houver dor no ombro ou compensação lombar.",
+      "confidence": "HIGH",
+      "visualIdentification": "A animação mostra praticante sentado em máquina Smith empurrando a barra da altura dos ombros para acima da cabeça.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "desenvolvimento sentado no Smith",
+        "press de ombros no Smith"
+      ],
+      "instructions": [
+        "Ajuste o banco com encosto sob a barra e sente-se com os pés firmes no chão.",
+        "Segure a barra um pouco além da largura dos ombros e destrave-a com os punhos alinhados.",
+        "Desça a barra de forma controlada à frente do rosto até a altura confortável dos ombros.",
+        "Mantenha costas e cabeça apoiadas, sem hiperestender a lombar.",
+        "Empurre a barra para cima até os cotovelos ficarem estendidos sem travá-los bruscamente.",
+        "Trave a barra nos ganchos antes de sair do banco."
+      ],
+      "bodyRegion": [
+        "ombros",
+        "braços"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "descer a barra atrás da nuca",
+        "arquear excessivamente a lombar",
+        "abrir os cotovelos sem controle",
+        "não travar a barra ao finalizar"
+      ]
     },
     {
       "id": "media_dd4a8dd102db185dfc53",
-      "namePtBr": "EláStico De ResistêNcia Ao Toque Do Dedo Do Pé",
+      "namePtBr": "Toque no pé com mini band",
       "originalFilename": "Elástico de resistência ao toque do dedo do pé.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Elástico de resistência ao toque do dedo do pé.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/El%C3%A1stico%20de%20resist%C3%AAncia%20ao%20toque%20do%20dedo%20do%20p%C3%A9.gif",
@@ -94376,24 +94590,102 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "elastico_faixa",
-          "label": "elastico faixa"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "mini band",
+        "glúteo médio",
+        "abdução de quadril",
+        "equilíbrio",
+        "aquecimento"
       ],
-      "identificationStatus": "pending_review",
+      "identificationStatus": "curated",
       "needsManualReview": true,
-      "sourceExerciseId": null
+      "sourceExerciseId": null,
+      "mediaId": "media_dd4a8dd102db185dfc53",
+      "canonicalNameEn": "Resistance Band Toe Touch",
+      "aliasesPtBr": [
+        "toque no pé com elástico",
+        "abdução de quadril com mini band em pé"
+      ],
+      "description": "Exercício em pé com mini band acima dos joelhos, no qual uma perna é afastada e toca o solo à frente ou em diagonal enquanto a outra sustenta o corpo. A faixa cria resistência para os abdutores do quadril e exige controle pélvico na perna de apoio.",
+      "executionSteps": [
+        "Coloque uma mini band acima dos joelhos e fique em pé com leve flexão de joelhos.",
+        "Distribua o peso sobre uma perna e mantenha o tronco alto, com as mãos nos quadris.",
+        "Leve o outro pé para fora contra a faixa e toque o chão suavemente, como na animação.",
+        "Evite transferir todo o peso para a perna que toca o chão.",
+        "Retorne o pé ao centro mantendo tensão contínua no elástico.",
+        "Complete as repetições e troque o lado."
+      ],
+      "primaryMuscles": [
+        "glúteo médio",
+        "glúteo mínimo"
+      ],
+      "secondaryMuscles": [
+        "glúteo máximo",
+        "quadríceps",
+        "abdutores do quadril"
+      ],
+      "equipment": [
+        "mini band"
+      ],
+      "bodyRegions": [
+        "quadril",
+        "glúteos",
+        "pernas"
+      ],
+      "movementPattern": "abdução de quadril em apoio unipodal",
+      "exerciseType": "ativação e condicionamento",
+      "difficulty": "iniciante",
+      "laterality": "unilateral alternado",
+      "position": "em pé",
+      "environments": [
+        "academia",
+        "casa"
+      ],
+      "commonErrors": [
+        "deixar o joelho da perna de apoio cair para dentro",
+        "balançar o tronco",
+        "perder a tensão da faixa no retorno",
+        "apoiar peso demais no pé que toca"
+      ],
+      "executionTips": [
+        "Mantenha o quadril nivelado e faça toques curtos e controlados.",
+        "Escolha uma faixa que permita estabilizar o joelho."
+      ],
+      "safetyNotes": "Apoie-se em uma parede se o equilíbrio for limitado. Pare se houver dor no joelho ou quadril.",
+      "confidence": "MEDIUM",
+      "visualIdentification": "O GIF mostra pessoa em pé com faixa acima dos joelhos realizando toque lateral/diagonal do pé contra a resistência.",
+      "reviewRequired": true,
+      "profileComplete": true,
+      "aliases": [
+        "toque no pé com elástico",
+        "abdução de quadril com mini band em pé"
+      ],
+      "instructions": [
+        "Coloque uma mini band acima dos joelhos e fique em pé com leve flexão de joelhos.",
+        "Distribua o peso sobre uma perna e mantenha o tronco alto, com as mãos nos quadris.",
+        "Leve o outro pé para fora contra a faixa e toque o chão suavemente, como na animação.",
+        "Evite transferir todo o peso para a perna que toca o chão.",
+        "Retorne o pé ao centro mantendo tensão contínua no elástico.",
+        "Complete as repetições e troque o lado."
+      ],
+      "bodyRegion": [
+        "quadril",
+        "glúteos",
+        "pernas"
+      ],
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "deixar o joelho da perna de apoio cair para dentro",
+        "balançar o tronco",
+        "perder a tensão da faixa no retorno",
+        "apoiar peso demais no pé que toca"
+      ]
     },
     {
       "id": "media_dd51385df295bad4d4c7",
-      "namePtBr": "Hidrante Em EláStico",
+      "namePtBr": "Hidrante com mini band",
       "originalFilename": "Hidrante em elástico.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Hidrante em elástico.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Hidrante%20em%20el%C3%A1stico.gif",
@@ -94403,24 +94695,100 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "elastico_faixa",
-          "label": "elastico faixa"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "hidrante",
+        "mini band",
+        "glúteos",
+        "abdução de quadril",
+        "quatro apoios"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_dd51385df295bad4d4c7",
+      "canonicalNameEn": "Banded Fire Hydrant",
+      "aliasesPtBr": [
+        "abdução de quadril em quatro apoios com elástico",
+        "fire hydrant com faixa"
+      ],
+      "description": "Abdução de quadril em quatro apoios com uma mini band acima dos joelhos. A coxa se abre para a lateral sem girar o tronco, enfatizando glúteo médio e fibras superiores do glúteo máximo, enquanto o core estabiliza a pelve.",
+      "executionSteps": [
+        "Posicione a mini band acima dos joelhos e fique em quatro apoios, com mãos abaixo dos ombros.",
+        "Mantenha a coluna neutra e o abdômen firme.",
+        "Sem estender a lombar, eleve um joelho para a lateral contra a faixa.",
+        "Pare antes de o quadril girar ou o tronco inclinar.",
+        "Desça o joelho lentamente sem deixar a faixa perder toda a tensão.",
+        "Repita e execute o mesmo volume do outro lado."
+      ],
+      "primaryMuscles": [
+        "glúteo médio",
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "glúteo mínimo",
+        "oblíquos",
+        "abdutores do quadril"
+      ],
+      "equipment": [
+        "mini band"
+      ],
+      "bodyRegions": [
+        "glúteos",
+        "quadril"
+      ],
+      "movementPattern": "abdução unilateral de quadril",
+      "exerciseType": "ativação e força",
+      "difficulty": "iniciante",
+      "laterality": "unilateral",
+      "position": "quatro apoios",
+      "environments": [
+        "academia",
+        "casa"
+      ],
+      "commonErrors": [
+        "girar a pelve para abrir mais a perna",
+        "arquear a lombar",
+        "transferir peso excessivo para um braço",
+        "usar faixa forte demais e encurtar o gesto"
+      ],
+      "executionTips": [
+        "Imagine que há um copo apoiado na lombar e evite derramá-lo.",
+        "Faça a subida curta e limpa, sem buscar altura a qualquer custo."
+      ],
+      "safetyNotes": "Proteja os punhos com apoio macio se necessário. Interrompa se aparecer dor lombar, no quadril ou nos joelhos.",
+      "confidence": "HIGH",
+      "visualIdentification": "A animação mostra praticante em quatro apoios elevando lateralmente uma coxa com mini band acima dos joelhos.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "abdução de quadril em quatro apoios com elástico",
+        "fire hydrant com faixa"
+      ],
+      "instructions": [
+        "Posicione a mini band acima dos joelhos e fique em quatro apoios, com mãos abaixo dos ombros.",
+        "Mantenha a coluna neutra e o abdômen firme.",
+        "Sem estender a lombar, eleve um joelho para a lateral contra a faixa.",
+        "Pare antes de o quadril girar ou o tronco inclinar.",
+        "Desça o joelho lentamente sem deixar a faixa perder toda a tensão.",
+        "Repita e execute o mesmo volume do outro lado."
+      ],
+      "bodyRegion": [
+        "glúteos",
+        "quadril"
+      ],
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "girar a pelve para abrir mais a perna",
+        "arquear a lombar",
+        "transferir peso excessivo para um braço",
+        "usar faixa forte demais e encurtar o gesto"
+      ]
     },
     {
       "id": "media_ddaa5b16ce356354951f",
-      "namePtBr": "Snatch Muscular",
+      "namePtBr": "Arranco muscular",
       "originalFilename": "Snatch muscular.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Snatch muscular.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Snatch%20muscular.gif",
@@ -94429,14 +94797,104 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "arranco",
+        "snatch",
+        "barra olímpica",
+        "potência",
+        "levantamento olímpico"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_ddaa5b16ce356354951f",
+      "canonicalNameEn": "Muscle Snatch",
+      "aliasesPtBr": [
+        "snatch muscular",
+        "arranco sem agachamento"
+      ],
+      "description": "Variação do arranco olímpico em que a barra é levada do chão à posição acima da cabeça sem receber em agachamento. A extensão potente de quadril, joelhos e tornozelos acelera a barra, seguida de puxada alta e finalização com os braços acima da cabeça.",
+      "executionSteps": [
+        "Posicione os pés sob a barra e segure-a com pegada larga de arranco.",
+        "Abaixe o quadril mantendo peito elevado, costas neutras e a barra próxima às canelas.",
+        "Empurre o chão e eleve a barra junto ao corpo até passar os joelhos.",
+        "Estenda vigorosamente quadris, joelhos e tornozelos e puxe os cotovelos para cima.",
+        "Continue a trajetória da barra sem agachar, girando os braços para recebê-la acima da cabeça.",
+        "Estabilize a carga com braços estendidos e desça-a de forma controlada."
+      ],
+      "primaryMuscles": [
+        "glúteo máximo",
+        "quadríceps",
+        "deltoides"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "trapézio superior",
+        "eretores da espinha",
+        "tríceps braquial"
+      ],
+      "equipment": [
+        "barra olímpica",
+        "anilhas"
+      ],
+      "bodyRegions": [
+        "corpo inteiro",
+        "pernas",
+        "ombros"
+      ],
+      "movementPattern": "levantamento olímpico explosivo acima da cabeça",
+      "exerciseType": "potência e levantamento olímpico",
+      "difficulty": "avançado",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "academia com plataforma"
+      ],
+      "commonErrors": [
+        "arredondar a lombar na saída",
+        "afastar a barra do corpo",
+        "puxar cedo demais com os braços",
+        "receber a barra com cotovelos flexionados"
+      ],
+      "executionTips": [
+        "Aprenda a trajetória com uma barra leve antes de adicionar carga.",
+        "Mantenha a barra próxima ao corpo e finalize com os ombros ativos acima da cabeça."
+      ],
+      "safetyNotes": "É um movimento técnico e explosivo; use plataforma, anilhas adequadas e supervisão qualificada quando necessário. Não tente cargas altas sem dominar a técnica.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra barra olímpica saindo do chão e chegando acima da cabeça em pé, sem recepção em agachamento profundo.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "snatch muscular",
+        "arranco sem agachamento"
+      ],
+      "instructions": [
+        "Posicione os pés sob a barra e segure-a com pegada larga de arranco.",
+        "Abaixe o quadril mantendo peito elevado, costas neutras e a barra próxima às canelas.",
+        "Empurre o chão e eleve a barra junto ao corpo até passar os joelhos.",
+        "Estenda vigorosamente quadris, joelhos e tornozelos e puxe os cotovelos para cima.",
+        "Continue a trajetória da barra sem agachar, girando os braços para recebê-la acima da cabeça.",
+        "Estabilize a carga com braços estendidos e desça-a de forma controlada."
+      ],
+      "bodyRegion": [
+        "corpo inteiro",
+        "pernas",
+        "ombros"
+      ],
+      "environment": [
+        "academia com plataforma"
+      ],
+      "commonMistakes": [
+        "arredondar a lombar na saída",
+        "afastar a barra do corpo",
+        "puxar cedo demais com os braços",
+        "receber a barra com cotovelos flexionados"
+      ]
     },
     {
       "id": "media_ddb5ac9e8ed43d21205f",
-      "namePtBr": "Asisted Triceps Dips",
+      "namePtBr": "Mergulho assistido na máquina",
       "originalFilename": "Asisted triceps dips.gif",
       "relativePath": "gifs/tríceps/Asisted triceps dips.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/tr%C3%ADceps/Asisted%20triceps%20dips.gif",
@@ -94446,19 +94904,99 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "bracos",
-          "label": "Bracos"
-        }
+        "mergulho",
+        "paralela assistida",
+        "tríceps",
+        "máquina",
+        "peso corporal"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_ddb5ac9e8ed43d21205f",
+      "canonicalNameEn": "Assisted Triceps Dip",
+      "aliasesPtBr": [
+        "paralela assistida",
+        "mergulho na máquina assistida"
+      ],
+      "description": "Mergulho realizado na máquina assistida, com os joelhos apoiados na plataforma móvel e as mãos nas barras paralelas. A assistência reduz parte do peso corporal enquanto ombros e cotovelos flexionam e estendem, com grande participação do tríceps.",
+      "executionSteps": [
+        "Selecione a assistência e suba na máquina usando os apoios com cuidado.",
+        "Apoie os joelhos na plataforma e segure as barras paralelas com braços estendidos.",
+        "Desça o corpo flexionando os cotovelos até a amplitude confortável dos ombros.",
+        "Mantenha o peito alto e evite encolher os ombros em direção às orelhas.",
+        "Empurre as barras até estender os cotovelos e voltar ao início.",
+        "Ao terminar, mantenha as mãos nos apoios até sair da plataforma com segurança."
+      ],
+      "primaryMuscles": [
+        "tríceps braquial"
+      ],
+      "secondaryMuscles": [
+        "peitoral maior",
+        "deltoide anterior",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "máquina de mergulho assistido"
+      ],
+      "bodyRegions": [
+        "braços",
+        "peito",
+        "ombros"
+      ],
+      "movementPattern": "empurrar vertical com peso corporal assistido",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "suspenso com joelhos apoiados",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "descer além da mobilidade do ombro",
+        "projetar muito os ombros à frente",
+        "usar assistência insuficiente e perder controle",
+        "sair da máquina sem travar a plataforma"
+      ],
+      "executionTips": [
+        "Aumente a assistência até conseguir uma descida lenta e estável.",
+        "Mantenha os cotovelos acompanhando o tronco, sem abri-los excessivamente."
+      ],
+      "safetyNotes": "A plataforma móvel pode subir rapidamente: segure os apoios ao entrar e sair. Reduza a amplitude se houver dor no ombro ou cotovelo.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra praticante em máquina de paralelas assistidas, com joelhos na plataforma e extensão dos cotovelos nas barras.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "paralela assistida",
+        "mergulho na máquina assistida"
+      ],
+      "instructions": [
+        "Selecione a assistência e suba na máquina usando os apoios com cuidado.",
+        "Apoie os joelhos na plataforma e segure as barras paralelas com braços estendidos.",
+        "Desça o corpo flexionando os cotovelos até a amplitude confortável dos ombros.",
+        "Mantenha o peito alto e evite encolher os ombros em direção às orelhas.",
+        "Empurre as barras até estender os cotovelos e voltar ao início.",
+        "Ao terminar, mantenha as mãos nos apoios até sair da plataforma com segurança."
+      ],
+      "bodyRegion": [
+        "braços",
+        "peito",
+        "ombros"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "descer além da mobilidade do ombro",
+        "projetar muito os ombros à frente",
+        "usar assistência insuficiente e perder controle",
+        "sair da máquina sem travar a plataforma"
+      ]
     },
     {
       "id": "media_ddd2efe7106b48b467c7",
-      "namePtBr": "Prensa De Ombro Em MáQuina Smith Em Pé",
+      "namePtBr": "Desenvolvimento militar em pé no Smith",
       "originalFilename": "Prensa de ombro em máquina smith em pé.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Prensa de ombro em máquina smith em pé.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Prensa%20de%20ombro%20em%20m%C3%A1quina%20smith%20em%20p%C3%A9.gif",
@@ -94468,15 +95006,94 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        }
+        "desenvolvimento",
+        "Smith",
+        "ombros",
+        "em pé",
+        "press vertical"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0774"
+      "sourceExerciseId": "0774",
+      "mediaId": "media_ddd2efe7106b48b467c7",
+      "canonicalNameEn": "Standing Smith Machine Shoulder Press",
+      "aliasesPtBr": [
+        "desenvolvimento em pé no Smith",
+        "press de ombros em pé no Smith"
+      ],
+      "description": "Pressão vertical realizada em pé na máquina Smith, levando a barra da frente dos ombros para acima da cabeça em trajetória guiada. Deltoides e tríceps produzem o empurrão, enquanto abdômen e glúteos estabilizam o corpo para que a lombar não compense.",
+      "executionSteps": [
+        "Posicione-se de pé dentro da máquina com a barra à frente dos ombros e pés na largura confortável.",
+        "Segure a barra um pouco além da largura dos ombros, contraia abdômen e glúteos e destrave-a.",
+        "Comece com cotovelos abaixo da barra e punhos alinhados.",
+        "Empurre a barra verticalmente até os braços ficarem estendidos acima da cabeça.",
+        "Evite inclinar o tronco para trás ou projetar a cabeça à frente.",
+        "Desça a barra lentamente à frente dos ombros e trave-a nos ganchos ao encerrar."
+      ],
+      "primaryMuscles": [
+        "deltoide anterior",
+        "deltoide lateral"
+      ],
+      "secondaryMuscles": [
+        "tríceps braquial",
+        "trapézio superior",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "máquina Smith"
+      ],
+      "bodyRegions": [
+        "ombros",
+        "braços"
+      ],
+      "movementPattern": "empurrar vertical",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "em pé na máquina",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "hiperestender a lombar",
+        "deixar a barra descer atrás da nuca",
+        "usar base instável",
+        "não encaixar a barra nos ganchos"
+      ],
+      "executionTips": [
+        "Mantenha as costelas controladas para que o movimento venha dos ombros.",
+        "Ajuste a posição dos pés de modo que a barra percorra uma linha confortável à frente do rosto."
+      ],
+      "safetyNotes": "Confira a altura dos ganchos e use carga progressiva. Suspenda se a posição em pé provocar dor lombar ou no ombro.",
+      "confidence": "HIGH",
+      "visualIdentification": "A animação mostra praticante em pé na máquina Smith pressionando a barra da frente dos ombros até acima da cabeça.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "desenvolvimento em pé no Smith",
+        "press de ombros em pé no Smith"
+      ],
+      "instructions": [
+        "Posicione-se de pé dentro da máquina com a barra à frente dos ombros e pés na largura confortável.",
+        "Segure a barra um pouco além da largura dos ombros, contraia abdômen e glúteos e destrave-a.",
+        "Comece com cotovelos abaixo da barra e punhos alinhados.",
+        "Empurre a barra verticalmente até os braços ficarem estendidos acima da cabeça.",
+        "Evite inclinar o tronco para trás ou projetar a cabeça à frente.",
+        "Desça a barra lentamente à frente dos ombros e trave-a nos ganchos ao encerrar."
+      ],
+      "bodyRegion": [
+        "ombros",
+        "braços"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "hiperestender a lombar",
+        "deixar a barra descer atrás da nuca",
+        "usar base instável",
+        "não encaixar a barra nos ganchos"
+      ]
     },
     {
       "id": "media_de5f68cb66debc8557fd",
