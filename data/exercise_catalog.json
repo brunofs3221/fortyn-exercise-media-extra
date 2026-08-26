@@ -80874,7 +80874,7 @@
     },
     {
       "id": "media_bb47de33231e3923cd1f",
-      "namePtBr": "Encolhimento De Ombros",
+      "namePtBr": "Rosca bíceps na polia baixa com barra reta",
       "originalFilename": "Encolhimento de ombros.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Encolhimento de ombros.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Encolhimento%20de%20ombros.gif",
@@ -80883,14 +80883,99 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "matched_existing_exercise",
+      "tags": [
+        "rosca",
+        "bíceps",
+        "polia baixa",
+        "barra reta",
+        "braços"
+      ],
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0220"
+      "sourceExerciseId": "0220",
+      "mediaId": "media_bb47de33231e3923cd1f",
+      "canonicalNameEn": "Standing Low Cable Straight-Bar Biceps Curl",
+      "aliasesPtBr": [
+        "rosca direta na polia baixa",
+        "rosca na polia com barra reta"
+      ],
+      "description": "Rosca bilateral em pé com a barra reta conectada à polia baixa. Os cotovelos permanecem junto ao tronco enquanto os antebraços flexionam contra a resistência contínua do cabo, enfatizando o bíceps sem o balanço de quadril comum à rosca livre.",
+      "executionSteps": [
+        "Conecte uma barra reta à polia baixa e fique de frente para a máquina, com os pés estáveis.",
+        "Segure a barra por baixo, braços estendidos e cotovelos próximos às costelas.",
+        "Flexione os cotovelos e leve a barra em direção à parte alta do abdômen, sem jogar os ombros para frente.",
+        "Contraia os bíceps no topo sem dobrar os punhos para trás.",
+        "Retorne a barra lentamente até quase estender os cotovelos, mantendo tensão no cabo.",
+        "Repita sem inclinar o tronco para criar impulso."
+      ],
+      "primaryMuscles": [
+        "bíceps braquial"
+      ],
+      "secondaryMuscles": [
+        "braquial",
+        "braquiorradial",
+        "flexores do antebraço"
+      ],
+      "equipment": [
+        "polia baixa",
+        "barra reta"
+      ],
+      "bodyRegions": [
+        "bíceps",
+        "antebraços"
+      ],
+      "movementPattern": "flexão bilateral de cotovelo na polia",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "balançar o tronco para erguer a carga",
+        "afastar os cotovelos das costelas",
+        "estender os punhos no topo",
+        "deixar a carga voltar sem controle"
+      ],
+      "executionTips": [
+        "Ajuste a distância da polia para que o cabo permaneça tensionado no início.",
+        "Use amplitude que preserve o cotovelo parado ao lado do corpo."
+      ],
+      "safetyNotes": "Use carga que permita controlar a volta e não force os punhos. Interrompa se houver dor aguda no cotovelo, punho ou parte anterior do ombro.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra uma barra reta presa a cabo baixo e flexão bilateral dos cotovelos, com destaque no bíceps.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "rosca direta na polia baixa",
+        "rosca na polia com barra reta"
+      ],
+      "instructions": [
+        "Conecte uma barra reta à polia baixa e fique de frente para a máquina, com os pés estáveis.",
+        "Segure a barra por baixo, braços estendidos e cotovelos próximos às costelas.",
+        "Flexione os cotovelos e leve a barra em direção à parte alta do abdômen, sem jogar os ombros para frente.",
+        "Contraia os bíceps no topo sem dobrar os punhos para trás.",
+        "Retorne a barra lentamente até quase estender os cotovelos, mantendo tensão no cabo.",
+        "Repita sem inclinar o tronco para criar impulso."
+      ],
+      "bodyRegion": [
+        "bíceps",
+        "antebraços"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "balançar o tronco para erguer a carga",
+        "afastar os cotovelos das costelas",
+        "estender os punhos no topo",
+        "deixar a carga voltar sem controle"
+      ]
     },
     {
       "id": "media_bb51a0f742533e3c753b",
-      "namePtBr": "ElevaçãO PéLvica Com Peso Corporal",
+      "namePtBr": "Elevação pélvica com peso corporal",
       "originalFilename": "Elevação pélvica com peso corporal.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Elevação pélvica com peso corporal.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Eleva%C3%A7%C3%A3o%20p%C3%A9lvica%20com%20peso%20corporal.gif",
@@ -80899,14 +80984,105 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "elevação pélvica",
+        "hip thrust",
+        "glúteos",
+        "banco",
+        "peso corporal"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_bb51a0f742533e3c753b",
+      "canonicalNameEn": "Bodyweight Hip Thrust",
+      "aliasesPtBr": [
+        "hip thrust sem carga",
+        "elevação de quadril no banco"
+      ],
+      "description": "Elevação de quadril com as escápulas apoiadas em um banco e os pés no chão. A pelve sobe por extensão de quadril até tronco e coxas se alinharem, dando ênfase ao glúteo máximo e reduzindo a necessidade de carga externa.",
+      "executionSteps": [
+        "Apoie a parte superior das costas na borda de um banco firme e posicione os pés na largura do quadril.",
+        "Comece com o quadril baixo, joelhos dobrados e abdômen levemente contraído.",
+        "Empurre o chão com os calcanhares e eleve a pelve pela contração dos glúteos.",
+        "Pare quando tronco e coxas formarem uma linha, sem hiperestender a lombar.",
+        "Mantenha o queixo levemente recolhido e as costelas organizadas no topo.",
+        "Desça o quadril de modo controlado e repita."
+      ],
+      "primaryMuscles": [
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "adutor magno",
+        "reto abdominal"
+      ],
+      "equipment": [
+        "banco reto",
+        "peso corporal"
+      ],
+      "bodyRegions": [
+        "glúteos",
+        "posterior de coxa",
+        "core"
+      ],
+      "movementPattern": "extensão bilateral de quadril",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "costas apoiadas no banco",
+      "environments": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "subir projetando a lombar",
+        "deixar os joelhos caírem para dentro",
+        "empurrar somente com as pontas dos pés",
+        "perder o apoio das escápulas no banco"
+      ],
+      "executionTips": [
+        "No topo, pense em aproximar as costelas da pelve para evitar compensação lombar.",
+        "A posição dos pés deve permitir canelas quase verticais ao final da subida."
+      ],
+      "safetyNotes": "Use banco que não deslize e mantenha a região cervical fora da borda. Reduza a amplitude se houver desconforto no quadril ou na lombar.",
+      "confidence": "HIGH",
+      "visualIdentification": "A animação mostra uma praticante com as escápulas apoiadas no banco elevando e abaixando a pelve; glúteos e posteriores estão destacados.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "hip thrust sem carga",
+        "elevação de quadril no banco"
+      ],
+      "instructions": [
+        "Apoie a parte superior das costas na borda de um banco firme e posicione os pés na largura do quadril.",
+        "Comece com o quadril baixo, joelhos dobrados e abdômen levemente contraído.",
+        "Empurre o chão com os calcanhares e eleve a pelve pela contração dos glúteos.",
+        "Pare quando tronco e coxas formarem uma linha, sem hiperestender a lombar.",
+        "Mantenha o queixo levemente recolhido e as costelas organizadas no topo.",
+        "Desça o quadril de modo controlado e repita."
+      ],
+      "bodyRegion": [
+        "glúteos",
+        "posterior de coxa",
+        "core"
+      ],
+      "environment": [
+        "academia",
+        "casa",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "subir projetando a lombar",
+        "deixar os joelhos caírem para dentro",
+        "empurrar somente com as pontas dos pés",
+        "perder o apoio das escápulas no banco"
+      ]
     },
     {
       "id": "media_bb7ae36dcd31aaf0b43b",
-      "namePtBr": "Supino",
+      "namePtBr": "Supino inclinado no Smith",
       "originalFilename": "Supino.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Supino.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Supino.gif",
@@ -80916,19 +81092,102 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "padrao_movimento",
-          "id": "empurrar",
-          "label": "empurrar"
-        }
+        "supino inclinado",
+        "Smith",
+        "peitoral superior",
+        "barra guiada",
+        "tríceps"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0025"
+      "sourceExerciseId": "0025",
+      "mediaId": "media_bb7ae36dcd31aaf0b43b",
+      "canonicalNameEn": "Smith Machine Incline Bench Press",
+      "aliasesPtBr": [
+        "supino inclinado na máquina Smith",
+        "supino inclinado guiado"
+      ],
+      "description": "Supino em banco inclinado realizado com barra guiada no Smith. A trajetória fixa permite concentrar a extensão dos cotovelos e a adução horizontal do ombro, com maior participação da porção clavicular do peitoral quando comparado ao supino reto.",
+      "executionSteps": [
+        "Ajuste o banco inclinado no centro do Smith e posicione os olhos levemente atrás da barra travada.",
+        "Apoie pés no chão, retraia as escápulas e segure a barra um pouco mais aberta que os ombros.",
+        "Destrave a barra e desça-a controladamente em direção à parte alta do peito.",
+        "Mantenha cotovelos apontando em diagonal, sem abri-los totalmente para os lados.",
+        "Empurre a barra pelas palmas até estender os cotovelos sem perder a posição das escápulas.",
+        "Reengate as travas antes de ajustar o corpo ou a carga."
+      ],
+      "primaryMuscles": [
+        "porção clavicular do peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "tríceps braquial",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "máquina Smith",
+        "banco inclinado",
+        "barra guiada",
+        "anilhas"
+      ],
+      "bodyRegions": [
+        "peito",
+        "ombros",
+        "tríceps"
+      ],
+      "movementPattern": "empurrar inclinado bilateral",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado de costas em banco inclinado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "deixar os ombros avançarem na descida",
+        "rebater a barra no peito",
+        "arquear excessivamente a lombar",
+        "esquecer de engatar a barra ao terminar"
+      ],
+      "executionTips": [
+        "Mantenha as escápulas apoiadas durante toda a série.",
+        "Ajuste a inclinação de forma moderada para não transformar o movimento em desenvolvimento de ombros."
+      ],
+      "safetyNotes": "Confira as travas do Smith e a posição dos suportes antes de iniciar. Não use amplitude que cause dor no ombro ou perda do contato das costas com o banco.",
+      "confidence": "HIGH",
+      "visualIdentification": "Os frames mostram banco inclinado dentro do Smith, barra guiada descendo ao peito e subindo; peitoral superior, deltoides e tríceps estão destacados.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "supino inclinado na máquina Smith",
+        "supino inclinado guiado"
+      ],
+      "instructions": [
+        "Ajuste o banco inclinado no centro do Smith e posicione os olhos levemente atrás da barra travada.",
+        "Apoie pés no chão, retraia as escápulas e segure a barra um pouco mais aberta que os ombros.",
+        "Destrave a barra e desça-a controladamente em direção à parte alta do peito.",
+        "Mantenha cotovelos apontando em diagonal, sem abri-los totalmente para os lados.",
+        "Empurre a barra pelas palmas até estender os cotovelos sem perder a posição das escápulas.",
+        "Reengate as travas antes de ajustar o corpo ou a carga."
+      ],
+      "bodyRegion": [
+        "peito",
+        "ombros",
+        "tríceps"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "deixar os ombros avançarem na descida",
+        "rebater a barra no peito",
+        "arquear excessivamente a lombar",
+        "esquecer de engatar a barra ao terminar"
+      ]
     },
     {
       "id": "media_bc2c73213af27dcdfdef",
-      "namePtBr": "Crucifixo Com Halteres No Banco Reto",
+      "namePtBr": "Supino inclinado no Smith",
       "originalFilename": "Crucifixo com halteres no banco reto.gif",
       "relativePath": "gifs/peitoral/Crucifixo com halteres no banco reto.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/peitoral/Crucifixo%20com%20halteres%20no%20banco%20reto.gif",
@@ -80938,29 +81197,102 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "peito",
-          "label": "Peito"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "supino inclinado",
+        "Smith",
+        "peitoral superior",
+        "barra guiada",
+        "tríceps"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_bc2c73213af27dcdfdef",
+      "canonicalNameEn": "Smith Machine Incline Bench Press",
+      "aliasesPtBr": [
+        "supino inclinado na máquina Smith",
+        "supino inclinado guiado"
+      ],
+      "description": "Supino com barra guiada feito em banco inclinado dentro da máquina Smith. A barra percorre trilho vertical enquanto o praticante a abaixa à parte superior do tórax e a pressiona novamente, priorizando peitoral superior, deltoide anterior e tríceps.",
+      "executionSteps": [
+        "Posicione o banco inclinado no Smith e regule a altura dos ganchos antes de colocar carga.",
+        "Deite com os pés firmes, peito elevado e escápulas retraídas no encosto.",
+        "Segure a barra em pegada pronada um pouco mais larga que os ombros e destrave-a.",
+        "Desça a barra até a parte alta do peito com os cotovelos em trajetória diagonal.",
+        "Empurre a barra para cima até quase estender os cotovelos, sem perder o apoio das costas.",
+        "Ao acabar, gire a barra para travá-la nos ganchos do Smith."
+      ],
+      "primaryMuscles": [
+        "porção clavicular do peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "tríceps braquial",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "máquina Smith",
+        "banco inclinado",
+        "barra guiada",
+        "anilhas"
+      ],
+      "bodyRegions": [
+        "peito",
+        "ombros",
+        "tríceps"
+      ],
+      "movementPattern": "empurrar inclinado bilateral",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado de costas em banco inclinado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "perder a retração das escápulas",
+        "descer a barra rápido demais",
+        "deixar os cotovelos abrirem em excesso",
+        "terminar sem travar a barra"
+      ],
+      "executionTips": [
+        "Use a guia para estabilidade, mas preserve controle ativo dos ombros.",
+        "A altura do banco deve levar a barra ao peitoral alto, e não ao pescoço."
+      ],
+      "safetyNotes": "Teste o mecanismo de trava sem carga e use anilhas presas. Interrompa se houver dor aguda no ombro, punho ou peito.",
+      "confidence": "HIGH",
+      "visualIdentification": "Apesar do nome original mencionar crucifixo com halteres, o GIF mostra nitidamente uma barra com anilhas em trilhos de Smith e um supino em banco inclinado.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "supino inclinado na máquina Smith",
+        "supino inclinado guiado"
+      ],
+      "instructions": [
+        "Posicione o banco inclinado no Smith e regule a altura dos ganchos antes de colocar carga.",
+        "Deite com os pés firmes, peito elevado e escápulas retraídas no encosto.",
+        "Segure a barra em pegada pronada um pouco mais larga que os ombros e destrave-a.",
+        "Desça a barra até a parte alta do peito com os cotovelos em trajetória diagonal.",
+        "Empurre a barra para cima até quase estender os cotovelos, sem perder o apoio das costas.",
+        "Ao acabar, gire a barra para travá-la nos ganchos do Smith."
+      ],
+      "bodyRegion": [
+        "peito",
+        "ombros",
+        "tríceps"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "perder a retração das escápulas",
+        "descer a barra rápido demais",
+        "deixar os cotovelos abrirem em excesso",
+        "terminar sem travar a barra"
+      ]
     },
     {
       "id": "media_bc49881a64be554ff97a",
-      "namePtBr": "Esteira Inclinada",
+      "namePtBr": "Caminhada inclinada na esteira",
       "originalFilename": "Esteira inclinada.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Esteira inclinada.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Esteira%20inclinada.gif",
@@ -80969,14 +81301,105 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "matched_existing_exercise",
+      "tags": [
+        "caminhada",
+        "esteira",
+        "inclinação",
+        "cardio",
+        "glúteos",
+        "panturrilhas"
+      ],
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "3666"
+      "sourceExerciseId": "3666",
+      "mediaId": "media_bc49881a64be554ff97a",
+      "canonicalNameEn": "Incline Treadmill Walking",
+      "aliasesPtBr": [
+        "caminhada em esteira inclinada",
+        "esteira inclinada"
+      ],
+      "description": "Caminhada em esteira com a plataforma elevada, que aumenta a exigência de extensão de quadril e tornozelo em comparação à caminhada plana. É uma modalidade cardiovascular de baixo impacto relativo, com participação acentuada de glúteos, panturrilhas e quadríceps.",
+      "executionSteps": [
+        "Ajuste uma inclinação e uma velocidade adequadas antes de iniciar.",
+        "Suba na esteira com os pés nas laterais e comece a caminhar somente após a lona entrar em movimento.",
+        "Mantenha olhar à frente, tronco alto e braços em balanço natural, sem apoiar continuamente o peso nos corrimãos.",
+        "Pise de forma regular, levando o pé para trás até uma extensão confortável do quadril.",
+        "Regule velocidade e inclinação gradualmente, preservando uma passada controlada.",
+        "Para encerrar, reduza a velocidade antes de sair da lona."
+      ],
+      "primaryMuscles": [
+        "glúteo máximo",
+        "quadríceps",
+        "gastrocnêmio"
+      ],
+      "secondaryMuscles": [
+        "sóleo",
+        "isquiotibiais",
+        "flexores do quadril"
+      ],
+      "equipment": [
+        "esteira"
+      ],
+      "bodyRegions": [
+        "pernas",
+        "glúteos",
+        "cardiovascular"
+      ],
+      "movementPattern": "caminhada em subida",
+      "exerciseType": "cardiorrespiratório",
+      "difficulty": "iniciante",
+      "laterality": "bilateral alternado",
+      "position": "em pé na esteira",
+      "environments": [
+        "academia",
+        "casa"
+      ],
+      "commonErrors": [
+        "segurar os corrimãos para suportar o peso do corpo",
+        "aumentar inclinação e velocidade ao mesmo tempo de forma brusca",
+        "curvar o tronco para frente",
+        "pisar muito à frente do corpo"
+      ],
+      "executionTips": [
+        "Comece com inclinação pequena e aumente apenas se a passada continuar confortável.",
+        "O balanço dos braços ajuda a manter o ritmo sem sobrecarregar o pescoço."
+      ],
+      "safetyNotes": "Use o clipe de segurança quando disponível e não desça com a lona em velocidade alta. Reduza intensidade se houver tontura, dor no peito ou dor persistente em joelho, tornozelo ou panturrilha.",
+      "confidence": "HIGH",
+      "visualIdentification": "A animação mostra marcha contínua em esteira elevada, com destaque nos membros inferiores e glúteos.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "caminhada em esteira inclinada",
+        "esteira inclinada"
+      ],
+      "instructions": [
+        "Ajuste uma inclinação e uma velocidade adequadas antes de iniciar.",
+        "Suba na esteira com os pés nas laterais e comece a caminhar somente após a lona entrar em movimento.",
+        "Mantenha olhar à frente, tronco alto e braços em balanço natural, sem apoiar continuamente o peso nos corrimãos.",
+        "Pise de forma regular, levando o pé para trás até uma extensão confortável do quadril.",
+        "Regule velocidade e inclinação gradualmente, preservando uma passada controlada.",
+        "Para encerrar, reduza a velocidade antes de sair da lona."
+      ],
+      "bodyRegion": [
+        "pernas",
+        "glúteos",
+        "cardiovascular"
+      ],
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "segurar os corrimãos para suportar o peso do corpo",
+        "aumentar inclinação e velocidade ao mesmo tempo de forma brusca",
+        "curvar o tronco para frente",
+        "pisar muito à frente do corpo"
+      ]
     },
     {
       "id": "media_bc638321888854679e51",
-      "namePtBr": "Encolher De Ombros Inclinado",
+      "namePtBr": "Face pull na polia alta",
       "originalFilename": "Encolher de ombros inclinado.gif",
       "relativePath": "gifs/trapézio/Encolher de ombros inclinado.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/trap%C3%A9zio/Encolher%20de%20ombros%20inclinado.gif",
@@ -80985,14 +81408,104 @@
       "width": 1080,
       "height": 1080,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "face pull",
+        "polia alta",
+        "corda",
+        "deltoide posterior",
+        "manguito rotador",
+        "costas"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_bc638321888854679e51",
+      "canonicalNameEn": "Cable Face Pull",
+      "aliasesPtBr": [
+        "puxada para o rosto na polia",
+        "face pull com corda"
+      ],
+      "description": "Puxada para o rosto usando corda conectada à polia alta. Com o praticante de frente para a máquina, os cotovelos se abrem e as mãos aproximam-se do rosto enquanto os ombros realizam rotação externa, fortalecendo deltoide posterior, trapézio médio e musculatura do manguito.",
+      "executionSteps": [
+        "Ajuste uma corda na polia alta e fique de frente para a máquina, com um pé ligeiramente à frente.",
+        "Segure as pontas da corda e afaste-se até que o cabo fique tensionado com braços estendidos.",
+        "Mantenha peito alto e puxe a corda em direção ao rosto, abrindo os cotovelos para os lados.",
+        "Separe as pontas da corda no final, levando as mãos para perto das têmporas e girando os ombros para fora.",
+        "Faça uma breve pausa com as escápulas aproximadas e ombros longe das orelhas.",
+        "Estenda os braços devagar, sem deixar o tronco ser puxado pela carga."
+      ],
+      "primaryMuscles": [
+        "deltoide posterior",
+        "trapézio médio",
+        "infraespinal"
+      ],
+      "secondaryMuscles": [
+        "romboides",
+        "redondo menor",
+        "trapézio inferior"
+      ],
+      "equipment": [
+        "polia alta",
+        "corda"
+      ],
+      "bodyRegions": [
+        "ombros",
+        "costas",
+        "manguito rotador"
+      ],
+      "movementPattern": "puxar horizontal com rotação externa de ombro",
+      "exerciseType": "força e controle escapular",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "puxar a corda para o pescoço em vez do rosto",
+        "encolher os ombros",
+        "arquear a lombar para compensar",
+        "usar carga que impede abrir as mãos"
+      ],
+      "executionTips": [
+        "Priorize abrir a corda e organizar as escápulas, não apenas mover muito peso.",
+        "A resistência leve a moderada costuma permitir melhor rotação externa no fim do gesto."
+      ],
+      "safetyNotes": "Não force a rotação externa além da amplitude confortável. Pare se houver dor no ombro e mantenha o tronco estável para não sobrecarregar a lombar.",
+      "confidence": "HIGH",
+      "visualIdentification": "Os frames mostram uma corda em polia alta sendo puxada ao rosto, com cotovelos abertos e rotação externa; o destaque é posterior de ombro e costas altas.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "puxada para o rosto na polia",
+        "face pull com corda"
+      ],
+      "instructions": [
+        "Ajuste uma corda na polia alta e fique de frente para a máquina, com um pé ligeiramente à frente.",
+        "Segure as pontas da corda e afaste-se até que o cabo fique tensionado com braços estendidos.",
+        "Mantenha peito alto e puxe a corda em direção ao rosto, abrindo os cotovelos para os lados.",
+        "Separe as pontas da corda no final, levando as mãos para perto das têmporas e girando os ombros para fora.",
+        "Faça uma breve pausa com as escápulas aproximadas e ombros longe das orelhas.",
+        "Estenda os braços devagar, sem deixar o tronco ser puxado pela carga."
+      ],
+      "bodyRegion": [
+        "ombros",
+        "costas",
+        "manguito rotador"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "puxar a corda para o pescoço em vez do rosto",
+        "encolher os ombros",
+        "arquear a lombar para compensar",
+        "usar carga que impede abrir as mãos"
+      ]
     },
     {
       "id": "media_bcb760bafc66630578fc",
-      "namePtBr": "Sentado Chute Alternado",
+      "namePtBr": "Prancha frontal sobre os antebraços",
       "originalFilename": "Sentado flutter kick.gif",
       "relativePath": "gifs/abdominais/Sentado flutter kick.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/abdominais/Sentado%20flutter%20kick.gif",
@@ -81002,19 +81515,107 @@
       "height": 1080,
       "animated": false,
       "tags": [
-        {
-          "dimension": "status",
-          "id": "imagem_estatica",
-          "label": "Imagem estática — sem animação"
-        }
+        "prancha",
+        "core",
+        "abdômen",
+        "isométrico",
+        "peso corporal",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
+      "identificationStatus": "curated",
       "needsManualReview": true,
-      "sourceExerciseId": null
+      "sourceExerciseId": null,
+      "mediaId": "media_bcb760bafc66630578fc",
+      "canonicalNameEn": "Forearm Plank",
+      "aliasesPtBr": [
+        "prancha isométrica",
+        "prancha baixa"
+      ],
+      "description": "Prancha isométrica em apoio de antebraços e pontas dos pés, com o corpo alinhado como uma prancha. A resistência à extensão da lombar exige coativação do reto abdominal, transverso, oblíquos e estabilizadores dos ombros; por ser uma imagem estática, a postura é o elemento comprovável.",
+      "executionSteps": [
+        "Apoie os antebraços no solo, com cotovelos aproximadamente abaixo dos ombros.",
+        "Estenda as pernas e apoie as pontas dos pés, formando uma linha entre cabeça, tronco e calcanhares.",
+        "Contraia abdômen e glúteos para evitar que a lombar afunde.",
+        "Mantenha o pescoço neutro, olhando para o chão entre as mãos.",
+        "Respire de forma contínua e sustente a posição pelo tempo programado.",
+        "Encerre a série antes de perder o alinhamento corporal."
+      ],
+      "primaryMuscles": [
+        "reto abdominal",
+        "transverso do abdômen",
+        "oblíquos"
+      ],
+      "secondaryMuscles": [
+        "glúteo máximo",
+        "serrátil anterior",
+        "deltoide anterior"
+      ],
+      "equipment": [
+        "peso corporal",
+        "colchonete"
+      ],
+      "bodyRegions": [
+        "abdômen",
+        "core",
+        "ombros"
+      ],
+      "movementPattern": "estabilização isométrica anti-extensão",
+      "exerciseType": "fortalecimento do core",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "prono apoiado nos antebraços",
+      "environments": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "deixar o quadril cair",
+        "elevar excessivamente o quadril",
+        "empurrar os ombros em direção às orelhas",
+        "prender a respiração"
+      ],
+      "executionTips": [
+        "Pense em aproximar costelas e pelve para encontrar posição neutra.",
+        "Aumente o tempo somente quando o alinhamento permanecer constante."
+      ],
+      "safetyNotes": "Interrompa se houver dor aguda no ombro ou lombar. A prancha não deve ser mantida às custas de perda evidente de alinhamento.",
+      "confidence": "MEDIUM",
+      "visualIdentification": "O arquivo possui um único quadro e mostra apoio frontal sobre os antebraços, pernas estendidas e destaque abdominal; não há trajetória disponível para confirmar variações dinâmicas.",
+      "reviewRequired": true,
+      "profileComplete": true,
+      "aliases": [
+        "prancha isométrica",
+        "prancha baixa"
+      ],
+      "instructions": [
+        "Apoie os antebraços no solo, com cotovelos aproximadamente abaixo dos ombros.",
+        "Estenda as pernas e apoie as pontas dos pés, formando uma linha entre cabeça, tronco e calcanhares.",
+        "Contraia abdômen e glúteos para evitar que a lombar afunde.",
+        "Mantenha o pescoço neutro, olhando para o chão entre as mãos.",
+        "Respire de forma contínua e sustente a posição pelo tempo programado.",
+        "Encerre a série antes de perder o alinhamento corporal."
+      ],
+      "bodyRegion": [
+        "abdômen",
+        "core",
+        "ombros"
+      ],
+      "environment": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "deixar o quadril cair",
+        "elevar excessivamente o quadril",
+        "empurrar os ombros em direção às orelhas",
+        "prender a respiração"
+      ]
     },
     {
       "id": "media_bd09c2f221cb11bce08d",
-      "namePtBr": "Um Quarto Sentado",
+      "namePtBr": "Elevação de joelhos deitado na polia baixa",
       "originalFilename": "Um quarto sentado.gif",
       "relativePath": "gifs/abdominais/Um quarto sentado.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/abdominais/Um%20quarto%20sentado.gif",
@@ -81023,10 +81624,99 @@
       "width": 1080,
       "height": 1080,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
+      "tags": [
+        "abdominal",
+        "polia baixa",
+        "tornozeleira",
+        "elevação de joelhos",
+        "core"
+      ],
+      "identificationStatus": "curated",
       "needsManualReview": true,
-      "sourceExerciseId": null
+      "sourceExerciseId": null,
+      "mediaId": "media_bd09c2f221cb11bce08d",
+      "canonicalNameEn": "Lying Low Cable Knee Raise",
+      "aliasesPtBr": [
+        "abdominal reverso na polia com tornozeleira",
+        "joelhos ao peito na polia baixa"
+      ],
+      "description": "Exercício abdominal em decúbito dorsal com cabo baixo preso aos tornozelos. As pernas partem estendidas e os joelhos são trazidos em direção ao tronco, combinando flexão de quadril com controle de retroversão pélvica contra a tração contínua da polia.",
+      "executionSteps": [
+        "Prenda a tornozeleira ou a conexão do cabo baixo aos tornozelos e deite-se de costas de frente para a máquina.",
+        "Comece com pernas estendidas em direção à polia, mantendo braços no chão para estabilidade.",
+        "Flexione quadris e joelhos, trazendo-os em direção ao tórax sem puxar o pescoço.",
+        "No final, faça leve enrolamento da pelve se conseguir manter a lombar controlada.",
+        "Retorne as pernas lentamente em direção à polia, sem deixá-las cair ou perder a tensão do cabo.",
+        "Repita com carga moderada e movimento contínuo."
+      ],
+      "primaryMuscles": [
+        "reto abdominal",
+        "flexores do quadril"
+      ],
+      "secondaryMuscles": [
+        "oblíquos",
+        "transverso do abdômen",
+        "reto femoral"
+      ],
+      "equipment": [
+        "polia baixa",
+        "tornozeleira de cabo",
+        "colchonete"
+      ],
+      "bodyRegions": [
+        "abdômen",
+        "core",
+        "quadris"
+      ],
+      "movementPattern": "flexão bilateral de quadril e joelho em decúbito dorsal",
+      "exerciseType": "fortalecimento do core",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado de costas",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "usar impulso para trazer os joelhos",
+        "tirar a lombar do controle logo no início",
+        "deixar o cabo puxar as pernas de volta rapidamente",
+        "usar carga que altera a trajetória dos joelhos"
+      ],
+      "executionTips": [
+        "Regule a carga para que seja possível voltar devagar com as pernas.",
+        "Mantenha os joelhos juntos e a trajetória direcionada ao centro do tronco."
+      ],
+      "safetyNotes": "Verifique a fixação do cabo e das tornozeleiras antes da série. Reduza a amplitude se houver desconforto lombar ou na frente do quadril; não force o joelho contra o peito.",
+      "confidence": "MEDIUM",
+      "visualIdentification": "O GIF mostra praticante deitado com um cabo baixo conectado aos tornozelos, saindo de pernas estendidas para joelhos recolhidos junto ao tronco.",
+      "reviewRequired": true,
+      "profileComplete": true,
+      "aliases": [
+        "abdominal reverso na polia com tornozeleira",
+        "joelhos ao peito na polia baixa"
+      ],
+      "instructions": [
+        "Prenda a tornozeleira ou a conexão do cabo baixo aos tornozelos e deite-se de costas de frente para a máquina.",
+        "Comece com pernas estendidas em direção à polia, mantendo braços no chão para estabilidade.",
+        "Flexione quadris e joelhos, trazendo-os em direção ao tórax sem puxar o pescoço.",
+        "No final, faça leve enrolamento da pelve se conseguir manter a lombar controlada.",
+        "Retorne as pernas lentamente em direção à polia, sem deixá-las cair ou perder a tensão do cabo.",
+        "Repita com carga moderada e movimento contínuo."
+      ],
+      "bodyRegion": [
+        "abdômen",
+        "core",
+        "quadris"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "usar impulso para trazer os joelhos",
+        "tirar a lombar do controle logo no início",
+        "deixar o cabo puxar as pernas de volta rapidamente",
+        "usar carga que altera a trajetória dos joelhos"
+      ]
     },
     {
       "id": "media_bd387741514a5b94b4d6",
