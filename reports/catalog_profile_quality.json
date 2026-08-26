@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-26T00:38:18.534Z",
+  "generatedAt": "2026-08-26T00:40:34.633Z",
   "totalMedia": 1142,
-  "processed": 237,
-  "completeProfiles": 237,
-  "schemaValidProfiles": 237,
+  "processed": 253,
+  "completeProfiles": 253,
+  "schemaValidProfiles": 253,
   "incomplete": [],
   "confidence": {
-    "HIGH": 209,
-    "MEDIUM": 25,
+    "HIGH": 224,
+    "MEDIUM": 26,
     "LOW": 3
   },
   "invariants": {
     "processedPlusRemainingIdentification": 1142,
     "completeProfilesLteProcessed": true,
     "remainingEnrichment": 0,
-    "confidenceSum": 237,
-    "uniqueProcessedIds": 237
+    "confidenceSum": 253,
+    "uniqueProcessedIds": 253
   }
 }
