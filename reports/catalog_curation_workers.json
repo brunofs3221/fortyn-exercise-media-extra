@@ -1,6 +1,6 @@
 {
   "batchId": "033",
-  "status": "in_progress",
+  "status": "consolidated",
   "workers": [
     {
       "workerId": "batch033a",
@@ -15,7 +15,8 @@
         "media_a712fac72049bc39f8a2",
         "media_a73798a1a20546c94d6d",
         "media_a74a732d7be0d059f8c8"
-      ]
+      ],
+      "status": "consolidated"
     },
     {
       "workerId": "batch033b",
@@ -50,7 +51,7 @@
       "status": "consolidated"
     }
   ],
-  "consolidatedAt": "2026-08-26T11:04:21.386Z",
+  "consolidatedAt": "2026-08-26T11:05:26.313Z",
   "consolidatedMediaIds": [
     "media_a764e659f2e02a06009a",
     "media_a7672baa5e9273981864",
@@ -67,6 +68,14 @@
     "media_a9e664fa8a9e7c55247d",
     "media_a9eebdc43bbaa0da601e",
     "media_aa0581f2c69b74c0f40b",
-    "media_aa9c72c4f9529dbc641a"
+    "media_aa9c72c4f9529dbc641a",
+    "media_a639132cfeb9bf6b0eb4",
+    "media_a6863f94bc4e3e34b6cf",
+    "media_a686b59552c9b7b9ac3e",
+    "media_a6955b3d6b5ae7108c52",
+    "media_a6b1e1320ccf5029dae8",
+    "media_a712fac72049bc39f8a2",
+    "media_a73798a1a20546c94d6d",
+    "media_a74a732d7be0d059f8c8"
   ]
 }
