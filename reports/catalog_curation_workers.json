@@ -30,7 +30,8 @@
         "media_f45022d04b6f2ee24494",
         "media_f475382b956556a2bce3",
         "media_f4fd5ed2f1bded341148"
-      ]
+      ],
+      "status": "consolidated"
     },
     {
       "workerId": "batch047c",
@@ -47,5 +48,16 @@
         "media_f5fcc3ed6350b6cc6f96"
       ]
     }
+  ],
+  "consolidatedAt": "2026-08-26T12:10:04.414Z",
+  "consolidatedMediaIds": [
+    "media_f3521a52d7e97e142563",
+    "media_f36c497ac228ac596cdd",
+    "media_f382a374c92d1910752a",
+    "media_f39e6793b455e785a3f5",
+    "media_f43b9e2ba56dfe145497",
+    "media_f45022d04b6f2ee24494",
+    "media_f475382b956556a2bce3",
+    "media_f4fd5ed2f1bded341148"
   ]
 }
