@@ -56846,7 +56846,7 @@
     },
     {
       "id": "media_877fec69edcc64c77919",
-      "namePtBr": "EláStico Se Separar",
+      "namePtBr": "Abertura com elástico",
       "originalFilename": "Elástico se separar.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Elástico se separar.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/El%C3%A1stico%20se%20separar.gif",
@@ -56856,24 +56856,100 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "elastico_faixa",
-          "label": "elastico faixa"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "elástico",
+        "ombros",
+        "deltoide posterior",
+        "costas altas",
+        "aquecimento"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_877fec69edcc64c77919",
+      "canonicalNameEn": "Resistance Band Pull-Apart",
+      "aliasesPtBr": [
+        "pull-apart com elástico",
+        "abertura de ombros com faixa elástica"
+      ],
+      "description": "Exercício de abertura horizontal dos braços contra uma faixa elástica, feito em pé com os braços à frente. A ação de afastar as mãos enfatiza o deltoide posterior e os músculos que aproximam as escápulas, sendo uma variação simples para ativação dos ombros e das costas altas.",
+      "executionSteps": [
+        "Fique em pé e segure a faixa à frente do peito, com as mãos afastadas e os braços estendidos.",
+        "Organize as costelas e mantenha os ombros baixos, sem projetar a cabeça à frente.",
+        "Afaste as mãos lateralmente até a faixa se aproximar do peito, conduzindo o gesto pela abertura dos braços.",
+        "No fim, aproxime as escápulas sem dobrar excessivamente os cotovelos.",
+        "Retorne devagar à posição inicial, mantendo tensão na faixa durante todo o percurso."
+      ],
+      "primaryMuscles": [
+        "deltoide posterior",
+        "trapézio médio"
+      ],
+      "secondaryMuscles": [
+        "romboides",
+        "manguito rotador",
+        "deltoide lateral"
+      ],
+      "equipment": [
+        "faixa elástica"
+      ],
+      "bodyRegions": [
+        "ombros",
+        "costas"
+      ],
+      "movementPattern": "abdução horizontal do ombro",
+      "exerciseType": "fortalecimento e ativação",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "dobrar os cotovelos para encurtar o movimento",
+        "elevar os ombros em direção às orelhas",
+        "arquear a lombar para vencer uma faixa muito rígida",
+        "deixar a faixa retornar sem controle"
+      ],
+      "executionTips": [
+        "Escolha uma faixa que permita manter o pescoço relaxado.",
+        "Faça uma pausa curta com as escápulas aproximadas antes de voltar."
+      ],
+      "safetyNotes": "Use resistência leve no início e reduza a amplitude se houver dor no ombro. Evite compensar com a lombar ou com elevação dos ombros.",
+      "confidence": "HIGH",
+      "visualIdentification": "Os frames mostram uma faixa sustentada à frente do peito e a abertura controlada dos braços até as mãos se afastarem lateralmente.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "pull-apart com elástico",
+        "abertura de ombros com faixa elástica"
+      ],
+      "instructions": [
+        "Fique em pé e segure a faixa à frente do peito, com as mãos afastadas e os braços estendidos.",
+        "Organize as costelas e mantenha os ombros baixos, sem projetar a cabeça à frente.",
+        "Afaste as mãos lateralmente até a faixa se aproximar do peito, conduzindo o gesto pela abertura dos braços.",
+        "No fim, aproxime as escápulas sem dobrar excessivamente os cotovelos.",
+        "Retorne devagar à posição inicial, mantendo tensão na faixa durante todo o percurso."
+      ],
+      "bodyRegion": [
+        "ombros",
+        "costas"
+      ],
+      "environment": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "dobrar os cotovelos para encurtar o movimento",
+        "elevar os ombros em direção às orelhas",
+        "arquear a lombar para vencer uma faixa muito rígida",
+        "deixar a faixa retornar sem controle"
+      ]
     },
     {
       "id": "media_878d079fe5711f27657b",
-      "namePtBr": "Paralelas Para Peitoral Assistido",
+      "namePtBr": "Mergulho assistido para peitoral",
       "originalFilename": "Paralelas para peitoral assistido.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Paralelas para peitoral assistido.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Paralelas%20para%20peitoral%20assistido.gif",
@@ -56882,14 +56958,99 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "paralelas",
+        "máquina assistida",
+        "peitoral",
+        "tríceps",
+        "peso corporal"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_878d079fe5711f27657b",
+      "canonicalNameEn": "Assisted Chest Dip",
+      "aliasesPtBr": [
+        "paralela assistida para peito",
+        "mergulho na máquina assistida"
+      ],
+      "description": "Variação de mergulho realizada em máquina com plataforma de assistência para reduzir parte do peso corporal. A inclinação discreta do tronco e o controle dos cotovelos deslocam a ênfase para o peitoral maior, com participação importante do tríceps e do deltoide anterior.",
+      "executionSteps": [
+        "Ajuste a assistência da máquina e apoie os joelhos ou pés na plataforma indicada.",
+        "Segure as barras paralelas, estabilize os ombros e incline levemente o tronco à frente como no GIF.",
+        "Desça flexionando os cotovelos até uma amplitude confortável, sem perder o peito aberto.",
+        "Empurre as barras para estender os cotovelos e elevar o corpo, mantendo a leve inclinação anterior.",
+        "Pare antes de travar agressivamente os cotovelos e desça novamente de modo controlado."
+      ],
+      "primaryMuscles": [
+        "peitoral maior",
+        "tríceps"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "serrátil anterior",
+        "peitoral menor"
+      ],
+      "equipment": [
+        "máquina de barra paralela assistida"
+      ],
+      "bodyRegions": [
+        "peito",
+        "tríceps",
+        "ombros"
+      ],
+      "movementPattern": "empurrar vertical em cadeia fechada assistido",
+      "exerciseType": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "suspenso em máquina",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "descer além da mobilidade do ombro",
+        "elevar os ombros na fase de retorno",
+        "manter o tronco excessivamente vertical quando o objetivo é peitoral",
+        "usar impulso da plataforma"
+      ],
+      "executionTips": [
+        "Regule a assistência para controlar a descida sem perder a posição escapular.",
+        "Mantenha os punhos neutros e os cotovelos acompanhando a linha natural do corpo."
+      ],
+      "safetyNotes": "Ajuste a amplitude se houver desconforto anterior no ombro e aumente a assistência quando não conseguir controlar a descida. Não use balanço para sair do ponto baixo.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF apresenta máquina de paralelas assistidas, joelhos apoiados na plataforma e tronco levemente inclinado durante o mergulho.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "paralela assistida para peito",
+        "mergulho na máquina assistida"
+      ],
+      "instructions": [
+        "Ajuste a assistência da máquina e apoie os joelhos ou pés na plataforma indicada.",
+        "Segure as barras paralelas, estabilize os ombros e incline levemente o tronco à frente como no GIF.",
+        "Desça flexionando os cotovelos até uma amplitude confortável, sem perder o peito aberto.",
+        "Empurre as barras para estender os cotovelos e elevar o corpo, mantendo a leve inclinação anterior.",
+        "Pare antes de travar agressivamente os cotovelos e desça novamente de modo controlado."
+      ],
+      "bodyRegion": [
+        "peito",
+        "tríceps",
+        "ombros"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "descer além da mobilidade do ombro",
+        "elevar os ombros na fase de retorno",
+        "manter o tronco excessivamente vertical quando o objetivo é peitoral",
+        "usar impulso da plataforma"
+      ]
     },
     {
       "id": "media_879ec42b4f9065b8f003",
-      "namePtBr": "Onda De Pregador Com Halteres",
+      "namePtBr": "Rosca Scott unilateral com halter",
       "originalFilename": "Onda de pregador com halteres.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Onda de pregador com halteres.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Onda%20de%20pregador%20com%20halteres.gif",
@@ -56899,24 +57060,96 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "bíceps",
+        "halter",
+        "banco Scott",
+        "unilateral",
+        "rosca"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_879ec42b4f9065b8f003",
+      "canonicalNameEn": "Single-Arm Dumbbell Preacher Curl",
+      "aliasesPtBr": [
+        "rosca unilateral no banco Scott",
+        "rosca Scott com halter"
+      ],
+      "description": "Rosca de bíceps executada com um braço apoiado no banco Scott e um halter em pegada supinada. O apoio limita o balanço do ombro e concentra a flexão no cotovelo, favorecendo o trabalho do bíceps e do braquial de cada lado separadamente.",
+      "executionSteps": [
+        "Ajuste o banco Scott e apoie a axila e a parte posterior do braço no encosto.",
+        "Segure o halter com a palma voltada para cima e inicie com o cotovelo quase estendido.",
+        "Flexione o cotovelo levando o halter em direção ao ombro, sem tirar o braço do apoio.",
+        "Contraia o bíceps no topo sem deslocar o tronco ou projetar o ombro à frente.",
+        "Desça lentamente até próximo da extensão e complete as repetições antes de trocar de lado."
+      ],
+      "primaryMuscles": [
+        "bíceps braquial"
+      ],
+      "secondaryMuscles": [
+        "braquial",
+        "braquiorradial",
+        "flexores do antebraço"
+      ],
+      "equipment": [
+        "halter",
+        "banco Scott"
+      ],
+      "bodyRegions": [
+        "bíceps",
+        "antebraços"
+      ],
+      "movementPattern": "flexão unilateral do cotovelo",
+      "exerciseType": "força e isolamento",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "em pé apoiado no banco Scott",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "tirar o cotovelo do apoio",
+        "usar carga que obriga o tronco a balançar",
+        "estender o cotovelo de forma brusca no final",
+        "dobrar o punho para ajudar a subida"
+      ],
+      "executionTips": [
+        "Ajuste a altura do banco para que o ombro fique confortável e estável.",
+        "Controle principalmente a descida, que é a fase em que a carga tende a puxar o cotovelo."
+      ],
+      "safetyNotes": "Evite hiperestender o cotovelo no ponto baixo e reduza a carga se houver dor no tendão do bíceps, punho ou cotovelo.",
+      "confidence": "HIGH",
+      "visualIdentification": "O braço trabalha individualmente apoiado em banco Scott, com halter e flexão de cotovelo em pegada supinada.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "rosca unilateral no banco Scott",
+        "rosca Scott com halter"
+      ],
+      "instructions": [
+        "Ajuste o banco Scott e apoie a axila e a parte posterior do braço no encosto.",
+        "Segure o halter com a palma voltada para cima e inicie com o cotovelo quase estendido.",
+        "Flexione o cotovelo levando o halter em direção ao ombro, sem tirar o braço do apoio.",
+        "Contraia o bíceps no topo sem deslocar o tronco ou projetar o ombro à frente.",
+        "Desça lentamente até próximo da extensão e complete as repetições antes de trocar de lado."
+      ],
+      "bodyRegion": [
+        "bíceps",
+        "antebraços"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "tirar o cotovelo do apoio",
+        "usar carga que obriga o tronco a balançar",
+        "estender o cotovelo de forma brusca no final",
+        "dobrar o punho para ajudar a subida"
+      ]
     },
     {
       "id": "media_87c0179490ab6601fc3f",
-      "namePtBr": "Ardha Uttanasana Em Pé Meio Curvado Para Frente",
+      "namePtBr": "Meia flexão à frente em pé",
       "originalFilename": "Ardha uttanasana em pé meio curvado para frente.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Ardha uttanasana em pé meio curvado para frente.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Ardha%20uttanasana%20em%20p%C3%A9%20meio%20curvado%20para%20frente.gif",
@@ -56926,19 +57159,101 @@
       "height": 360,
       "animated": false,
       "tags": [
-        {
-          "dimension": "status",
-          "id": "imagem_estatica",
-          "label": "Imagem estática — sem animação"
-        }
+        "yoga",
+        "mobilidade",
+        "alongamento",
+        "posterior de coxa",
+        "quadril"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_87c0179490ab6601fc3f",
+      "canonicalNameEn": "Standing Half Forward Fold (Ardha Uttanasana)",
+      "aliasesPtBr": [
+        "Ardha Uttanasana",
+        "meia pinça em pé"
+      ],
+      "description": "Postura de mobilidade inspirada no yoga em que o tronco se inclina à frente a partir do quadril, mantendo as pernas estendidas dentro da amplitude disponível. No GIF, as mãos se aproximam dos pés e a posição enfatiza o alongamento da cadeia posterior sem exigir uma trajetória dinâmica ampla.",
+      "executionSteps": [
+        "Fique em pé com os pés firmes e distribua o peso entre calcanhar e antepé.",
+        "Alongue a coluna e inicie a inclinação pelo quadril, em vez de arredondar bruscamente as costas.",
+        "Desça o tronco levando as mãos em direção ao chão ou às pernas, conforme a mobilidade permitir.",
+        "Mantenha os joelhos levemente destravados se a cadeia posterior limitar a postura.",
+        "Respire de forma calma e saia da posição ativando o abdômen e retornando progressivamente."
+      ],
+      "primaryMuscles": [
+        "isquiotibiais",
+        "eretores da coluna"
+      ],
+      "secondaryMuscles": [
+        "glúteo máximo",
+        "panturrilhas"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegions": [
+        "posterior de coxa",
+        "lombar",
+        "quadril"
+      ],
+      "movementPattern": "flexão de quadril e mobilidade da cadeia posterior",
+      "exerciseType": "mobilidade e alongamento",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "forçar as mãos até o chão arredondando a lombar",
+        "travar os joelhos com desconforto",
+        "deslocar o peso todo para a ponta dos pés",
+        "prender a respiração"
+      ],
+      "executionTips": [
+        "Priorize comprimento na coluna e amplitude confortável, não a profundidade máxima.",
+        "Use joelhos suavemente flexionados para reduzir a tensão excessiva atrás das coxas."
+      ],
+      "safetyNotes": "Não force a flexão se houver dor aguda lombar, tontura ou irradiação para a perna. Suba lentamente para evitar sensação de queda de pressão.",
+      "confidence": "HIGH",
+      "visualIdentification": "A imagem mostra a postura estática de inclinação anterior em pé, com quadris flexionados e mãos próximas aos pés.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Ardha Uttanasana",
+        "meia pinça em pé"
+      ],
+      "instructions": [
+        "Fique em pé com os pés firmes e distribua o peso entre calcanhar e antepé.",
+        "Alongue a coluna e inicie a inclinação pelo quadril, em vez de arredondar bruscamente as costas.",
+        "Desça o tronco levando as mãos em direção ao chão ou às pernas, conforme a mobilidade permitir.",
+        "Mantenha os joelhos levemente destravados se a cadeia posterior limitar a postura.",
+        "Respire de forma calma e saia da posição ativando o abdômen e retornando progressivamente."
+      ],
+      "bodyRegion": [
+        "posterior de coxa",
+        "lombar",
+        "quadril"
+      ],
+      "environment": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "forçar as mãos até o chão arredondando a lombar",
+        "travar os joelhos com desconforto",
+        "deslocar o peso todo para a ponta dos pés",
+        "prender a respiração"
+      ]
     },
     {
       "id": "media_87fb4728f3663fc79442",
-      "namePtBr": "Side Hip Abduction",
+      "namePtBr": "Abdução de quadril na polia em pé",
       "originalFilename": "Side hip abduction.gif",
       "relativePath": "gifs/glúteos/Side hip abduction.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/gl%C3%BAteos/Side%20hip%20abduction.gif",
@@ -56948,19 +57263,97 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "pernas",
-          "label": "Pernas"
-        }
+        "glúteos",
+        "polia",
+        "tornozeleira",
+        "quadril",
+        "unilateral"
       ],
-      "identificationStatus": "pending_review",
+      "identificationStatus": "curated",
       "needsManualReview": true,
-      "sourceExerciseId": null
+      "sourceExerciseId": null,
+      "mediaId": "media_87fb4728f3663fc79442",
+      "canonicalNameEn": "Standing Cable Hip Abduction",
+      "aliasesPtBr": [
+        "abdução lateral de quadril na polia",
+        "elevação lateral de perna na polia"
+      ],
+      "description": "Exercício unilateral em que a perna ligada à polia se afasta lateralmente do corpo enquanto o praticante se apoia na estrutura. A resistência da polia desafia principalmente o glúteo médio, responsável por abduzir e estabilizar a pelve, sem transformar o gesto em uma extensão lombar.",
+      "executionSteps": [
+        "Prenda a tornozeleira à polia baixa e apoie as mãos na estrutura para estabilizar o tronco.",
+        "Fique em pé sobre a perna de apoio, mantendo o quadril alinhado e o joelho levemente flexionado.",
+        "Afaste lateralmente a perna conectada ao cabo, sem girar o tronco ou abrir excessivamente a pelve.",
+        "Faça uma breve pausa quando alcançar a amplitude controlada, mantendo o pé apontado à frente.",
+        "Retorne devagar até o cabo manter tensão e complete o lado antes de trocar a tornozeleira."
+      ],
+      "primaryMuscles": [
+        "glúteo médio",
+        "glúteo mínimo"
+      ],
+      "secondaryMuscles": [
+        "tensor da fáscia lata",
+        "glúteo máximo",
+        "adutores como estabilizadores"
+      ],
+      "equipment": [
+        "polia baixa",
+        "tornozeleira"
+      ],
+      "bodyRegions": [
+        "glúteos",
+        "quadril"
+      ],
+      "movementPattern": "abdução unilateral de quadril",
+      "exerciseType": "força e isolamento",
+      "difficulty": "iniciante",
+      "laterality": "unilateral",
+      "position": "em pé apoiado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "inclinar o tronco para o lado do cabo",
+        "rodar a pelve para aumentar a amplitude",
+        "balançar a perna em vez de controlá-la",
+        "deixar o joelho da perna de apoio colapsar para dentro"
+      ],
+      "executionTips": [
+        "Use carga moderada; o objetivo é mover o quadril sem deslocar o tronco.",
+        "Mantenha a ponta do pé próxima da posição neutra para não converter o gesto em rotação."
+      ],
+      "safetyNotes": "Segure um apoio firme e diminua a carga se a pelve não permanecer nivelada. Evite amplitude que gere dor lateral no quadril.",
+      "confidence": "MEDIUM",
+      "visualIdentification": "O GIF mostra praticante apoiada em uma estação de cabos com tornozeleira e uma perna realizando afastamento contra a polia; a perspectiva limita a leitura do plano exato.",
+      "reviewRequired": true,
+      "profileComplete": true,
+      "aliases": [
+        "abdução lateral de quadril na polia",
+        "elevação lateral de perna na polia"
+      ],
+      "instructions": [
+        "Prenda a tornozeleira à polia baixa e apoie as mãos na estrutura para estabilizar o tronco.",
+        "Fique em pé sobre a perna de apoio, mantendo o quadril alinhado e o joelho levemente flexionado.",
+        "Afaste lateralmente a perna conectada ao cabo, sem girar o tronco ou abrir excessivamente a pelve.",
+        "Faça uma breve pausa quando alcançar a amplitude controlada, mantendo o pé apontado à frente.",
+        "Retorne devagar até o cabo manter tensão e complete o lado antes de trocar a tornozeleira."
+      ],
+      "bodyRegion": [
+        "glúteos",
+        "quadril"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "inclinar o tronco para o lado do cabo",
+        "rodar a pelve para aumentar a amplitude",
+        "balançar a perna em vez de controlá-la",
+        "deixar o joelho da perna de apoio colapsar para dentro"
+      ]
     },
     {
       "id": "media_886ba7e6278a3f07a237",
-      "namePtBr": "ElevaçãO Frontal Com Barra",
+      "namePtBr": "Elevação frontal com barra",
       "originalFilename": "Elevação frontal com barra.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Elevação frontal com barra.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Eleva%C3%A7%C3%A3o%20frontal%20com%20barra.gif",
@@ -56970,19 +57363,98 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "barra_reta",
-          "label": "barra reta"
-        }
+        "ombros",
+        "deltoide anterior",
+        "barra",
+        "elevação frontal"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0041"
+      "sourceExerciseId": "0041",
+      "mediaId": "media_886ba7e6278a3f07a237",
+      "canonicalNameEn": "Barbell Front Raise",
+      "aliasesPtBr": [
+        "elevação frontal na barra",
+        "front raise com barra"
+      ],
+      "description": "Elevação dos braços à frente do corpo segurando uma barra, realizada em pé com o tronco estável. A flexão do ombro leva a barra até aproximadamente a linha dos ombros e enfatiza o deltoide anterior, enquanto o peitoral superior e o core auxiliam no controle da carga.",
+      "executionSteps": [
+        "Fique em pé com os pés firmes e segure a barra à frente das coxas com as mãos na largura confortável.",
+        "Mantenha as costelas organizadas, joelhos soltos e os cotovelos levemente flexionados.",
+        "Eleve a barra à frente do corpo até a altura dos ombros, sem usar impulso das pernas.",
+        "Faça uma pausa breve no topo com os ombros afastados das orelhas.",
+        "Desça a barra de forma lenta até as coxas e repita mantendo o tronco imóvel."
+      ],
+      "primaryMuscles": [
+        "deltoide anterior"
+      ],
+      "secondaryMuscles": [
+        "peitoral maior porção clavicular",
+        "serrátil anterior",
+        "deltoide lateral",
+        "core"
+      ],
+      "equipment": [
+        "barra",
+        "anilhas"
+      ],
+      "bodyRegions": [
+        "ombros",
+        "peito"
+      ],
+      "movementPattern": "flexão bilateral do ombro",
+      "exerciseType": "força e isolamento",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "academia",
+        "casa"
+      ],
+      "commonErrors": [
+        "balançar o quadril ou usar impulso das pernas",
+        "elevar a barra acima da amplitude confortável",
+        "encolher os ombros",
+        "arquear a lombar ao subir"
+      ],
+      "executionTips": [
+        "Prefira carga que permita uma subida sem balanço corporal.",
+        "Expire durante a elevação e mantenha a barra próxima do corpo na descida."
+      ],
+      "safetyNotes": "Evite subir além do ponto em que o ombro permanece confortável. Reduza a carga se houver compensação lombar ou dor anterior no ombro.",
+      "confidence": "HIGH",
+      "visualIdentification": "Os frames mostram uma barra carregada saindo das coxas e sendo elevada à frente até a altura dos ombros.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "elevação frontal na barra",
+        "front raise com barra"
+      ],
+      "instructions": [
+        "Fique em pé com os pés firmes e segure a barra à frente das coxas com as mãos na largura confortável.",
+        "Mantenha as costelas organizadas, joelhos soltos e os cotovelos levemente flexionados.",
+        "Eleve a barra à frente do corpo até a altura dos ombros, sem usar impulso das pernas.",
+        "Faça uma pausa breve no topo com os ombros afastados das orelhas.",
+        "Desça a barra de forma lenta até as coxas e repita mantendo o tronco imóvel."
+      ],
+      "bodyRegion": [
+        "ombros",
+        "peito"
+      ],
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "balançar o quadril ou usar impulso das pernas",
+        "elevar a barra acima da amplitude confortável",
+        "encolher os ombros",
+        "arquear a lombar ao subir"
+      ]
     },
     {
       "id": "media_88705ad1ef0e1ab140ba",
-      "namePtBr": "Remada Invertida",
+      "namePtBr": "Remada invertida na barra",
       "originalFilename": "Remada invertida.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Remada invertida.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Remada%20invertida.gif",
@@ -56992,19 +57464,107 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "padrao_movimento",
-          "id": "remada",
-          "label": "remada"
-        }
+        "costas",
+        "peso corporal",
+        "remada",
+        "barra",
+        "bíceps"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0499"
+      "sourceExerciseId": "0499",
+      "mediaId": "media_88705ad1ef0e1ab140ba",
+      "canonicalNameEn": "Inverted Row",
+      "aliasesPtBr": [
+        "remada australiana",
+        "barra fixa horizontal",
+        "remada invertida no smith"
+      ],
+      "description": "Remada com o corpo inclinado sob uma barra fixa em rack ou smith, mantendo calcanhares no chão e o tronco em linha. O praticante puxa o peito em direção à barra por meio da retração escapular e flexão dos cotovelos, treinando costas e bíceps com o peso corporal.",
+      "executionSteps": [
+        "Posicione a barra em uma altura segura e deite-se abaixo dela, segurando-a com as mãos um pouco mais abertas que os ombros.",
+        "Estenda as pernas à frente e forme uma linha entre cabeça, tronco e quadril, com os calcanhares apoiados.",
+        "Comece puxando as escápulas para trás e então flexione os cotovelos para levar o peito à barra.",
+        "Pare quando o peito se aproximar da barra, sem projetar o pescoço para frente.",
+        "Estenda os braços de maneira controlada sem deixar o quadril cair antes da próxima repetição."
+      ],
+      "primaryMuscles": [
+        "latíssimo do dorso",
+        "trapézio médio",
+        "romboides"
+      ],
+      "secondaryMuscles": [
+        "bíceps braquial",
+        "deltoide posterior",
+        "eretores da coluna",
+        "abdômen"
+      ],
+      "equipment": [
+        "barra fixa baixa",
+        "rack ou smith"
+      ],
+      "bodyRegions": [
+        "costas",
+        "bíceps",
+        "core"
+      ],
+      "movementPattern": "puxar horizontal em cadeia fechada",
+      "exerciseType": "força com peso corporal",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "suspenso inclinado",
+      "environments": [
+        "academia",
+        "casa com barra segura",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "deixar o quadril cair",
+        "puxar somente com os braços sem organizar as escápulas",
+        "encolher os ombros",
+        "usar impulso para encostar na barra"
+      ],
+      "executionTips": [
+        "Abaixe a barra ou afaste os pés para tornar o corpo mais horizontal e aumentar a dificuldade.",
+        "Mantenha o peito como referência para a barra, não o queixo."
+      ],
+      "safetyNotes": "Verifique se a barra e o rack estão travados antes de usar. Pare se o ombro apresentar dor durante a puxada ou se não conseguir manter o tronco alinhado.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra o praticante sob uma barra baixa, com corpo rígido e calcanhares no chão, puxando o peito horizontalmente em direção à barra.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "remada australiana",
+        "barra fixa horizontal",
+        "remada invertida no smith"
+      ],
+      "instructions": [
+        "Posicione a barra em uma altura segura e deite-se abaixo dela, segurando-a com as mãos um pouco mais abertas que os ombros.",
+        "Estenda as pernas à frente e forme uma linha entre cabeça, tronco e quadril, com os calcanhares apoiados.",
+        "Comece puxando as escápulas para trás e então flexione os cotovelos para levar o peito à barra.",
+        "Pare quando o peito se aproximar da barra, sem projetar o pescoço para frente.",
+        "Estenda os braços de maneira controlada sem deixar o quadril cair antes da próxima repetição."
+      ],
+      "bodyRegion": [
+        "costas",
+        "bíceps",
+        "core"
+      ],
+      "environment": [
+        "academia",
+        "casa com barra segura",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "deixar o quadril cair",
+        "puxar somente com os braços sem organizar as escápulas",
+        "encolher os ombros",
+        "usar impulso para encostar na barra"
+      ]
     },
     {
       "id": "media_889ffa4d623628a52cf7",
-      "namePtBr": "Na Polia AvançO",
+      "namePtBr": "Avanço na polia baixa",
       "originalFilename": "Na polia avanço.gif",
       "relativePath": "gifs/perna/Na polia avanço.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/perna/Na%20polia%20avan%C3%A7o.gif",
@@ -57014,25 +57574,97 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "pernas",
-          "label": "Pernas"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "avanco",
-          "label": "avanco"
-        }
+        "pernas",
+        "glúteos",
+        "polia",
+        "avanço",
+        "afundo",
+        "unilateral"
       ],
-      "identificationStatus": "pending_review",
+      "identificationStatus": "curated",
       "needsManualReview": true,
-      "sourceExerciseId": null
+      "sourceExerciseId": null,
+      "mediaId": "media_889ffa4d623628a52cf7",
+      "canonicalNameEn": "Cable Forward Lunge",
+      "aliasesPtBr": [
+        "afundo na polia",
+        "passada na polia baixa"
+      ],
+      "description": "Variação de avanço executada em pé com resistência de cabos baixa e deslocamento de uma perna à frente. A passada flexiona quadril e joelho da perna anterior enquanto a perna posterior acompanha o movimento; o cabo adiciona demanda de estabilidade ao tronco e à pelve.",
+      "executionSteps": [
+        "Ajuste as manoplas na posição baixa e fique em pé, segurando-as junto às laterais do corpo como no GIF.",
+        "Estabilize o abdômen e dê um passo à frente com a perna escolhida, mantendo o pé alinhado ao joelho.",
+        "Desça até os dois joelhos flexionarem de forma confortável, sem permitir que o joelho da frente colapse para dentro.",
+        "Empurre o chão com o pé da frente para retornar à posição inicial, controlando a tração dos cabos.",
+        "Complete as repetições de um lado e repita com a outra perna."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "glúteo médio",
+        "panturrilhas",
+        "core"
+      ],
+      "equipment": [
+        "polia baixa",
+        "duas manoplas"
+      ],
+      "bodyRegions": [
+        "pernas",
+        "glúteos",
+        "core"
+      ],
+      "movementPattern": "avanço unilateral com resistência de cabo",
+      "exerciseType": "força funcional",
+      "difficulty": "intermediário",
+      "laterality": "unilateral alternado",
+      "position": "em pé",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "dar um passo curto que leva o joelho muito à frente",
+        "deixar o joelho da frente cair para dentro",
+        "inclinar o tronco para compensar a tração do cabo",
+        "empurrar o retorno principalmente com a ponta do pé"
+      ],
+      "executionTips": [
+        "Ajuste o comprimento do passo para que o joelho dianteiro acompanhe a direção do segundo dedo do pé.",
+        "Use carga que permita controlar o cabo tanto no avanço quanto no retorno."
+      ],
+      "safetyNotes": "Mantenha distância suficiente da estação para que os cabos não puxem o tronco. Reduza amplitude ou carga se houver dor no joelho, quadril ou perda de equilíbrio.",
+      "confidence": "MEDIUM",
+      "visualIdentification": "Os frames mostram uma passada à frente segurando duas manoplas conectadas a cabos baixos; o ângulo não permite confirmar com precisão se a passada é fixa ou alternada.",
+      "reviewRequired": true,
+      "profileComplete": true,
+      "aliases": [
+        "afundo na polia",
+        "passada na polia baixa"
+      ],
+      "instructions": [
+        "Ajuste as manoplas na posição baixa e fique em pé, segurando-as junto às laterais do corpo como no GIF.",
+        "Estabilize o abdômen e dê um passo à frente com a perna escolhida, mantendo o pé alinhado ao joelho.",
+        "Desça até os dois joelhos flexionarem de forma confortável, sem permitir que o joelho da frente colapse para dentro.",
+        "Empurre o chão com o pé da frente para retornar à posição inicial, controlando a tração dos cabos.",
+        "Complete as repetições de um lado e repita com a outra perna."
+      ],
+      "bodyRegion": [
+        "pernas",
+        "glúteos",
+        "core"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "dar um passo curto que leva o joelho muito à frente",
+        "deixar o joelho da frente cair para dentro",
+        "inclinar o tronco para compensar a tração do cabo",
+        "empurrar o retorno principalmente com a ponta do pé"
+      ]
     },
     {
       "id": "media_88efb7bb112048385f79",
