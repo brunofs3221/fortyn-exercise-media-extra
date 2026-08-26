@@ -18587,7 +18587,7 @@
     },
     {
       "id": "media_324bf44d30054cc40b21",
-      "namePtBr": "Eka Pada Setu Bandha Sarvangasana",
+      "namePtBr": "Ponte unilateral",
       "originalFilename": "Eka pada setu bandha sarvangasana.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Eka pada setu bandha sarvangasana.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Eka%20pada%20setu%20bandha%20sarvangasana.gif",
@@ -18597,29 +18597,114 @@
       "height": 360,
       "animated": false,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "elastico_faixa",
-          "label": "elastico faixa"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        },
-        {
-          "dimension": "status",
-          "id": "imagem_estatica",
-          "label": "Imagem estática — sem animação"
-        }
+        "peso corporal",
+        "ponte unilateral",
+        "elevação pélvica",
+        "glúteos",
+        "core",
+        "ioga",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_324bf44d30054cc40b21",
+      "canonicalNameEn": "One-Legged Bridge Pose (Eka Pada Setu Bandha Sarvangasana)",
+      "aliasesPtBr": [
+        "Ponte com uma perna elevada",
+        "Eka Pada Setu Bandha Sarvangasana",
+        "Elevação pélvica unilateral"
+      ],
+      "description": "Variação unilateral da postura da ponte realizada deitada, com um pé apoiado, quadril elevado e a outra perna estendida para cima. A necessidade de manter a pelve nivelada transfere a maior parte da extensão de quadril ao glúteo da perna de apoio e adiciona controle anti-rotação ao tronco.",
+      "executionSteps": [
+        "Deite-se de costas com joelhos flexionados, pés apoiados e braços ao lado do corpo.",
+        "Eleve o quadril até formar uma linha confortável entre ombros, quadril e joelho da perna de apoio.",
+        "Estabilize a pelve e estenda uma perna em direção ao teto, sem deixar o quadril cair ou girar.",
+        "Sustente a posição ou desça e eleve o quadril com controle, conforme a animação.",
+        "Retorne o pé ao solo e repita do outro lado mantendo o pescoço relaxado."
+      ],
+      "primaryMuscles": [
+        "glúteo máximo",
+        "isquiotibiais"
+      ],
+      "secondaryMuscles": [
+        "reto abdominal",
+        "oblíquos",
+        "eretores da espinha",
+        "quadríceps"
+      ],
+      "equipment": [
+        "peso corporal",
+        "tapete de exercício (opcional)"
+      ],
+      "bodyRegions": [
+        "glúteos",
+        "posteriores de coxa",
+        "core"
+      ],
+      "movementPattern": "extensão unilateral de quadril",
+      "type": "mobilidade e força",
+      "difficulty": "intermediário",
+      "laterality": "unilateral alternado",
+      "position": "deitado de costas",
+      "environments": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "deixar a pelve rodar ou cair para o lado",
+        "hiperestender a lombar no topo",
+        "empurrar apenas pela ponta do pé",
+        "elevar a perna antes de estabilizar o quadril"
+      ],
+      "executionTips": [
+        "Pressione o calcanhar da perna de apoio e mantenha as costelas organizadas.",
+        "Priorize a pelve nivelada; a altura da perna elevada é secundária."
+      ],
+      "safetyNotes": "Use amplitude confortável para quadril e lombar. Reduza a progressão para uma ponte bilateral se não conseguir manter a pelve estável ou se houver dor aguda.",
+      "confidence": "HIGH",
+      "visualVerification": "O quadro mostra ponte supina com um pé apoiado, quadril elevado e a perna oposta vertical, configuração típica de Eka Pada Setu Bandha.",
+      "sources": [
+        "https://sarvayoga.in/yoga-poses/eka-pada-setu-bandha-sarvangasana",
+        "https://www.pocketyoga.com/pose/BridgeLegUp"
+      ],
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Ponte com uma perna elevada",
+        "Eka Pada Setu Bandha Sarvangasana",
+        "Elevação pélvica unilateral"
+      ],
+      "instructions": [
+        "Deite-se de costas com joelhos flexionados, pés apoiados e braços ao lado do corpo.",
+        "Eleve o quadril até formar uma linha confortável entre ombros, quadril e joelho da perna de apoio.",
+        "Estabilize a pelve e estenda uma perna em direção ao teto, sem deixar o quadril cair ou girar.",
+        "Sustente a posição ou desça e eleve o quadril com controle, conforme a animação.",
+        "Retorne o pé ao solo e repita do outro lado mantendo o pescoço relaxado."
+      ],
+      "bodyRegion": [
+        "glúteos",
+        "posteriores de coxa",
+        "core"
+      ],
+      "exerciseType": "mobilidade e força",
+      "environment": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "deixar a pelve rodar ou cair para o lado",
+        "hiperestender a lombar no topo",
+        "empurrar apenas pela ponta do pé",
+        "elevar a perna antes de estabilizar o quadril"
+      ],
+      "visualIdentification": "O quadro mostra ponte supina com um pé apoiado, quadril elevado e a perna oposta vertical, configuração típica de Eka Pada Setu Bandha."
     },
     {
       "id": "media_326320dc04f739a6c90f",
-      "namePtBr": "Agachamento Havaiano",
+      "namePtBr": "Agachamento havaiano",
       "originalFilename": "Agachamento havaiano.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Agachamento havaiano.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Agachamento%20havaiano.gif",
@@ -18629,19 +18714,111 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "padrao_movimento",
-          "id": "agachamento",
-          "label": "agachamento"
-        }
+        "peso corporal",
+        "agachamento havaiano",
+        "unilateral",
+        "pernas",
+        "glúteos",
+        "equilíbrio",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_326320dc04f739a6c90f",
+      "canonicalNameEn": "Hawaiian Squat",
+      "aliasesPtBr": [
+        "Agachamento unilateral havaiano",
+        "Hawaiian single-leg squat"
+      ],
+      "description": "Agachamento unilateral de peso corporal em que a perna livre permanece dobrada e cruzada atrás da perna de apoio durante a descida. A base estreita e assimétrica demanda controle do joelho, quadril e tornozelo, com predominância de quadríceps e glúteos da perna que sustenta o corpo.",
+      "executionSteps": [
+        "Fique em pé sobre uma perna e estenda os braços à frente para ajudar no equilíbrio.",
+        "Flexione a perna livre e mantenha-a cruzada atrás do membro de apoio, sem apoiar o pé no solo.",
+        "Leve o quadril para baixo e para trás, flexionando joelho e quadril da perna de apoio.",
+        "Desça somente até a amplitude em que o joelho continua alinhado aos dedos do pé.",
+        "Empurre o solo com o pé de apoio para voltar à posição ereta e repita antes de trocar o lado."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "glúteo médio",
+        "adutores do quadril",
+        "panturrilhas",
+        "reto abdominal"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegions": [
+        "coxas",
+        "glúteos",
+        "core"
+      ],
+      "movementPattern": "agachamento unilateral",
+      "type": "força e equilíbrio",
+      "difficulty": "intermediário",
+      "laterality": "unilateral alternado",
+      "position": "em pé",
+      "environments": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "deixar o joelho da perna de apoio cair para dentro",
+        "perder o arco do pé",
+        "usar impulso para subir",
+        "descer além do controle disponível"
+      ],
+      "executionTips": [
+        "Mantenha o pé inteiro em contato com o chão e o tronco levemente inclinado de forma natural.",
+        "Use uma barra ou parede como apoio leve durante o aprendizado, se necessário."
+      ],
+      "safetyNotes": "Exige boa estabilidade de joelho e tornozelo. Comece com amplitude reduzida e apoio externo se a técnica não puder ser mantida; interrompa se houver dor articular.",
+      "confidence": "HIGH",
+      "visualVerification": "A animação mostra descida e subida sobre uma única perna, com a outra dobrada e cruzada atrás, sem equipamento, condizente com o agachamento havaiano.",
+      "sources": [
+        "https://calisteniapp.com/pt/exercises/agachamento_havaiano/EX095",
+        "https://fitwill.app/pt/exercise/3365/hawaian-squat/"
+      ],
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Agachamento unilateral havaiano",
+        "Hawaiian single-leg squat"
+      ],
+      "instructions": [
+        "Fique em pé sobre uma perna e estenda os braços à frente para ajudar no equilíbrio.",
+        "Flexione a perna livre e mantenha-a cruzada atrás do membro de apoio, sem apoiar o pé no solo.",
+        "Leve o quadril para baixo e para trás, flexionando joelho e quadril da perna de apoio.",
+        "Desça somente até a amplitude em que o joelho continua alinhado aos dedos do pé.",
+        "Empurre o solo com o pé de apoio para voltar à posição ereta e repita antes de trocar o lado."
+      ],
+      "bodyRegion": [
+        "coxas",
+        "glúteos",
+        "core"
+      ],
+      "exerciseType": "força e equilíbrio",
+      "environment": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "deixar o joelho da perna de apoio cair para dentro",
+        "perder o arco do pé",
+        "usar impulso para subir",
+        "descer além do controle disponível"
+      ],
+      "visualIdentification": "A animação mostra descida e subida sobre uma única perna, com a outra dobrada e cruzada atrás, sem equipamento, condizente com o agachamento havaiano."
     },
     {
       "id": "media_32aaa7e1c2b18c5be3e0",
-      "namePtBr": "Na Polia Preacher Rosca",
+      "namePtBr": "Rosca bayesiana unilateral na polia",
       "originalFilename": "Na polia preacher rosca.gif",
       "relativePath": "gifs/biceps/Na polia preacher rosca.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/biceps/Na%20polia%20preacher%20rosca.gif",
@@ -18651,29 +18828,104 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "bracos",
-          "label": "Bracos"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "flexao_cotovelo",
-          "label": "flexao cotovelo"
-        }
+        "polia",
+        "cabo",
+        "bíceps",
+        "rosca bayesiana",
+        "unilateral",
+        "polia baixa",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_32aaa7e1c2b18c5be3e0",
+      "canonicalNameEn": "Single-Arm Bayesian Cable Curl",
+      "aliasesPtBr": [
+        "Rosca unilateral na polia baixa atrás do corpo",
+        "Rosca bayesiana"
+      ],
+      "description": "Rosca unilateral feita de costas para uma polia baixa, com o braço iniciado atrás do tronco. Essa posição mantém o bíceps alongado no início da repetição e permite flexionar o cotovelo contra resistência contínua do cabo sem usar impulso do corpo.",
+      "executionSteps": [
+        "Ajuste uma manopla na polia baixa e fique de costas para a torre, segurando-a com uma mão.",
+        "Dê um passo à frente para que o cabo mantenha tensão e deixe o braço de trabalho ligeiramente atrás do tronco.",
+        "Mantenha o ombro estável e flexione o cotovelo, trazendo a mão em direção ao ombro.",
+        "Faça uma breve contração sem avançar o cotovelo nem girar o tronco.",
+        "Estenda o cotovelo lentamente até o braço voltar à posição alongada atrás do corpo; então troque o lado."
+      ],
+      "primaryMuscles": [
+        "bíceps braquial"
+      ],
+      "secondaryMuscles": [
+        "braquial",
+        "braquiorradial",
+        "flexores do punho"
+      ],
+      "equipment": [
+        "cabo/polia baixa",
+        "manopla"
+      ],
+      "bodyRegions": [
+        "bíceps",
+        "antebraços"
+      ],
+      "movementPattern": "flexão unilateral de cotovelo",
+      "type": "força",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "deixar o cotovelo viajar para a frente",
+        "rodar o tronco para concluir a repetição",
+        "perder a tensão do cabo no início",
+        "usar carga que impede a extensão controlada"
+      ],
+      "executionTips": [
+        "Mantenha o ombro baixo e o braço ligeiramente atrás do corpo durante toda a série.",
+        "Controle a volta, pois a posição alongada aumenta a exigência sobre o bíceps."
+      ],
+      "safetyNotes": "Ajuste a carga progressivamente e não force o alongamento do ombro. Mantenha o punho neutro e reduza a amplitude se houver desconforto no cotovelo ou ombro.",
+      "confidence": "HIGH",
+      "visualVerification": "O praticante está de lado para a câmera, de costas para uma polia baixa; o cabo vem de trás e o cotovelo flexiona com o braço posicionado atrás do tronco.",
+      "sources": [
+        "https://www.strengthlog.com/bayesian-cable-curl/",
+        "https://fitwill.app/pt-br/exercise/"
+      ],
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Rosca unilateral na polia baixa atrás do corpo",
+        "Rosca bayesiana"
+      ],
+      "instructions": [
+        "Ajuste uma manopla na polia baixa e fique de costas para a torre, segurando-a com uma mão.",
+        "Dê um passo à frente para que o cabo mantenha tensão e deixe o braço de trabalho ligeiramente atrás do tronco.",
+        "Mantenha o ombro estável e flexione o cotovelo, trazendo a mão em direção ao ombro.",
+        "Faça uma breve contração sem avançar o cotovelo nem girar o tronco.",
+        "Estenda o cotovelo lentamente até o braço voltar à posição alongada atrás do corpo; então troque o lado."
+      ],
+      "bodyRegion": [
+        "bíceps",
+        "antebraços"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "deixar o cotovelo viajar para a frente",
+        "rodar o tronco para concluir a repetição",
+        "perder a tensão do cabo no início",
+        "usar carga que impede a extensão controlada"
+      ],
+      "visualIdentification": "O praticante está de lado para a câmera, de costas para uma polia baixa; o cabo vem de trás e o cotovelo flexiona com o braço posicionado atrás do tronco."
     },
     {
       "id": "media_32e0b42a8b5af9fb1c21",
-      "namePtBr": "MúSculo Para Cima",
+      "namePtBr": "Muscle-up na barra",
       "originalFilename": "Músculo para cima.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Músculo para cima.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/M%C3%BAsculo%20para%20cima.gif",
@@ -18682,14 +18934,117 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "barra fixa",
+        "calistenia",
+        "muscle-up",
+        "costas",
+        "peito",
+        "tríceps",
+        "avançado"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_32e0b42a8b5af9fb1c21",
+      "canonicalNameEn": "Bar Muscle-Up",
+      "aliasesPtBr": [
+        "Subida na barra",
+        "Muscle up"
+      ],
+      "description": "Movimento avançado de calistenia que une uma puxada explosiva à transição dos punhos sobre a barra e a um mergulho final. O corpo sai da suspensão, sobe com o peito acima da barra e termina com os cotovelos estendidos em apoio, exigindo coordenação, força de puxada e pressão vertical.",
+      "executionSteps": [
+        "Segure a barra alta com pegada pronada firme e comece em suspensão ativa.",
+        "Gere uma puxada forte, levando o peito em direção à barra e mantendo o core rígido.",
+        "Quando o tronco alcançar a altura da barra, incline o peito à frente e gire os punhos para realizar a transição.",
+        "Apoie-se acima da barra e estenda os cotovelos como em um mergulho.",
+        "Desça com controle para a suspensão, sem perder o controle escapular."
+      ],
+      "primaryMuscles": [
+        "latíssimo do dorso",
+        "tríceps braquial",
+        "peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "bíceps braquial",
+        "deltoide anterior",
+        "trapézio inferior",
+        "reto abdominal"
+      ],
+      "equipment": [
+        "barra fixa"
+      ],
+      "bodyRegions": [
+        "costas",
+        "peito",
+        "ombros",
+        "tríceps",
+        "core"
+      ],
+      "movementPattern": "puxar e empurrar vertical com transição",
+      "type": "força e habilidade",
+      "difficulty": "avançado",
+      "laterality": "bilateral",
+      "position": "suspenso na barra",
+      "environments": [
+        "casa",
+        "academia",
+        "parque"
+      ],
+      "commonErrors": [
+        "tentar a transição sem altura de puxada suficiente",
+        "deixar os ombros perderem estabilidade na suspensão",
+        "bater o peito na barra sem passar os punhos",
+        "usar balanço excessivo sem controle"
+      ],
+      "executionTips": [
+        "Domine barra fixa explosiva e mergulho na barra antes de integrar o movimento.",
+        "Pense em puxar a barra para o peito e depois levar o peito sobre a barra."
+      ],
+      "safetyNotes": "É uma habilidade avançada com risco de queda e sobrecarga em ombros, cotovelos e punhos. Use uma barra firme, área livre e progressões adequadas; não force a transição com dor.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames mostram suspensão em barra fixa, elevação do tronco, passagem do peito acima da barra e extensão final dos cotovelos em apoio.",
+      "sources": [
+        "https://www.crossfit.com/essentials/the-muscle-up",
+        "https://www.strengthlog.com/muscle-up/"
+      ],
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Subida na barra",
+        "Muscle up"
+      ],
+      "instructions": [
+        "Segure a barra alta com pegada pronada firme e comece em suspensão ativa.",
+        "Gere uma puxada forte, levando o peito em direção à barra e mantendo o core rígido.",
+        "Quando o tronco alcançar a altura da barra, incline o peito à frente e gire os punhos para realizar a transição.",
+        "Apoie-se acima da barra e estenda os cotovelos como em um mergulho.",
+        "Desça com controle para a suspensão, sem perder o controle escapular."
+      ],
+      "bodyRegion": [
+        "costas",
+        "peito",
+        "ombros",
+        "tríceps",
+        "core"
+      ],
+      "exerciseType": "força e habilidade",
+      "environment": [
+        "casa",
+        "academia",
+        "parque"
+      ],
+      "commonMistakes": [
+        "tentar a transição sem altura de puxada suficiente",
+        "deixar os ombros perderem estabilidade na suspensão",
+        "bater o peito na barra sem passar os punhos",
+        "usar balanço excessivo sem controle"
+      ],
+      "visualIdentification": "Os frames mostram suspensão em barra fixa, elevação do tronco, passagem do peito acima da barra e extensão final dos cotovelos em apoio."
     },
     {
       "id": "media_32efff8a44da2bda6a3c",
-      "namePtBr": "Recusar Crucifixo Com Halteres",
+      "namePtBr": "Crucifixo declinado com halteres",
       "originalFilename": "Recusar crucifixo com halteres.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Recusar crucifixo com halteres.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Recusar%20crucifixo%20com%20halteres.gif",
@@ -18699,24 +19054,103 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "halteres",
+        "banco declinado",
+        "peito",
+        "crucifixo",
+        "fly",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_32efff8a44da2bda6a3c",
+      "canonicalNameEn": "Decline Dumbbell Fly",
+      "aliasesPtBr": [
+        "Crucifixo com halteres no banco declinado",
+        "Fly declinado com halteres"
+      ],
+      "description": "Exercício de adução horizontal realizado em banco declinado, com halteres percorrendo um arco acima do tronco. A inclinação coloca a linha de trabalho mais voltada à porção esternocostal do peitoral, enquanto a leve flexão dos cotovelos preserva o padrão de crucifixo em vez de supino.",
+      "executionSteps": [
+        "Ajuste o banco declinado e prenda os pés no apoio antes de se posicionar com os halteres.",
+        "Deite-se, estabilize as escápulas e inicie com os halteres acima do peito e cotovelos levemente flexionados.",
+        "Abra os braços em arco até sentir alongamento confortável no peitoral, sem mudar muito o ângulo dos cotovelos.",
+        "Aproxime os halteres pelo mesmo arco até voltarem sobre o tórax, contraindo o peitoral.",
+        "Repita com descida lenta e sem chocar os halteres no topo."
+      ],
+      "primaryMuscles": [
+        "peitoral maior (porção esternocostal)"
+      ],
+      "secondaryMuscles": [
+        "deltoide anterior",
+        "serrátil anterior",
+        "bíceps braquial (estabilização)"
+      ],
+      "equipment": [
+        "halteres",
+        "banco declinado"
+      ],
+      "bodyRegions": [
+        "peito",
+        "ombros"
+      ],
+      "movementPattern": "adução horizontal do ombro em declínio",
+      "type": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado declinado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "dobrar e estender os cotovelos como em supino",
+        "descer os halteres além do conforto do ombro",
+        "perder a posição das escápulas",
+        "usar carga que impede o arco controlado"
+      ],
+      "executionTips": [
+        "Mantenha a mesma leve flexão dos cotovelos em toda a trajetória.",
+        "Use carga moderada e priorize o arco dos braços, não a amplitude máxima."
+      ],
+      "safetyNotes": "Prenda os pés ao banco e peça ajuda para posicionar halteres pesados. Interrompa antes de dor anterior no ombro e controle os pesos ao final da série.",
+      "confidence": "HIGH",
+      "visualVerification": "A sequência mostra banco declinado, um halter em cada mão e abertura/fechamento em arco acima do peito.",
+      "sources": [
+        "https://fitwill.app/pt/exercise/0256/decline-dumbbell-fly/",
+        "https://www.hipertrofia.org/blog/2018/09/17/exercicio-crucifixo-fly/"
+      ],
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Crucifixo com halteres no banco declinado",
+        "Fly declinado com halteres"
+      ],
+      "instructions": [
+        "Ajuste o banco declinado e prenda os pés no apoio antes de se posicionar com os halteres.",
+        "Deite-se, estabilize as escápulas e inicie com os halteres acima do peito e cotovelos levemente flexionados.",
+        "Abra os braços em arco até sentir alongamento confortável no peitoral, sem mudar muito o ângulo dos cotovelos.",
+        "Aproxime os halteres pelo mesmo arco até voltarem sobre o tórax, contraindo o peitoral.",
+        "Repita com descida lenta e sem chocar os halteres no topo."
+      ],
+      "bodyRegion": [
+        "peito",
+        "ombros"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "dobrar e estender os cotovelos como em supino",
+        "descer os halteres além do conforto do ombro",
+        "perder a posição das escápulas",
+        "usar carga que impede o arco controlado"
+      ],
+      "visualIdentification": "A sequência mostra banco declinado, um halter em cada mão e abertura/fechamento em arco acima do peito."
     },
     {
       "id": "media_33b254fa7eae33e2a8ad",
-      "namePtBr": "Alongamento Do Peito E Da Frente Dos Ombros",
+      "namePtBr": "Mobilização de ombros com bastão",
       "originalFilename": "Alongamento do peito e da frente dos ombros.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Alongamento do peito e da frente dos ombros.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Alongamento%20do%20peito%20e%20da%20frente%20dos%20ombros.gif",
@@ -18726,34 +19160,113 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "mobilidade_alongamento",
-          "label": "mobilidade alongamento"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "bastão",
+        "mobilidade",
+        "ombros",
+        "peito",
+        "aquecimento",
+        "alongamento",
+        "casa"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_33b254fa7eae33e2a8ad",
+      "canonicalNameEn": "Shoulder Pass-Through with Stick",
+      "aliasesPtBr": [
+        "Passada de bastão",
+        "Alongamento de peito e ombros com bastão",
+        "Dislocação de ombros com bastão"
+      ],
+      "description": "Mobilização ativa para ombros e região anterior do peito feita com um bastão segurado em pegada ampla. O bastão percorre um arco da frente do corpo para trás, promovendo flexão e extensão do ombro em amplitude controlada, sem forçar a articulação.",
+      "executionSteps": [
+        "Fique em pé e segure um bastão com as duas mãos em pegada bem mais larga que os ombros.",
+        "Mantenha cotovelos estendidos e eleve o bastão pela frente até acima da cabeça.",
+        "Continue o arco levando o bastão para trás do corpo apenas até a amplitude confortável.",
+        "Retorne pelo mesmo caminho para a frente, mantendo o tronco quieto e a pegada ampla.",
+        "Ajuste a largura das mãos para que o movimento permaneça suave e sem dor."
+      ],
+      "primaryMuscles": [
+        "deltoide anterior",
+        "peitoral maior"
+      ],
+      "secondaryMuscles": [
+        "deltoide posterior",
+        "manguito rotador",
+        "serrátil anterior",
+        "trapézio inferior"
+      ],
+      "equipment": [
+        "bastão de mobilidade"
+      ],
+      "bodyRegions": [
+        "ombros",
+        "peito",
+        "costas superiores"
+      ],
+      "movementPattern": "mobilidade de flexão e extensão do ombro",
+      "type": "mobilidade",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "usar pegada estreita demais para a mobilidade disponível",
+        "dobrar os cotovelos para compensar",
+        "arquear a lombar ao passar acima da cabeça",
+        "forçar o bastão atrás do corpo com dor"
+      ],
+      "executionTips": [
+        "Comece com as mãos bem afastadas e reduza a distância apenas se conservar o controle.",
+        "Mantenha costelas baixas e pescoço relaxado durante o arco."
+      ],
+      "safetyNotes": "Deve ser indolor e controlado. Não force amplitude atrás do corpo em caso de irritação no ombro; use uma pegada mais aberta ou procure orientação se a limitação persistir.",
+      "confidence": "HIGH",
+      "visualVerification": "A animação mostra um bastão subindo da frente do quadril, passando acima da cabeça e descendo atrás do corpo com os braços estendidos.",
+      "sources": [
+        "https://www.acefitness.org/resources/everyone/exercise-library/",
+        "https://www.lyfta.app/pt/exercise/alongamento-do-peito-e-da-frente-dos-ombros-778"
+      ],
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Passada de bastão",
+        "Alongamento de peito e ombros com bastão",
+        "Dislocação de ombros com bastão"
+      ],
+      "instructions": [
+        "Fique em pé e segure um bastão com as duas mãos em pegada bem mais larga que os ombros.",
+        "Mantenha cotovelos estendidos e eleve o bastão pela frente até acima da cabeça.",
+        "Continue o arco levando o bastão para trás do corpo apenas até a amplitude confortável.",
+        "Retorne pelo mesmo caminho para a frente, mantendo o tronco quieto e a pegada ampla.",
+        "Ajuste a largura das mãos para que o movimento permaneça suave e sem dor."
+      ],
+      "bodyRegion": [
+        "ombros",
+        "peito",
+        "costas superiores"
+      ],
+      "exerciseType": "mobilidade",
+      "environment": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "usar pegada estreita demais para a mobilidade disponível",
+        "dobrar os cotovelos para compensar",
+        "arquear a lombar ao passar acima da cabeça",
+        "forçar o bastão atrás do corpo com dor"
+      ],
+      "visualIdentification": "A animação mostra um bastão subindo da frente do quadril, passando acima da cabeça e descendo atrás do corpo com os braços estendidos."
     },
     {
       "id": "media_3457e8ee712a4ff676de",
-      "namePtBr": "Bent Over Triceps Kick Back VariaçãO 3",
+      "namePtBr": "Coice de tríceps unilateral na polia",
       "originalFilename": "Bent over triceps kick back - Variação 3.gif",
       "relativePath": "gifs/tríceps/Bent over triceps kick back - Variação 3.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/tr%C3%ADceps/Bent%20over%20triceps%20kick%20back%20-%20Varia%C3%A7%C3%A3o%203.gif",
@@ -18763,19 +19276,104 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "bracos",
-          "label": "Bracos"
-        }
+        "polia",
+        "cabo",
+        "tríceps",
+        "coice de tríceps",
+        "unilateral",
+        "academia"
       ],
-      "identificationStatus": "pending_review",
+      "identificationStatus": "curated",
       "needsManualReview": true,
-      "sourceExerciseId": null
+      "sourceExerciseId": null,
+      "mediaId": "media_3457e8ee712a4ff676de",
+      "canonicalNameEn": "Single-Arm Cable Triceps Kickback",
+      "aliasesPtBr": [
+        "Tríceps coice na polia",
+        "Extensão de tríceps na polia atrás do corpo"
+      ],
+      "description": "Variação unilateral de extensão de cotovelo contra cabo em que o braço superior permanece elevado e alinhado ao tronco enquanto o antebraço se estende para trás. A polia mantém tensão contínua sobre o tríceps, e a execução correta evita que o ombro ou o tronco criem impulso.",
+      "executionSteps": [
+        "Ajuste uma manopla em uma polia na altura compatível com a linha do cabo e segure-a com uma mão.",
+        "Posicione o braço superior próximo à linha do tronco, com o cotovelo flexionado e estável.",
+        "Mantenha o ombro quieto e estenda o cotovelo, levando a mão para trás até alinhar o antebraço ao braço.",
+        "Contraia o tríceps no final sem girar o corpo nem elevar o ombro.",
+        "Flexione o cotovelo de modo controlado até a posição inicial e troque o lado após completar a série."
+      ],
+      "primaryMuscles": [
+        "tríceps braquial"
+      ],
+      "secondaryMuscles": [
+        "deltoide posterior",
+        "latíssimo do dorso",
+        "manguito rotador"
+      ],
+      "equipment": [
+        "cabo/polia",
+        "manopla"
+      ],
+      "bodyRegions": [
+        "tríceps",
+        "ombros"
+      ],
+      "movementPattern": "extensão unilateral de cotovelo",
+      "type": "força",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "mover o cotovelo para criar balanço",
+        "rodar ou inclinar o tronco",
+        "elevar o ombro em direção à orelha",
+        "usar carga que impede extensão completa controlada"
+      ],
+      "executionTips": [
+        "Escolha a posição em que o cabo puxa continuamente durante toda a extensão.",
+        "Pense em manter o cotovelo fixo e mover somente o antebraço."
+      ],
+      "safetyNotes": "Ajuste a altura e a carga da polia antes de iniciar. Evite forçar a extensão se houver dor no cotovelo ou ombro e mantenha o punho neutro.",
+      "confidence": "MEDIUM",
+      "visualVerification": "A sequência mostra uma manopla conectada a cabo, braço superior estabilizado atrás do tronco e extensão isolada do cotovelo; a variação não apresenta tronco inclinado como o nome do arquivo sugere.",
+      "sources": [
+        "https://www.strengthlog.com/cable-tricep-kickback/",
+        "https://fitwill.app/pt-br/exercise/"
+      ],
+      "reviewRequired": true,
+      "reviewReason": "O ângulo do cabo e a postura ereta diferem da denominação 'bent-over' no arquivo; a identificação foi baseada na extensão unilateral do cotovelo observada.",
+      "profileComplete": true,
+      "aliases": [
+        "Tríceps coice na polia",
+        "Extensão de tríceps na polia atrás do corpo"
+      ],
+      "instructions": [
+        "Ajuste uma manopla em uma polia na altura compatível com a linha do cabo e segure-a com uma mão.",
+        "Posicione o braço superior próximo à linha do tronco, com o cotovelo flexionado e estável.",
+        "Mantenha o ombro quieto e estenda o cotovelo, levando a mão para trás até alinhar o antebraço ao braço.",
+        "Contraia o tríceps no final sem girar o corpo nem elevar o ombro.",
+        "Flexione o cotovelo de modo controlado até a posição inicial e troque o lado após completar a série."
+      ],
+      "bodyRegion": [
+        "tríceps",
+        "ombros"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "mover o cotovelo para criar balanço",
+        "rodar ou inclinar o tronco",
+        "elevar o ombro em direção à orelha",
+        "usar carga que impede extensão completa controlada"
+      ],
+      "visualIdentification": "A sequência mostra uma manopla conectada a cabo, braço superior estabilizado atrás do tronco e extensão isolada do cotovelo; a variação não apresenta tronco inclinado como o nome do arquivo sugere."
     },
     {
       "id": "media_34a3bac127420a027db9",
-      "namePtBr": "Salto Em Profundidade Para Salto Com ObstáCulos",
+      "namePtBr": "Salto em profundidade com salto sobre obstáculo",
       "originalFilename": "Salto em profundidade para salto com obstáculos.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Salto em profundidade para salto com obstáculos.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Salto%20em%20profundidade%20para%20salto%20com%20obst%C3%A1culos.gif",
@@ -18784,10 +19382,110 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "pliometria",
+        "salto em profundidade",
+        "caixa",
+        "obstáculo",
+        "pernas",
+        "potência",
+        "avançado"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_34a3bac127420a027db9",
+      "canonicalNameEn": "Depth Jump to Hurdle Jump",
+      "aliasesPtBr": [
+        "Drop jump com salto sobre barreira",
+        "Salto da caixa para salto sobre obstáculo"
+      ],
+      "description": "Exercício pliométrico em sequência: o praticante desce de uma caixa, absorve rapidamente o impacto e executa um salto vertical ou horizontal sobre um obstáculo baixo. A transição curta entre aterrissagem e impulsão desenvolve capacidade reativa dos membros inferiores e exige excelente controle de joelhos, quadris e tronco.",
+      "executionSteps": [
+        "Posicione uma caixa estável antes de um obstáculo baixo, deixando área livre para aterrissagem.",
+        "Fique na borda da caixa e desça à frente sem saltar para cima a partir dela.",
+        "Aterre com os dois pés, joelhos e quadris flexionados e tronco controlado.",
+        "Use a absorção rápida para impulsionar o solo e saltar sobre o obstáculo.",
+        "Aterre após o obstáculo com joelhos alinhados aos pés, estabilize e reorganize-se antes da próxima repetição."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo",
+        "panturrilhas"
+      ],
+      "secondaryMuscles": [
+        "isquiotibiais",
+        "glúteo médio",
+        "eretores da espinha",
+        "reto abdominal"
+      ],
+      "equipment": [
+        "caixa pliométrica",
+        "obstáculo baixo"
+      ],
+      "bodyRegions": [
+        "pernas",
+        "glúteos",
+        "core"
+      ],
+      "movementPattern": "salto pliométrico reativo",
+      "type": "potência e pliometria",
+      "difficulty": "avançado",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "academia",
+        "quadra",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "saltar da caixa para ganhar distância em vez de descer controladamente",
+        "deixar joelhos colapsarem para dentro na aterrissagem",
+        "usar caixa ou obstáculo altos demais",
+        "iniciar nova repetição antes de recuperar o equilíbrio"
+      ],
+      "executionTips": [
+        "Comece com alturas baixas e priorize aterrissagem silenciosa e alinhada.",
+        "Mantenha a transição curta somente se conseguir conservar a técnica."
+      ],
+      "safetyNotes": "Exercício avançado e de alto impacto. Use superfícies estáveis, caixa e obstáculo firmes, além de progressão de altura; evite quando houver dor, fadiga que comprometa a aterrissagem ou falta de domínio de saltos básicos.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames mostram saída de uma caixa, aterrissagem bilateral, nova impulsão e ultrapassagem de um obstáculo baixo à frente.",
+      "sources": [
+        "https://www.nsca.com/education/articles/kinetic-select/depth-jumps/",
+        "https://www.acefitness.org/resources/everyone/exercise-library/"
+      ],
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Drop jump com salto sobre barreira",
+        "Salto da caixa para salto sobre obstáculo"
+      ],
+      "instructions": [
+        "Posicione uma caixa estável antes de um obstáculo baixo, deixando área livre para aterrissagem.",
+        "Fique na borda da caixa e desça à frente sem saltar para cima a partir dela.",
+        "Aterre com os dois pés, joelhos e quadris flexionados e tronco controlado.",
+        "Use a absorção rápida para impulsionar o solo e saltar sobre o obstáculo.",
+        "Aterre após o obstáculo com joelhos alinhados aos pés, estabilize e reorganize-se antes da próxima repetição."
+      ],
+      "bodyRegion": [
+        "pernas",
+        "glúteos",
+        "core"
+      ],
+      "exerciseType": "potência e pliometria",
+      "environment": [
+        "academia",
+        "quadra",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "saltar da caixa para ganhar distância em vez de descer controladamente",
+        "deixar joelhos colapsarem para dentro na aterrissagem",
+        "usar caixa ou obstáculo altos demais",
+        "iniciar nova repetição antes de recuperar o equilíbrio"
+      ],
+      "visualIdentification": "Os frames mostram saída de uma caixa, aterrissagem bilateral, nova impulsão e ultrapassagem de um obstáculo baixo à frente."
     },
     {
       "id": "media_34ca7a2c220fd7ffeffa",
