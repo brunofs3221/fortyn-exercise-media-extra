@@ -107453,19 +107453,97 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "padrao_movimento",
-          "id": "agachamento",
-          "label": "agachamento"
-        }
+        "quadríceps",
+        "glúteos",
+        "barra",
+        "agachamento",
+        "força"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_f8658e3fafcfdca558b3",
+      "canonicalNameEn": "Zercher Squat",
+      "aliasesPtBr": [
+        "agachamento com barra na dobra dos cotovelos"
+      ],
+      "description": "Variação de agachamento com a barra apoiada na dobra dos cotovelos, à frente do tronco. A posição anterior da carga exige tronco firme e permite flexionar quadris e joelhos com forte participação de quadríceps e glúteos.",
+      "executionSteps": [
+        "Posicione a barra na dobra dos cotovelos e mantenha as mãos unidas ou os antebraços firmes contra ela.",
+        "Afaste os pés aproximadamente na largura dos ombros e mantenha o peito alto.",
+        "Desça dobrando joelhos e quadris, levando os joelhos na direção dos pés.",
+        "Mantenha a barra próxima ao corpo e a coluna neutra no ponto mais baixo tolerado.",
+        "Empurre o chão para retornar à posição em pé, estendendo joelhos e quadris juntos."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "adutores",
+        "eretores da espinha",
+        "abdômen"
+      ],
+      "equipment": [
+        "barra",
+        "anilhas"
+      ],
+      "bodyRegions": [
+        "coxas",
+        "glúteos",
+        "core"
+      ],
+      "movementPattern": "agachamento com carga anterior",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "avançado",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "deixar a barra afastar-se do tronco",
+        "arredondar a lombar no fundo",
+        "deixar os joelhos colapsarem para dentro",
+        "perder a tensão dos cotovelos"
+      ],
+      "executionTips": [
+        "Use uma altura de suporte que permita posicionar a barra sem puxá-la do chão.",
+        "Mantenha o abdômen contraído antes de iniciar a descida."
+      ],
+      "safetyNotes": "Comece com carga leve para adaptar cotovelos e punhos ao apoio. Interrompa se houver dor articular e use suportes de segurança quando a carga for alta.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra barra apoiada na dobra dos cotovelos durante um agachamento profundo e retorno em pé.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "agachamento com barra na dobra dos cotovelos"
+      ],
+      "instructions": [
+        "Posicione a barra na dobra dos cotovelos e mantenha as mãos unidas ou os antebraços firmes contra ela.",
+        "Afaste os pés aproximadamente na largura dos ombros e mantenha o peito alto.",
+        "Desça dobrando joelhos e quadris, levando os joelhos na direção dos pés.",
+        "Mantenha a barra próxima ao corpo e a coluna neutra no ponto mais baixo tolerado.",
+        "Empurre o chão para retornar à posição em pé, estendendo joelhos e quadris juntos."
+      ],
+      "bodyRegion": [
+        "coxas",
+        "glúteos",
+        "core"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "deixar a barra afastar-se do tronco",
+        "arredondar a lombar no fundo",
+        "deixar os joelhos colapsarem para dentro",
+        "perder a tensão dos cotovelos"
+      ]
     },
     {
       "id": "media_f86a0c1ca1e275ae71f5",
-      "namePtBr": "Supino Alternado Com Halteres Em Pé",
+      "namePtBr": "Desenvolvimento alternado com halteres em pé",
       "originalFilename": "Supino alternado com halteres em pé.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Supino alternado com halteres em pé.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Supino%20alternado%20com%20halteres%20em%20p%C3%A9.gif",
@@ -107475,29 +107553,98 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "empurrar",
-          "label": "empurrar"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "ombros",
+        "halteres",
+        "desenvolvimento",
+        "em pé",
+        "unilateral"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_f86a0c1ca1e275ae71f5",
+      "canonicalNameEn": "Standing Alternating Dumbbell Shoulder Press",
+      "aliasesPtBr": [
+        "press alternado com halteres em pé",
+        "desenvolvimento unilateral alternado"
+      ],
+      "description": "Desenvolvimento vertical realizado em pé com dois halteres, elevando um braço por vez acima da cabeça enquanto o outro permanece na posição inicial. A alternância aumenta a exigência de estabilidade do tronco e do ombro.",
+      "executionSteps": [
+        "Fique em pé com os pés firmes e segure os halteres na altura dos ombros.",
+        "Contraia abdômen e glúteos para evitar extensão da lombar.",
+        "Empurre um halter acima da cabeça até quase estender o cotovelo.",
+        "Desça o mesmo halter de forma controlada à altura do ombro.",
+        "Repita com o outro braço, mantendo o halter que não trabalha estabilizado."
+      ],
+      "primaryMuscles": [
+        "deltoide anterior",
+        "deltoide lateral"
+      ],
+      "secondaryMuscles": [
+        "tríceps braquial",
+        "trapézio superior",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "halteres"
+      ],
+      "bodyRegions": [
+        "ombros",
+        "tríceps"
+      ],
+      "movementPattern": "empurrar vertical unilateral alternado",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "intermediário",
+      "laterality": "unilateral alternado",
+      "position": "em pé",
+      "environments": [
+        "academia",
+        "casa"
+      ],
+      "commonErrors": [
+        "arquear excessivamente a lombar",
+        "elevar os ombros em direção às orelhas",
+        "inclinar o tronco para ajudar o halter",
+        "bater os halteres no retorno"
+      ],
+      "executionTips": [
+        "Mantenha os punhos alinhados aos antebraços.",
+        "Use uma carga que permita não girar o tronco entre os lados."
+      ],
+      "safetyNotes": "Não force a amplitude caso haja desconforto no ombro. Reduza a carga se não conseguir manter costelas e pelve controladas.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra praticante em pé pressionando halteres acima da cabeça de maneira alternada.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "press alternado com halteres em pé",
+        "desenvolvimento unilateral alternado"
+      ],
+      "instructions": [
+        "Fique em pé com os pés firmes e segure os halteres na altura dos ombros.",
+        "Contraia abdômen e glúteos para evitar extensão da lombar.",
+        "Empurre um halter acima da cabeça até quase estender o cotovelo.",
+        "Desça o mesmo halter de forma controlada à altura do ombro.",
+        "Repita com o outro braço, mantendo o halter que não trabalha estabilizado."
+      ],
+      "bodyRegion": [
+        "ombros",
+        "tríceps"
+      ],
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "arquear excessivamente a lombar",
+        "elevar os ombros em direção às orelhas",
+        "inclinar o tronco para ajudar o halter",
+        "bater os halteres no retorno"
+      ]
     },
     {
       "id": "media_f935dde48069be02f01d",
-      "namePtBr": "ExtensãO De TríCeps Deitada Com Um BraçO",
+      "namePtBr": "Tríceps testa unilateral com halter",
       "originalFilename": "Extensão de tríceps deitada com um braço.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Extensão de tríceps deitada com um braço.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Extens%C3%A3o%20de%20tr%C3%ADceps%20deitada%20com%20um%20bra%C3%A7o.gif",
@@ -107507,19 +107654,95 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "padrao_movimento",
-          "id": "extensao_cotovelo",
-          "label": "extensao cotovelo"
-        }
+        "tríceps",
+        "halter",
+        "banco",
+        "tríceps testa",
+        "unilateral"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_f935dde48069be02f01d",
+      "canonicalNameEn": "Single-Arm Dumbbell Lying Triceps Extension",
+      "aliasesPtBr": [
+        "extensão de tríceps deitada unilateral",
+        "tríceps francês deitado unilateral"
+      ],
+      "description": "Extensão unilateral do cotovelo feita deitado em banco reto, levando o halter em direção à lateral da cabeça e estendendo o braço novamente. O braço fica estável enquanto o tríceps produz o movimento, com ênfase relevante na cabeça longa.",
+      "executionSteps": [
+        "Deite-se no banco com os pés apoiados e segure um halter acima do ombro com uma mão.",
+        "Mantenha o braço quase perpendicular ao chão e o cotovelo apontado para cima.",
+        "Dobre apenas o cotovelo, baixando o halter de forma controlada ao lado da cabeça.",
+        "Estenda o cotovelo até retornar ao início sem deslocar o ombro.",
+        "Conclua o lado programado antes de trocar de braço."
+      ],
+      "primaryMuscles": [
+        "tríceps braquial"
+      ],
+      "secondaryMuscles": [
+        "ancôneo",
+        "deltoide anterior"
+      ],
+      "equipment": [
+        "halter",
+        "banco reto"
+      ],
+      "bodyRegions": [
+        "tríceps"
+      ],
+      "movementPattern": "extensão unilateral do cotovelo",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "deitado em banco reto",
+      "environments": [
+        "academia",
+        "casa"
+      ],
+      "commonErrors": [
+        "abrir o cotovelo para fora",
+        "mover o braço inteiro em vez de só o antebraço",
+        "descer o halter sem controle",
+        "usar carga excessiva"
+      ],
+      "executionTips": [
+        "Mantenha o cotovelo estacionário para isolar melhor o tríceps.",
+        "Faça uma pegada segura e neutra no halter."
+      ],
+      "safetyNotes": "A posição coloca o peso próximo à cabeça; use carga compatível e mantenha o pulso firme. Pare se houver dor no cotovelo ou ombro.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra uma pessoa deitada em banco reto, estendendo um único halter pela flexão e extensão do cotovelo.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "extensão de tríceps deitada unilateral",
+        "tríceps francês deitado unilateral"
+      ],
+      "instructions": [
+        "Deite-se no banco com os pés apoiados e segure um halter acima do ombro com uma mão.",
+        "Mantenha o braço quase perpendicular ao chão e o cotovelo apontado para cima.",
+        "Dobre apenas o cotovelo, baixando o halter de forma controlada ao lado da cabeça.",
+        "Estenda o cotovelo até retornar ao início sem deslocar o ombro.",
+        "Conclua o lado programado antes de trocar de braço."
+      ],
+      "bodyRegion": [
+        "tríceps"
+      ],
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "abrir o cotovelo para fora",
+        "mover o braço inteiro em vez de só o antebraço",
+        "descer o halter sem controle",
+        "usar carga excessiva"
+      ]
     },
     {
       "id": "media_f95c32d5a852d90825ef",
-      "namePtBr": "TraçãO Frontal Do Cabo Cruzado",
+      "namePtBr": "Face pull na polia dupla",
       "originalFilename": "Tração frontal do cabo cruzado.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Tração frontal do cabo cruzado.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Tra%C3%A7%C3%A3o%20frontal%20do%20cabo%20cruzado.gif",
@@ -107529,19 +107752,97 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        }
+        "ombros",
+        "deltoide posterior",
+        "polia",
+        "crossover",
+        "costas superiores"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_f95c32d5a852d90825ef",
+      "canonicalNameEn": "Dual Cable Face Pull",
+      "aliasesPtBr": [
+        "puxada para o rosto no crossover",
+        "face pull no crossover"
+      ],
+      "description": "Puxada realizada de frente para o crossover, trazendo as manoplas em direção à face enquanto os cotovelos abrem lateralmente. A combinação de abdução horizontal e rotação externa favorece deltoide posterior e estabilizadores escapulares.",
+      "executionSteps": [
+        "Ajuste as polias aproximadamente na altura do rosto e fique centralizado entre elas.",
+        "Segure uma manopla em cada mão, com os braços estendidos à frente.",
+        "Puxe as manoplas em direção às laterais da face, abrindo os cotovelos.",
+        "Aproxime as escápulas sem elevar os ombros e faça breve pausa.",
+        "Retorne lentamente até estender os braços sem perder a postura."
+      ],
+      "primaryMuscles": [
+        "deltoide posterior",
+        "trapézio médio"
+      ],
+      "secondaryMuscles": [
+        "romboides",
+        "infraespinal",
+        "redondo menor"
+      ],
+      "equipment": [
+        "polia dupla",
+        "manoplas"
+      ],
+      "bodyRegions": [
+        "ombros",
+        "costas superiores"
+      ],
+      "movementPattern": "puxar horizontal com rotação externa do ombro",
+      "exerciseType": "força e estabilidade do ombro",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "puxar abaixo do rosto",
+        "encolher os ombros",
+        "arquear a lombar para mover a carga",
+        "deixar os cotovelos caírem"
+      ],
+      "executionTips": [
+        "Pense em abrir as mãos e os cotovelos ao mesmo tempo.",
+        "Use carga moderada para preservar a rotação externa do ombro."
+      ],
+      "safetyNotes": "Ajuste as polias para que a tração não force o ombro em uma amplitude dolorosa. Mantenha o pescoço relaxado e interrompa se houver dor articular.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra duas polias e o praticante puxando as manoplas para os lados do rosto com cotovelos altos.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "puxada para o rosto no crossover",
+        "face pull no crossover"
+      ],
+      "instructions": [
+        "Ajuste as polias aproximadamente na altura do rosto e fique centralizado entre elas.",
+        "Segure uma manopla em cada mão, com os braços estendidos à frente.",
+        "Puxe as manoplas em direção às laterais da face, abrindo os cotovelos.",
+        "Aproxime as escápulas sem elevar os ombros e faça breve pausa.",
+        "Retorne lentamente até estender os braços sem perder a postura."
+      ],
+      "bodyRegion": [
+        "ombros",
+        "costas superiores"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "puxar abaixo do rosto",
+        "encolher os ombros",
+        "arquear a lombar para mover a carga",
+        "deixar os cotovelos caírem"
+      ]
     },
     {
       "id": "media_f98acb96720587e71c8b",
-      "namePtBr": "Pushdown Reverso De Um BraçO Lateral",
+      "namePtBr": "Tríceps unilateral na polia com pegada supinada",
       "originalFilename": "Pushdown reverso de um braço lateral.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Pushdown reverso de um braço lateral.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Pushdown%20reverso%20de%20um%20bra%C3%A7o%20lateral.gif",
@@ -107550,14 +107851,94 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "tríceps",
+        "polia",
+        "pegada supinada",
+        "unilateral",
+        "pushdown"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_f98acb96720587e71c8b",
+      "canonicalNameEn": "Single-Arm Reverse-Grip Cable Triceps Pushdown",
+      "aliasesPtBr": [
+        "tríceps unilateral pegada inversa na polia",
+        "pushdown unilateral supinado"
+      ],
+      "description": "Extensão unilateral de cotovelo na polia alta usando pegada supinada. O cotovelo permanece junto ao corpo enquanto a manopla desce, criando tensão contínua no tríceps e exigindo controle do punho.",
+      "executionSteps": [
+        "Ajuste a polia acima da altura do ombro e fique de lado para a torre.",
+        "Segure a manopla com a palma voltada para cima e mantenha o cotovelo próximo ao tronco.",
+        "Comece com o cotovelo dobrado e o antebraço à frente do corpo.",
+        "Estenda o cotovelo para baixo até contrair o tríceps, sem mover o ombro.",
+        "Retorne devagar e repita antes de trocar o lado."
+      ],
+      "primaryMuscles": [
+        "tríceps braquial"
+      ],
+      "secondaryMuscles": [
+        "ancôneo",
+        "estabilizadores do punho"
+      ],
+      "equipment": [
+        "polia alta",
+        "manopla"
+      ],
+      "bodyRegions": [
+        "tríceps"
+      ],
+      "movementPattern": "extensão unilateral do cotovelo na polia",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "iniciante",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "deixar o cotovelo avançar",
+        "girar o tronco para ajudar",
+        "dobrar o punho",
+        "usar carga que impede a extensão completa"
+      ],
+      "executionTips": [
+        "Mantenha o braço fixo junto à lateral do tronco.",
+        "Ajuste a distância da torre para o cabo não raspar no corpo."
+      ],
+      "safetyNotes": "Use carga leve no início, pois a pegada supinada pode aumentar a exigência sobre o punho. Pare se houver dor em punho, cotovelo ou ombro.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra extensão de um braço em torre de cabos, com a mão supinada e o cotovelo mantido junto ao corpo.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "tríceps unilateral pegada inversa na polia",
+        "pushdown unilateral supinado"
+      ],
+      "instructions": [
+        "Ajuste a polia acima da altura do ombro e fique de lado para a torre.",
+        "Segure a manopla com a palma voltada para cima e mantenha o cotovelo próximo ao tronco.",
+        "Comece com o cotovelo dobrado e o antebraço à frente do corpo.",
+        "Estenda o cotovelo para baixo até contrair o tríceps, sem mover o ombro.",
+        "Retorne devagar e repita antes de trocar o lado."
+      ],
+      "bodyRegion": [
+        "tríceps"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "deixar o cotovelo avançar",
+        "girar o tronco para ajudar",
+        "dobrar o punho",
+        "usar carga que impede a extensão completa"
+      ]
     },
     {
       "id": "media_f9b947be81b5e011949c",
-      "namePtBr": "ExtensãO De TríCeps Na MáQuina",
+      "namePtBr": "Extensão unilateral de tríceps na polia ajoelhado",
       "originalFilename": "Extensão de tríceps na máquina.gif",
       "relativePath": "gifs/tríceps/Extensão de tríceps na máquina.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/tr%C3%ADceps/Extens%C3%A3o%20de%20tr%C3%ADceps%20na%20m%C3%A1quina.gif",
@@ -107567,29 +107948,95 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "bracos",
-          "label": "Bracos"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "extensao_cotovelo",
-          "label": "extensao cotovelo"
-        }
+        "tríceps",
+        "polia",
+        "ajoelhado",
+        "unilateral",
+        "extensão"
       ],
-      "identificationStatus": "pending_review",
+      "identificationStatus": "curated",
       "needsManualReview": true,
-      "sourceExerciseId": null
+      "sourceExerciseId": null,
+      "mediaId": "media_f9b947be81b5e011949c",
+      "canonicalNameEn": "Kneeling Single-Arm Cable Triceps Extension",
+      "aliasesPtBr": [
+        "tríceps unilateral ajoelhado na polia",
+        "extensão de tríceps ajoelhada"
+      ],
+      "description": "Extensão unilateral de cotovelo executada ajoelhado diante de uma torre de cabos. A posição reduz o uso das pernas e favorece a manutenção do tronco estável enquanto o tríceps movimenta a manopla contra a resistência da polia.",
+      "executionSteps": [
+        "Ajuste a polia acima do ombro e ajoelhe-se com o tronco alto diante da torre.",
+        "Segure a manopla com um braço e posicione o cotovelo dobrado junto ao corpo.",
+        "Trave o tronco e estenda o cotovelo, conduzindo a mão para baixo.",
+        "Contraia o tríceps no final sem projetar o ombro à frente.",
+        "Volte de forma controlada e execute todas as repetições antes de trocar o lado."
+      ],
+      "primaryMuscles": [
+        "tríceps braquial"
+      ],
+      "secondaryMuscles": [
+        "ancôneo",
+        "abdômen"
+      ],
+      "equipment": [
+        "polia alta",
+        "manopla"
+      ],
+      "bodyRegions": [
+        "tríceps",
+        "core"
+      ],
+      "movementPattern": "extensão unilateral do cotovelo na polia",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "ajoelhado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "inclinar o tronco para vencer a carga",
+        "afastar o cotovelo do corpo",
+        "perder o alinhamento do punho",
+        "retornar rápido demais"
+      ],
+      "executionTips": [
+        "Use uma base ajoelhada confortável e mantenha as costelas encaixadas.",
+        "Deixe o cotovelo ser o ponto de giro do movimento."
+      ],
+      "safetyNotes": "Proteja o joelho com colchonete se necessário. Mantenha a carga controlada e não force o ombro em uma posição dolorosa.",
+      "confidence": "MEDIUM",
+      "visualIdentification": "O GIF mostra praticante ajoelhado em frente à torre de cabos realizando extensão unilateral do cotovelo; o modelo da torre limita a confirmação da configuração exata.",
+      "reviewRequired": true,
+      "profileComplete": true,
+      "aliases": [
+        "tríceps unilateral ajoelhado na polia",
+        "extensão de tríceps ajoelhada"
+      ],
+      "instructions": [
+        "Ajuste a polia acima do ombro e ajoelhe-se com o tronco alto diante da torre.",
+        "Segure a manopla com um braço e posicione o cotovelo dobrado junto ao corpo.",
+        "Trave o tronco e estenda o cotovelo, conduzindo a mão para baixo.",
+        "Contraia o tríceps no final sem projetar o ombro à frente.",
+        "Volte de forma controlada e execute todas as repetições antes de trocar o lado."
+      ],
+      "bodyRegion": [
+        "tríceps",
+        "core"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "inclinar o tronco para vencer a carga",
+        "afastar o cotovelo do corpo",
+        "perder o alinhamento do punho",
+        "retornar rápido demais"
+      ]
     },
     {
       "id": "media_f9ba9eecbc62b24d90f8",
-      "namePtBr": "Na Polia Inclinado ExtensãO De TríCeps",
+      "namePtBr": "Tríceps testa na polia em banco inclinado",
       "originalFilename": "Na polia inclinado extensão de tríceps.gif",
       "relativePath": "gifs/tríceps/Na polia inclinado extensão de tríceps.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/tr%C3%ADceps/Na%20polia%20inclinado%20extens%C3%A3o%20de%20tr%C3%ADceps.gif",
@@ -107599,29 +108046,94 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "bracos",
-          "label": "Bracos"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "cabo_polia",
-          "label": "cabo polia"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "extensao_cotovelo",
-          "label": "extensao cotovelo"
-        }
+        "tríceps",
+        "polia",
+        "banco inclinado",
+        "tríceps testa",
+        "cabo"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0173"
+      "sourceExerciseId": "0173",
+      "mediaId": "media_f9ba9eecbc62b24d90f8",
+      "canonicalNameEn": "Incline Cable Lying Triceps Extension",
+      "aliasesPtBr": [
+        "extensão de tríceps na polia em banco inclinado",
+        "tríceps francês na polia inclinado"
+      ],
+      "description": "Variação de tríceps testa em banco inclinado ligada a uma polia. O cabo mantém resistência durante a flexão e extensão dos cotovelos, enquanto a inclinação do banco coloca o ombro em flexão e aumenta a participação da cabeça longa do tríceps.",
+      "executionSteps": [
+        "Posicione o banco inclinado de frente para a polia, conforme a trajetória do cabo.",
+        "Sente-se e apoie as costas, segurando a barra ou manopla com os braços apontados acima da cabeça.",
+        "Mantenha os cotovelos fixos e dobre-os, levando o implemento em direção à testa ou atrás da cabeça.",
+        "Estenda os cotovelos até os braços voltarem ao alinhamento inicial.",
+        "Controle a volta sem deixar os cotovelos abrirem excessivamente."
+      ],
+      "primaryMuscles": [
+        "tríceps braquial"
+      ],
+      "secondaryMuscles": [
+        "ancôneo",
+        "deltoide anterior"
+      ],
+      "equipment": [
+        "polia",
+        "barra curta",
+        "banco inclinado"
+      ],
+      "bodyRegions": [
+        "tríceps"
+      ],
+      "movementPattern": "extensão do cotovelo com cabo acima da cabeça",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "sentado em banco inclinado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "mover os ombros para ajudar",
+        "abrir demais os cotovelos",
+        "deixar o cabo puxar o corpo do encosto",
+        "usar amplitude dolorosa"
+      ],
+      "executionTips": [
+        "Mantenha a cabeça apoiada e a escápula estável no banco.",
+        "Ajuste a posição do banco para manter tensão contínua no cabo."
+      ],
+      "safetyNotes": "Confira o encaixe do banco e do acessório antes de começar. Use carga moderada, pois a alavanca acima da cabeça aumenta a demanda sobre cotovelos e ombros.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra pessoa em banco inclinado executando extensão bilateral de cotovelos com barra conectada a um cabo vindo de trás/acima.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "extensão de tríceps na polia em banco inclinado",
+        "tríceps francês na polia inclinado"
+      ],
+      "instructions": [
+        "Posicione o banco inclinado de frente para a polia, conforme a trajetória do cabo.",
+        "Sente-se e apoie as costas, segurando a barra ou manopla com os braços apontados acima da cabeça.",
+        "Mantenha os cotovelos fixos e dobre-os, levando o implemento em direção à testa ou atrás da cabeça.",
+        "Estenda os cotovelos até os braços voltarem ao alinhamento inicial.",
+        "Controle a volta sem deixar os cotovelos abrirem excessivamente."
+      ],
+      "bodyRegion": [
+        "tríceps"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "mover os ombros para ajudar",
+        "abrir demais os cotovelos",
+        "deixar o cabo puxar o corpo do encosto",
+        "usar amplitude dolorosa"
+      ]
     },
     {
       "id": "media_f9d06a733c3e5161947f",
-      "namePtBr": "Abdominal Ponderada VariaçãO 6",
+      "namePtBr": "Prancha com rotação lateral",
       "originalFilename": "Abdominal ponderada - Variação 6.gif",
       "relativePath": "gifs/abdominais/Abdominal ponderada - Variação 6.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/abdominais/Abdominal%20ponderada%20-%20Varia%C3%A7%C3%A3o%206.gif",
@@ -107630,10 +108142,98 @@
       "width": 1080,
       "height": 1080,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "abdômen",
+        "core",
+        "prancha",
+        "rotação",
+        "peso corporal"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_f9d06a733c3e5161947f",
+      "canonicalNameEn": "High Plank with Lateral Rotation",
+      "aliasesPtBr": [
+        "prancha alta com rotação",
+        "prancha com elevação de braço e rotação"
+      ],
+      "description": "Variação dinâmica de prancha alta feita com as mãos no chão. A pessoa gira o tronco para um lado e eleva um braço, retornando à prancha antes de alternar, enfatizando oblíquos e estabilidade do core e dos ombros.",
+      "executionSteps": [
+        "Assuma prancha alta com mãos abaixo dos ombros e pernas estendidas.",
+        "Contraia abdômen e glúteos, mantendo o corpo em linha reta.",
+        "Transfira o peso para uma mão e gire o tronco, elevando o braço livre em direção ao teto.",
+        "Retorne com controle à prancha alta sem deixar o quadril cair.",
+        "Alterne o lado na repetição seguinte conforme o GIF."
+      ],
+      "primaryMuscles": [
+        "oblíquos",
+        "reto abdominal"
+      ],
+      "secondaryMuscles": [
+        "transverso do abdômen",
+        "deltoides",
+        "serrátil anterior",
+        "glúteo máximo"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegions": [
+        "abdômen",
+        "ombros",
+        "core"
+      ],
+      "movementPattern": "anti-extensão e rotação do tronco",
+      "exerciseType": "estabilidade e fortalecimento do core",
+      "difficulty": "intermediário",
+      "laterality": "unilateral alternado",
+      "position": "prancha alta",
+      "environments": [
+        "academia",
+        "casa"
+      ],
+      "commonErrors": [
+        "deixar o quadril cair",
+        "rodar apenas o braço sem girar o tronco",
+        "encolher o ombro de apoio",
+        "prender a respiração"
+      ],
+      "executionTips": [
+        "Afaste os pés um pouco para ampliar a base e facilitar o controle.",
+        "Gire o peito junto com o braço, preservando o braço de apoio forte."
+      ],
+      "safetyNotes": "Evite o exercício se o apoio nas mãos causar dor no punho ou ombro. Reduza a amplitude de rotação caso não consiga manter a lombar neutra.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra prancha com as palmas no chão, seguida de rotação lateral do tronco e elevação de um braço.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "prancha alta com rotação",
+        "prancha com elevação de braço e rotação"
+      ],
+      "instructions": [
+        "Assuma prancha alta com mãos abaixo dos ombros e pernas estendidas.",
+        "Contraia abdômen e glúteos, mantendo o corpo em linha reta.",
+        "Transfira o peso para uma mão e gire o tronco, elevando o braço livre em direção ao teto.",
+        "Retorne com controle à prancha alta sem deixar o quadril cair.",
+        "Alterne o lado na repetição seguinte conforme o GIF."
+      ],
+      "bodyRegion": [
+        "abdômen",
+        "ombros",
+        "core"
+      ],
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "deixar o quadril cair",
+        "rodar apenas o braço sem girar o tronco",
+        "encolher o ombro de apoio",
+        "prender a respiração"
+      ]
     },
     {
       "id": "media_fa079314f5ece96b558f",
