@@ -106637,7 +106637,7 @@
     },
     {
       "id": "media_f67ee999bfd92c19abed",
-      "namePtBr": "Crucifixo Inverso Com Halteres",
+      "namePtBr": "Crucifixo inverso inclinado com halteres",
       "originalFilename": "Crucifixo inverso com halteres.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Crucifixo inverso com halteres.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Crucifixo%20inverso%20com%20halteres.gif",
@@ -106647,29 +106647,96 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "musculo",
-          "id": "deltoide_posterior",
-          "label": "Deltoide posterior"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "ombros",
+        "deltoide posterior",
+        "halteres",
+        "crucifixo inverso",
+        "banco inclinado"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_f67ee999bfd92c19abed",
+      "canonicalNameEn": "Incline Dumbbell Reverse Fly",
+      "aliasesPtBr": [
+        "voador inverso inclinado com halteres",
+        "crucifixo inverso no banco inclinado"
+      ],
+      "description": "Variação de crucifixo inverso executada de peito apoiado em banco inclinado. Os braços se abrem lateralmente com leve flexão dos cotovelos, reduzindo o impulso do tronco e direcionando o trabalho ao deltoide posterior e à musculatura estabilizadora das escápulas.",
+      "executionSteps": [
+        "Ajuste o banco em inclinação baixa a moderada e apoie o peito no encosto, com os pés firmes no chão.",
+        "Segure os halteres abaixo dos ombros com palmas voltadas uma para a outra e cotovelos levemente flexionados.",
+        "Abra os braços em arco até a altura dos ombros, aproximando as escápulas sem elevar os ombros.",
+        "Faça uma pausa breve e retorne os halteres devagar até abaixo do banco, sem balançar o corpo."
+      ],
+      "primaryMuscles": [
+        "deltoide posterior"
+      ],
+      "secondaryMuscles": [
+        "trapézio médio",
+        "romboides",
+        "infraespinal"
+      ],
+      "equipment": [
+        "halteres",
+        "banco inclinado"
+      ],
+      "bodyRegions": [
+        "ombros",
+        "costas superiores"
+      ],
+      "movementPattern": "abdução horizontal de ombros",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado de bruços em banco inclinado",
+      "environments": [
+        "academia",
+        "casa"
+      ],
+      "commonErrors": [
+        "usar carga que obriga a encolher os ombros",
+        "estender ou travar os cotovelos",
+        "tirar o peito do banco",
+        "subir os halteres acima da linha dos ombros"
+      ],
+      "executionTips": [
+        "Pense em afastar os halteres para os lados, não em puxá-los para trás.",
+        "Use amplitude controlada e mantenha o pescoço relaxado."
+      ],
+      "safetyNotes": "Escolha carga leve a moderada e interrompa se houver dor na frente do ombro. O apoio do peito deve permanecer estável durante toda a série.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra tronco apoiado em banco inclinado e dois halteres abrindo em arco para os lados, com destaque no deltoide posterior.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "voador inverso inclinado com halteres",
+        "crucifixo inverso no banco inclinado"
+      ],
+      "instructions": [
+        "Ajuste o banco em inclinação baixa a moderada e apoie o peito no encosto, com os pés firmes no chão.",
+        "Segure os halteres abaixo dos ombros com palmas voltadas uma para a outra e cotovelos levemente flexionados.",
+        "Abra os braços em arco até a altura dos ombros, aproximando as escápulas sem elevar os ombros.",
+        "Faça uma pausa breve e retorne os halteres devagar até abaixo do banco, sem balançar o corpo."
+      ],
+      "bodyRegion": [
+        "ombros",
+        "costas superiores"
+      ],
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "usar carga que obriga a encolher os ombros",
+        "estender ou travar os cotovelos",
+        "tirar o peito do banco",
+        "subir os halteres acima da linha dos ombros"
+      ]
     },
     {
       "id": "media_f696304cfae0f00ab6d3",
-      "namePtBr": "MáQuina Articulada High Remada",
+      "namePtBr": "Remada alta articulada",
       "originalFilename": "Lever high remada.gif",
       "relativePath": "gifs/costas/Lever high remada.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/costas/Lever%20high%20remada.gif",
@@ -106679,29 +106746,98 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "costas",
-          "label": "Costas"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "remada",
-          "label": "remada"
-        }
+        "costas",
+        "remada",
+        "máquina",
+        "high row",
+        "dorsal"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_f696304cfae0f00ab6d3",
+      "canonicalNameEn": "Plate-Loaded High Row",
+      "aliasesPtBr": [
+        "high row articulado",
+        "remada alta na máquina"
+      ],
+      "description": "Remada em máquina articulada feita sentado, puxando as alças altas em direção ao tronco. A trajetória diagonal trabalha principalmente o grande dorsal e o redondo maior, enquanto a máquina oferece apoio e uma resistência guiada para a puxada.",
+      "executionSteps": [
+        "Ajuste o assento e o apoio para alcançar as alças acima e à frente do corpo sem perder a postura.",
+        "Segure as manoplas com braços estendidos, peito apoiado ou tronco firme conforme a máquina permitir.",
+        "Puxe as alças em direção à parte alta do tórax, conduzindo os cotovelos para baixo e para trás.",
+        "Aproxime as escápulas sem projetar a cabeça e retorne lentamente até estender os braços com controle."
+      ],
+      "primaryMuscles": [
+        "latíssimo do dorso",
+        "redondo maior"
+      ],
+      "secondaryMuscles": [
+        "bíceps braquial",
+        "romboides",
+        "trapézio médio",
+        "deltoide posterior"
+      ],
+      "equipment": [
+        "máquina articulada de remada alta",
+        "anilhas"
+      ],
+      "bodyRegions": [
+        "costas",
+        "bíceps",
+        "ombros"
+      ],
+      "movementPattern": "puxar diagonal em máquina",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "puxar com os ombros elevados",
+        "arredondar a lombar",
+        "usar impulso do tronco",
+        "deixar a carga bater no final"
+      ],
+      "executionTips": [
+        "Inicie a puxada deprimindo levemente as escápulas.",
+        "Mantenha os punhos alinhados e os cotovelos seguindo a trajetória das alças."
+      ],
+      "safetyNotes": "Ajuste o assento antes de carregar a máquina. Use amplitude que não cause desconforto no ombro e controle o retorno das alavancas.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra pessoa sentada em máquina de alavancas, puxando bilateralmente manoplas altas para o tronco.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "high row articulado",
+        "remada alta na máquina"
+      ],
+      "instructions": [
+        "Ajuste o assento e o apoio para alcançar as alças acima e à frente do corpo sem perder a postura.",
+        "Segure as manoplas com braços estendidos, peito apoiado ou tronco firme conforme a máquina permitir.",
+        "Puxe as alças em direção à parte alta do tórax, conduzindo os cotovelos para baixo e para trás.",
+        "Aproxime as escápulas sem projetar a cabeça e retorne lentamente até estender os braços com controle."
+      ],
+      "bodyRegion": [
+        "costas",
+        "bíceps",
+        "ombros"
+      ],
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "puxar com os ombros elevados",
+        "arredondar a lombar",
+        "usar impulso do tronco",
+        "deixar a carga bater no final"
+      ]
     },
     {
       "id": "media_f708cc4092173d1e2884",
-      "namePtBr": "Abdominal VariaçãO 2",
+      "namePtBr": "Prancha com anilha",
       "originalFilename": "Abdominal - Variação 2.gif",
       "relativePath": "gifs/abdominais/Abdominal - Variação 2.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/abdominais/Abdominal%20-%20Varia%C3%A7%C3%A3o%202.gif",
@@ -106710,14 +106846,102 @@
       "width": 1080,
       "height": 1080,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "abdômen",
+        "core",
+        "prancha",
+        "anilha",
+        "isométrico"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_f708cc4092173d1e2884",
+      "canonicalNameEn": "Weighted Forearm Plank",
+      "aliasesPtBr": [
+        "prancha frontal com peso",
+        "prancha abdominal com anilha"
+      ],
+      "description": "Prancha frontal isométrica com uma anilha posicionada sobre a região pélvica/lombar. A carga adicional aumenta a exigência de estabilização anti-extensão do core, exigindo alinhamento rígido entre cabeça, tronco e pernas.",
+      "executionSteps": [
+        "Apoie os antebraços no solo com cotovelos abaixo dos ombros e as pontas dos pés atrás do corpo.",
+        "Posicione a anilha de modo seguro na parte posterior do tronco, com ajuda quando necessário.",
+        "Contraia abdômen e glúteos para formar uma linha contínua dos calcanhares à cabeça.",
+        "Sustente sem deixar a lombar ceder; retire a carga ou encerre a série quando o alinhamento se perder."
+      ],
+      "primaryMuscles": [
+        "reto abdominal",
+        "transverso do abdome",
+        "oblíquos"
+      ],
+      "secondaryMuscles": [
+        "glúteo máximo",
+        "serrátil anterior",
+        "quadríceps",
+        "eretores da coluna"
+      ],
+      "equipment": [
+        "anilha",
+        "colchonete"
+      ],
+      "bodyRegions": [
+        "abdômen",
+        "core",
+        "ombros"
+      ],
+      "movementPattern": "estabilização isométrica anti-extensão com carga",
+      "exerciseType": "fortalecimento de core",
+      "difficulty": "avançado",
+      "laterality": "bilateral",
+      "position": "prancha nos antebraços",
+      "environments": [
+        "academia",
+        "casa"
+      ],
+      "commonErrors": [
+        "deixar o quadril cair",
+        "colocar a anilha em posição instável",
+        "prender a respiração",
+        "elevar excessivamente o quadril"
+      ],
+      "executionTips": [
+        "Comece sem peso até sustentar a prancha básica com técnica consistente.",
+        "Peça ajuda para posicionar e retirar a anilha com segurança."
+      ],
+      "safetyNotes": "A carga só deve ser usada quando a prancha livre estiver dominada. Interrompa se houver dor lombar ou nos ombros e evite colocar peso diretamente sobre uma lombar arqueada.",
+      "confidence": "HIGH",
+      "visualIdentification": "A animação mostra prancha sobre antebraços e pés, com uma anilha apoiada sobre o tronco baixo.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "prancha frontal com peso",
+        "prancha abdominal com anilha"
+      ],
+      "instructions": [
+        "Apoie os antebraços no solo com cotovelos abaixo dos ombros e as pontas dos pés atrás do corpo.",
+        "Posicione a anilha de modo seguro na parte posterior do tronco, com ajuda quando necessário.",
+        "Contraia abdômen e glúteos para formar uma linha contínua dos calcanhares à cabeça.",
+        "Sustente sem deixar a lombar ceder; retire a carga ou encerre a série quando o alinhamento se perder."
+      ],
+      "bodyRegion": [
+        "abdômen",
+        "core",
+        "ombros"
+      ],
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "deixar o quadril cair",
+        "colocar a anilha em posição instável",
+        "prender a respiração",
+        "elevar excessivamente o quadril"
+      ]
     },
     {
       "id": "media_f7156e60a6804e8ab66c",
-      "namePtBr": "Deitado, Joelho Levantado",
+      "namePtBr": "Elevação lateral deitado no banco",
       "originalFilename": "Deitado, joelho levantado.gif",
       "relativePath": "gifs/abdominais/Deitado, joelho levantado.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/abdominais/Deitado%2C%20joelho%20levantado.gif",
@@ -106726,14 +106950,94 @@
       "width": 1080,
       "height": 1080,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
+      "tags": [
+        "ombros",
+        "deltoide lateral",
+        "halter",
+        "elevação lateral",
+        "unilateral"
+      ],
+      "identificationStatus": "curated",
       "needsManualReview": true,
-      "sourceExerciseId": null
+      "sourceExerciseId": null,
+      "mediaId": "media_f7156e60a6804e8ab66c",
+      "canonicalNameEn": "Side-Lying Dumbbell Lateral Raise",
+      "aliasesPtBr": [
+        "elevação lateral unilateral deitado",
+        "elevação lateral no banco"
+      ],
+      "description": "Variação unilateral de elevação lateral com o corpo apoiado de lado em um banco. O halter parte abaixo do ombro e é elevado em arco até a lateral, reduzindo o balanço e enfatizando o deltoide lateral.",
+      "executionSteps": [
+        "Deite-se de lado no banco, mantendo o tronco estável e o halter na mão de cima.",
+        "Deixe o braço apontar para baixo com cotovelo discretamente flexionado e punho neutro.",
+        "Eleve o halter em arco lateral até o braço se aproximar da linha do ombro, sem rodar o tronco.",
+        "Desça lentamente até a posição inicial e complete as repetições antes de trocar o lado."
+      ],
+      "primaryMuscles": [
+        "deltoide lateral"
+      ],
+      "secondaryMuscles": [
+        "supraespinal",
+        "trapézio superior"
+      ],
+      "equipment": [
+        "halter",
+        "banco"
+      ],
+      "bodyRegions": [
+        "ombros"
+      ],
+      "movementPattern": "abdução unilateral de ombro",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "intermediário",
+      "laterality": "unilateral alternado",
+      "position": "deitado de lado no banco",
+      "environments": [
+        "academia",
+        "casa"
+      ],
+      "commonErrors": [
+        "girar o tronco para levantar mais alto",
+        "encolher o ombro",
+        "dobrar demais o cotovelo",
+        "usar movimento brusco"
+      ],
+      "executionTips": [
+        "Use carga baixa; a alavanca fica mais exigente perto do topo.",
+        "Pare antes de qualquer sensação de pinçamento no ombro."
+      ],
+      "safetyNotes": "Mantenha o banco firme e escolha amplitude confortável. Se houver dor no ombro, reduza a carga ou interrompa o movimento.",
+      "confidence": "MEDIUM",
+      "visualIdentification": "O GIF mostra praticante deitado de lado em banco, elevando um halter com o braço livre em arco lateral.",
+      "reviewRequired": true,
+      "profileComplete": true,
+      "aliases": [
+        "elevação lateral unilateral deitado",
+        "elevação lateral no banco"
+      ],
+      "instructions": [
+        "Deite-se de lado no banco, mantendo o tronco estável e o halter na mão de cima.",
+        "Deixe o braço apontar para baixo com cotovelo discretamente flexionado e punho neutro.",
+        "Eleve o halter em arco lateral até o braço se aproximar da linha do ombro, sem rodar o tronco.",
+        "Desça lentamente até a posição inicial e complete as repetições antes de trocar o lado."
+      ],
+      "bodyRegion": [
+        "ombros"
+      ],
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "girar o tronco para levantar mais alto",
+        "encolher o ombro",
+        "dobrar demais o cotovelo",
+        "usar movimento brusco"
+      ]
     },
     {
       "id": "media_f73ab2ae583e3173f577",
-      "namePtBr": "Perna Deitada Com EláStico E ElevaçãO Do Quadril",
+      "namePtBr": "Flexão de quadril unilateral com elástico deitado",
       "originalFilename": "Perna deitada com elástico e elevação do quadril.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Perna deitada com elástico e elevação do quadril.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Perna%20deitada%20com%20el%C3%A1stico%20e%20eleva%C3%A7%C3%A3o%20do%20quadril.gif",
@@ -106743,24 +107047,101 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "elastico_faixa",
-          "label": "elastico faixa"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "quadril",
+        "elástico",
+        "flexão de quadril",
+        "unilateral",
+        "core"
       ],
-      "identificationStatus": "pending_review",
+      "identificationStatus": "curated",
       "needsManualReview": true,
-      "sourceExerciseId": null
+      "sourceExerciseId": null,
+      "mediaId": "media_f73ab2ae583e3173f577",
+      "canonicalNameEn": "Supine Single-Leg Banded Hip Flexion",
+      "aliasesPtBr": [
+        "elevação de joelho com elástico deitado",
+        "flexão de quadril com faixa elástica"
+      ],
+      "description": "Exercício unilateral em decúbito dorsal no qual uma perna flexiona o quadril contra a resistência de um elástico ancorado à frente. O movimento exige controle do tronco para que a pelve não rode nem arqueie excessivamente durante a elevação do joelho.",
+      "executionSteps": [
+        "Deite-se de costas e fixe o elástico em um ponto baixo e estável à frente do corpo, conforme a trajetória mostrada.",
+        "Prenda a faixa ao pé da perna ativa, deixe a outra perna estendida e organize a lombar de forma neutra.",
+        "Flexione o quadril levando o joelho em direção ao tronco contra a resistência, sem tirar a pelve do solo.",
+        "Retorne devagar até estender a perna e repita antes de trocar o lado."
+      ],
+      "primaryMuscles": [
+        "iliopsoas",
+        "reto femoral"
+      ],
+      "secondaryMuscles": [
+        "reto abdominal",
+        "transverso do abdome",
+        "tensor da fáscia lata"
+      ],
+      "equipment": [
+        "faixa elástica",
+        "colchonete"
+      ],
+      "bodyRegions": [
+        "quadris",
+        "abdômen",
+        "coxas"
+      ],
+      "movementPattern": "flexão unilateral de quadril com resistência elástica",
+      "exerciseType": "fortalecimento e estabilidade",
+      "difficulty": "iniciante",
+      "laterality": "unilateral alternado",
+      "position": "deitado de costas",
+      "environments": [
+        "casa",
+        "academia",
+        "reabilitação"
+      ],
+      "commonErrors": [
+        "arquear a lombar",
+        "deixar a pelve girar",
+        "usar elástico frouxo ou mal ancorado",
+        "acelerar o retorno"
+      ],
+      "executionTips": [
+        "Mantenha as costelas baixas e a pelve pesada no chão.",
+        "Use resistência que permita controlar o final da extensão."
+      ],
+      "safetyNotes": "Confira a fixação do elástico antes de iniciar. Pare se sentir dor na virilha, lombar ou quadril e procure orientação em caso de lesão recente.",
+      "confidence": "MEDIUM",
+      "visualIdentification": "O GIF mostra pessoa deitada de costas usando faixa elástica presa ao pé para flexionar uma perna, com a outra estendida.",
+      "reviewRequired": true,
+      "profileComplete": true,
+      "aliases": [
+        "elevação de joelho com elástico deitado",
+        "flexão de quadril com faixa elástica"
+      ],
+      "instructions": [
+        "Deite-se de costas e fixe o elástico em um ponto baixo e estável à frente do corpo, conforme a trajetória mostrada.",
+        "Prenda a faixa ao pé da perna ativa, deixe a outra perna estendida e organize a lombar de forma neutra.",
+        "Flexione o quadril levando o joelho em direção ao tronco contra a resistência, sem tirar a pelve do solo.",
+        "Retorne devagar até estender a perna e repita antes de trocar o lado."
+      ],
+      "bodyRegion": [
+        "quadris",
+        "abdômen",
+        "coxas"
+      ],
+      "environment": [
+        "casa",
+        "academia",
+        "reabilitação"
+      ],
+      "commonMistakes": [
+        "arquear a lombar",
+        "deixar a pelve girar",
+        "usar elástico frouxo ou mal ancorado",
+        "acelerar o retorno"
+      ]
     },
     {
       "id": "media_f76439f6795fab16f382",
-      "namePtBr": "RotaçãO Externa Do Quadril Sentado Na EláStico",
+      "namePtBr": "Rotação externa de quadril sentado com elástico",
       "originalFilename": "Rotação externa do quadril sentado na elástico.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Rotação externa do quadril sentado na elástico.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Rota%C3%A7%C3%A3o%20externa%20do%20quadril%20sentado%20na%20el%C3%A1stico.gif",
@@ -106770,24 +107151,99 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "elastico_faixa",
-          "label": "elastico faixa"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "quadril",
+        "glúteos",
+        "elástico",
+        "rotação externa",
+        "mobilidade"
       ],
-      "identificationStatus": "pending_review",
+      "identificationStatus": "curated",
       "needsManualReview": true,
-      "sourceExerciseId": null
+      "sourceExerciseId": null,
+      "mediaId": "media_f76439f6795fab16f382",
+      "canonicalNameEn": "Seated Banded Hip External Rotation",
+      "aliasesPtBr": [
+        "abertura de quadril sentado com elástico",
+        "rotação externa de quadril com faixa"
+      ],
+      "description": "Exercício de ativação do quadril executado sentado, afastando o membro contra a resistência de uma faixa elástica. A rotação externa e a abertura controlada do joelho recrutam principalmente glúteo médio e rotadores externos profundos.",
+      "executionSteps": [
+        "Sente-se na borda de um banco ou caixa com tronco alto e pés apoiados.",
+        "Posicione a faixa para criar resistência lateral no membro que se move, mantendo a pelve nivelada.",
+        "Gire o quadril para fora e afaste o joelho/pé conforme a trajetória da faixa, sem inclinar o tronco.",
+        "Volte lentamente à posição inicial e repita os dois lados com a mesma amplitude."
+      ],
+      "primaryMuscles": [
+        "glúteo médio",
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "piriforme",
+        "obturadores",
+        "quadrado femoral"
+      ],
+      "equipment": [
+        "faixa elástica",
+        "banco"
+      ],
+      "bodyRegions": [
+        "quadris",
+        "glúteos"
+      ],
+      "movementPattern": "rotação externa unilateral de quadril",
+      "exerciseType": "ativação e fortalecimento",
+      "difficulty": "iniciante",
+      "laterality": "unilateral alternado",
+      "position": "sentado",
+      "environments": [
+        "casa",
+        "academia",
+        "reabilitação"
+      ],
+      "commonErrors": [
+        "inclinar o tronco para compensar",
+        "mover apenas o pé sem controlar o quadril",
+        "girar a pelve",
+        "usar faixa excessivamente forte"
+      ],
+      "executionTips": [
+        "Faça a abertura lentamente e mantenha o joelho alinhado ao pé.",
+        "A amplitude deve vir do quadril, não de uma torção forçada do joelho."
+      ],
+      "safetyNotes": "Não force rotação dolorosa e use um ponto de apoio estável. Em reabilitação de quadril ou joelho, siga a amplitude definida pelo profissional responsável.",
+      "confidence": "MEDIUM",
+      "visualIdentification": "O GIF mostra pessoa sentada em caixa realizando movimento unilateral do quadril contra uma faixa elástica, sem equipamento de carga livre.",
+      "reviewRequired": true,
+      "profileComplete": true,
+      "aliases": [
+        "abertura de quadril sentado com elástico",
+        "rotação externa de quadril com faixa"
+      ],
+      "instructions": [
+        "Sente-se na borda de um banco ou caixa com tronco alto e pés apoiados.",
+        "Posicione a faixa para criar resistência lateral no membro que se move, mantendo a pelve nivelada.",
+        "Gire o quadril para fora e afaste o joelho/pé conforme a trajetória da faixa, sem inclinar o tronco.",
+        "Volte lentamente à posição inicial e repita os dois lados com a mesma amplitude."
+      ],
+      "bodyRegion": [
+        "quadris",
+        "glúteos"
+      ],
+      "environment": [
+        "casa",
+        "academia",
+        "reabilitação"
+      ],
+      "commonMistakes": [
+        "inclinar o tronco para compensar",
+        "mover apenas o pé sem controlar o quadril",
+        "girar a pelve",
+        "usar faixa excessivamente forte"
+      ]
     },
     {
       "id": "media_f7a6f52882b9578e1634",
-      "namePtBr": "Montado Em Saltos",
+      "namePtBr": "Polichinelo",
       "originalFilename": "Montado em saltos.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Montado em saltos.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Montado%20em%20saltos.gif",
@@ -106796,14 +107252,102 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "cardio",
+        "polichinelo",
+        "peso corporal",
+        "aquecimento",
+        "corpo inteiro"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_f7a6f52882b9578e1634",
+      "canonicalNameEn": "Jumping Jack",
+      "aliasesPtBr": [
+        "salto tesoura",
+        "jumping jack"
+      ],
+      "description": "Exercício cardiovascular de peso corporal em que pernas e braços se afastam simultaneamente durante um salto e retornam juntos no salto seguinte. A cadência eleva a demanda cardiorrespiratória e coordena movimentos amplos de ombros e quadris.",
+      "executionSteps": [
+        "Fique em pé com pés juntos, braços ao lado do corpo e joelhos levemente destravados.",
+        "Salte afastando os pés lateralmente enquanto eleva os braços em arco até acima da cabeça.",
+        "Aterre com joelhos macios, pés apontados para frente e tronco ereto.",
+        "Faça outro salto para reunir os pés e baixar os braços, mantendo ritmo controlado."
+      ],
+      "primaryMuscles": [
+        "deltoides",
+        "quadríceps",
+        "panturrilhas"
+      ],
+      "secondaryMuscles": [
+        "glúteo médio",
+        "glúteo máximo",
+        "abdômen"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegions": [
+        "corpo inteiro",
+        "ombros",
+        "pernas"
+      ],
+      "movementPattern": "salto bilateral com abdução de ombros e quadris",
+      "exerciseType": "cardiovascular e aquecimento",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "casa",
+        "academia",
+        "ao ar livre"
+      ],
+      "commonErrors": [
+        "aterrar com joelhos rígidos",
+        "deixar os joelhos caírem para dentro",
+        "perder a postura do tronco",
+        "aumentar o ritmo antes de dominar o impacto"
+      ],
+      "executionTips": [
+        "Aterre silenciosamente e mantenha uma cadência sustentável.",
+        "Use a versão sem salto, alternando os pés, quando precisar reduzir impacto."
+      ],
+      "safetyNotes": "Prefira superfície estável e tênis adequados. Reduza o impacto ou interrompa se houver dor em joelhos, tornozelos ou quadris.",
+      "confidence": "HIGH",
+      "visualIdentification": "A animação mostra saltos repetidos com abertura e fechamento simultâneo das pernas e elevação dos braços acima da cabeça.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "salto tesoura",
+        "jumping jack"
+      ],
+      "instructions": [
+        "Fique em pé com pés juntos, braços ao lado do corpo e joelhos levemente destravados.",
+        "Salte afastando os pés lateralmente enquanto eleva os braços em arco até acima da cabeça.",
+        "Aterre com joelhos macios, pés apontados para frente e tronco ereto.",
+        "Faça outro salto para reunir os pés e baixar os braços, mantendo ritmo controlado."
+      ],
+      "bodyRegion": [
+        "corpo inteiro",
+        "ombros",
+        "pernas"
+      ],
+      "environment": [
+        "casa",
+        "academia",
+        "ao ar livre"
+      ],
+      "commonMistakes": [
+        "aterrar com joelhos rígidos",
+        "deixar os joelhos caírem para dentro",
+        "perder a postura do tronco",
+        "aumentar o ritmo antes de dominar o impacto"
+      ]
     },
     {
       "id": "media_f7ff455f188239889f95",
-      "namePtBr": "Alternate Com Halteres ElevaçãO Lateral",
+      "namePtBr": "Elevação lateral alternada com halteres",
       "originalFilename": "Alternate com halteres elevação lateral.gif",
       "relativePath": "gifs/ombros/Alternate com halteres elevação lateral.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/ombros/Alternate%20com%20halteres%20eleva%C3%A7%C3%A3o%20lateral.gif",
@@ -106813,25 +107357,89 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "ombros",
-          "label": "Ombros"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "ombros",
+        "deltoide lateral",
+        "halteres",
+        "elevação lateral",
+        "unilateral"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_f7ff455f188239889f95",
+      "canonicalNameEn": "Alternating Dumbbell Lateral Raise",
+      "aliasesPtBr": [
+        "elevação lateral unilateral alternada",
+        "elevação lateral alternada"
+      ],
+      "description": "Variação da elevação lateral realizada em pé com um halter em cada mão, elevando um braço por vez. A alternância permite focar na abdução de cada ombro e manter o tronco estável, com ênfase no deltoide lateral.",
+      "executionSteps": [
+        "Fique em pé segurando os halteres ao lado das coxas, com abdômen firme e cotovelos levemente flexionados.",
+        "Eleve um halter lateralmente em arco até a altura do ombro, mantendo o punho neutro.",
+        "Desça sob controle enquanto inicia a elevação do outro lado, sem inclinar o tronco.",
+        "Continue alternando os braços em ritmo estável e sem ultrapassar a amplitude confortável."
+      ],
+      "primaryMuscles": [
+        "deltoide lateral"
+      ],
+      "secondaryMuscles": [
+        "supraespinal",
+        "trapézio superior",
+        "serrátil anterior"
+      ],
+      "equipment": [
+        "halteres"
+      ],
+      "bodyRegions": [
+        "ombros"
+      ],
+      "movementPattern": "abdução alternada de ombros",
+      "exerciseType": "força e hipertrofia",
+      "difficulty": "iniciante",
+      "laterality": "unilateral alternado",
+      "position": "em pé",
+      "environments": [
+        "academia",
+        "casa"
+      ],
+      "commonErrors": [
+        "balançar o tronco",
+        "elevar os halteres acima dos ombros",
+        "encolher os ombros",
+        "dobrar os cotovelos em excesso"
+      ],
+      "executionTips": [
+        "Use uma carga que permita pausa e descida controlada em cada lado.",
+        "Mantenha as escápulas organizadas e o pescoço relaxado."
+      ],
+      "safetyNotes": "Evite amplitude ou carga que provoque dor no ombro. Reduza a carga se precisar usar impulso lombar para completar as repetições.",
+      "confidence": "HIGH",
+      "visualIdentification": "O GIF mostra pessoa em pé com dois halteres elevando lateralmente um braço por vez, com destaque no deltoide lateral.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "elevação lateral unilateral alternada",
+        "elevação lateral alternada"
+      ],
+      "instructions": [
+        "Fique em pé segurando os halteres ao lado das coxas, com abdômen firme e cotovelos levemente flexionados.",
+        "Eleve um halter lateralmente em arco até a altura do ombro, mantendo o punho neutro.",
+        "Desça sob controle enquanto inicia a elevação do outro lado, sem inclinar o tronco.",
+        "Continue alternando os braços em ritmo estável e sem ultrapassar a amplitude confortável."
+      ],
+      "bodyRegion": [
+        "ombros"
+      ],
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "balançar o tronco",
+        "elevar os halteres acima dos ombros",
+        "encolher os ombros",
+        "dobrar os cotovelos em excesso"
+      ]
     },
     {
       "id": "media_f8658e3fafcfdca558b3",
