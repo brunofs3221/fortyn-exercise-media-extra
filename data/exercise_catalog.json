@@ -26105,7 +26105,7 @@
     },
     {
       "id": "media_407b769c7256c26917b9",
-      "namePtBr": "MáQuina Articulada ExtensãO De TríCeps",
+      "namePtBr": "Rosca Scott na máquina",
       "originalFilename": "Lever extensão de tríceps.gif",
       "relativePath": "gifs/tríceps/Lever extensão de tríceps.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/tr%C3%ADceps/Lever%20extens%C3%A3o%20de%20tr%C3%ADceps.gif",
@@ -26115,29 +26115,97 @@
       "height": 1080,
       "animated": true,
       "tags": [
-        {
-          "dimension": "regiao_corporal",
-          "id": "bracos",
-          "label": "Bracos"
-        },
-        {
-          "dimension": "equipamento",
-          "id": "maquina",
-          "label": "maquina"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "extensao_cotovelo",
-          "label": "extensao cotovelo"
-        }
+        "rosca Scott",
+        "bíceps",
+        "máquina",
+        "flexão de cotovelo",
+        "sentado"
       ],
-      "identificationStatus": "matched_existing_exercise",
+      "identificationStatus": "curated",
       "needsManualReview": false,
-      "sourceExerciseId": "0607"
+      "sourceExerciseId": "0607",
+      "mediaId": "media_407b769c7256c26917b9",
+      "canonicalNameEn": "Machine Preacher Curl",
+      "aliasesPtBr": [
+        "Rosca no banco Scott articulado",
+        "Rosca bíceps na máquina Scott"
+      ],
+      "description": "Rosca de bíceps executada em máquina com apoio inclinado para os braços. O suporte limita a participação do ombro e favorece a flexão controlada dos cotovelos, com ênfase no bíceps braquial.",
+      "executionSteps": [
+        "Ajuste o assento e o apoio para deixar as axilas junto à borda superior do encosto.",
+        "Segure as manoplas com os braços apoiados e cotovelos quase estendidos.",
+        "Flexione os cotovelos levando as manoplas em direção aos ombros, sem tirar os braços do apoio.",
+        "Contraia os bíceps no topo sem elevar os ombros.",
+        "Retorne devagar até alongar os cotovelos sem bater a carga."
+      ],
+      "primaryMuscles": [
+        "bíceps braquial"
+      ],
+      "secondaryMuscles": [
+        "braquial",
+        "braquiorradial",
+        "flexores do antebraço"
+      ],
+      "equipment": [
+        "máquina de rosca Scott"
+      ],
+      "bodyRegions": [
+        "bíceps",
+        "antebraços"
+      ],
+      "movementPattern": "flexão de cotovelo guiada",
+      "type": "força",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "sentado",
+      "environments": [
+        "academia"
+      ],
+      "commonErrors": [
+        "tirar os cotovelos do apoio",
+        "encolher os ombros",
+        "usar carga que obriga a estender o punho",
+        "soltar a carga na descida"
+      ],
+      "executionTips": [
+        "Mantenha o peito e os braços em contato com o apoio.",
+        "Escolha amplitude que não cause desconforto na frente do cotovelo."
+      ],
+      "safetyNotes": "Ajuste a máquina antes de carregar. Evite travar os cotovelos ou forçar o final da extensão se houver sensibilidade em bíceps, punho ou cotovelo.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames mostram praticante sentado com os braços sobre um apoio Scott, flexionando bilateralmente as manoplas da máquina; bíceps está destacado.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Rosca no banco Scott articulado",
+        "Rosca bíceps na máquina Scott"
+      ],
+      "instructions": [
+        "Ajuste o assento e o apoio para deixar as axilas junto à borda superior do encosto.",
+        "Segure as manoplas com os braços apoiados e cotovelos quase estendidos.",
+        "Flexione os cotovelos levando as manoplas em direção aos ombros, sem tirar os braços do apoio.",
+        "Contraia os bíceps no topo sem elevar os ombros.",
+        "Retorne devagar até alongar os cotovelos sem bater a carga."
+      ],
+      "bodyRegion": [
+        "bíceps",
+        "antebraços"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia"
+      ],
+      "commonMistakes": [
+        "tirar os cotovelos do apoio",
+        "encolher os ombros",
+        "usar carga que obriga a estender o punho",
+        "soltar a carga na descida"
+      ],
+      "visualIdentification": "Os frames mostram praticante sentado com os braços sobre um apoio Scott, flexionando bilateralmente as manoplas da máquina; bíceps está destacado."
     },
     {
       "id": "media_40e4027e63f8c7d6a93f",
-      "namePtBr": "ErgôMetro De Esqui",
+      "namePtBr": "Ergômetro de esqui",
       "originalFilename": "Ergômetro de esqui.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Ergômetro de esqui.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Erg%C3%B4metro%20de%20esqui.gif",
@@ -26146,14 +26214,108 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "SkiErg",
+        "ergômetro",
+        "cardio",
+        "corpo inteiro",
+        "puxada vertical"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_40e4027e63f8c7d6a93f",
+      "canonicalNameEn": "Ski Erg",
+      "aliasesPtBr": [
+        "SkiErg",
+        "simulador de esqui"
+      ],
+      "description": "Exercício de condicionamento em ergômetro de esqui no qual as alças são puxadas simultaneamente de cima para baixo enquanto o quadril e o tronco fazem uma dobradiça controlada. A variação combina puxada dos membros superiores, extensão de quadril e trabalho cardiovascular.",
+      "executionSteps": [
+        "Fique de frente para o aparelho, segure as duas alças e comece com os braços elevados.",
+        "Puxe as alças para baixo enquanto dobra levemente quadris e joelhos.",
+        "Conduza os cotovelos para baixo e para trás, terminando com as mãos perto das coxas.",
+        "Retorne estendendo o corpo e elevando os braços de maneira contínua.",
+        "Mantenha um ritmo regular, sem puxões bruscos na lombar ou nos ombros."
+      ],
+      "primaryMuscles": [
+        "latíssimo do dorso",
+        "glúteo máximo",
+        "tríceps braquial"
+      ],
+      "secondaryMuscles": [
+        "reto abdominal",
+        "isquiotibiais",
+        "deltoide posterior",
+        "quadríceps",
+        "bíceps braquial"
+      ],
+      "equipment": [
+        "ergômetro de esqui"
+      ],
+      "bodyRegions": [
+        "costas",
+        "quadril",
+        "braços",
+        "corpo inteiro"
+      ],
+      "movementPattern": "puxada vertical com dobradiça de quadril",
+      "type": "condicionamento",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "academia",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "arredondar excessivamente a lombar",
+        "puxar apenas com os braços",
+        "estender os cotovelos cedo demais",
+        "perder o ritmo ao retornar as alças"
+      ],
+      "executionTips": [
+        "Inicie cada puxada com o tronco organizado e use pernas e quadris para sustentar o gesto.",
+        "Mantenha as alças próximas à linha do corpo na fase final."
+      ],
+      "safetyNotes": "Regule a resistência e mantenha os pés firmes. Interrompa se a técnica causar dor lombar, no ombro ou tontura por esforço excessivo.",
+      "confidence": "HIGH",
+      "visualVerification": "O GIF exibe um SkiErg: alças saem acima da cabeça, descem até as coxas e o praticante faz flexão de quadris e joelhos durante a puxada.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "SkiErg",
+        "simulador de esqui"
+      ],
+      "instructions": [
+        "Fique de frente para o aparelho, segure as duas alças e comece com os braços elevados.",
+        "Puxe as alças para baixo enquanto dobra levemente quadris e joelhos.",
+        "Conduza os cotovelos para baixo e para trás, terminando com as mãos perto das coxas.",
+        "Retorne estendendo o corpo e elevando os braços de maneira contínua.",
+        "Mantenha um ritmo regular, sem puxões bruscos na lombar ou nos ombros."
+      ],
+      "bodyRegion": [
+        "costas",
+        "quadril",
+        "braços",
+        "corpo inteiro"
+      ],
+      "exerciseType": "condicionamento",
+      "environment": [
+        "academia",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "arredondar excessivamente a lombar",
+        "puxar apenas com os braços",
+        "estender os cotovelos cedo demais",
+        "perder o ritmo ao retornar as alças"
+      ],
+      "visualIdentification": "O GIF exibe um SkiErg: alças saem acima da cabeça, descem até as coxas e o praticante faz flexão de quadris e joelhos durante a puxada."
     },
     {
       "id": "media_4197b976e29959797fdb",
-      "namePtBr": "Halteres TaçA ReverêNcia AvançO",
+      "namePtBr": "Avanço curtsy com halter",
       "originalFilename": "Halteres taça reverência avanço.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Halteres taça reverência avanço.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Halteres%20ta%C3%A7a%20rever%C3%AAncia%20avan%C3%A7o.gif",
@@ -26163,29 +26325,106 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "halteres",
-          "label": "halteres"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "avanco",
-          "label": "avanco"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "avanço curtsy",
+        "afundo cruzado",
+        "halter",
+        "glúteos",
+        "quadríceps",
+        "unilateral"
       ],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_4197b976e29959797fdb",
+      "canonicalNameEn": "Dumbbell Goblet Curtsy Lunge",
+      "aliasesPtBr": [
+        "Afundo cruzado com halter",
+        "Passada cruzada com halter em taça"
+      ],
+      "description": "Variação unilateral de avanço em que a perna livre cruza diagonalmente atrás do corpo enquanto um halter é sustentado junto ao tórax. O gesto exige flexão de quadril e joelho com controle frontal da pelve e enfatiza quadríceps e glúteos.",
+      "executionSteps": [
+        "Fique em pé segurando um halter vertical junto ao peito.",
+        "Leve uma perna na diagonal para trás e para o lado oposto da perna de apoio.",
+        "Desça controladamente, flexionando os dois joelhos e mantendo o joelho da frente alinhado ao pé.",
+        "Empurre o solo com a perna da frente para voltar ao centro.",
+        "Complete as repetições de um lado antes de trocar, conforme a proposta."
+      ],
+      "primaryMuscles": [
+        "quadríceps",
+        "glúteo máximo"
+      ],
+      "secondaryMuscles": [
+        "glúteo médio",
+        "adutores",
+        "isquiotibiais",
+        "panturrilhas"
+      ],
+      "equipment": [
+        "halter"
+      ],
+      "bodyRegions": [
+        "coxas",
+        "glúteos",
+        "quadril"
+      ],
+      "movementPattern": "avanço cruzado unilateral",
+      "type": "força",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "em pé",
+      "environments": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "deixar o joelho da frente colapsar para dentro",
+        "cruzar tão longe que a pelve roda",
+        "inclinar excessivamente o tronco",
+        "perder o equilíbrio por usar carga alta"
+      ],
+      "executionTips": [
+        "Faça uma diagonal confortável, mantendo os dois pés apontados de forma natural.",
+        "Use carga que permita controlar a descida e a estabilidade do joelho."
+      ],
+      "safetyNotes": "Mantenha área livre ao redor e reduza a amplitude se houver dor no joelho, quadril ou dificuldade para manter equilíbrio. Evite cruzar atrás em excesso.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames mostram halter junto ao tórax e uma perna cruzando diagonalmente atrás antes do retorno em pé; quadríceps e glúteos são destacados.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Afundo cruzado com halter",
+        "Passada cruzada com halter em taça"
+      ],
+      "instructions": [
+        "Fique em pé segurando um halter vertical junto ao peito.",
+        "Leve uma perna na diagonal para trás e para o lado oposto da perna de apoio.",
+        "Desça controladamente, flexionando os dois joelhos e mantendo o joelho da frente alinhado ao pé.",
+        "Empurre o solo com a perna da frente para voltar ao centro.",
+        "Complete as repetições de um lado antes de trocar, conforme a proposta."
+      ],
+      "bodyRegion": [
+        "coxas",
+        "glúteos",
+        "quadril"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "deixar o joelho da frente colapsar para dentro",
+        "cruzar tão longe que a pelve roda",
+        "inclinar excessivamente o tronco",
+        "perder o equilíbrio por usar carga alta"
+      ],
+      "visualIdentification": "Os frames mostram halter junto ao tórax e uma perna cruzando diagonalmente atrás antes do retorno em pé; quadríceps e glúteos são destacados."
     },
     {
       "id": "media_41d328156424cd3b3dcb",
-      "namePtBr": "Postura De âNgulo Reto Samakonasana",
+      "namePtBr": "Alongamento em pé com braços acima da cabeça",
       "originalFilename": "Postura de ângulo reto samakonasana.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Postura de ângulo reto samakonasana.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Postura%20de%20%C3%A2ngulo%20reto%20samakonasana.gif",
@@ -26195,34 +26434,105 @@
       "height": 360,
       "animated": true,
       "tags": [
-        {
-          "dimension": "equipamento",
-          "id": "peso_corporal",
-          "label": "peso corporal"
-        },
-        {
-          "dimension": "padrao_movimento",
-          "id": "mobilidade_alongamento",
-          "label": "mobilidade alongamento"
-        },
-        {
-          "dimension": "contexto",
-          "id": "sem_equipamento",
-          "label": "Sem equipamento"
-        },
-        {
-          "dimension": "ambiente",
-          "id": "casa",
-          "label": "Casa"
-        }
+        "alongamento",
+        "mobilidade",
+        "braços acima da cabeça",
+        "panturrilha",
+        "em pé"
       ],
-      "identificationStatus": "pending_review",
+      "identificationStatus": "curated",
       "needsManualReview": true,
-      "sourceExerciseId": null
+      "sourceExerciseId": null,
+      "mediaId": "media_41d328156424cd3b3dcb",
+      "canonicalNameEn": "Standing Overhead Reach Stretch",
+      "aliasesPtBr": [
+        "Alongamento corporal em pé",
+        "alongamento de panturrilha e tríceps em pé"
+      ],
+      "description": "Mobilidade em pé em que os braços são elevados acima da cabeça enquanto o praticante cresce pelo tronco e estende os tornozelos. A imagem enfatiza tríceps e panturrilhas; é uma variação de alongamento corporal global, não uma postura de força.",
+      "executionSteps": [
+        "Fique em pé com pés paralelos e postura ereta.",
+        "Eleve os braços acima da cabeça, mantendo os cotovelos próximos às orelhas.",
+        "Alcance o alto sem projetar as costelas excessivamente.",
+        "Eleve os calcanhares de forma suave para alongar e ativar as panturrilhas.",
+        "Desça os calcanhares e os braços com controle, respirando de modo confortável."
+      ],
+      "primaryMuscles": [
+        "tríceps braquial",
+        "gastrocnêmio"
+      ],
+      "secondaryMuscles": [
+        "sóleo",
+        "latíssimo do dorso",
+        "eretores da coluna"
+      ],
+      "equipment": [
+        "peso corporal"
+      ],
+      "bodyRegions": [
+        "braços",
+        "panturrilhas",
+        "tronco"
+      ],
+      "movementPattern": "alongamento global com elevação de braços e calcanhares",
+      "type": "mobilidade",
+      "difficulty": "iniciante",
+      "laterality": "bilateral",
+      "position": "em pé",
+      "environments": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "arquear demais a lombar",
+        "prender a respiração",
+        "perder equilíbrio ao subir nos pés",
+        "forçar o ombro ao elevar os braços"
+      ],
+      "executionTips": [
+        "Mantenha o abdômen levemente ativo para não compensar na lombar.",
+        "Use apoio próximo se precisar de equilíbrio."
+      ],
+      "safetyNotes": "Faça o alcance em amplitude confortável e mantenha apoio disponível se houver instabilidade. Pare se surgir dor no ombro, tornozelo ou lombar.",
+      "confidence": "MEDIUM",
+      "visualVerification": "A sequência mostra pessoa em pé elevando os braços e os calcanhares; tríceps e panturrilhas aparecem destacados. A nomenclatura original sugere uma postura de ioga, mas o gesto visual confirma apenas o alongamento em pé descrito.",
+      "reviewRequired": true,
+      "reviewReason": "A tradução do nome de origem é inconsistente com a postura vista; usar denominação funcional descritiva.",
+      "profileComplete": true,
+      "aliases": [
+        "Alongamento corporal em pé",
+        "alongamento de panturrilha e tríceps em pé"
+      ],
+      "instructions": [
+        "Fique em pé com pés paralelos e postura ereta.",
+        "Eleve os braços acima da cabeça, mantendo os cotovelos próximos às orelhas.",
+        "Alcance o alto sem projetar as costelas excessivamente.",
+        "Eleve os calcanhares de forma suave para alongar e ativar as panturrilhas.",
+        "Desça os calcanhares e os braços com controle, respirando de modo confortável."
+      ],
+      "bodyRegion": [
+        "braços",
+        "panturrilhas",
+        "tronco"
+      ],
+      "exerciseType": "mobilidade",
+      "environment": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "arquear demais a lombar",
+        "prender a respiração",
+        "perder equilíbrio ao subir nos pés",
+        "forçar o ombro ao elevar os braços"
+      ],
+      "visualIdentification": "A sequência mostra pessoa em pé elevando os braços e os calcanhares; tríceps e panturrilhas aparecem destacados. A nomenclatura original sugere uma postura de ioga, mas o gesto visual confirma apenas o alongamento em pé descrito."
     },
     {
       "id": "media_41da759efb2c7a9bcaf4",
-      "namePtBr": "Abdominal Com ElevaçãO Da Perna",
+      "namePtBr": "Abdominal com elevação de joelhos",
       "originalFilename": "Crunch com elevação da perna.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Crunch com elevação da perna.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Crunch%20com%20eleva%C3%A7%C3%A3o%20da%20perna.gif",
@@ -26231,14 +26541,105 @@
       "width": 360,
       "height": 200,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "abdominal",
+        "elevação de joelhos",
+        "core",
+        "peso corporal",
+        "solo"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_41da759efb2c7a9bcaf4",
+      "canonicalNameEn": "Knee Raise Crunch",
+      "aliasesPtBr": [
+        "Crunch com pernas flexionadas",
+        "abdominal infra com joelhos ao peito"
+      ],
+      "description": "Abdominal no solo que combina a elevação dos joelhos com a flexão do tronco. Ao aproximar joelhos e tórax de forma coordenada, a variação trabalha principalmente o reto abdominal, com participação dos flexores do quadril.",
+      "executionSteps": [
+        "Deite-se de costas com joelhos flexionados e mãos apoiadas levemente atrás da cabeça.",
+        "Eleve os joelhos até aproximar as coxas do tronco, sem balançar as pernas.",
+        "Tire as escápulas do solo e aproxime o tórax dos joelhos.",
+        "Faça breve contração abdominal no ponto de encontro.",
+        "Desça tronco e pernas de forma coordenada e controlada."
+      ],
+      "primaryMuscles": [
+        "reto abdominal"
+      ],
+      "secondaryMuscles": [
+        "oblíquos",
+        "flexores do quadril",
+        "reto femoral"
+      ],
+      "equipment": [
+        "peso corporal",
+        "colchonete"
+      ],
+      "bodyRegions": [
+        "abdômen",
+        "core",
+        "quadril"
+      ],
+      "movementPattern": "flexão simultânea de tronco e quadril",
+      "type": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado de costas",
+      "environments": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "puxar a cabeça com as mãos",
+        "usar impulso das pernas",
+        "deixar a lombar arquear na descida",
+        "prender a respiração"
+      ],
+      "executionTips": [
+        "Mantenha o pescoço neutro e pense em aproximar costelas e pelve.",
+        "Reduza a amplitude das pernas se perder a posição lombar."
+      ],
+      "safetyNotes": "Use uma amplitude que não provoque dor lombar ou cervical. Interrompa se o pescoço receber tensão excessiva.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames mostram praticante deitado, elevando joelhos e flexionando o tronco simultaneamente; reto abdominal e flexores do quadril estão destacados.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Crunch com pernas flexionadas",
+        "abdominal infra com joelhos ao peito"
+      ],
+      "instructions": [
+        "Deite-se de costas com joelhos flexionados e mãos apoiadas levemente atrás da cabeça.",
+        "Eleve os joelhos até aproximar as coxas do tronco, sem balançar as pernas.",
+        "Tire as escápulas do solo e aproxime o tórax dos joelhos.",
+        "Faça breve contração abdominal no ponto de encontro.",
+        "Desça tronco e pernas de forma coordenada e controlada."
+      ],
+      "bodyRegion": [
+        "abdômen",
+        "core",
+        "quadril"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "puxar a cabeça com as mãos",
+        "usar impulso das pernas",
+        "deixar a lombar arquear na descida",
+        "prender a respiração"
+      ],
+      "visualIdentification": "Os frames mostram praticante deitado, elevando joelhos e flexionando o tronco simultaneamente; reto abdominal e flexores do quadril estão destacados."
     },
     {
       "id": "media_41eada67854ead35ddd5",
-      "namePtBr": "Recusar Sentar Se",
+      "namePtBr": "Abdominal no banco declinado",
       "originalFilename": "Recusar sentar-se.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Recusar sentar-se.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Recusar%20sentar-se.gif",
@@ -26247,14 +26648,100 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "abdominal declinado",
+        "sit-up",
+        "banco declinado",
+        "core"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_41eada67854ead35ddd5",
+      "canonicalNameEn": "Decline Sit-Up",
+      "aliasesPtBr": [
+        "Abdominal declinado",
+        "sit-up no banco declinado"
+      ],
+      "description": "Abdominal realizado em banco declinado com os pés presos no suporte. O tronco parte próximo ao banco e sobe por flexão abdominal até a posição sentada, aumentando a demanda do reto abdominal pela inclinação.",
+      "executionSteps": [
+        "Prenda os pés no suporte do banco declinado e deite-se com quadris bem apoiados.",
+        "Posicione as mãos de forma leve atrás da cabeça ou cruzadas no peito.",
+        "Flexione o tronco até sentar, conduzindo o movimento pelo abdômen.",
+        "Evite fechar os cotovelos ou puxar a cabeça durante a subida.",
+        "Desça vértebra por vértebra com controle até perto do banco."
+      ],
+      "primaryMuscles": [
+        "reto abdominal"
+      ],
+      "secondaryMuscles": [
+        "oblíquos",
+        "flexores do quadril"
+      ],
+      "equipment": [
+        "banco declinado"
+      ],
+      "bodyRegions": [
+        "abdômen",
+        "core",
+        "quadril"
+      ],
+      "movementPattern": "flexão de tronco em banco declinado",
+      "type": "força",
+      "difficulty": "intermediário",
+      "laterality": "bilateral",
+      "position": "deitado em banco declinado",
+      "environments": [
+        "academia",
+        "casa"
+      ],
+      "commonErrors": [
+        "puxar o pescoço com as mãos",
+        "subir por impulso",
+        "perder contato dos pés com o suporte",
+        "descer rápido demais"
+      ],
+      "executionTips": [
+        "Comece com amplitude que permita manter o abdômen no controle.",
+        "Mantenha o olhar à frente em vez de pressionar o queixo no peito."
+      ],
+      "safetyNotes": "Verifique o travamento do banco e do suporte dos pés. Evite carga adicional ou amplitude excessiva se houver desconforto lombar ou cervical.",
+      "confidence": "HIGH",
+      "visualVerification": "A animação exibe banco declinado com pés fixos e praticante executando subida e descida completa do tronco; o abdômen está destacado.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Abdominal declinado",
+        "sit-up no banco declinado"
+      ],
+      "instructions": [
+        "Prenda os pés no suporte do banco declinado e deite-se com quadris bem apoiados.",
+        "Posicione as mãos de forma leve atrás da cabeça ou cruzadas no peito.",
+        "Flexione o tronco até sentar, conduzindo o movimento pelo abdômen.",
+        "Evite fechar os cotovelos ou puxar a cabeça durante a subida.",
+        "Desça vértebra por vértebra com controle até perto do banco."
+      ],
+      "bodyRegion": [
+        "abdômen",
+        "core",
+        "quadril"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "academia",
+        "casa"
+      ],
+      "commonMistakes": [
+        "puxar o pescoço com as mãos",
+        "subir por impulso",
+        "perder contato dos pés com o suporte",
+        "descer rápido demais"
+      ],
+      "visualIdentification": "A animação exibe banco declinado com pés fixos e praticante executando subida e descida completa do tronco; o abdômen está destacado."
     },
     {
       "id": "media_41eb3447a4ebfe344817",
-      "namePtBr": "Abdominal VariaçãO 6",
+      "namePtBr": "Abdominal lateral na bola suíça",
       "originalFilename": "Abdominal - Variação 6.gif",
       "relativePath": "gifs/abdominais/Abdominal - Variação 6.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/abdominais/Abdominal%20-%20Varia%C3%A7%C3%A3o%206.gif",
@@ -26263,14 +26750,105 @@
       "width": 1080,
       "height": 1080,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "abdominal lateral",
+        "bola suíça",
+        "oblíquos",
+        "core",
+        "unilateral"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_41eb3447a4ebfe344817",
+      "canonicalNameEn": "Stability Ball Side Crunch",
+      "aliasesPtBr": [
+        "Flexão lateral na bola suíça",
+        "abdominal oblíquo na bola"
+      ],
+      "description": "Exercício de oblíquos executado com o tronco apoiado lateralmente sobre uma bola suíça. A flexão lateral aproxima costelas e pelve do lado de trabalho, enquanto as pernas estendidas estabilizam o corpo.",
+      "executionSteps": [
+        "Apoie a lateral do quadril e do tronco na bola suíça e afaste os pés para criar base estável.",
+        "Coloque as mãos atrás da cabeça sem puxar o pescoço.",
+        "Deixe o tronco descer levemente para acompanhar a curvatura da bola.",
+        "Faça flexão lateral elevando o tronco até alinhar o corpo.",
+        "Desça devagar e complete o lado antes de inverter a posição."
+      ],
+      "primaryMuscles": [
+        "oblíquos externos",
+        "oblíquos internos"
+      ],
+      "secondaryMuscles": [
+        "reto abdominal",
+        "quadrado lombar",
+        "glúteo médio"
+      ],
+      "equipment": [
+        "bola suíça"
+      ],
+      "bodyRegions": [
+        "abdômen",
+        "core",
+        "lombar"
+      ],
+      "movementPattern": "flexão lateral de tronco",
+      "type": "força",
+      "difficulty": "intermediário",
+      "laterality": "unilateral",
+      "position": "apoio lateral na bola suíça",
+      "environments": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "deixar a bola rolar sem controle",
+        "girar o tronco em vez de inclinar lateralmente",
+        "puxar a cabeça",
+        "perder alinhamento das pernas"
+      ],
+      "executionTips": [
+        "Mantenha a pelve estável e leve as costelas em direção ao quadril.",
+        "Comece com os pés mais afastados para aumentar a estabilidade."
+      ],
+      "safetyNotes": "Use bola no tamanho correto e em superfície não escorregadia. Mantenha-se perto de apoio até dominar o equilíbrio e pare se houver dor lombar.",
+      "confidence": "HIGH",
+      "visualVerification": "O GIF mostra apoio lateral sobre bola suíça, mãos atrás da cabeça e flexão lateral repetida do tronco; os oblíquos estão destacados.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Flexão lateral na bola suíça",
+        "abdominal oblíquo na bola"
+      ],
+      "instructions": [
+        "Apoie a lateral do quadril e do tronco na bola suíça e afaste os pés para criar base estável.",
+        "Coloque as mãos atrás da cabeça sem puxar o pescoço.",
+        "Deixe o tronco descer levemente para acompanhar a curvatura da bola.",
+        "Faça flexão lateral elevando o tronco até alinhar o corpo.",
+        "Desça devagar e complete o lado antes de inverter a posição."
+      ],
+      "bodyRegion": [
+        "abdômen",
+        "core",
+        "lombar"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "deixar a bola rolar sem controle",
+        "girar o tronco em vez de inclinar lateralmente",
+        "puxar a cabeça",
+        "perder alinhamento das pernas"
+      ],
+      "visualIdentification": "O GIF mostra apoio lateral sobre bola suíça, mãos atrás da cabeça e flexão lateral repetida do tronco; os oblíquos estão destacados."
     },
     {
       "id": "media_427845c31b3370101bf7",
-      "namePtBr": "OndulaçãO De ConcentraçãO",
+      "namePtBr": "Rosca concentração com halter",
       "originalFilename": "Ondulação de concentração.gif",
       "relativePath": "gifs/Exercícios sem marca d'água/Ondulação de concentração.gif",
       "mediaUrl": "https://raw.githubusercontent.com/brunofs3221/fortyn-exercise-media-extra/main/gifs/Exerc%C3%ADcios%20sem%20marca%20d'%C3%A1gua/Ondula%C3%A7%C3%A3o%20de%20concentra%C3%A7%C3%A3o.gif",
@@ -26279,10 +26857,99 @@
       "width": 360,
       "height": 360,
       "animated": true,
-      "tags": [],
-      "identificationStatus": "pending_review",
-      "needsManualReview": true,
-      "sourceExerciseId": null
+      "tags": [
+        "rosca concentração",
+        "bíceps",
+        "halter",
+        "unilateral",
+        "banco"
+      ],
+      "identificationStatus": "curated",
+      "needsManualReview": false,
+      "sourceExerciseId": null,
+      "mediaId": "media_427845c31b3370101bf7",
+      "canonicalNameEn": "Dumbbell Concentration Curl",
+      "aliasesPtBr": [
+        "Rosca concentrada",
+        "rosca unilateral sentado"
+      ],
+      "description": "Rosca unilateral sentada com o cotovelo apoiado na face interna da coxa. O apoio reduz o balanço do tronco e permite concentrar a flexão do cotovelo no bíceps, usando um halter.",
+      "executionSteps": [
+        "Sente-se na ponta de um banco com as pernas afastadas e segure o halter em uma mão.",
+        "Apoie o cotovelo do braço de trabalho contra a parte interna da coxa.",
+        "Comece com o braço apontando para baixo e o punho alinhado.",
+        "Flexione o cotovelo levando o halter em direção ao ombro sem mover o cotovelo.",
+        "Contraia no topo e desça devagar até quase estender o braço."
+      ],
+      "primaryMuscles": [
+        "bíceps braquial"
+      ],
+      "secondaryMuscles": [
+        "braquial",
+        "braquiorradial",
+        "flexores do antebraço"
+      ],
+      "equipment": [
+        "halter",
+        "banco"
+      ],
+      "bodyRegions": [
+        "bíceps",
+        "antebraços"
+      ],
+      "movementPattern": "flexão unilateral de cotovelo",
+      "type": "força",
+      "difficulty": "iniciante",
+      "laterality": "unilateral",
+      "position": "sentado",
+      "environments": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonErrors": [
+        "tirar o cotovelo da coxa",
+        "balançar o tronco",
+        "girar o punho para compensar carga",
+        "encurtar a descida"
+      ],
+      "executionTips": [
+        "Mantenha o ombro relaxado e deixe o cotovelo ser o eixo do movimento.",
+        "Use uma cadência lenta para não precisar de impulso."
+      ],
+      "safetyNotes": "Apoie os pés firmemente e use carga que permita controlar o punho. Pare se houver dor aguda no cotovelo ou punho.",
+      "confidence": "HIGH",
+      "visualVerification": "Os frames mostram praticante sentado, cotovelo apoiado na coxa e halter subindo por flexão unilateral de cotovelo; bíceps está destacado.",
+      "reviewRequired": false,
+      "profileComplete": true,
+      "aliases": [
+        "Rosca concentrada",
+        "rosca unilateral sentado"
+      ],
+      "instructions": [
+        "Sente-se na ponta de um banco com as pernas afastadas e segure o halter em uma mão.",
+        "Apoie o cotovelo do braço de trabalho contra a parte interna da coxa.",
+        "Comece com o braço apontando para baixo e o punho alinhado.",
+        "Flexione o cotovelo levando o halter em direção ao ombro sem mover o cotovelo.",
+        "Contraia no topo e desça devagar até quase estender o braço."
+      ],
+      "bodyRegion": [
+        "bíceps",
+        "antebraços"
+      ],
+      "exerciseType": "força",
+      "environment": [
+        "casa",
+        "academia",
+        "estúdio"
+      ],
+      "commonMistakes": [
+        "tirar o cotovelo da coxa",
+        "balançar o tronco",
+        "girar o punho para compensar carga",
+        "encurtar a descida"
+      ],
+      "visualIdentification": "Os frames mostram praticante sentado, cotovelo apoiado na coxa e halter subindo por flexão unilateral de cotovelo; bíceps está destacado."
     },
     {
       "id": "media_42807f7442d9d2bdfb1f",
