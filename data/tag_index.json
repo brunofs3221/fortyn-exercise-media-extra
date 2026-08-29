@@ -80,6 +80,11 @@
     "label": "Casa"
   },
   {
+    "dimension": "equipamento",
+    "id": "corda",
+    "label": "Corda"
+  },
+  {
     "dimension": "grupo_muscular",
     "id": "corpo_inteiro",
     "label": "Corpo inteiro"
@@ -108,6 +113,11 @@
     "dimension": "equipamento",
     "id": "halteres",
     "label": "Halteres"
+  },
+  {
+    "dimension": "equipamento",
+    "id": "kettlebell",
+    "label": "Kettlebell"
   },
   {
     "dimension": "equipamento",
@@ -160,9 +170,24 @@
     "label": "Quadril"
   },
   {
+    "dimension": "equipamento",
+    "id": "remo",
+    "label": "Remo"
+  },
+  {
+    "dimension": "equipamento",
+    "id": "rolo_de_espuma",
+    "label": "Rolo de espuma"
+  },
+  {
     "dimension": "condicao_equipamento",
     "id": "sem_aparelhos",
     "label": "Sem aparelhos"
+  },
+  {
+    "dimension": "equipamento",
+    "id": "step_caixa",
+    "label": "Step/Caixa"
   },
   {
     "dimension": "grupo_muscular",

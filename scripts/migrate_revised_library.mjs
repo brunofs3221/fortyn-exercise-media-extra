@@ -8,7 +8,11 @@ const apply = process.argv.includes('--apply');
 const catalogPath = path.join(repo, 'data', 'exercise_catalog.json');
 const reportPath = path.join(repo, 'reports', 'revised_library_migration_report.json');
 const csvPath = path.join(repo, 'reports', 'exercise_migration.csv');
+const sourceTruthPath = path.join(repo, 'reports', 'source_of_truth.csv');
+const sourceTruthJsonPath = path.join(repo, 'reports', 'source_of_truth.json');
+const diffPath = path.join(repo, 'reports', 'migration_diff.csv');
 const backupPath = path.join(repo, 'reports', 'exercise_catalog.pre_revised_migration.json');
+const correctionBackupPath = path.join(repo, 'reports', 'exercise_catalog.pre_source_truth_correction.json');
 
 const clean = (value = '') => String(value).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[\\/]/g, '/').replace(/\s+/g, ' ').trim();
 const base = (value = '') => path.posix.basename(String(value).replace(/\\/g, '/')).replace(/\.gif$/i, '');
@@ -23,6 +27,8 @@ const environments = new Set(['Academia','Casa','Ao ar livre']);
 const obsoleteTag = /\b(reabilita[cç][aã]o|idosos?|obesos?|masculino|feminino|qualquer genero|casa com|adu[cç][aã]o horizontal)\b/i;
 function legacyTagToOfficial(value) {
   const tag = clean(value);
+  const exact = [...official].find((label) => clean(label) === tag);
+  if (exact) return exact;
   if (/corpo inteiro|full body/.test(tag)) return 'Corpo inteiro'; if (/abdomen|abdominal|\bcore\b|obliqu/.test(tag)) return 'Abdômen/Core';
   if (/abdu/.test(tag)) return 'Abdutores'; if (/adutor/.test(tag)) return 'Adutores';
   if (/antebrac/.test(tag)) return 'Antebraços'; if (/bicep/.test(tag)) return 'Bíceps'; if (/tricep/.test(tag)) return 'Tríceps';
@@ -57,7 +63,10 @@ function field(text, labels) {
 
 function parseText(file, folder) {
   const text = fs.readFileSync(file, 'utf8').replace(/\r/g, '');
-  const secondaryBlock = text.match(/(?:^|\n)\s*(?:TAGS? SECUND[AÁ]RIAS?|CLASSIFICA[CÇ][AÃ]O SECUND[AÁ]RIA)\s*:\s*\n([\s\S]*?)(?=\n\s*(?:DESCRI[CÇ][AÃ]O|COMO FAZER|INSTRU[CÇ][OÕ]ES|OBSERVA[CÇ][AÃ]O|$))/im)?.[1] || '';
+  // Some reviewed files annotate the label (for example "TAGS
+  // SECUNDÁRIAS (máximo 3):").  The parentheses are metadata, not part of
+  // the tag values, so accept them while still stopping at the next field.
+  const secondaryBlock = text.match(/(?:^|\n)\s*(?:TAGS? SECUND[AÁ]RIAS?|CLASSIFICA[CÇ][AÃ]O SECUND[AÁ]RIA)(?:\s*\([^\n]*\))?\s*:\s*\n([\s\S]*?)(?=\n\s*(?:DESCRI[CÇ][AÃ]O|COMO FAZER|INSTRU[CÇ][OÕ]ES|OBSERVA[CÇ][AÃ]O|$))/im)?.[1] || '';
   const secondary = secondaryBlock.split('\n').map((line) => line.replace(/^\s*[-*•]\s*/, '').trim()).filter(Boolean);
   const description = field(text, ['DESCRIÇÃO DE COMO FAZER','DESCRICAO DE COMO FAZER','DESCRIÇÃO','DESCRICAO','COMO FAZER']);
   return {
@@ -65,7 +74,7 @@ function parseText(file, folder) {
     name: field(text, ['NOME RECOMENDADO','NOME CORRETO','NOME NOVO']) || path.basename(folder),
     oldName: field(text, ['NOME ATUAL NOS SEUS ARQUIVOS','NOME ATUAL','NOME ANTIGO']),
     original: field(text, ['ARQUIVO ORIGINAL','GIF ORIGINAL']),
-    newFile: field(text, ['ARQUIVO NOVO','GIF NOVO']),
+    newFile: field(text, ['ARQUIVO GIF ORGANIZADO','ARQUIVO NOVO','GIF NOVO']),
     primary: field(text, ['TAG PRINCIPAL','GRUPO PRINCIPAL','CATEGORIA PRINCIPAL']),
     secondary, description
   };
@@ -100,16 +109,20 @@ function semantic(record, old, fallback = old) {
   if (!equipment.length) equipment.push(...canonicalLegacy(fallback.equipment, equipments));
   const environment = raw.filter((item) => environments.has(item));
   if (!environment.length) environment.push(...canonicalLegacy(fallback.environment || fallback.environments, environments));
-  const level = raw.includes('Avançado') ? 'Avançado' : ({ iniciante: 'Iniciante', intermediario: 'Intermediário', avancado: 'Avançado' }[clean(old.difficulty)] || 'Intermediário');
+  const levels = { iniciante: 'Iniciante', intermediario: 'Intermediário', avancado: 'Avançado' };
+  const level = raw.includes('Avançado') ? 'Avançado' : (levels[clean(old.level)] || levels[clean(fallback.level)] || levels[clean(old.difficulty)] || levels[clean(fallback.difficulty)] || '');
   const tags = unique([primary, ...raw.filter((item) => item !== primary && item !== 'Avançado')]).slice(0, 4);
   return { primary, modality, secondaryMuscleGroups, equipment, environment, level, tags, invalid };
 }
 
 function csv(value) { return `"${String(value ?? '').replaceAll('"', '""')}"`; }
+function textValue(value) { return Array.isArray(value) ? value.join(' | ') : value || ''; }
 if (!fs.existsSync(sourceRoot)) throw new Error(`Revised library not found: ${sourceRoot}`);
 const catalog = JSON.parse(fs.readFileSync(catalogPath, 'utf8'));
 const baselineCatalog = fs.existsSync(backupPath) ? JSON.parse(fs.readFileSync(backupPath, 'utf8')) : catalog;
 const baselineById = new Map(baselineCatalog.exercises.map((item) => [item.id, item]));
+const correctionBaseline = fs.existsSync(correctionBackupPath) ? JSON.parse(fs.readFileSync(correctionBackupPath, 'utf8')) : catalog;
+const correctionBeforeById = new Map(correctionBaseline.exercises.map((item) => [item.id, item]));
 const sources = sourceExercises();
 const exercises = catalog.exercises;
 const byOriginal = new Map();
@@ -121,6 +134,17 @@ const mapped = [], unmatched = [], ambiguous = [], invalidSourceTags = [];
 for (const source of sources) {
   const candidates = unique([source.original, base(source.original), source.newFile, ...source.gifs, source.oldName].map(clean)).flatMap((key) => byOriginal.get(key) || []);
   let matches = [...new Map(candidates.map((item) => [item.id, item])).values()];
+  // A reviewed GIF is the strongest matching signal.  Use its hash before an
+  // old filename/path: some legacy filenames were reused for another motion.
+  if (matches.length > 1 && source.gifs.length === 1) {
+    const sourceGif = path.join(source.folder, source.gifs[0]);
+    const sourceHash = createHash('sha256').update(fs.readFileSync(sourceGif)).digest('hex');
+    const hashMatches = matches.filter((item) => {
+      const mediaFile = path.join(repo, item.relativePath);
+      return fs.existsSync(mediaFile) && createHash('sha256').update(fs.readFileSync(mediaFile)).digest('hex') === sourceHash;
+    });
+    if (hashMatches.length === 1) matches = hashMatches;
+  }
   // The catalogue contains legacy copies with the same basename.  The reviewed
   // TXT retains the original folder, which is the deterministic 1:1 selector.
   const originalPath = clean(source.original);
@@ -130,15 +154,6 @@ for (const source of sources) {
     const sourceFolder = clean(String(source.original).replace(/\\/g, '/').split('/')[0]).replace(/[^a-z0-9]/g, '');
     const folderMatches = matches.filter((item) => clean(String(item.relativePath || '').replace(/^gifs\//i, '').split('/')[0]).replace(/[^a-z0-9]/g, '') === sourceFolder);
     if (folderMatches.length === 1) matches = folderMatches;
-  }
-  if (matches.length > 1 && source.gifs.length === 1) {
-    const sourceGif = path.join(source.folder, source.gifs[0]);
-    const sourceHash = createHash('sha256').update(fs.readFileSync(sourceGif)).digest('hex');
-    const hashMatches = matches.filter((item) => {
-      const mediaFile = path.join(repo, item.relativePath);
-      return fs.existsSync(mediaFile) && createHash('sha256').update(fs.readFileSync(mediaFile)).digest('hex') === sourceHash;
-    });
-    if (hashMatches.length === 1) matches = hashMatches;
   }
   if (matches.length === 1) {
     const semanticData = semantic(source, matches[0], baselineById.get(matches[0].id) || matches[0]);
@@ -153,19 +168,46 @@ const report = {
   generatedAt: new Date().toISOString(), sourceRoot, inventory: { exerciseFolders: sources.length, gifs: sourceGifCount, txt: sources.length, catalogRecords: exercises.length },
   reconciliation: { mapped: mapped.length, unmatched: unmatched.length, ambiguous: ambiguous.length, catalogWithoutRevisedSource: exercises.length - mappedIds.size, duplicateCatalogMatches: ambiguous.length, invalidSourceTags },
   mappedIds: [...mappedIds].sort(),
+  sourceSecondaryTagDistribution: Object.fromEntries(sources.reduce((counts, item) => { const key = String(item.secondary.length); counts.set(key, (counts.get(key) || 0) + 1); return counts; }, new Map())),
   unmatched, ambiguous,
   proposedTaxonomy: { primaryMuscleGroups: [...muscles], modalities: [...modalities], equipment: [...equipments], environments: [...environments], levels: ['Iniciante','Intermediário','Avançado'], equipmentCondition: ['Sem aparelhos'] }
 };
 fs.mkdirSync(path.dirname(reportPath), { recursive: true });
 fs.writeFileSync(reportPath, `${JSON.stringify(report, null, 2)}\n`);
+const sourceRows = [['source_folder','nome_recomendado','nome_antigo','arquivo_original','arquivo_gif_organizado','gif_encontrado','tag_principal','tags_secundarias','descricao']];
+for (const source of sources) sourceRows.push([source.folder, source.name, source.oldName, source.original, source.newFile, source.gifs.join(' | '), source.primary, source.secondary.join(' | '), source.description]);
+fs.writeFileSync(sourceTruthPath, `${sourceRows.map((row) => row.map(csv).join(',')).join('\n')}\n`);
+const sourceTruth = mapped.map(({ source, old, semantic: data }) => ({
+  id: old.id, sourceFolder: source.folder, name: source.name, oldName: source.oldName,
+  originalFile: source.original, organizedFile: source.newFile, sourceGif: source.gifs,
+  primaryTag: source.primary, secondaryTags: source.secondary, description: source.description,
+  expected: { primaryMuscleGroup: data.primary, secondaryMuscleGroups: data.secondaryMuscleGroups, equipment: data.equipment, modality: data.modality, environments: data.environment, tags: data.tags }
+}));
+fs.writeFileSync(sourceTruthJsonPath, `${JSON.stringify(sourceTruth, null, 2)}\n`);
 const rows = [['id','nome_antigo','nome_novo','gif_antigo','gif_novo','classificacao_antiga','grupo_principal_novo','secundarias_novas','descricao_atualizada','status','observacao']];
 for (const { source, old, semantic: data } of mapped) rows.push([old.id, old.namePtBr, source.name, old.relativePath, old.relativePath, tagLabels(old.tags).join(' | '), data.primary, [...data.secondaryMuscleGroups, ...data.equipment, ...data.environment].join(' | '), Boolean(source.description), 'mapped', 'ID e mídia preservados']);
 for (const item of unmatched) rows.push(['', item.oldName, item.folder, '', item.gif.join(' | '), '', '', '', Boolean(item.description), 'unmatched', item.original]);
 for (const item of ambiguous) rows.push(['', '', item.folder, '', '', '', '', '', '', 'ambiguous', item.candidates.join(' | ')]);
 fs.writeFileSync(csvPath, `${rows.map((row) => row.map(csv).join(',')).join('\n')}\n`);
+const diffRows = [['id','source_folder','campo','valor_antes','valor_source','valor_depois','status']];
+const same = (left, right) => JSON.stringify(left) === JSON.stringify(right);
+for (const { source, old, semantic: data } of mapped) {
+  const beforeItem = correctionBeforeById.get(old.id) || old;
+  const expectedSecondary = [...data.secondaryMuscleGroups, ...data.equipment, ...data.environment];
+  const candidates = [
+    ['nome', beforeItem.namePtBr || '', source.name, source.name],
+    ['descricao', beforeItem.description || '', source.description || '', source.description || old.description || ''],
+    ['tag_principal', beforeItem.primaryMuscleGroup || '', source.primary, data.primary],
+    ['tags_secundarias', [...(beforeItem.secondaryMuscleGroups || []), ...(beforeItem.equipment || []), ...(beforeItem.environments || beforeItem.environment || [])], source.secondary, expectedSecondary],
+    ['tags_compatibilidade', tagLabels(beforeItem.tags), [source.primary, ...source.secondary], data.tags]
+  ];
+  for (const [fieldName, before, sourceValue, after] of candidates) if (!same(before, after)) diffRows.push([old.id, source.folder, fieldName, textValue(before), textValue(sourceValue), textValue(after), 'CORRIGIDO']);
+}
+fs.writeFileSync(diffPath, `${diffRows.map((row) => row.map(csv).join(',')).join('\n')}\n`);
 
 if (apply) {
   if (!fs.existsSync(backupPath)) fs.copyFileSync(catalogPath, backupPath);
+  if (!fs.existsSync(correctionBackupPath)) fs.copyFileSync(catalogPath, correctionBackupPath);
   for (const { source, old, semantic: data } of mapped) {
     // Re-running the migration must preserve the first legacy name rather
     // than replacing it with the already-migrated display name.
