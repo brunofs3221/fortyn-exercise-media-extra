@@ -23,7 +23,7 @@ const environments = new Set(['Academia','Casa','Ao ar livre']);
 const obsoleteTag = /\b(reabilita[cç][aã]o|idosos?|obesos?|masculino|feminino|qualquer genero|casa com|adu[cç][aã]o horizontal)\b/i;
 function legacyTagToOfficial(value) {
   const tag = clean(value);
-  if (/abdomen|abdominal|\bcore\b|obliqu/.test(tag)) return 'Abdômen/Core';
+  if (/corpo inteiro|full body/.test(tag)) return 'Corpo inteiro'; if (/abdomen|abdominal|\bcore\b|obliqu/.test(tag)) return 'Abdômen/Core';
   if (/abdu/.test(tag)) return 'Abdutores'; if (/adutor/.test(tag)) return 'Adutores';
   if (/antebrac/.test(tag)) return 'Antebraços'; if (/bicep/.test(tag)) return 'Bíceps'; if (/tricep/.test(tag)) return 'Tríceps';
   if (/costas|dorsal|latissimo|romboid|trapez/.test(tag)) return 'Costas'; if (/glute/.test(tag)) return 'Glúteos';
@@ -152,6 +152,7 @@ const sourceGifCount = sources.reduce((sum, item) => sum + item.gifs.length, 0);
 const report = {
   generatedAt: new Date().toISOString(), sourceRoot, inventory: { exerciseFolders: sources.length, gifs: sourceGifCount, txt: sources.length, catalogRecords: exercises.length },
   reconciliation: { mapped: mapped.length, unmatched: unmatched.length, ambiguous: ambiguous.length, catalogWithoutRevisedSource: exercises.length - mappedIds.size, duplicateCatalogMatches: ambiguous.length, invalidSourceTags },
+  mappedIds: [...mappedIds].sort(),
   unmatched, ambiguous,
   proposedTaxonomy: { primaryMuscleGroups: [...muscles], modalities: [...modalities], equipment: [...equipments], environments: [...environments], levels: ['Iniciante','Intermediário','Avançado'], equipmentCondition: ['Sem aparelhos'] }
 };
@@ -166,7 +167,9 @@ fs.writeFileSync(csvPath, `${rows.map((row) => row.map(csv).join(',')).join('\n'
 if (apply) {
   if (!fs.existsSync(backupPath)) fs.copyFileSync(catalogPath, backupPath);
   for (const { source, old, semantic: data } of mapped) {
-    const oldName = old.namePtBr;
+    // Re-running the migration must preserve the first legacy name rather
+    // than replacing it with the already-migrated display name.
+    const oldName = old.oldName || old.namePtBr;
     old.namePtBr = source.name;
     old.oldName = oldName;
     old.aliases = unique([...(old.aliases || []), oldName, source.oldName].filter((item) => clean(item) !== clean(source.name)));

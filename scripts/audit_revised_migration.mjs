@@ -7,7 +7,8 @@ const report = JSON.parse(fs.readFileSync(path.join(repo, 'reports', 'revised_li
 const official = new Set(['Abdutores','Abdômen/Core','Academia','Adutores','Alongamento','Anilhas','Antebraços','Ao ar livre','Avançado','Banco','Barra','Barra fixa','Bicicleta','Bola','Bíceps','Cardio','Casa','Corda','Corpo inteiro','Costas','Elástico','Esteira','Glúteos','Halteres','Kettlebell','Mobilidade','Máquina','Ombros','Panturrilhas','Peito','Pescoço','Polia/Cabo','Posterior de coxa','Quadril','Quadríceps','Remo','Rolo de espuma','Sem aparelhos','Step/Caixa','Tríceps']);
 const tagLabels = (tags) => Array.isArray(tags) ? tags.map((tag) => typeof tag === 'string' ? tag : tag?.label || '').filter(Boolean) : [];
 const deprecated = /\b(reabilita[cç][aã]o|idosos?|obesos?|masculino|feminino|qualquer genero|casa com|adu[cç][aã]o horizontal)\b/i;
-const migrated = catalog.exercises.filter((item) => item.oldName);
+const migratedIds = new Set(report.mappedIds || []);
+const migrated = catalog.exercises.filter((item) => migratedIds.has(item.id));
 const invalidMapped = migrated.filter((item) => !item.namePtBr || !item.description || !item.primaryMuscleGroup || !item.modality || !Array.isArray(item.equipment) || !Array.isArray(item.environments) || !item.level || tagLabels(item.tags).some((tag) => !official.has(tag)));
 const deprecatedAnywhere = catalog.exercises.filter((item) => tagLabels(item.tags).some((tag) => deprecated.test(tag)));
 const invalidTagsAnywhere = catalog.exercises.filter((item) => !tagLabels(item.tags).length || tagLabels(item.tags).some((tag) => !official.has(tag) || tag === 'Avançado'));
