@@ -1,18 +1,78 @@
 [
   {
-    "dimension": "musculo",
-    "id": "deltoide_posterior",
-    "label": "Deltoide posterior"
+    "dimension": "grupo_muscular",
+    "id": "abdomen_core",
+    "label": "Abdômen/Core"
+  },
+  {
+    "dimension": "grupo_muscular",
+    "id": "abdutores",
+    "label": "Abdutores"
+  },
+  {
+    "dimension": "ambiente",
+    "id": "academia",
+    "label": "Academia"
+  },
+  {
+    "dimension": "grupo_muscular",
+    "id": "adutores",
+    "label": "Adutores"
+  },
+  {
+    "dimension": "modalidade",
+    "id": "alongamento",
+    "label": "Alongamento"
   },
   {
     "dimension": "equipamento",
-    "id": "cabo_polia",
-    "label": "cabo polia"
+    "id": "anilhas",
+    "label": "Anilhas"
+  },
+  {
+    "dimension": "grupo_muscular",
+    "id": "antebracos",
+    "label": "Antebraços"
+  },
+  {
+    "dimension": "ambiente",
+    "id": "ao_ar_livre",
+    "label": "Ao ar livre"
   },
   {
     "dimension": "equipamento",
-    "id": "halteres",
-    "label": "halteres"
+    "id": "banco",
+    "label": "Banco"
+  },
+  {
+    "dimension": "equipamento",
+    "id": "barra",
+    "label": "Barra"
+  },
+  {
+    "dimension": "equipamento",
+    "id": "barra_fixa",
+    "label": "Barra fixa"
+  },
+  {
+    "dimension": "grupo_muscular",
+    "id": "biceps",
+    "label": "Bíceps"
+  },
+  {
+    "dimension": "equipamento",
+    "id": "bicicleta",
+    "label": "Bicicleta"
+  },
+  {
+    "dimension": "equipamento",
+    "id": "bola",
+    "label": "Bola"
+  },
+  {
+    "dimension": "modalidade",
+    "id": "cardio",
+    "label": "Cardio"
   },
   {
     "dimension": "ambiente",
@@ -21,127 +81,107 @@
   },
   {
     "dimension": "equipamento",
-    "id": "kettlebell",
-    "label": "kettlebell"
+    "id": "corda",
+    "label": "Corda"
   },
   {
-    "dimension": "padrao_movimento",
-    "id": "hinge",
-    "label": "hinge"
-  },
-  {
-    "dimension": "equipamento",
-    "id": "peso_corporal",
-    "label": "peso corporal"
-  },
-  {
-    "dimension": "padrao_movimento",
-    "id": "mobilidade_alongamento",
-    "label": "mobilidade alongamento"
-  },
-  {
-    "dimension": "contexto",
-    "id": "sem_equipamento",
-    "label": "Sem equipamento"
-  },
-  {
-    "dimension": "status",
-    "id": "imagem_estatica",
-    "label": "Imagem estática — sem animação"
-  },
-  {
-    "dimension": "regiao_corporal",
-    "id": "pernas",
-    "label": "Pernas"
-  },
-  {
-    "dimension": "padrao_movimento",
-    "id": "agachamento",
-    "label": "agachamento"
-  },
-  {
-    "dimension": "equipamento",
-    "id": "barra_reta",
-    "label": "barra reta"
-  },
-  {
-    "dimension": "padrao_movimento",
-    "id": "empurrar",
-    "label": "empurrar"
-  },
-  {
-    "dimension": "regiao_corporal",
-    "id": "panturrilhas",
-    "label": "Panturrilhas"
-  },
-  {
-    "dimension": "regiao_corporal",
+    "dimension": "grupo_muscular",
     "id": "costas",
     "label": "Costas"
   },
   {
-    "dimension": "padrao_movimento",
-    "id": "puxada_vertical",
-    "label": "puxada vertical"
+    "dimension": "equipamento",
+    "id": "elastico",
+    "label": "Elástico"
+  },
+  {
+    "dimension": "equipamento",
+    "id": "esteira",
+    "label": "Esteira"
+  },
+  {
+    "dimension": "grupo_muscular",
+    "id": "gluteos",
+    "label": "Glúteos"
+  },
+  {
+    "dimension": "equipamento",
+    "id": "halteres",
+    "label": "Halteres"
+  },
+  {
+    "dimension": "equipamento",
+    "id": "kettlebell",
+    "label": "Kettlebell"
   },
   {
     "dimension": "equipamento",
     "id": "maquina",
-    "label": "maquina"
+    "label": "Máquina"
   },
   {
-    "dimension": "equipamento",
-    "id": "elastico_faixa",
-    "label": "elastico faixa"
+    "dimension": "modalidade",
+    "id": "mobilidade",
+    "label": "Mobilidade"
   },
   {
-    "dimension": "regiao_corporal",
-    "id": "peito",
-    "label": "Peito"
-  },
-  {
-    "dimension": "regiao_corporal",
+    "dimension": "grupo_muscular",
     "id": "ombros",
     "label": "Ombros"
   },
   {
-    "dimension": "padrao_movimento",
-    "id": "remada",
-    "label": "remada"
+    "dimension": "grupo_muscular",
+    "id": "panturrilhas",
+    "label": "Panturrilhas"
   },
   {
-    "dimension": "regiao_corporal",
-    "id": "bracos",
-    "label": "Bracos"
+    "dimension": "grupo_muscular",
+    "id": "peito",
+    "label": "Peito"
   },
   {
-    "dimension": "padrao_movimento",
-    "id": "avanco",
-    "label": "avanco"
-  },
-  {
-    "dimension": "equipamento",
-    "id": "bola_medicinal",
-    "label": "bola medicinal"
-  },
-  {
-    "dimension": "padrao_movimento",
-    "id": "flexao_cotovelo",
-    "label": "flexao cotovelo"
+    "dimension": "grupo_muscular",
+    "id": "pescoco",
+    "label": "Pescoço"
   },
   {
     "dimension": "equipamento",
-    "id": "bola_suica",
-    "label": "bola suica"
+    "id": "polia_cabo",
+    "label": "Polia/Cabo"
+  },
+  {
+    "dimension": "grupo_muscular",
+    "id": "posterior_de_coxa",
+    "label": "Posterior de coxa"
+  },
+  {
+    "dimension": "grupo_muscular",
+    "id": "quadriceps",
+    "label": "Quadríceps"
+  },
+  {
+    "dimension": "grupo_muscular",
+    "id": "quadril",
+    "label": "Quadril"
   },
   {
     "dimension": "equipamento",
-    "id": "barra_ez",
-    "label": "barra ez"
+    "id": "rolo_de_espuma",
+    "label": "Rolo de espuma"
   },
   {
-    "dimension": "padrao_movimento",
-    "id": "extensao_cotovelo",
-    "label": "extensao cotovelo"
+    "dimension": "condicao_equipamento",
+    "id": "sem_aparelhos",
+    "label": "Sem aparelhos"
+  },
+  {
+    "dimension": "equipamento",
+    "id": "step_caixa",
+    "label": "Step/Caixa"
+  },
+  {
+    "dimension": "grupo_muscular",
+    "id": "triceps",
+    "label": "Tríceps"
   }
 ]

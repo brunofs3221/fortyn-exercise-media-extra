@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-08-29T22:14:54.471Z",
+  "sourceRoot": "C:/Users/bruno/Downloads/Exercicios renomeados",
+  "inventory": {
+    "exerciseFolders": 422,
+    "gifs": 422,
+    "txt": 422,
+    "catalogRecords": 1142
+  },
+  "reconciliation": {
+    "mapped": 422,
+    "unmatched": 0,
+    "ambiguous": 0,
+    "catalogWithoutRevisedSource": 720,
+    "duplicateCatalogMatches": 0,
+    "invalidSourceTags": []
+  },
+  "unmatched": [],
+  "ambiguous": [],
+  "proposedTaxonomy": {
+    "primaryMuscleGroups": [
+      "Abdutores",
+      "Abdômen/Core",
+      "Adutores",
+      "Antebraços",
+      "Bíceps",
+      "Corpo inteiro",
+      "Costas",
+      "Glúteos",
+      "Ombros",
+      "Panturrilhas",
+      "Peito",
+      "Pescoço",
+      "Posterior de coxa",
+      "Quadril",
+      "Quadríceps",
+      "Tríceps"
+    ],
+    "modalities": [
+      "Alongamento",
+      "Cardio",
+      "Mobilidade"
+    ],
+    "equipment": [
+      "Anilhas",
+      "Banco",
+      "Barra",
+      "Barra fixa",
+      "Bicicleta",
+      "Bola",
+      "Corda",
+      "Elástico",
+      "Esteira",
+      "Halteres",
+      "Kettlebell",
+      "Máquina",
+      "Polia/Cabo",
+      "Remo",
+      "Rolo de espuma",
+      "Step/Caixa"
+    ],
+    "environments": [
+      "Academia",
+      "Casa",
+      "Ao ar livre"
+    ],
+    "levels": [
+      "Iniciante",
+      "Intermediário",
+      "Avançado"
+    ],
+    "equipmentCondition": [
+      "Sem aparelhos"
+    ]
+  }
+}

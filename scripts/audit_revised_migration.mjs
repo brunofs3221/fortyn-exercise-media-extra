@@ -1,0 +1,20 @@
+import fs from 'node:fs';
+import path from 'node:path';
+
+const repo = path.resolve(import.meta.dirname, '..');
+const catalog = JSON.parse(fs.readFileSync(path.join(repo, 'data', 'exercise_catalog.json'), 'utf8'));
+const report = JSON.parse(fs.readFileSync(path.join(repo, 'reports', 'revised_library_migration_report.json'), 'utf8'));
+const official = new Set(['Abdutores','Abdômen/Core','Academia','Adutores','Alongamento','Anilhas','Antebraços','Ao ar livre','Avançado','Banco','Barra','Barra fixa','Bicicleta','Bola','Bíceps','Cardio','Casa','Corda','Corpo inteiro','Costas','Elástico','Esteira','Glúteos','Halteres','Kettlebell','Mobilidade','Máquina','Ombros','Panturrilhas','Peito','Pescoço','Polia/Cabo','Posterior de coxa','Quadril','Quadríceps','Remo','Rolo de espuma','Sem aparelhos','Step/Caixa','Tríceps']);
+const tagLabels = (tags) => Array.isArray(tags) ? tags.map((tag) => typeof tag === 'string' ? tag : tag?.label || '').filter(Boolean) : [];
+const deprecated = /\b(reabilita[cç][aã]o|idosos?|obesos?|masculino|feminino|qualquer genero|casa com|adu[cç][aã]o horizontal)\b/i;
+const migrated = catalog.exercises.filter((item) => item.oldName);
+const invalidMapped = migrated.filter((item) => !item.namePtBr || !item.description || !item.primaryMuscleGroup || !item.modality || !Array.isArray(item.equipment) || !Array.isArray(item.environments) || !item.level || tagLabels(item.tags).some((tag) => !official.has(tag)));
+const deprecatedAnywhere = catalog.exercises.filter((item) => tagLabels(item.tags).some((tag) => deprecated.test(tag)));
+const invalidTagsAnywhere = catalog.exercises.filter((item) => !tagLabels(item.tags).length || tagLabels(item.tags).some((tag) => !official.has(tag) || tag === 'Avançado'));
+const withoutPrimary = catalog.exercises.filter((item) => !item.primaryMuscleGroup);
+const filterCounts = {};
+for (const item of catalog.exercises) for (const tag of tagLabels(item.tags)) filterCounts[tag] = (filterCounts[tag] || 0) + 1;
+const output = { totalCatalog: catalog.exercises.length, sourceFolders: report.inventory.exerciseFolders, mapped: report.reconciliation.mapped, unmatched: report.reconciliation.unmatched, ambiguous: report.reconciliation.ambiguous, catalogWithoutReviewedSource: report.reconciliation.catalogWithoutRevisedSource, migratedProfiles: migrated.length, invalidMapped: invalidMapped.map((item) => item.id), deprecatedTagsRemaining: deprecatedAnywhere.map((item) => item.id), invalidTagsAnywhere: invalidTagsAnywhere.map((item) => item.id), withoutPrimary: withoutPrimary.map((item) => item.id), visibleFilterCounts: filterCounts };
+fs.writeFileSync(path.join(repo, 'reports', 'revised_library_audit.json'), `${JSON.stringify(output, null, 2)}\n`);
+if (output.mapped !== output.sourceFolders || output.unmatched || output.ambiguous || output.invalidMapped.length || output.deprecatedTagsRemaining.length || output.invalidTagsAnywhere.length || output.withoutPrimary.length) process.exit(1);
+console.log(JSON.stringify({ mapped: output.mapped, migratedProfiles: output.migratedProfiles, catalogWithoutReviewedSource: output.catalogWithoutReviewedSource, visibleFilters: Object.keys(filterCounts).length }));
