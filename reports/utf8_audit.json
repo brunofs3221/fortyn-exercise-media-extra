@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-08-29T23:40:12.096Z",
+  "catalogExercises": 1142,
+  "sourceRecords": 1042,
+  "csvFiles": [
+    "duplicate_names_review.csv",
+    "exercise_migration.csv",
+    "exercise_names_and_tags.csv",
+    "first_704_secondary_audit.csv",
+    "migration_diff.csv",
+    "source_of_truth.csv",
+    "unmatched_catalog_records.csv"
+  ],
+  "failures": []
+}

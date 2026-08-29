@@ -16,9 +16,9 @@ Get-ChildItem -LiteralPath $archiveRoot -File -Filter 'biblioteca_*corrigidos*.z
 $archiveUnique = @{}; $archive | ForEach-Object { $archiveUnique[(Key $_.folder)] = $_.folder }
 $overlap = @($archiveUnique.Keys | Where-Object { $initialByKey.ContainsKey($_) })
 $source = @(Get-ChildItem -LiteralPath $sourceRoot -Directory)
-$truth = Get-Content -Raw (Join-Path $repo 'reports\source_of_truth.json') | ConvertFrom-Json
+$truth = [IO.File]::ReadAllText((Join-Path $repo 'reports\source_of_truth.json'), [Text.Encoding]::UTF8) | ConvertFrom-Json
 $truthById = @{}; $truth | ForEach-Object { $truthById[$_.id] = $_ }
-$first704 = foreach ($initialRecord in $initial) { $record=$truthById[$initialRecord.id]; [pscustomobject]@{ id=$initialRecord.id; nome=$initialRecord.nome_novo; source_folder=$record.sourceFolder; tags_secundarias=($record.secondaryTags -join ' | '); quantidade_secundarias=@($record.secondaryTags).Count; status=if($record -and @($record.secondaryTags).Count -gt 0){'COM_SECUNDARIAS_NO_TXT'}else{'SEM_SECUNDARIAS_NO_TXT'} } }
+$first704 = foreach ($initialRecord in $initial) { $record=$truthById[$initialRecord.id]; [pscustomobject]@{ id=$initialRecord.id; nome=$record.name; source_folder=$record.sourceFolder; tags_secundarias=($record.secondaryTags -join ' | '); quantidade_secundarias=@($record.secondaryTags).Count; status=if($record -and @($record.secondaryTags).Count -gt 0){'COM_SECUNDARIAS_NO_TXT'}else{'SEM_SECUNDARIAS_NO_TXT'} } }
 $first704 | ConvertTo-Csv -NoTypeInformation | Set-Content -LiteralPath (Join-Path $repo 'reports\first_704_secondary_audit.csv') -Encoding utf8
 $coverage=[ordered]@{ initialBatchRaw=704; archiveBatchesRaw=$archive.Count; archiveBatchesUnique=$archiveUnique.Count; overlapInitialVsArchives=$overlap.Count; expectedDistinct=($initialByKey.Count+$archiveUnique.Count-$overlap.Count); sourceFoldersCurrent=$source.Count; sourceTruthRecords=$truth.Count; first704WithSecondary=@($first704|Where-Object status -eq 'COM_SECUNDARIAS_NO_TXT').Count; first704WithoutSecondary=@($first704|Where-Object status -eq 'SEM_SECUNDARIAS_NO_TXT').Count; missingFromSource=($initialByKey.Count+$archiveUnique.Count-$overlap.Count)-$source.Count }
 $coverage | ConvertTo-Json | Set-Content -LiteralPath (Join-Path $repo 'reports\revised_batch_coverage.json') -Encoding utf8
