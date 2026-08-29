@@ -1,0 +1,12 @@
+﻿{
+    "initialBatchRaw":  704,
+    "archiveBatchesRaw":  434,
+    "archiveBatchesUnique":  422,
+    "overlapInitialVsArchives":  84,
+    "expectedDistinct":  1042,
+    "sourceFoldersCurrent":  1042,
+    "sourceTruthRecords":  1042,
+    "first704WithSecondary":  704,
+    "first704WithoutSecondary":  0,
+    "missingFromSource":  0
+}
